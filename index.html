@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>한국사 아카이브 — Agent 친화 사이트</title>
+<meta name="description" content="한국사를 조사·기록·공유하는 Agent 친화 아카이브. 사람을 위한 HTML과 AI 에이전트를 위한 깨끗한 Markdown을 동시에 제공합니다.">
+
+<link rel="alternate" type="text/markdown" href="/index.md" title="이 페이지의 Markdown 버전">
+<link rel="alternate" type="text/plain" href="/llms.txt" title="LLM 인덱스">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "한국사 아카이브",
+  "url": "https://skandla2002ai-andy.github.io/korean-history",
+  "description": "한국사를 조사·기록·공유하는 Agent 친화 아카이브",
+  "inLanguage": "ko"
+}
+</script>
+
+<style>
+  :root {
+    --bg: #faf8f3;
+    --ink: #1a1a17;
+    --muted: #6b6862;
+    --accent: #c2410c;
+    --line: #e3ddd0;
+    --code-bg: #f3efe6;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Iowan Old Style', 'Palatino Linotype', Georgia, serif;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 5rem 1.5rem 6rem; }
+  .eyebrow {
+    font-family: 'SF Mono', 'Menlo', monospace;
+    font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase;
+    color: var(--accent); margin-bottom: 1.4rem;
+  }
+  h1 {
+    font-size: clamp(2.4rem, 6vw, 3.6rem); line-height: 1.05;
+    letter-spacing: -0.02em; font-weight: 600; margin-bottom: 1.5rem;
+  }
+  .lead { font-size: 1.25rem; color: var(--muted); margin-bottom: 3.5rem; max-width: 32ch; }
+  h2 {
+    font-size: 1.05rem; font-family: 'SF Mono', 'Menlo', monospace;
+    letter-spacing: 0.04em; margin: 3rem 0 1rem; padding-top: 2rem;
+    border-top: 1px solid var(--line); font-weight: 500;
+  }
+  p { margin-bottom: 1.1rem; }
+  a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+  .cards { display: grid; gap: 0.6rem; margin-top: 1rem; }
+  .card {
+    display: block; padding: 1.1rem 1.3rem; border: 1px solid var(--line);
+    border-radius: 10px; text-decoration: none; color: var(--ink);
+    transition: border-color .2s, transform .2s, background .2s;
+  }
+  .card:hover { border-color: var(--accent); transform: translateX(4px); background: #fff; }
+  .card .t { font-weight: 600; display: block; }
+  .card .d { color: var(--muted); font-size: 0.92rem; margin-top: 0.2rem; display: block; }
+  code {
+    font-family: 'SF Mono', 'Menlo', monospace; font-size: 0.85em;
+    background: var(--code-bg); padding: 0.15em 0.45em; border-radius: 5px;
+  }
+  pre {
+    background: var(--code-bg); padding: 1.2rem 1.4rem; border-radius: 10px;
+    overflow-x: auto; font-size: 0.85rem; line-height: 1.55; margin: 1rem 0;
+  }
+  pre code { background: none; padding: 0; }
+  footer {
+    margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--line);
+    color: var(--muted); font-size: 0.85rem;
+    font-family: 'SF Mono', 'Menlo', monospace;
+  }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="eyebrow">Human + Agent Readable</div>
+  <h1>한국사 아카이브</h1>
+  <p class="lead">한국사를 조사·기록·공유하는 사이트. 사람과 AI 에이전트 모두를 위해 설계했습니다.</p>
+
+  <h2>// 사람을 위한 안내</h2>
+  <p>Andy PAK이 운영하는 한국사 아카이브입니다. 사실 기반 본문(<code>article</code>)과 편집자의 해석(<code>commentary</code>)을 명확히 구분하여 제공합니다. 시대·지역·연관국·주제별로 글을 탐색할 수 있습니다.</p>
+
+  <div class="cards">
+    <a class="card" href="/korean-history/about.html">
+      <span class="t">소개</span>
+      <span class="d">이 사이트와 운영자에 대한 핵심 정보</span>
+    </a>
+    <a class="card" href="/korean-history/content.html">
+      <span class="t">주요 콘텐츠</span>
+      <span class="d">연재 중인 한국사 글 목록</span>
+    </a>
+    <a class="card" href="/korean-history/faq.html">
+      <span class="t">자주 묻는 질문</span>
+      <span class="d">사이트 구조와 콘텐츠 방침에 대한 Q&amp;A</span>
+    </a>
+    <a class="card" href="/korean-history/articles/silla-tang.html">
+      <span class="t">신라와 당의 외교 관계 (예시 글)</span>
+      <span class="d">통일신라 · 경주 · 외교</span>
+    </a>
+  </div>
+
+  <h2>// AI 에이전트를 위한 안내</h2>
+  <p>이 사이트는 에이전트가 토큰을 낭비하지 않도록 깨끗한 Markdown을 제공합니다:</p>
+  <pre><code># 사이트 전체 인덱스
+curl https://skandla2002ai-andy.github.io/korean-history/llms.txt
+
+# 임의 페이지의 Markdown 버전 (.md 추가)
+curl https://skandla2002ai-andy.github.io/korean-history/about.md
+
+# 외부 fetch 없는 전체 통합본
+curl https://skandla2002ai-andy.github.io/korean-history/llms-full.txt
+
+# 기계 판독용 구조화 데이터
+curl https://skandla2002ai-andy.github.io/korean-history/data.json</code></pre>
+
+  <footer>
+    Markdown for agents · HTML for humans<br>
+    /llms.txt · /sitemap.xml · /robots.txt
+  </footer>
+</main>
+</body>
+</html>

@@ -1,0 +1,30 @@
+{
+  "name": "한국사 아카이브",
+  "url": "https://skandla2002ai-andy.github.io/korean-history",
+  "description": "한국사를 조사·기록·공유하는 Agent 친화 아카이브",
+  "author": "Andy PAK",
+  "language": "ko",
+  "lastUpdated": "2026-05-23",
+  "pages": [
+    { "title": "소개", "url": "/korean-history/about.md", "summary": "사이트와 운영자 핵심 정보" },
+    { "title": "주요 콘텐츠", "url": "/korean-history/content.md", "summary": "연재 중인 한국사 글 목록" },
+    { "title": "자주 묻는 질문", "url": "/korean-history/faq.md", "summary": "사이트 구조와 콘텐츠 방침 Q&A" }
+  ],
+  "articles": [
+    {
+      "title": "신라와 당의 외교 관계",
+      "url": "/korean-history/articles/silla-tang.md",
+      "type": "article",
+      "era": "통일신라",
+      "region": "경주",
+      "related_countries": ["당나라"],
+      "topics": ["외교", "정치"],
+      "lastUpdated": "2026-05-23"
+    }
+  ],
+  "agentEndpoints": {
+    "index": "/korean-history/llms.txt",
+    "fullContent": "/korean-history/llms-full.txt",
+    "markdownPattern": "<any-path>.md"
+  }
+}
