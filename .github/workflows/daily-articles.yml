@@ -1,0 +1,73 @@
+name: Daily Article Generation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 매일 UTC 00:00 = 한국시간 09:00
+  workflow_dispatch:        # 수동 실행도 가능
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install anthropic
+
+      - name: Generate articles
+        id: gen
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generate_articles.py
+
+      - name: Create branch & open PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          BRANCH="daily-articles/${DATE}"
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git checkout -b "${BRANCH}"
+          git add articles/
+
+          # 새 파일이 없으면 종료
+          if git diff --cached --quiet; then
+            echo "생성된 글 없음 — PR 생략"
+            exit 0
+          fi
+
+          git commit -m "📚 일일 한국사 아티클: ${DATE} (5편)"
+          git push origin "${BRANCH}"
+
+          gh pr create \
+            --title "📚 일일 한국사 아티클 — ${DATE}" \
+            --body "## 오늘의 한국사 아티클 (${DATE})
+
+조선왕조실록, 고려사, 발해, 삼국시대, 고조선 각 1편씩 자동 생성된 글입니다.
+
+생성된 글: ${{ steps.gen.outputs.article_titles }}
+
+**검토 사항:**
+- [ ] 사실 관계 확인
+- [ ] 문체 및 가독성
+- [ ] 태그·메타데이터 적정성
+
+머지하면 인덱스(sitemap, llms.txt, data.json 등)가 자동으로 재빌드됩니다.
+
+🤖 Generated with Claude claude-opus-4-7" \
+            --base main \
+            --head "${BRANCH}"
