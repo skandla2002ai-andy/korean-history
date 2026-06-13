@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>소개 — 한국사 아카이브</title>
+<meta name="description" content="한국사 아카이브와 운영자 Andy PAK에 대한 핵심 정보">
+<link rel="alternate" type="text/markdown" href="/korean-history/about.md">
+<style>
+  :root{
+    --bg:#faf8f3; --ink:#1a1a17; --muted:#6b6862; --accent:#c2410c;
+    --line:#e3ddd0; --code-bg:#f3efe6; --tag-bg:#ece5d6;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--ink);
+    font-family:'Iowan Old Style','Palatino Linotype',Georgia,serif;
+    line-height:1.65;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:720px;margin:0 auto;padding:5rem 1.5rem 6rem}
+  .eyebrow{font-family:'SF Mono','Menlo',monospace;font-size:.72rem;
+    letter-spacing:.18em;text-transform:uppercase;color:var(--accent);margin-bottom:1.4rem}
+  h1{font-size:clamp(2.2rem,5vw,3rem);line-height:1.05;
+    letter-spacing:-.02em;font-weight:600;margin-bottom:1.5rem}
+  .lead{font-size:1.2rem;color:var(--muted);margin-bottom:3rem;max-width:36ch}
+  h2{font-size:1.05rem;font-family:'SF Mono','Menlo',monospace;
+    letter-spacing:.04em;margin:3rem 0 1rem;padding-top:2rem;
+    border-top:1px solid var(--line);font-weight:500}
+  p{margin-bottom:1rem}
+  ul{padding-left:1.3rem;margin-bottom:1rem}
+  li{margin-bottom:.5rem}
+  .meta-grid{display:grid;grid-template-columns:auto 1fr;gap:.5rem 1.5rem;
+    margin:1rem 0;font-size:.95rem}
+  .meta-grid dt{font-family:'SF Mono','Menlo',monospace;font-size:.8rem;
+    color:var(--muted);letter-spacing:.05em;text-transform:uppercase;padding-top:.15rem}
+  .meta-grid dd{color:var(--ink)}
+  .badge{display:inline-block;font-family:'SF Mono','Menlo',monospace;font-size:.75rem;
+    padding:.25em .7em;border-radius:6px;margin:.15rem}
+  .badge-article{background:rgba(31,92,61,.1);color:#1f5c3d}
+  .badge-commentary{background:rgba(154,107,28,.1);color:#9a6b1c}
+  a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:3px}
+  .nav{margin-bottom:2rem;font-family:'SF Mono','Menlo',monospace;font-size:.8rem}
+  .nav a{color:var(--accent);text-decoration:none}
+  .nav a:hover{text-decoration:underline}
+  footer{margin-top:4rem;padding-top:2rem;border-top:1px solid var(--line);
+    color:var(--muted);font-size:.85rem;font-family:'SF Mono','Menlo',monospace}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="nav"><a href="/korean-history/">← 한국사 아카이브</a></div>
+
+  <div class="eyebrow">About</div>
+  <h1>소개</h1>
+  <p class="lead">한국사를 조사·기록·공유하는 Andy PAK의 개인 아카이브.</p>
+
+  <h2>// 무엇을 하나요</h2>
+  <p>한국의 역사를 사실 기반으로 정리하고, 편집자의 해석을 별도로 구분하여 제공합니다. 사람이 읽기 좋은 HTML과 AI 에이전트가 읽기 좋은 Markdown을 함께 제공하는 Agent 친화 설계를 따릅니다.</p>
+
+  <h2>// 핵심 정보</h2>
+  <dl class="meta-grid">
+    <dt>운영자</dt><dd>Andy PAK</dd>
+    <dt>분야</dt><dd>한국사 (고대~근현대)</dd>
+    <dt>시작</dt><dd>2026</dd>
+    <dt>위치</dt><dd>한국</dd>
+    <dt>라이선스</dt><dd>CC BY 4.0 — 출처 밝히면 자유롭게 사용 가능</dd>
+  </dl>
+
+  <h2>// 콘텐츠 유형</h2>
+  <p>모든 글은 두 유형 중 하나로 명확히 구분됩니다. 절대 섞이지 않습니다.</p>
+  <p>
+    <span class="badge badge-article">● article</span> 검증된 사료·출처에 기반한 사실 본문<br>
+    <span class="badge badge-commentary">✎ commentary</span> 편집자의 해석·의견 (상단 경고 배너 표시)
+  </p>
+
+  <h2>// 설계 원칙</h2>
+  <ul>
+    <li>모든 페이지는 HTML + Markdown 두 버전을 동시 제공</li>
+    <li>URL 끝에 <code>.md</code>를 붙이면 Markdown 원본 접근 가능</li>
+    <li><code>/llms.txt</code> — 에이전트용 사이트 전체 인덱스</li>
+    <li><code>/llms-full.txt</code> — 외부 fetch 없이 전체 콘텐츠 일괄 제공</li>
+    <li><code>/data.json</code> — 기계 판독용 구조화 데이터</li>
+  </ul>
+
+  <h2>// 링크</h2>
+  <p>
+    <a href="/korean-history/content.html">주요 콘텐츠</a> ·
+    <a href="/korean-history/faq.html">자주 묻는 질문</a> ·
+    <a href="https://github.com/skandla2002ai-andy/korean-history">GitHub 저장소</a>
+  </p>
+
+  <footer>
+    Markdown 버전: <a href="/korean-history/about.md">/about.md</a><br>
+    CC BY 4.0 Andy PAK
+  </footer>
+</main>
+</body>
+</html>

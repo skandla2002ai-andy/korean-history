@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>자주 묻는 질문 — 한국사 아카이브</title>
+<meta name="description" content="한국사 아카이브 구조와 콘텐츠 방침에 대한 Q&A">
+<link rel="alternate" type="text/markdown" href="/korean-history/faq.md">
+<style>
+  :root{
+    --bg:#faf8f3; --ink:#1a1a17; --muted:#6b6862; --accent:#c2410c;
+    --line:#e3ddd0; --code-bg:#f3efe6;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--ink);
+    font-family:'Iowan Old Style','Palatino Linotype',Georgia,serif;
+    line-height:1.65;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:720px;margin:0 auto;padding:5rem 1.5rem 6rem}
+  .eyebrow{font-family:'SF Mono','Menlo',monospace;font-size:.72rem;
+    letter-spacing:.18em;text-transform:uppercase;color:var(--accent);margin-bottom:1.4rem}
+  h1{font-size:clamp(2.2rem,5vw,3rem);line-height:1.05;
+    letter-spacing:-.02em;font-weight:600;margin-bottom:1.5rem}
+  .lead{font-size:1.2rem;color:var(--muted);margin-bottom:3rem;max-width:36ch}
+  .faq-item{padding:2rem 0;border-top:1px solid var(--line)}
+  .faq-item:last-child{border-bottom:1px solid var(--line)}
+  .question{font-size:1.15rem;font-weight:600;margin-bottom:.9rem;
+    letter-spacing:-.01em}
+  .question::before{content:'Q. ';color:var(--accent);
+    font-family:'SF Mono','Menlo',monospace;font-size:.85em}
+  .answer{color:var(--ink);font-size:.98rem}
+  .answer p{margin-bottom:.8rem}
+  .answer p:last-child{margin-bottom:0}
+  code{font-family:'SF Mono','Menlo',monospace;font-size:.85em;
+    background:var(--code-bg);padding:.15em .45em;border-radius:5px}
+  pre{background:var(--code-bg);padding:1.1rem 1.3rem;border-radius:10px;
+    overflow-x:auto;font-size:.85rem;line-height:1.55;margin:.8rem 0}
+  pre code{background:none;padding:0}
+  a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:3px}
+  .nav{margin-bottom:2rem;font-family:'SF Mono','Menlo',monospace;font-size:.8rem}
+  .nav a{color:var(--accent);text-decoration:none}
+  .nav a:hover{text-decoration:underline}
+  footer{margin-top:4rem;padding-top:2rem;border-top:1px solid var(--line);
+    color:var(--muted);font-size:.85rem;font-family:'SF Mono','Menlo',monospace}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="nav"><a href="/korean-history/">← 한국사 아카이브</a></div>
+
+  <div class="eyebrow">FAQ</div>
+  <h1>자주 묻는 질문</h1>
+  <p class="lead">사이트 구조와 콘텐츠 방침에 대한 Q&A.</p>
+
+  <div class="faq-item">
+    <div class="question">이 사이트의 콘텐츠를 사용해도 되나요?</div>
+    <div class="answer">
+      <p>콘텐츠는 <strong>CC BY 4.0</strong> 라이선스입니다. 출처(사이트명 + 원문 링크)를 밝히면 상업적 사용을 포함해 자유롭게 사용할 수 있습니다.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <div class="question">사실 본문과 편집자 해석은 어떻게 구분하나요?</div>
+    <div class="answer">
+      <p>글의 <code>type</code> 필드로 구분합니다.</p>
+      <p><code>article</code> — 검증된 사료·출처 기반의 사실 본문. 녹색 배지로 표시됩니다.<br>
+      <code>commentary</code> — 편집자의 해석·의견. 황색 배지와 상단 경고 배너가 표시됩니다.</p>
+      <p>두 유형은 항상 명확히 구분되며 서로 링크하되 내용이 섞이지 않습니다.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <div class="question">AI 에이전트는 어떻게 이 사이트를 읽나요?</div>
+    <div class="answer">
+      <p>모든 페이지는 HTML과 Markdown 두 버전을 함께 제공합니다. URL 끝에 <code>.md</code>를 붙이면 Markdown 원본을 받을 수 있습니다.</p>
+      <pre><code># 사이트 전체 인덱스
+curl https://skandla2002ai-andy.github.io/korean-history/llms.txt
+
+# 전체 콘텐츠 통합본 (fetch 1회)
+curl https://skandla2002ai-andy.github.io/korean-history/llms-full.txt
+
+# 구조화 데이터
+curl https://skandla2002ai-andy.github.io/korean-history/data.json
+
+# 임의 페이지 Markdown 버전
+curl https://skandla2002ai-andy.github.io/korean-history/articles/jangbogo.md</code></pre>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <div class="question">출처 사료는 어디서 확인하나요?</div>
+    <div class="answer">
+      <p>각 article 하단의 <strong>핵심 사실</strong> 섹션에 주요 사료를 명시합니다. 주로 『삼국사기』, 『삼국유사』, 『고려사』, 『조선왕조실록』 등 1차 사료와 해당 분야 연구 성과를 참조합니다.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <div class="question">댓글이나 피드백은 어떻게 남기나요?</div>
+    <div class="answer">
+      <p>현재 댓글 기능은 없습니다. <a href="https://github.com/skandla2002ai-andy/korean-history/issues">GitHub 저장소 Issues</a>를 통해 의견을 남겨주세요.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <div class="question">새 글은 얼마나 자주 올라오나요?</div>
+    <div class="answer">
+      <p>비정기적으로 업데이트됩니다. 최신 변경 이력은 <a href="/korean-history/changelog.md">changelog.md</a>에서 확인할 수 있습니다.</p>
+    </div>
+  </div>
+
+  <footer>
+    Markdown 버전: <a href="/korean-history/faq.md">/faq.md</a><br>
+    CC BY 4.0 Andy PAK
+  </footer>
+</main>
+</body>
+</html>

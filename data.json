@@ -6,77 +6,167 @@
   "language": "ko",
   "lastUpdated": "2026-06-13",
   "pages": [
-    {
-      "title": "소개",
-      "url": "/korean-history/about.md",
-      "summary": "사이트와 운영자 핵심 정보"
-    },
-    {
-      "title": "주요 콘텐츠",
-      "url": "/korean-history/content.md",
-      "summary": "연재 중인 한국사 글 목록"
-    },
-    {
-      "title": "자주 묻는 질문",
-      "url": "/korean-history/faq.md",
-      "summary": "사이트 구조와 콘텐츠 방침 Q&A"
-    }
+    { "title": "소개", "url": "/korean-history/about.md", "summary": "사이트와 운영자 핵심 정보" },
+    { "title": "주요 콘텐츠", "url": "/korean-history/content.md", "summary": "연재 중인 한국사 글 목록" },
+    { "title": "자주 묻는 질문", "url": "/korean-history/faq.md", "summary": "사이트 구조와 콘텐츠 방침 Q&A" }
   ],
   "articles": [
     {
-      "title": "처용, 역신에게 아내를 빼앗기고 춤을 추다",
-      "url": "/korean-history/articles/cheoyong.md",
+      "title": "신라와 당의 외교 관계",
+      "url": "/korean-history/articles/silla-tang.md",
+      "type": "article",
       "era": "통일신라",
       "region": "경주",
-      "lastUpdated": "2026-06-13"
+      "related_countries": ["당나라"],
+      "topics": ["외교", "정치"],
+      "lastUpdated": "2026-05-23"
     },
     {
       "title": "장보고, 바다를 지배한 평민",
       "url": "/korean-history/articles/jangbogo.md",
+      "type": "article",
       "era": "통일신라",
-      "region": "완도 (청해진)",
+      "region": "완도 청해진",
+      "related_countries": ["당나라", "일본"],
+      "topics": ["무역", "해상", "인물"],
       "lastUpdated": "2026-06-13"
     },
     {
       "title": "직지심체요절, 구텐베르크보다 78년 앞선 금속활자",
       "url": "/korean-history/articles/jikji.md",
+      "type": "article",
       "era": "고려",
-      "region": "청주 (흥덕사)",
+      "region": "청주 흥덕사",
+      "related_countries": ["프랑스"],
+      "topics": ["기술", "문화", "인쇄"],
       "lastUpdated": "2026-06-13"
     },
     {
-      "title": "신라와 당의 외교 관계",
-      "url": "/korean-history/articles/silla-tang.md",
+      "title": "처용, 역신에게 아내를 빼앗기고 춤을 추다",
+      "url": "/korean-history/articles/cheoyong.md",
+      "type": "article",
       "era": "통일신라",
       "region": "경주",
-      "lastUpdated": "2026-05-23"
+      "related_countries": [],
+      "topics": ["설화", "문화", "향가"],
+      "lastUpdated": "2026-06-13"
+    },
+    {
+      "title": "혜초, 인도까지 걷다 — 『왕오천축국전』",
+      "url": "/korean-history/articles/hyecho.md",
+      "type": "article",
+      "era": "통일신라",
+      "region": "인도·중앙아시아",
+      "related_countries": ["인도", "당나라", "프랑스"],
+      "topics": ["여행기", "불교", "인물"],
+      "lastUpdated": "2026-06-13"
+    },
+    {
+      "title": "선덕여왕의 첨성대 — 동아시아 최고(最古) 천문대",
+      "url": "/korean-history/articles/cheomseongdae.md",
+      "type": "article",
+      "era": "신라",
+      "region": "경주",
+      "related_countries": [],
+      "topics": ["과학", "정치", "건축"],
+      "lastUpdated": "2026-06-13"
+    },
+    {
+      "title": "원효의 해골 물 — 일체유심조",
+      "url": "/korean-history/articles/wonhyo.md",
+      "type": "article",
+      "era": "통일신라",
+      "region": "경주",
+      "related_countries": [],
+      "topics": ["불교", "철학", "인물"],
+      "lastUpdated": "2026-06-13"
+    },
+    {
+      "title": "팔만대장경 — 81,258장의 기도",
+      "url": "/korean-history/articles/tripitaka.md",
+      "type": "article",
+      "era": "고려",
+      "region": "합천 해인사",
+      "related_countries": ["몽골"],
+      "topics": ["불교", "목판", "문화유산"],
+      "lastUpdated": "2026-06-13"
+    },
+    {
+      "title": "이의민 — 관노 출신 고려 최고 권력자",
+      "url": "/korean-history/articles/uimin.md",
+      "type": "article",
+      "era": "고려",
+      "region": "개경",
+      "related_countries": [],
+      "topics": ["무신정권", "신분", "인물"],
+      "lastUpdated": "2026-06-13"
+    },
+    {
+      "title": "공민왕과 노국공주 — 사랑이 무너뜨린 개혁",
+      "url": "/korean-history/articles/gongmin.md",
+      "type": "article",
+      "era": "고려",
+      "region": "개경",
+      "related_countries": ["원나라"],
+      "topics": ["개혁", "외교", "인물"],
+      "lastUpdated": "2026-06-13"
+    },
+    {
+      "title": "장영실 — 관노가 발명한 조선의 시간",
+      "url": "/korean-history/articles/jang-yeongshil.md",
+      "type": "article",
+      "era": "조선",
+      "region": "한양",
+      "related_countries": [],
+      "topics": ["과학", "기술", "인물"],
+      "lastUpdated": "2026-06-13"
+    },
+    {
+      "title": "허준과 『동의보감』 — 전란과 유배 중에 완성된 책",
+      "url": "/korean-history/articles/heo-jun.md",
+      "type": "article",
+      "era": "조선",
+      "region": "한양·의주",
+      "related_countries": [],
+      "topics": ["의학", "임진왜란", "인물"],
+      "lastUpdated": "2026-06-13"
+    },
+    {
+      "title": "이순신과 명량 — 12척 대 333척",
+      "url": "/korean-history/articles/admiral-yi.md",
+      "type": "article",
+      "era": "조선",
+      "region": "울돌목",
+      "related_countries": ["일본"],
+      "topics": ["임진왜란", "해전", "인물"],
+      "lastUpdated": "2026-06-13"
+    },
+    {
+      "title": "안중근의 동양평화론 — 저격범인가, 사상가인가",
+      "url": "/korean-history/articles/ahn-junggeun.md",
+      "type": "article",
+      "era": "대한제국",
+      "region": "하얼빈·뤼순",
+      "related_countries": ["일본", "중국"],
+      "topics": ["독립운동", "사상", "인물"],
+      "lastUpdated": "2026-06-13"
     }
   ],
   "commentary": [
-    {
-      "title": "신라의 외교는 굴종이었나, 전략이었나",
-      "url": "/korean-history/thoughts/silla-tang-editor.md",
-      "type": "commentary",
-      "related_article": "/korean-history/articles/silla-tang.md"
-    },
-    {
-      "title": "장보고는 영웅이었나, 권력욕에 눈먼 반역자였나",
-      "url": "/korean-history/thoughts/jangbogo-editor.md",
-      "type": "commentary",
-      "related_article": "/korean-history/articles/jangbogo.md"
-    },
-    {
-      "title": "직지는 왜 아직도 파리에 있는가",
-      "url": "/korean-history/thoughts/jikji-editor.md",
-      "type": "commentary",
-      "related_article": "/korean-history/articles/jikji.md"
-    },
-    {
-      "title": "처용은 왜 화내지 않았는가",
-      "url": "/korean-history/thoughts/cheoyong-editor.md",
-      "type": "commentary",
-      "related_article": "/korean-history/articles/cheoyong.md"
-    }
+    { "title": "신라의 외교는 굴종이었나, 전략이었나", "url": "/korean-history/thoughts/silla-tang-editor.md", "type": "commentary", "related_article": "/korean-history/articles/silla-tang.md" },
+    { "title": "장보고는 영웅이었나, 권력욕에 눈먼 반역자였나", "url": "/korean-history/thoughts/jangbogo-editor.md", "type": "commentary", "related_article": "/korean-history/articles/jangbogo.md" },
+    { "title": "직지는 왜 아직도 파리에 있는가", "url": "/korean-history/thoughts/jikji-editor.md", "type": "commentary", "related_article": "/korean-history/articles/jikji.md" },
+    { "title": "처용은 왜 화내지 않았는가", "url": "/korean-history/thoughts/cheoyong-editor.md", "type": "commentary", "related_article": "/korean-history/articles/cheoyong.md" },
+    { "title": "왕오천축국전도 파리에 있다", "url": "/korean-history/thoughts/hyecho-editor.md", "type": "commentary", "related_article": "/korean-history/articles/hyecho.md" },
+    { "title": "첨성대는 정치적 정당성의 도구였나", "url": "/korean-history/thoughts/cheomseongdae-editor.md", "type": "commentary", "related_article": "/korean-history/articles/cheomseongdae.md" },
+    { "title": "원효가 유학을 포기한 것이 독자 노선이 된 이유", "url": "/korean-history/thoughts/wonhyo-editor.md", "type": "commentary", "related_article": "/korean-history/articles/wonhyo.md" },
+    { "title": "팔만대장경은 실용인가 도피인가", "url": "/korean-history/thoughts/tripitaka-editor.md", "type": "commentary", "related_article": "/korean-history/articles/tripitaka.md" },
+    { "title": "무신 시대는 신분 상승의 시대였는가", "url": "/korean-history/thoughts/uimin-editor.md", "type": "commentary", "related_article": "/korean-history/articles/uimin.md" },
+    { "title": "사랑이 정치를 무너뜨린 방식", "url": "/korean-history/thoughts/gongmin-editor.md", "type": "commentary", "related_article": "/korean-history/articles/gongmin.md" },
+    { "title": "세종은 왜 장영실을 버렸는가", "url": "/korean-history/thoughts/jang-yeongshil-editor.md", "type": "commentary", "related_article": "/korean-history/articles/jang-yeongshil.md" },
+    { "title": "고통이 걸작을 만드는가 — 허준의 경우", "url": "/korean-history/thoughts/heo-jun-editor.md", "type": "commentary", "related_article": "/korean-history/articles/heo-jun.md" },
+    { "title": "이순신의 진짜 적은 선조였다", "url": "/korean-history/thoughts/admiral-yi-editor.md", "type": "commentary", "related_article": "/korean-history/articles/admiral-yi.md" },
+    { "title": "안중근이 단순 테러리스트가 아닌 이유", "url": "/korean-history/thoughts/ahn-junggeun-editor.md", "type": "commentary", "related_article": "/korean-history/articles/ahn-junggeun.md" }
   ],
   "agentEndpoints": {
     "index": "/korean-history/llms.txt",
