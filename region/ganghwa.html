@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>강화도 — 한국사 아카이브</title>
+<style>
+  :root{--bg:#f7f4ed;--ink:#211f1a;--muted:#6f6a60;--accent:#8a1c1c;--line:#e0d9c9;--fact:#1f5c3d;--opinion:#9a6b1c}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--ink);font-family:'Iowan Old Style','Palatino Linotype',Georgia,serif;line-height:1.7;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:680px;margin:0 auto;padding:4rem 1.5rem 6rem}
+  .kind{display:inline-block;font-family:'SF Mono',Menlo,monospace;font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;padding:.3em .7em;border-radius:999px;margin-bottom:1.5rem;background:rgba(138,28,28,.1);color:var(--accent)}
+  h1{font-size:clamp(2rem,5vw,2.9rem);line-height:1.1;--font-weight:600;font-weight:600;line-height:1.1;letter-spacing:-.02em;margin-bottom:1rem}
+  .lead{font-size:1.2rem;color:var(--muted);margin-bottom:2rem}
+  h2{font-size:1.4rem;margin:2.5rem 0 1rem;font-weight:600}
+  p{margin-bottom:1.1rem}
+  .cards{display:grid;gap:.6rem;margin-top:1rem}
+  .card{display:block;padding:1.1rem 1.3rem;border:1px solid var(--line);border-radius:10px;text-decoration:none;color:var(--ink);transition:border-color .2s,transform .2s}
+  .card:hover{border-color:var(--accent);transform:translateX(4px)}
+  .card .t{font-weight:600;display:block}
+  .card .d{color:var(--muted);font-size:.9rem;margin-top:.2rem;display:block}
+  .badge{display:inline-block;font-family:'SF Mono',Menlo,monospace;font-size:.65rem;letter-spacing:.08em;text-transform:uppercase;padding:.2em .5em;border-radius:4px;margin-right:.4rem}
+  .ba{background:rgba(31,92,61,.1);color:var(--fact)}
+  .editorial{margin-top:3rem;padding:1.3rem 1.5rem;border:1px solid var(--line);border-left:4px solid var(--opinion);border-radius:10px;background:rgba(154,107,28,.04)}
+  .editorial .label{font-family:'SF Mono',Menlo,monospace;font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--opinion);display:block;margin-bottom:.5rem}
+  .editorial p{font-size:.95rem;color:var(--muted);margin-bottom:.6rem}
+  .nav{margin-bottom:2rem;font-family:'SF Mono',Menlo,monospace;font-size:.8rem}
+  .nav a{color:var(--accent);text-decoration:none}
+  .nav a:hover{text-decoration:underline}
+  footer{margin-top:4rem;padding-top:1.5rem;border-top:1px solid var(--line);font-family:'SF Mono',Menlo,monospace;font-size:.8rem;color:var(--muted)}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="nav"><a href="/korean-history/">← 한국사 아카이브</a></div>
+  <span class="kind">● 지역 인덱스 / Region</span>
+  <h1>강화도 江華島</h1>
+  <p class="lead">고려의 마지막 보루. 몽골 침략 앞에서 39년을 버틴 섬.</p>
+
+  <h2>지역 개요</h2>
+  <p>강화도(江華島)는 경기도 서쪽 해안에 위치한 섬으로, 한국 역사에서 여러 차례 피난처이자 저항의 거점이 되었다. 고려 고종은 1232년 몽골의 2차 침략 때 개경에서 강화도로 천도했다. 조수 간만의 차가 커서 기마 전술을 쓰는 몽골군이 바다를 건너기 어렵다는 판단이었다. 고려 조정은 이곳에서 39년간 항전하며 팔만대장경을 제작했다. 1270년 개경 환도로 강화 시대가 마감되었다. 이후에도 병자호란(1636~1637), 신미양요(1871) 등 위기의 순간마다 강화도는 역사의 현장이 되었다.</p>
+
+  <h2>관련 글</h2>
+  <div class="cards">
+    <a class="card" href="/korean-history/articles/tripitaka.html">
+      <span class="t"><span class="badge ba">article</span>팔만대장경 — 81,258장의 기도</span>
+      <span class="d">강화도 천도 시기 제작 · 1236~1251년</span>
+    </a>
+  </div>
+
+  <div class="editorial">
+    <span class="label">✎ 편집자 노트</span>
+    <p>강화도의 39년은 항복이 아니었다. 그러나 버티는 동안 개경은 불탔고, 백성은 약탈당했다. 섬에서 버티는 것이 진짜 저항이었는가, 아니면 귀족들의 도피였는가 — 이 질문은 여전히 유효하다.</p>
+  </div>
+
+  <footer>한국사 아카이브 · 지역 인덱스 · CC BY 4.0 Andy PAK</footer>
+</main>
+</body>
+</html>

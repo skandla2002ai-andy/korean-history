@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>설화·신화 — 한국사 아카이브</title>
+<style>
+  :root{--bg:#f7f4ed;--ink:#211f1a;--muted:#6f6a60;--accent:#8a1c1c;--line:#e0d9c9;--fact:#1f5c3d;--opinion:#9a6b1c}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--ink);font-family:'Iowan Old Style','Palatino Linotype',Georgia,serif;line-height:1.7;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:680px;margin:0 auto;padding:4rem 1.5rem 6rem}
+  .kind{display:inline-block;font-family:'SF Mono',Menlo,monospace;font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;padding:.3em .7em;border-radius:999px;margin-bottom:1.5rem;background:rgba(138,28,28,.1);color:var(--accent)}
+  h1{font-size:clamp(2rem,5vw,2.9rem);line-height:1.1;letter-spacing:-.02em;margin-bottom:1rem;font-weight:600}
+  .lead{font-size:1.2rem;color:var(--muted);margin-bottom:2rem}
+  h2{font-size:1.4rem;margin:2.5rem 0 1rem;font-weight:600}
+  p{margin-bottom:1.1rem}
+  .cards{display:grid;gap:.6rem;margin-top:1rem}
+  .card{display:block;padding:1.1rem 1.3rem;border:1px solid var(--line);border-radius:10px;text-decoration:none;color:var(--ink);transition:border-color .2s,transform .2s}
+  .card:hover{border-color:var(--accent);transform:translateX(4px)}
+  .card .t{font-weight:600;display:block}
+  .card .d{color:var(--muted);font-size:.9rem;margin-top:.2rem;display:block}
+  .badge{display:inline-block;font-family:'SF Mono',Menlo,monospace;font-size:.65rem;letter-spacing:.08em;text-transform:uppercase;padding:.2em .5em;border-radius:4px;margin-right:.4rem}
+  .ba{background:rgba(31,92,61,.1);color:var(--fact)}
+  .editorial{margin-top:3rem;padding:1.3rem 1.5rem;border:1px solid var(--line);border-left:4px solid var(--opinion);border-radius:10px;background:rgba(154,107,28,.04)}
+  .editorial .label{font-family:'SF Mono',Menlo,monospace;font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--opinion);display:block;margin-bottom:.5rem}
+  .editorial p{font-size:.95rem;color:var(--muted);margin-bottom:.6rem}
+  .nav{margin-bottom:2rem;font-family:'SF Mono',Menlo,monospace;font-size:.8rem}
+  .nav a{color:var(--accent);text-decoration:none}
+  .nav a:hover{text-decoration:underline}
+  footer{margin-top:4rem;padding-top:1.5rem;border-top:1px solid var(--line);font-family:'SF Mono',Menlo,monospace;font-size:.8rem;color:var(--muted)}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="nav"><a href="/korean-history/">← 한국사 아카이브</a></div>
+  <span class="kind">● 주제 인덱스 / Topic</span>
+  <h1>설화·신화 說話神話</h1>
+  <p class="lead">단군부터 처용까지. 한국 설화 속에 담긴 역사적 의미.</p>
+
+  <h2>개요</h2>
+  <p>설화는 단순한 이야기가 아니다. 그 안에는 당대 사람들의 세계관, 사회적 갈등, 권력 관계가 담겨 있다. 단군 신화는 고조선의 건국을 정당화하고, 처용 설화는 신라 말 외래 문화와의 충돌을 상징하며, 원효의 해골 물 이야기는 불교 철학의 핵심을 일화로 전달한다.</p>
+  <p>이 아카이브에서는 설화를 "사실이냐 허구냐"의 관점이 아니라, "이 이야기가 왜 만들어졌고 왜 전해졌는가"의 관점으로 다룬다.</p>
+
+  <h2>관련 글</h2>
+  <div class="cards">
+    <a class="card" href="/korean-history/articles/cheoyong.html">
+      <span class="t"><span class="badge ba">article</span>처용 — 역신에게 아내를 빼앗기고 춤을 추다</span>
+      <span class="d">헌강왕 · 처용가 · 처용무 · 역신 퇴치</span>
+    </a>
+    <a class="card" href="/korean-history/articles/wonhyo.html">
+      <span class="t"><span class="badge ba">article</span>원효의 해골 물 — 일체유심조</span>
+      <span class="d">661년 · 당나라 유학 포기 · 깨달음</span>
+    </a>
+  </div>
+
+  <div class="editorial">
+    <span class="label">✎ 편집자 노트</span>
+    <p>설화는 역사학자가 가장 다루기 까다로운 사료다. 그러나 그것이 "만들어진 이야기"라는 사실이 오히려 더 풍부한 정보를 담고 있다 — 그 시대 사람들이 무엇을 중요하게 여겼는지를 보여주기 때문이다.</p>
+  </div>
+
+  <footer>한국사 아카이브 · 주제 인덱스 · CC BY 4.0 Andy PAK</footer>
+</main>
+</body>
+</html>

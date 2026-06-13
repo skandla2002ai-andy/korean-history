@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>의학 — 한국사 아카이브</title>
+<style>
+  :root{--bg:#f7f4ed;--ink:#211f1a;--muted:#6f6a60;--accent:#8a1c1c;--line:#e0d9c9;--fact:#1f5c3d;--opinion:#9a6b1c}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--ink);font-family:'Iowan Old Style','Palatino Linotype',Georgia,serif;line-height:1.7;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:680px;margin:0 auto;padding:4rem 1.5rem 6rem}
+  .kind{display:inline-block;font-family:'SF Mono',Menlo,monospace;font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;padding:.3em .7em;border-radius:999px;margin-bottom:1.5rem;background:rgba(138,28,28,.1);color:var(--accent)}
+  h1{font-size:clamp(2rem,5vw,2.9rem);line-height:1.1;letter-spacing:-.02em;margin-bottom:1rem;font-weight:600}
+  .lead{font-size:1.2rem;color:var(--muted);margin-bottom:2rem}
+  h2{font-size:1.4rem;margin:2.5rem 0 1rem;font-weight:600}
+  p{margin-bottom:1.1rem}
+  .cards{display:grid;gap:.6rem;margin-top:1rem}
+  .card{display:block;padding:1.1rem 1.3rem;border:1px solid var(--line);border-radius:10px;text-decoration:none;color:var(--ink);transition:border-color .2s,transform .2s}
+  .card:hover{border-color:var(--accent);transform:translateX(4px)}
+  .card .t{font-weight:600;display:block}
+  .card .d{color:var(--muted);font-size:.9rem;margin-top:.2rem;display:block}
+  .badge{display:inline-block;font-family:'SF Mono',Menlo,monospace;font-size:.65rem;letter-spacing:.08em;text-transform:uppercase;padding:.2em .5em;border-radius:4px;margin-right:.4rem}
+  .ba{background:rgba(31,92,61,.1);color:var(--fact)}
+  .bc{background:rgba(154,107,28,.1);color:var(--opinion)}
+  .editorial{margin-top:3rem;padding:1.3rem 1.5rem;border:1px solid var(--line);border-left:4px solid var(--opinion);border-radius:10px;background:rgba(154,107,28,.04)}
+  .editorial .label{font-family:'SF Mono',Menlo,monospace;font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--opinion);display:block;margin-bottom:.5rem}
+  .editorial p{font-size:.95rem;color:var(--muted);margin-bottom:.6rem}
+  .nav{margin-bottom:2rem;font-family:'SF Mono',Menlo,monospace;font-size:.8rem}
+  .nav a{color:var(--accent);text-decoration:none}
+  .nav a:hover{text-decoration:underline}
+  footer{margin-top:4rem;padding-top:1.5rem;border-top:1px solid var(--line);font-family:'SF Mono',Menlo,monospace;font-size:.8rem;color:var(--muted)}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="nav"><a href="/korean-history/">← 한국사 아카이브</a></div>
+  <span class="kind">● 주제 인덱스 / Topic</span>
+  <h1>의학 醫學</h1>
+  <p class="lead">허준과 동의보감. 전쟁과 유배 속에서 완성된 조선의 의학 백과사전.</p>
+
+  <h2>개요</h2>
+  <p>조선 시대 의학은 중국 의학을 수용하면서도 한반도 실정에 맞는 독자적 체계를 발전시켰다. 허준(許浚, 1539~1615)이 편찬한 『동의보감(東醫寶鑑)』은 조선 의학의 집대성이며, 2009년 유네스코 세계기록유산에 등재되었다. 조선에서 구할 수 있는 약재를 중심으로 구성된 이 책은 의원이 없는 지방 백성도 자가 치료를 할 수 있도록 한글 향명을 병기했다.</p>
+
+  <h2>관련 글</h2>
+  <div class="cards">
+    <a class="card" href="/korean-history/articles/heo-jun.html">
+      <span class="t"><span class="badge ba">article</span>허준과 『동의보감』 — 전란과 유배 중에 완성된 책</span>
+      <span class="d">1613년 · 25권 · 유네스코 세계기록유산</span>
+    </a>
+    <a class="card" href="/korean-history/thoughts/heo-jun-editor.html">
+      <span class="t"><span class="badge bc">commentary</span>고통이 걸작을 만드는가 — 허준의 경우</span>
+      <span class="d">편집자 의견 · 고난과 창조의 관계</span>
+    </a>
+  </div>
+
+  <div class="editorial">
+    <span class="label">✎ 편집자 노트</span>
+    <p>동의보감은 단순한 의학서가 아니다. 그것은 전쟁으로 무너진 나라에서 백성의 고통을 어떻게든 덜어보려 한 한 사람의 기록이다. 허준이 유배지에서 붓을 놓지 않은 이유가 거기 있다.</p>
+  </div>
+
+  <footer>한국사 아카이브 · 주제 인덱스 · CC BY 4.0 Andy PAK</footer>
+</main>
+</body>
+</html>

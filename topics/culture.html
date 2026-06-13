@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>문화 — 한국사 아카이브</title>
+<style>
+  :root{--bg:#f7f4ed;--ink:#211f1a;--muted:#6f6a60;--accent:#8a1c1c;--line:#e0d9c9;--fact:#1f5c3d;--opinion:#9a6b1c}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:var(--bg);color:var(--ink);font-family:'Iowan Old Style','Palatino Linotype',Georgia,serif;line-height:1.7;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:680px;margin:0 auto;padding:4rem 1.5rem 6rem}
+  .kind{display:inline-block;font-family:'SF Mono',Menlo,monospace;font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;padding:.3em .7em;border-radius:999px;margin-bottom:1.5rem;background:rgba(138,28,28,.1);color:var(--accent)}
+  h1{font-size:clamp(2rem,5vw,2.9rem);line-height:1.1;letter-spacing:-.02em;margin-bottom:1rem;font-weight:600}
+  .lead{font-size:1.2rem;color:var(--muted);margin-bottom:2rem}
+  h2{font-size:1.4rem;margin:2.5rem 0 1rem;font-weight:600}
+  p{margin-bottom:1.1rem}
+  .cards{display:grid;gap:.6rem;margin-top:1rem}
+  .card{display:block;padding:1.1rem 1.3rem;border:1px solid var(--line);border-radius:10px;text-decoration:none;color:var(--ink);transition:border-color .2s,transform .2s}
+  .card:hover{border-color:var(--accent);transform:translateX(4px)}
+  .card .t{font-weight:600;display:block}
+  .card .d{color:var(--muted);font-size:.9rem;margin-top:.2rem;display:block}
+  .badge{display:inline-block;font-family:'SF Mono',Menlo,monospace;font-size:.65rem;letter-spacing:.08em;text-transform:uppercase;padding:.2em .5em;border-radius:4px;margin-right:.4rem}
+  .ba{background:rgba(31,92,61,.1);color:var(--fact)}
+  .editorial{margin-top:3rem;padding:1.3rem 1.5rem;border:1px solid var(--line);border-left:4px solid var(--opinion);border-radius:10px;background:rgba(154,107,28,.04)}
+  .editorial .label{font-family:'SF Mono',Menlo,monospace;font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--opinion);display:block;margin-bottom:.5rem}
+  .editorial p{font-size:.95rem;color:var(--muted);margin-bottom:.6rem}
+  .nav{margin-bottom:2rem;font-family:'SF Mono',Menlo,monospace;font-size:.8rem}
+  .nav a{color:var(--accent);text-decoration:none}
+  .nav a:hover{text-decoration:underline}
+  footer{margin-top:4rem;padding-top:1.5rem;border-top:1px solid var(--line);font-family:'SF Mono',Menlo,monospace;font-size:.8rem;color:var(--muted)}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <div class="nav"><a href="/korean-history/">← 한국사 아카이브</a></div>
+  <span class="kind">● 주제 인덱스 / Topic</span>
+  <h1>문화 文化</h1>
+  <p class="lead">고려청자, 직지, 처용무, 동의보감. 한국 문화사의 결정적 순간들.</p>
+
+  <h2>개요</h2>
+  <p>한국 문화는 중국·일본과 교류하면서도 독자적 형태를 만들어냈다. 고려청자의 비색(翡色), 훈민정음의 창제, 팔만대장경의 정밀함, 처용무의 독특한 춤사위는 모두 한반도에서만 탄생한 문화다. 이 아카이브는 문화 유산의 아름다움뿐 아니라 그것이 만들어진 역사적 맥락을 함께 들여다본다.</p>
+
+  <h2>관련 글</h2>
+  <div class="cards">
+    <a class="card" href="/korean-history/articles/jikji.html">
+      <span class="t"><span class="badge ba">article</span>직지심체요절 — 구텐베르크보다 78년 앞선 금속활자</span>
+      <span class="d">고려 1377년 · 인쇄 문화</span>
+    </a>
+    <a class="card" href="/korean-history/articles/tripitaka.html">
+      <span class="t"><span class="badge ba">article</span>팔만대장경 — 81,258장의 기도</span>
+      <span class="d">고려 1236~1251년 · 불교 문화</span>
+    </a>
+    <a class="card" href="/korean-history/articles/cheoyong.html">
+      <span class="t"><span class="badge ba">article</span>처용 — 역신에게 아내를 빼앗기고 춤을 추다</span>
+      <span class="d">처용무 · 향가 · 신라 문화</span>
+    </a>
+    <a class="card" href="/korean-history/articles/heo-jun.html">
+      <span class="t"><span class="badge ba">article</span>허준과 『동의보감』 — 전란과 유배 중에 완성된 책</span>
+      <span class="d">의학 문화유산 · 유네스코 등재</span>
+    </a>
+  </div>
+
+  <div class="editorial">
+    <span class="label">✎ 편집자 노트</span>
+    <p>문화유산은 박물관 안에만 있지 않다. 그것이 탄생한 배경, 그것을 만든 사람의 이야기, 그리고 그것이 어떻게 살아남았는가 — 그 모든 것이 문화유산의 일부다.</p>
+  </div>
+
+  <footer>한국사 아카이브 · 주제 인덱스 · CC BY 4.0 Andy PAK</footer>
+</main>
+</body>
+</html>
