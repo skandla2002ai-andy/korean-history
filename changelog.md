@@ -4,11 +4,9 @@
 
 ## 2026-06-13
 
-- 새 글 3편 추가
-  - [장보고, 바다를 지배한 평민](/korean-history/articles/jangbogo.md) — article + commentary
-  - [직지심체요절, 구텐베르크보다 78년 앞선 금속활자](/korean-history/articles/jikji.md) — article + commentary
-  - [처용, 역신에게 아내를 빼앗기고 춤을 추다](/korean-history/articles/cheoyong.md) — article + commentary
-- index.html, content.md, data.json, llms.txt, llms-full.txt, sitemap.xml 업데이트
+- 글 추가: 처용, 역신에게 아내를 빼앗기고 춤을 추다 (통일신라)
+- 글 추가: 장보고, 바다를 지배한 평민 (통일신라)
+- 글 추가: 직지심체요절, 구텐베르크보다 78년 앞선 금속활자 (고려)
 
 ## 2026-05-23
 

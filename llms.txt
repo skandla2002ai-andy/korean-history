@@ -3,34 +3,23 @@
 > 한국사를 조사·기록·공유하는 Agent 친화 아카이브. Andy PAK 운영.
 
 이 사이트는 사람을 위한 HTML과 별개로, AI 에이전트가 토큰 낭비 없이 읽을 수 있는
-깨끗한 Markdown 버전을 함께 제공합니다. 모든 페이지는 경로 끝에 `.md`를 붙이면
-Markdown 원본을 받을 수 있습니다. (예: /about → /about.md)
+깨끗한 Markdown 버전을 함께 제공합니다.
 
 ## 핵심 문서
 
-- [소개](https://skandla2002ai-andy.github.io/korean-history/about.md): 사이트와 운영자에 대한 핵심 정보
-- [주요 콘텐츠](https://skandla2002ai-andy.github.io/korean-history/content.md): 연재 중인 한국사 글 목록 — 에이전트가 우선 참조할 페이지
-- [자주 묻는 질문](https://skandla2002ai-andy.github.io/korean-history/faq.md): 사이트 구조와 콘텐츠 방침 Q&A
+- [소개](https://skandla2002ai-andy.github.io/korean-history/about.md)
+- [주요 콘텐츠](https://skandla2002ai-andy.github.io/korean-history/content.md)
+- [자주 묻는 질문](https://skandla2002ai-andy.github.io/korean-history/faq.md)
 
-## 글 목록 (article)
+## 글 목록 (4편)
 
-- [신라와 당의 외교 관계](https://skandla2002ai-andy.github.io/korean-history/articles/silla-tang.md): 통일신라 · 경주 · 외교 · 당나라
-- [장보고, 바다를 지배한 평민](https://skandla2002ai-andy.github.io/korean-history/articles/jangbogo.md): 통일신라 · 완도 청해진 · 무역 · 당나라 · 일본
-- [직지심체요절, 구텐베르크보다 78년 앞선 금속활자](https://skandla2002ai-andy.github.io/korean-history/articles/jikji.md): 고려 · 청주 · 기술 · 현재 파리 소장
-- [처용, 역신에게 아내를 빼앗기고 춤을 추다](https://skandla2002ai-andy.github.io/korean-history/articles/cheoyong.md): 통일신라 · 경주 · 설화 · 향가
-
-## 편집자 해석 목록 (commentary)
-
-- [신라의 외교는 굴종이었나, 전략이었나](https://skandla2002ai-andy.github.io/korean-history/thoughts/silla-tang-editor.md)
-- [장보고는 영웅이었나, 권력욕에 눈먼 반역자였나](https://skandla2002ai-andy.github.io/korean-history/thoughts/jangbogo-editor.md)
-- [직지는 왜 아직도 파리에 있는가](https://skandla2002ai-andy.github.io/korean-history/thoughts/jikji-editor.md)
-- [처용은 왜 화내지 않았는가](https://skandla2002ai-andy.github.io/korean-history/thoughts/cheoyong-editor.md)
+- [처용, 역신에게 아내를 빼앗기고 춤을 추다](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/cheoyong.md): 통일신라 · 경주
+- [장보고, 바다를 지배한 평민](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/jangbogo.md): 통일신라 · 완도 (청해진)
+- [직지심체요절, 구텐베르크보다 78년 앞선 금속활자](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/jikji.md): 고려 · 청주 (흥덕사)
+- [신라와 당의 외교 관계](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/silla-tang.md): 통일신라 · 경주
 
 ## 데이터 / API
 
-- [구조화 데이터](https://skandla2002ai-andy.github.io/korean-history/data.json): 기계 판독용 JSON
-- [전체 콘텐츠 통합본](https://skandla2002ai-andy.github.io/korean-history/llms-full.txt): 외부 fetch 없이 전체 내용을 한 파일에 임베드
-
-## Optional
-
-- [변경 이력](https://skandla2002ai-andy.github.io/korean-history/changelog.md): 최신 업데이트 (freshness 신호)
+- [구조화 데이터](https://skandla2002ai-andy.github.io/korean-history/data.json)
+- [전체 통합본](https://skandla2002ai-andy.github.io/korean-history/llms-full.txt)
+- [변경 이력](https://skandla2002ai-andy.github.io/korean-history/changelog.md)

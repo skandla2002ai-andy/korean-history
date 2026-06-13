@@ -6,50 +6,50 @@
   "language": "ko",
   "lastUpdated": "2026-06-13",
   "pages": [
-    { "title": "소개", "url": "/korean-history/about.md", "summary": "사이트와 운영자 핵심 정보" },
-    { "title": "주요 콘텐츠", "url": "/korean-history/content.md", "summary": "연재 중인 한국사 글 목록" },
-    { "title": "자주 묻는 질문", "url": "/korean-history/faq.md", "summary": "사이트 구조와 콘텐츠 방침 Q&A" }
+    {
+      "title": "소개",
+      "url": "/korean-history/about.md",
+      "summary": "사이트와 운영자 핵심 정보"
+    },
+    {
+      "title": "주요 콘텐츠",
+      "url": "/korean-history/content.md",
+      "summary": "연재 중인 한국사 글 목록"
+    },
+    {
+      "title": "자주 묻는 질문",
+      "url": "/korean-history/faq.md",
+      "summary": "사이트 구조와 콘텐츠 방침 Q&A"
+    }
   ],
   "articles": [
     {
-      "title": "신라와 당의 외교 관계",
-      "url": "/korean-history/articles/silla-tang.md",
-      "type": "article",
+      "title": "처용, 역신에게 아내를 빼앗기고 춤을 추다",
+      "url": "/korean-history/articles/cheoyong.md",
       "era": "통일신라",
       "region": "경주",
-      "related_countries": ["당나라"],
-      "topics": ["외교", "정치"],
-      "lastUpdated": "2026-05-23"
+      "lastUpdated": "2026-06-13"
     },
     {
       "title": "장보고, 바다를 지배한 평민",
       "url": "/korean-history/articles/jangbogo.md",
-      "type": "article",
       "era": "통일신라",
-      "region": "완도 청해진",
-      "related_countries": ["당나라", "일본"],
-      "topics": ["무역", "해상", "인물"],
+      "region": "완도 (청해진)",
       "lastUpdated": "2026-06-13"
     },
     {
       "title": "직지심체요절, 구텐베르크보다 78년 앞선 금속활자",
       "url": "/korean-history/articles/jikji.md",
-      "type": "article",
       "era": "고려",
-      "region": "청주 흥덕사",
-      "related_countries": ["프랑스"],
-      "topics": ["기술", "문화", "인쇄"],
+      "region": "청주 (흥덕사)",
       "lastUpdated": "2026-06-13"
     },
     {
-      "title": "처용, 역신에게 아내를 빼앗기고 춤을 추다",
-      "url": "/korean-history/articles/cheoyong.md",
-      "type": "article",
+      "title": "신라와 당의 외교 관계",
+      "url": "/korean-history/articles/silla-tang.md",
       "era": "통일신라",
       "region": "경주",
-      "related_countries": [],
-      "topics": ["설화", "문화", "향가"],
-      "lastUpdated": "2026-06-13"
+      "lastUpdated": "2026-05-23"
     }
   ],
   "commentary": [
