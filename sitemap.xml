@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://skandla2002ai-andy.github.io/korean-history/</loc><priority>1.0</priority><lastmod>2026-05-23</lastmod></url>
+  <url><loc>https://skandla2002ai-andy.github.io/korean-history/</loc><priority>1.0</priority><lastmod>2026-06-13</lastmod></url>
   <url><loc>https://skandla2002ai-andy.github.io/korean-history/about.html</loc><priority>0.8</priority><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://skandla2002ai-andy.github.io/korean-history/content.html</loc><priority>0.8</priority><lastmod>2026-05-23</lastmod></url>
+  <url><loc>https://skandla2002ai-andy.github.io/korean-history/content.html</loc><priority>0.8</priority><lastmod>2026-06-13</lastmod></url>
   <url><loc>https://skandla2002ai-andy.github.io/korean-history/faq.html</loc><priority>0.7</priority><lastmod>2026-05-23</lastmod></url>
   <url><loc>https://skandla2002ai-andy.github.io/korean-history/articles/silla-tang.html</loc><priority>0.9</priority><lastmod>2026-05-23</lastmod></url>
   <url><loc>https://skandla2002ai-andy.github.io/korean-history/thoughts/silla-tang-editor.html</loc><priority>0.7</priority><lastmod>2026-05-23</lastmod></url>
+  <url><loc>https://skandla2002ai-andy.github.io/korean-history/articles/jangbogo.html</loc><priority>0.9</priority><lastmod>2026-06-13</lastmod></url>
+  <url><loc>https://skandla2002ai-andy.github.io/korean-history/thoughts/jangbogo-editor.html</loc><priority>0.7</priority><lastmod>2026-06-13</lastmod></url>
+  <url><loc>https://skandla2002ai-andy.github.io/korean-history/articles/jikji.html</loc><priority>0.9</priority><lastmod>2026-06-13</lastmod></url>
+  <url><loc>https://skandla2002ai-andy.github.io/korean-history/thoughts/jikji-editor.html</loc><priority>0.7</priority><lastmod>2026-06-13</lastmod></url>
+  <url><loc>https://skandla2002ai-andy.github.io/korean-history/articles/cheoyong.html</loc><priority>0.9</priority><lastmod>2026-06-13</lastmod></url>
+  <url><loc>https://skandla2002ai-andy.github.io/korean-history/thoughts/cheoyong-editor.html</loc><priority>0.7</priority><lastmod>2026-06-13</lastmod></url>
 </urlset>

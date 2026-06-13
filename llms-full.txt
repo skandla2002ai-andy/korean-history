@@ -25,6 +25,20 @@ Agent 친화 설계를 따릅니다.
 - [신라와 당의 외교 관계](/korean-history/articles/silla-tang.md) — article · 경주 · 외교 · 당나라
 - [신라의 외교는 굴종이었나, 전략이었나](/korean-history/thoughts/silla-tang-editor.md) — commentary
 
+- [장보고, 바다를 지배한 평민](/korean-history/articles/jangbogo.md) — article · 완도 청해진 · 무역 · 당나라 · 일본
+  9세기 동아시아 해상 무역을 독점한 신라인. 828년 완도에 청해진을 설치해 신라인 노예무역을 근절하고 당·신라·일본 3국 무역을 장악했다. 839년 왕위 계승에 개입하다가 846년 암살당했다. 주요 사료: 『삼국사기』, 엔닌의 『입당구법순례행기』.
+- [장보고는 영웅이었나, 권력욕에 눈먼 반역자였나](/korean-history/thoughts/jangbogo-editor.md) — commentary
+
+- [처용, 역신에게 아내를 빼앗기고 춤을 추다](/korean-history/articles/cheoyong.md) — article · 경주 · 설화 · 향가
+  헌강왕(875~886) 시절 설화. 역신이 아내와 동침하는 것을 목격한 처용이 분노 대신 노래(처용가)와 춤(처용무)으로 역신을 감화시켰다. 역신은 "처용의 형용을 그린 문에는 들어가지 않겠다"고 맹세했다. 처용무는 2009년 유네스코 인류무형문화유산 등재. 주요 사료: 『삼국유사』 권2.
+- [처용은 왜 화내지 않았는가](/korean-history/thoughts/cheoyong-editor.md) — commentary
+
+### 고려
+
+- [직지심체요절, 구텐베르크보다 78년 앞선 금속활자](/korean-history/articles/jikji.md) — article · 청주 · 기술 · 현재 파리 소장
+  1377년 고려 청주 흥덕사에서 금속활자로 인쇄된 현존 세계 최고(最古) 금속활자 인쇄본. 구텐베르크의 42행 성경(1455년)보다 78년 앞선다. 현재 하권 1책이 프랑스 국립도서관에 소장. 2001년 유네스코 세계기록유산 등재.
+- [직지는 왜 아직도 파리에 있는가](/korean-history/thoughts/jikji-editor.md) — commentary
+
 ---
 
 ## 자주 묻는 질문
