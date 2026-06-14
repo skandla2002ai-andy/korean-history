@@ -1,14 +1,9 @@
 # 한국사 아카이브
 
 > 한국사를 조사·기록·공유하는 Agent 친화 아카이브. Andy PAK 운영.
-> 사실 기반 본문(article)과 편집자 해석(commentary)을 분리하여 제공합니다.
 
-## 에이전트 빠른 시작
-
-- 사이트 인덱스: https://skandla2002ai-andy.github.io/korean-history/llms.txt
-- 전체 통합본:   https://skandla2002ai-andy.github.io/korean-history/llms-full.txt
-- 구조화 데이터: https://skandla2002ai-andy.github.io/korean-history/data.json
-- 에이전트 가이드: https://skandla2002ai-andy.github.io/korean-history/AGENTS.md
+이 사이트는 사람을 위한 HTML과 별개로, AI 에이전트가 토큰 낭비 없이 읽을 수 있는
+깨끗한 Markdown 버전을 함께 제공합니다.
 
 ## 핵심 문서
 
@@ -16,14 +11,24 @@
 - [주요 콘텐츠](https://skandla2002ai-andy.github.io/korean-history/content.md)
 - [자주 묻는 질문](https://skandla2002ai-andy.github.io/korean-history/faq.md)
 
-## 태그 인덱스 (교차 탐색)
+## 글 목록 (14편)
 
-- 시대별: https://skandla2002ai-andy.github.io/korean-history/era/
-- 주제별: https://skandla2002ai-andy.github.io/korean-history/topics/
-- 관련국: https://skandla2002ai-andy.github.io/korean-history/related/
-- 지역별: https://skandla2002ai-andy.github.io/korean-history/region/
+- ["이순신과 명량 — 12척 대 333척"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/admiral-yi.md): "조선" · 
+- ["안중근의 동양평화론"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/ahn-junggeun.md): "대한제국" · 
+- ["선덕여왕의 첨성대"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/cheomseongdae.md): "신라" · "경주"
+- ["처용, 역신에게 아내를 빼앗기고 춤을 추다"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/cheoyong.md): "통일신라" · "경주"
+- ["공민왕과 노국공주"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/gongmin.md): "고려" · 
+- ["허준과 『동의보감』"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/heo-jun.md): "조선" · 
+- ["혜초, 신라 승려의 인도 여행기"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/hyecho.md): "통일신라" · 
+- ["장영실 — 관노가 발명한 조선의 시간"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/jang-yeongshil.md): "조선" · 
+- ["장보고, 바다를 지배한 평민"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/jangbogo.md): "통일신라" · "완도·청해진"
+- ["직지심체요절, 구텐베르크보다 78년 앞선 금속활자"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/jikji.md): "고려" · "청주·흥덕사"
+- ["신라와 당의 외교 관계"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/silla-tang.md): "통일신라" · "경주"
+- ["팔만대장경"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/tripitaka.md): "고려" · "강화도"
+- ["이의민 — 노비의 아들이 최고 권력자가 되다"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/uimin.md): "고려" · 
+- ["원효의 해골 물"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/wonhyo.md): "통일신라" · 
 
-## 출처 데이터베이스
+## 데이터 / API
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
