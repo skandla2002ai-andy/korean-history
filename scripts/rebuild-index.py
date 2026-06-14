@@ -27,6 +27,23 @@ THOUGHTS = ROOT / "thoughts"
 TODAY    = date.today().isoformat()
 NEW_DAYS = 7   # 이 기간 내 발행된 글에 NEW 배지
 
+# GoatCounter 코드 (환경변수 또는 _data/gc_code.txt)
+def get_gc_code():
+    import os
+    code = os.environ.get("GOATCOUNTER_CODE", "")
+    if not code:
+        gc_file = ROOT / "_data" / "gc_code.txt"
+        if gc_file.exists():
+            code = gc_file.read_text(encoding="utf-8").strip()
+    return code
+
+def gc_snippet():
+    code = get_gc_code()
+    if not code:
+        return ""
+    return (f'<script data-goatcounter="https://{code}.goatcounter.com/count"\n'
+            f'        async src="//gc.zgo.at/count.js"></script>')
+
 # ──────────────────────────────────────────────
 # 파싱 헬퍼
 # ──────────────────────────────────────────────
@@ -418,10 +435,12 @@ def build_content_html(entries):
         '    CC BY 4.0 Andy PAK',
         '  </footer>',
         '</main>',
-        '</body>',
-        '</html>',
     ]
-    return "\n".join(lines) + "\n"
+    gc = gc_snippet()
+    if gc:
+        lines.append(gc)
+    lines += ['</body>', '</html>', '']
+    return "\n".join(lines)
 
 # ──────────────────────────────────────────────
 # 4. index.html — 홈 (최근 5편 카드 + NEW)
@@ -436,6 +455,19 @@ def build_index_html(entries):
     recent   = published[:5]
     total_p  = len(published)
     total_q  = sum(1 for e in entries if e["source"] == "queue")
+
+    # data.json에서 인기 글 TOP 5 읽기 (view_count 있는 경우)
+    data_file = ROOT / "data.json"
+    top_articles = []
+    if data_file.exists():
+        try:
+            dj = json.loads(data_file.read_text(encoding="utf-8"))
+            top_articles = [
+                e for e in dj.get("top_articles", [])
+                if e.get("view_count", 0) > 0
+            ][:5]
+        except Exception:
+            pass
 
     new_badge = '<span style="background:#1f5c3d;color:#fff;font-family:\'SF Mono\',monospace;font-size:.65rem;font-weight:700;padding:.15em .5em;border-radius:4px;margin-left:.4rem">NEW</span>'
 
@@ -520,9 +552,29 @@ def build_index_html(entries):
             '    </a>',
         ]
 
+    lines += ['  </div>', '']
+
+    # 인기 글 TOP 5 (조회수 데이터 있을 때만)
+    if top_articles:
+        lines.append('  <h2>// 인기 글 TOP 5</h2>')
+        lines.append('  <div class="cards">')
+        for e in top_articles:
+            url        = e.get("html_url", "").replace(BASE_URL, "")
+            title      = e.get("title", "")
+            views      = e.get("view_count", 0)
+            era        = " · ".join(e.get("era", []))
+            view_badge = (f'<span style="font-family:\'SF Mono\',monospace;font-size:.68rem;'
+                          f'color:var(--muted);margin-left:.4rem">{views:,}회</span>')
+            lines += [
+                f'    <a class="card" href="{url}">',
+                f'      <span class="t">{title}{view_badge}</span>',
+                f'      <span class="d">{era}</span>',
+                '    </a>',
+            ]
+        lines.append('  </div>')
+        lines.append('')
+
     lines += [
-        '  </div>',
-        '',
         '  <h2>// 사람을 위한 안내</h2>',
         '  <p>Andy PAK이 운영하는 한국사 아카이브입니다. 사실 기반 본문(<code>article</code>)과 편집자의 해석(<code>commentary</code>)을 명확히 구분하여 제공합니다. 시대·지역·연관국·주제별로 글을 탐색할 수 있습니다.</p>',
         '  <div class="cards">',
@@ -548,10 +600,12 @@ def build_index_html(entries):
         '    /llms.txt · /sitemap.xml · /robots.txt',
         '  </footer>',
         '</main>',
-        '</body>',
-        '</html>',
     ]
-    return "\n".join(lines) + "\n"
+    gc = gc_snippet()
+    if gc:
+        lines.append(gc)
+    lines += ['</body>', '</html>', '']
+    return "\n".join(lines)
 
 # ──────────────────────────────────────────────
 # 실행
