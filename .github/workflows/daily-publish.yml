@@ -5,10 +5,9 @@ on:
     # 매일 오전 6시 KST (= 21:00 UTC 전날)
     - cron: '0 21 * * *'
   workflow_dispatch:
-    # 수동 실행 버튼 (테스트용)
 
 permissions:
-  contents: write  # 파일 커밋·푸시 허용
+  contents: write
 
 jobs:
   publish:
@@ -18,26 +17,67 @@ jobs:
       - name: 저장소 체크아웃
         uses: actions/checkout@v4
 
-      - name: Python 3.11 설정
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+      - name: 다음 글 발행
+        id: publish
+        run: |
+          # _queue/articles/ 에서 가장 번호가 작은 파일 찾기
+          NEXT=$(ls _queue/articles/ 2>/dev/null | sort | head -1)
 
-      - name: 의존성 설치
-        run: pip install anthropic
+          if [ -z "$NEXT" ]; then
+            echo "queue_empty=true" >> $GITHUB_OUTPUT
+            echo "✅ 큐가 비어 있습니다. 모든 글이 발행되었습니다."
+            exit 0
+          fi
 
-      - name: 글 자동 생성
-        id: generate
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/generate-article.py
+          echo "queue_empty=false" >> $GITHUB_OUTPUT
+
+          # 파일명에서 slug 추출 (앞 3자리 숫자와 하이픈 제거)
+          SLUG=$(echo "$NEXT" | sed 's/^[0-9]*-//' | sed 's/\.html$//')
+          TITLE=$(grep -oP '(?<=<title>).*(?= — 한국사 아카이브)' "_queue/articles/$NEXT" | head -1)
+
+          echo "slug=$SLUG" >> $GITHUB_OUTPUT
+          echo "title=$TITLE" >> $GITHUB_OUTPUT
+          echo "file=$NEXT" >> $GITHUB_OUTPUT
+
+          # articles/ 로 이동
+          cp "_queue/articles/$NEXT" "articles/${SLUG}.html"
+          rm "_queue/articles/$NEXT"
+
+          # 편집자 의견도 이동 (있을 경우)
+          EDITOR_FILE=$(ls _queue/thoughts/ 2>/dev/null | grep "^[0-9]*-${SLUG}-editor\.html$" | head -1)
+          if [ -n "$EDITOR_FILE" ]; then
+            cp "_queue/thoughts/$EDITOR_FILE" "thoughts/${SLUG}-editor.html"
+            rm "_queue/thoughts/$EDITOR_FILE"
+          fi
+
+          echo "📝 발행: $TITLE ($SLUG)"
 
       - name: 커밋 & 푸시
-        if: steps.generate.outputs.skipped != 'true'
+        if: steps.publish.outputs.queue_empty != 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add articles/ thoughts/
-          git diff --staged --quiet && echo "변경사항 없음" && exit 0
-          git commit -m "📝 자동 발행: ${{ steps.generate.outputs.title }}"
+          git add articles/ thoughts/ _queue/
+          git diff --staged --quiet && exit 0
+          git commit -m "📝 자동 발행: ${{ steps.publish.outputs.title }}"
           git push
+
+      - name: Python 설정
+        if: steps.publish.outputs.queue_empty != 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 발행 후 품질 감사
+        if: steps.publish.outputs.queue_empty != 'true'
+        run: |
+          echo "### 발행 후 품질 감사: ${{ steps.publish.outputs.title }}" >> $GITHUB_STEP_SUMMARY
+          python scripts/audit.py 2>&1 | tee audit-report.txt || true
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          cat audit-report.txt >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+
+          # sources.json 자동 수정 후 커밋
+          python scripts/audit.py --fix
+          git add _data/sources.json
+          git diff --staged --quiet || git commit -m "🔧 감사 자동수정: sources.json [skip ci]" && git push || true
