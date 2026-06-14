@@ -1,14 +1,9 @@
 # 한국사 아카이브
 
 > 한국사를 조사·기록·공유하는 Agent 친화 아카이브. Andy PAK 운영.
-> 사실 기반 본문(article)과 편집자 해석(commentary)을 분리하여 제공합니다.
 
-## 에이전트 빠른 시작
-
-- 사이트 인덱스: https://skandla2002ai-andy.github.io/korean-history/llms.txt
-- 전체 통합본:   https://skandla2002ai-andy.github.io/korean-history/llms-full.txt
-- 구조화 데이터: https://skandla2002ai-andy.github.io/korean-history/data.json
-- 에이전트 가이드: https://skandla2002ai-andy.github.io/korean-history/AGENTS.md
+이 사이트는 사람을 위한 HTML과 별개로, AI 에이전트가 토큰 낭비 없이 읽을 수 있는
+깨끗한 Markdown 버전을 함께 제공합니다.
 
 ## 핵심 문서
 
@@ -16,124 +11,25 @@
 - [주요 콘텐츠](https://skandla2002ai-andy.github.io/korean-history/content.md)
 - [자주 묻는 질문](https://skandla2002ai-andy.github.io/korean-history/faq.md)
 
-## 태그 인덱스 (교차 탐색)
+## 글 목록 (14편)
 
-- 시대별: https://skandla2002ai-andy.github.io/korean-history/era/
-- 주제별: https://skandla2002ai-andy.github.io/korean-history/topics/
-- 관련국: https://skandla2002ai-andy.github.io/korean-history/related/
-- 지역별: https://skandla2002ai-andy.github.io/korean-history/region/
+- ["이순신과 명량 — 12척 대 333척"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/admiral-yi.md): "조선" · 
+- ["안중근의 동양평화론"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/ahn-junggeun.md): "대한제국" · 
+- ["선덕여왕의 첨성대"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/cheomseongdae.md): "신라" · "경주"
+- ["처용, 역신에게 아내를 빼앗기고 춤을 추다"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/cheoyong.md): "통일신라" · "경주"
+- ["공민왕과 노국공주"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/gongmin.md): "고려" · 
+- ["허준과 『동의보감』"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/heo-jun.md): "조선" · 
+- ["혜초, 신라 승려의 인도 여행기"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/hyecho.md): "통일신라" · 
+- ["장영실 — 관노가 발명한 조선의 시간"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/jang-yeongshil.md): "조선" · 
+- ["장보고, 바다를 지배한 평민"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/jangbogo.md): "통일신라" · "완도·청해진"
+- ["직지심체요절, 구텐베르크보다 78년 앞선 금속활자"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/jikji.md): "고려" · "청주·흥덕사"
+- ["신라와 당의 외교 관계"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/silla-tang.md): "통일신라" · "경주"
+- ["팔만대장경"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/tripitaka.md): "고려" · "강화도"
+- ["이의민 — 노비의 아들이 최고 권력자가 되다"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/uimin.md): "고려" · 
+- ["원효의 해골 물"](https://skandla2002ai-andy.github.io/korean-history/korean-history/articles/wonhyo.md): "통일신라" · 
 
-## 출처 데이터베이스
+## 데이터 / API
 
-- https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
-
-## 발행 완료 (14편 · 최신순 · 갱신 2026-06-14)
-
-- [이순신과 명량 — 12척 대 333척](https://skandla2002ai-andy.github.io/korean-history/articles/admiral-yi.md): 조선
-- [안중근의 동양평화론](https://skandla2002ai-andy.github.io/korean-history/articles/ahn-junggeun.md): 대한제국
-- [선덕여왕의 첨성대](https://skandla2002ai-andy.github.io/korean-history/articles/cheomseongdae.md): 신라 · 경주
-- [처용, 역신에게 아내를 빼앗기고 춤을 추다](https://skandla2002ai-andy.github.io/korean-history/articles/cheoyong.md): 통일신라 · 경주
-- [공민왕과 노국공주](https://skandla2002ai-andy.github.io/korean-history/articles/gongmin.md): 고려
-- [허준과 『동의보감』](https://skandla2002ai-andy.github.io/korean-history/articles/heo-jun.md): 조선
-- [혜초, 신라 승려의 인도 여행기](https://skandla2002ai-andy.github.io/korean-history/articles/hyecho.md): 통일신라
-- [장영실 — 관노가 발명한 조선의 시간](https://skandla2002ai-andy.github.io/korean-history/articles/jang-yeongshil.md): 조선
-- [장보고, 바다를 지배한 평민](https://skandla2002ai-andy.github.io/korean-history/articles/jangbogo.md): 통일신라 · 완도·청해진
-- [직지심체요절, 구텐베르크보다 78년 앞선 금속활자](https://skandla2002ai-andy.github.io/korean-history/articles/jikji.md): 고려 · 청주·흥덕사
-- [신라와 당의 외교 관계](https://skandla2002ai-andy.github.io/korean-history/articles/silla-tang.md): 통일신라 · 경주
-- [팔만대장경](https://skandla2002ai-andy.github.io/korean-history/articles/tripitaka.md): 고려 · 강화도
-- [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
-- [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
-
-## 발행 예정 큐 (86편)
-
-- [001. 세종과 훈민정음](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/001-sejong-hangul.html): 조선
-- [002. 광개토대왕](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/002-gwanggaeto-expansion.html)
-- [003. 일연과 삼국유사](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/003-samguk-yusa-ilyeon.html): 고려
-- [004. 김만중](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/004-kim-manjung-gujuwonnim.html): 조선
-- [005. 선덕여왕의 통치](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/005-queen-seondeok-leadership.html): 신라 · 경주
-- [006. 단종](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/006-danjong-tragedy.html): 조선
-- [007. 황진이](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/007-hwang-jini.html): 조선
-- [008. 권율과 행주대첩](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/008-gwon-yul-haengju.html): 조선
-- [009. 장희빈](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/009-jang-heebin-poison.html): 조선
-- [010. 최치원](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/010-choe-chiwon-scholar.html): 통일신라
-- [011. 병자호란](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/011-byeongja-horan.html): 조선
-- [012. 홍경래의 난](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/012-hong-gyeongnae-rebellion.html): 조선 · 평안도
-- [013. 동학농민운동](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/013-donghak-uprising.html): 조선 말기
-- [014. 3·1 운동](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/014-march-first-movement.html): 일제강점기
-- [015. 유관순](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/015-yu-gwan-sun.html): 일제강점기
-- [016. 김구](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/016-kim-gu-independence.html): 일제강점기
-- [017. 고려청자](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/017-goryeo-celadon.html): 고려
-- [018. 신사임당](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/018-saimdang-art.html): 조선
-- [019. 광해군의 중립 외교](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/019-gwanghaegun-diplomacy.html): 조선
-- [020. 대동법](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/020-daedongbeopseok-reform.html): 조선
-- [021. 의열단](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/021-eui-yeol-dan.html): 일제강점기
-- [022. 숭례문 화재](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/022-namdaemun-fire.html): 현대 · 서울
-- [023. 백제와 일본](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/023-baekje-art-culture.html): 삼국시대
-- [024. 주몽과 고구려 건국](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/024-goguryeo-jumong.html): 삼국시대
-- [025. 화성과 정조](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/025-hwaseong-jeongjo.html): 조선 · 수원
-- [026. 고려 대몽 항쟁](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/026-goryeo-mongol-war.html): 고려
-- [027. 조선의 노비](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/027-chosun-slavery-nobi.html): 조선
-- [028. 흥선대원군의 쇄국](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/028-daewongun-isolation.html): 조선 말기
-- [029. 동학의 창시](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/029-donghak-chondogyo.html): 조선 말기
-- [030. 정약용](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/030-jeong-yakyong-dasan.html): 조선
-- [031. 고구려 고분벽화](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/031-goguryeo-wall-paintings.html): 삼국시대
-- [032. 장영실](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/032-jang-yeongshil-mystery.html): 조선
-- [033. 석굴암](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/033-seokguram-construction.html): 통일신라
-- [034. 해인사 팔만대장경](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/034-haeinsas-preservation.html): 고려
-- [035. 온조왕과 백제 건국](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/035-baekje-foundation.html): 삼국시대 · 충청·한강
-- [036. 김치의 역사](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/036-eumsik-kimchi-history.html): 조선
-- [037. 계유정난](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/037-sejo-coup.html): 조선
-- [038. 한국전쟁](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/038-korean-war-1950.html): 현대
-- [039. 4·19 혁명](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/039-april-revolution.html): 현대
-- [040. 5·18 광주 민주화운동](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/040-gwangju-uprising.html): 현대 · 광주·전남
-- [041. 박정희와 산업화](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/041-parkchunghee-development.html): 현대
-- [042. 임진왜란과 문화 손실](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/042-imjewaran-cultural-loss.html): 조선
-- [043. 살수대첩](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/043-goguryeo-vs-sui.html): 삼국시대
-- [044. 동의보감](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/044-dongui-bogam-unesco.html): 조선
-- [045. 귀주대첩](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/045-goryeo-invasion-khitan.html): 고려
-- [046. 명성황후](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/046-empress-myeongseong.html): 조선 말기
-- [047. 독도의 역사](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/047-dokdo-history.html): 근현대
-- [048. 실학 운동](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/048-silhak-reform-movement.html): 조선 후기
-- [049. 일제의 한글 탄압](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/049-hangul-suppression.html): 일제강점기
-- [050. 강제 징용](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/050-world-war-ii-koreans.html): 일제강점기
-- [051. 조선 백자](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/051-joseon-porcelain-baekja.html): 조선
-- [052. 황산벌과 계백](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/052-baekje-fall-660.html): 삼국시대
-- [053. 1988 서울 올림픽](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/053-korea-olympic-1988.html): 현대
-- [054. 사도세자](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/054-jeongjogui-death-sado.html): 조선
-- [055. 단군과 고조선](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/055-gojoseon-dangun.html): 고조선
-- [056. 한류의 기원](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/056-hallyu-origin.html): 현대
-- [057. 조선의 과거제](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/057-yangban-gwageo.html): 조선·고려
-- [058. 고려와 원나라](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/058-goryeo-kings-mongol.html): 고려
-- [059. 윤봉길 의거](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/059-yun-bong-gil-shanghai.html): 일제강점기
-- [060. 조선의 출판 문화](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/060-joseon-printing-books.html): 조선·고려
-- [061. 신채호](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/061-sin-chaeho-anarchism.html): 일제강점기
-- [062. 백제 멸망과 황산벌](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/062-baekje-fall-660.html): 삼국시대
-- [063. 광개토대왕릉비](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/063-gwanggaeto-stele.html): 삼국시대
-- [064. 코리안 디아스포라](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/064-korean-diaspora.html): 근현대
-- [065. 조선 백자](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/065-joseon-porcelain-baekja.html): 조선
-- [066. 반구대 암각화](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/066-donghae-whale-history.html): 선사시대
-- [067. 1988 서울 올림픽](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/067-korea-olympic-1988.html): 현대
-- [068. 한글날의 역사](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/068-hangul-day-history.html): 근현대
-- [069. 안용복과 독도 수호](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/069-an-yong-bok-dokdo.html): 조선
-- [070. 조선의 제사 문화](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/070-confucian-ritual-jesa.html): 조선
-- [071. 흥남 철수](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/071-heungnam-evacuation.html): 현대
-- [072. 고종과 대한제국](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/072-gojong-modernization.html): 구한말
-- [073. 신사임당](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/073-shin-saimdang-painter.html): 조선
-- [074. 박제가와 북학론](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/074-park-jesam-bokhaeron.html): 조선 후기
-- [075. 이이 십만양병설](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/075-yulgok-defense.html): 조선
-- [076. 고구려 천리장성](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/076-great-wall-goguryeo.html): 삼국시대
-- [077. 제2연평해전](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/077-chamsuri-patrol-boat.html): 현대
-- [078. 백두산 국경 분쟁](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/078-baekdusan-border.html): 조선·현대
-- [079. 임진왜란 의병](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/079-imjin-volunteer-army.html): 조선
-- [080. 조선 수라상](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/080-joseon-royal-cuisine.html): 조선
-- [081. 고려청자](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/081-goryeo-celadon.html): 고려
-- [082. 해외 독립운동](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/082-independence-movement-overseas.html): 일제강점기
-- [083. 분단의 시작](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/083-joseon-partition-1945.html): 현대
-- [084. 훈민정음의 과학](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/084-sejong-hangul-science.html): 조선
-- [085. 제주 4·3 사건](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/085-jeju-april-3.html): 현대
-- [086. 한강의 기적](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/086-korean-economy-miracle.html): 현대
-
-## 라이선스
-
-콘텐츠: CC BY 4.0 — 출처(사이트명 + 원문 링크) 표시 후 자유롭게 사용 가능.
-코드: MIT License.
+- [구조화 데이터](https://skandla2002ai-andy.github.io/korean-history/data.json)
+- [전체 통합본](https://skandla2002ai-andy.github.io/korean-history/llms-full.txt)
+- [변경 이력](https://skandla2002ai-andy.github.io/korean-history/changelog.md)
