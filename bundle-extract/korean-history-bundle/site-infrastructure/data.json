@@ -1,0 +1,17 @@
+{
+  "name": "[사이트 이름]",
+  "url": "https://YOURDOMAIN.com",
+  "description": "[한 줄 요약]",
+  "language": "ko",
+  "lastUpdated": "2026-05-23",
+  "pages": [
+    { "title": "소개", "url": "/about.md", "summary": "사이트와 제공자 핵심 정보" },
+    { "title": "주요 콘텐츠", "url": "/content.md", "summary": "가장 중요한 본문" },
+    { "title": "자주 묻는 질문", "url": "/faq.md", "summary": "구조화된 Q&A" }
+  ],
+  "agentEndpoints": {
+    "index": "/llms.txt",
+    "fullContent": "/llms-full.txt",
+    "markdownPattern": "<any-path>.md"
+  }
+}
