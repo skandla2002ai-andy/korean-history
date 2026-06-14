@@ -18,19 +18,16 @@
 
 ## 태그 인덱스 (교차 탐색)
 
-- 시대별:   https://skandla2002ai-andy.github.io/korean-history/era/
-- 주제별:   https://skandla2002ai-andy.github.io/korean-history/topics/
-- 관련국:   https://skandla2002ai-andy.github.io/korean-history/related/
-- 지역별:   https://skandla2002ai-andy.github.io/korean-history/region/
+- 시대별: https://skandla2002ai-andy.github.io/korean-history/era/
+- 주제별: https://skandla2002ai-andy.github.io/korean-history/topics/
+- 관련국: https://skandla2002ai-andy.github.io/korean-history/related/
+- 지역별: https://skandla2002ai-andy.github.io/korean-history/region/
 
 ## 출처 데이터베이스
 
-- [https://skandla2002ai-andy.github.io/korean-history/_data/sources.json](https://skandla2002ai-andy.github.io/korean-history/_data/sources.json)
-  신뢰점수 1~5 포함 23개 공식 기관 URL
+- https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 글 목록 (전체 100편 · 최종 갱신 2026-06-14)
-
-### 발행 완료 (14편)
+## 발행 완료 (14편 · 최신순 · 갱신 2026-06-14)
 
 - [이순신과 명량 — 12척 대 333척](https://skandla2002ai-andy.github.io/korean-history/articles/admiral-yi.md): 조선
 - [안중근의 동양평화론](https://skandla2002ai-andy.github.io/korean-history/articles/ahn-junggeun.md): 대한제국
@@ -47,7 +44,7 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-### 발행 예정 큐 (86편)
+## 발행 예정 큐 (86편)
 
 - [001. 세종과 훈민정음](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/001-sejong-hangul.html): 조선
 - [002. 광개토대왕](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/002-gwanggaeto-expansion.html)

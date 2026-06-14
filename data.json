@@ -9,7 +9,8 @@
   "stats": {
     "total": 100,
     "published": 14,
-    "queued": 86
+    "queued": 86,
+    "new": 0
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,7 +58,13 @@
       ],
       "region": [],
       "num": null,
-      "status": "published"
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "이순신의 진짜 적은 선조였다 — 편집자의 생각",
+        "url": "/korean-history/thoughts/admiral-yi-editor.html"
+      }
     },
     {
       "title": "안중근의 동양평화론",
@@ -76,7 +83,13 @@
       ],
       "region": [],
       "num": null,
-      "status": "published"
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "안중근이 단순 테러리스트가 아닌 이유 — 편집자의 생각",
+        "url": "/korean-history/thoughts/ahn-junggeun-editor.html"
+      }
     },
     {
       "title": "선덕여왕의 첨성대",
@@ -95,7 +108,13 @@
         "경주"
       ],
       "num": null,
-      "status": "published"
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "첨성대는 왜 지어졌는가",
+        "url": "/korean-history/thoughts/cheomseongdae-editor.html"
+      }
     },
     {
       "title": "처용, 역신에게 아내를 빼앗기고 춤을 추다",
@@ -114,7 +133,13 @@
         "경주"
       ],
       "num": null,
-      "status": "published"
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "처용은 왜 화내지 않았는가",
+        "url": "/korean-history/thoughts/cheoyong-editor.html"
+      }
     },
     {
       "title": "공민왕과 노국공주",
@@ -133,7 +158,13 @@
       ],
       "region": [],
       "num": null,
-      "status": "published"
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "개인의 사랑이 국가 정치를 어떻게 무너뜨렸는가",
+        "url": "/korean-history/thoughts/gongmin-editor.html"
+      }
     },
     {
       "title": "허준과 『동의보감』",
@@ -151,7 +182,13 @@
       "related": [],
       "region": [],
       "num": null,
-      "status": "published"
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "고통이 걸작을 만드는가 — 허준의 경우",
+        "url": "/korean-history/thoughts/heo-jun-editor.html"
+      }
     },
     {
       "title": "혜초, 신라 승려의 인도 여행기",
@@ -171,7 +208,13 @@
       ],
       "region": [],
       "num": null,
-      "status": "published"
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "『왕오천축국전』도 파리에 있다",
+        "url": "/korean-history/thoughts/hyecho-editor.html"
+      }
     },
     {
       "title": "장영실 — 관노가 발명한 조선의 시간",
@@ -188,7 +231,13 @@
       "related": [],
       "region": [],
       "num": null,
-      "status": "published"
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "세종은 왜 장영실을 버렸는가 — 편집자의 생각",
+        "url": "/korean-history/thoughts/jang-yeongshil-editor.html"
+      }
     },
     {
       "title": "장보고, 바다를 지배한 평민",
@@ -210,7 +259,13 @@
         "완도·청해진"
       ],
       "num": null,
-      "status": "published"
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "장보고는 영웅이었나, 반역자였나",
+        "url": "/korean-history/thoughts/jangbogo-editor.html"
+      }
     },
     {
       "title": "직지심체요절, 구텐베르크보다 78년 앞선 금속활자",
@@ -231,7 +286,13 @@
         "청주·흥덕사"
       ],
       "num": null,
-      "status": "published"
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "직지는 왜 아직도 파리에 있는가",
+        "url": "/korean-history/thoughts/jikji-editor.html"
+      }
     },
     {
       "title": "신라와 당의 외교 관계",
@@ -252,7 +313,13 @@
         "경주"
       ],
       "num": null,
-      "status": "published"
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "편집자의 생각: 신라의 외교",
+        "url": "/korean-history/thoughts/silla-tang-editor.html"
+      }
     },
     {
       "title": "팔만대장경",
@@ -273,7 +340,13 @@
         "강화도"
       ],
       "num": null,
-      "status": "published"
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "전쟁 중 문화 사업 — 실용인가, 도피인가",
+        "url": "/korean-history/thoughts/tripitaka-editor.html"
+      }
     },
     {
       "title": "이의민 — 노비의 아들이 최고 권력자가 되다",
@@ -290,7 +363,13 @@
       "related": [],
       "region": [],
       "num": null,
-      "status": "published"
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "고려 무신 시대는 신분 상승의 시대였는가",
+        "url": "/korean-history/thoughts/uimin-editor.html"
+      }
     },
     {
       "title": "원효의 해골 물",
@@ -308,7 +387,13 @@
       "related": [],
       "region": [],
       "num": null,
-      "status": "published"
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "유학 포기가 오히려 독자 노선이 된 이유",
+        "url": "/korean-history/thoughts/wonhyo-editor.html"
+      }
     }
   ],
   "queue": [
@@ -328,6 +413,8 @@
       "related": [],
       "region": [],
       "num": 1,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -344,6 +431,8 @@
       "related": [],
       "region": [],
       "num": 2,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -364,6 +453,8 @@
       ],
       "region": [],
       "num": 3,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -381,6 +472,8 @@
       "related": [],
       "region": [],
       "num": 4,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -400,6 +493,8 @@
         "경주"
       ],
       "num": 5,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -417,6 +512,8 @@
       "related": [],
       "region": [],
       "num": 6,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -434,6 +531,8 @@
       "related": [],
       "region": [],
       "num": 7,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -453,6 +552,8 @@
       ],
       "region": [],
       "num": 8,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -470,6 +571,8 @@
       "related": [],
       "region": [],
       "num": 9,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -489,6 +592,8 @@
       ],
       "region": [],
       "num": 10,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -507,6 +612,8 @@
       ],
       "region": [],
       "num": 11,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -525,6 +632,8 @@
         "평안도"
       ],
       "num": 12,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -544,6 +653,8 @@
       ],
       "region": [],
       "num": 13,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -562,6 +673,8 @@
       ],
       "region": [],
       "num": 14,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -581,6 +694,8 @@
       ],
       "region": [],
       "num": 15,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -598,6 +713,8 @@
       "related": [],
       "region": [],
       "num": 16,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -614,6 +731,8 @@
       "related": [],
       "region": [],
       "num": 17,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -631,6 +750,8 @@
       "related": [],
       "region": [],
       "num": 18,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -650,6 +771,8 @@
       ],
       "region": [],
       "num": 19,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -666,6 +789,8 @@
       "related": [],
       "region": [],
       "num": 20,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -684,6 +809,8 @@
       ],
       "region": [],
       "num": 21,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -702,6 +829,8 @@
         "서울"
       ],
       "num": 22,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -720,6 +849,8 @@
       ],
       "region": [],
       "num": 23,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -736,6 +867,8 @@
       "related": [],
       "region": [],
       "num": 24,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -755,6 +888,8 @@
         "수원"
       ],
       "num": 25,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -773,6 +908,8 @@
       ],
       "region": [],
       "num": 26,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -789,6 +926,8 @@
       "related": [],
       "region": [],
       "num": 27,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -806,6 +945,8 @@
       "related": [],
       "region": [],
       "num": 28,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -823,6 +964,8 @@
       "related": [],
       "region": [],
       "num": 29,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -840,6 +983,8 @@
       "related": [],
       "region": [],
       "num": 30,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -856,6 +1001,8 @@
       "related": [],
       "region": [],
       "num": 31,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -873,6 +1020,8 @@
       "related": [],
       "region": [],
       "num": 32,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -889,6 +1038,8 @@
       "related": [],
       "region": [],
       "num": 33,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -905,6 +1056,8 @@
       "related": [],
       "region": [],
       "num": 34,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -923,6 +1076,8 @@
         "충청·한강"
       ],
       "num": 35,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -939,6 +1094,8 @@
       "related": [],
       "region": [],
       "num": 36,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -955,6 +1112,8 @@
       "related": [],
       "region": [],
       "num": 37,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -972,6 +1131,8 @@
       "related": [],
       "region": [],
       "num": 38,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -988,6 +1149,8 @@
       "related": [],
       "region": [],
       "num": 39,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1006,6 +1169,8 @@
         "광주·전남"
       ],
       "num": 40,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1023,6 +1188,8 @@
       "related": [],
       "region": [],
       "num": 41,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1040,6 +1207,8 @@
       "related": [],
       "region": [],
       "num": 42,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1057,6 +1226,8 @@
       "related": [],
       "region": [],
       "num": 43,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1074,6 +1245,8 @@
       "related": [],
       "region": [],
       "num": 44,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1091,6 +1264,8 @@
       "related": [],
       "region": [],
       "num": 45,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1108,6 +1283,8 @@
       "related": [],
       "region": [],
       "num": 46,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1125,6 +1302,8 @@
       "related": [],
       "region": [],
       "num": 47,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1141,6 +1320,8 @@
       "related": [],
       "region": [],
       "num": 48,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1158,6 +1339,8 @@
       "related": [],
       "region": [],
       "num": 49,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1175,6 +1358,8 @@
       "related": [],
       "region": [],
       "num": 50,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1191,6 +1376,8 @@
       "related": [],
       "region": [],
       "num": 51,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1207,6 +1394,8 @@
       "related": [],
       "region": [],
       "num": 52,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1223,6 +1412,8 @@
       "related": [],
       "region": [],
       "num": 53,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1239,6 +1430,8 @@
       "related": [],
       "region": [],
       "num": 54,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1255,6 +1448,8 @@
       "related": [],
       "region": [],
       "num": 55,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1271,6 +1466,8 @@
       "related": [],
       "region": [],
       "num": 56,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1287,6 +1484,8 @@
       "related": [],
       "region": [],
       "num": 57,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1303,6 +1502,8 @@
       "related": [],
       "region": [],
       "num": 58,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1319,6 +1520,8 @@
       "related": [],
       "region": [],
       "num": 59,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1335,6 +1538,8 @@
       "related": [],
       "region": [],
       "num": 60,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1351,6 +1556,8 @@
       "related": [],
       "region": [],
       "num": 61,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1367,6 +1574,8 @@
       "related": [],
       "region": [],
       "num": 62,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1383,6 +1592,8 @@
       "related": [],
       "region": [],
       "num": 63,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1399,6 +1610,8 @@
       "related": [],
       "region": [],
       "num": 64,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1415,6 +1628,8 @@
       "related": [],
       "region": [],
       "num": 65,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1431,6 +1646,8 @@
       "related": [],
       "region": [],
       "num": 66,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1447,6 +1664,8 @@
       "related": [],
       "region": [],
       "num": 67,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1463,6 +1682,8 @@
       "related": [],
       "region": [],
       "num": 68,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1479,6 +1700,8 @@
       "related": [],
       "region": [],
       "num": 69,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1495,6 +1718,8 @@
       "related": [],
       "region": [],
       "num": 70,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1511,6 +1736,8 @@
       "related": [],
       "region": [],
       "num": 71,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1527,6 +1754,8 @@
       "related": [],
       "region": [],
       "num": 72,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1543,6 +1772,8 @@
       "related": [],
       "region": [],
       "num": 73,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1559,6 +1790,8 @@
       "related": [],
       "region": [],
       "num": 74,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1575,6 +1808,8 @@
       "related": [],
       "region": [],
       "num": 75,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1591,6 +1826,8 @@
       "related": [],
       "region": [],
       "num": 76,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1607,6 +1844,8 @@
       "related": [],
       "region": [],
       "num": 77,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1623,6 +1862,8 @@
       "related": [],
       "region": [],
       "num": 78,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1639,6 +1880,8 @@
       "related": [],
       "region": [],
       "num": 79,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1655,6 +1898,8 @@
       "related": [],
       "region": [],
       "num": 80,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1671,6 +1916,8 @@
       "related": [],
       "region": [],
       "num": 81,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1687,6 +1934,8 @@
       "related": [],
       "region": [],
       "num": 82,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1703,6 +1952,8 @@
       "related": [],
       "region": [],
       "num": 83,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1719,6 +1970,8 @@
       "related": [],
       "region": [],
       "num": 84,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1735,6 +1988,8 @@
       "related": [],
       "region": [],
       "num": 85,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     },
     {
@@ -1751,6 +2006,8 @@
       "related": [],
       "region": [],
       "num": 86,
+      "published": null,
+      "is_new": false,
       "status": "queue"
     }
   ]

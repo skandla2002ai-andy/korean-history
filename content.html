@@ -4,13 +4,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>주요 콘텐츠 — 한국사 아카이브</title>
-<meta name="description" content="연재 중인 한국사 글 목록. 사실 본문(article)과 편집자 해석(commentary)으로 구분됩니다.">
+<meta name="description" content="연재 중인 한국사 글 목록. 최신순 정렬, 7일 이내 발행 글에 NEW 표시.">
 <link rel="alternate" type="text/markdown" href="/korean-history/content.md">
 <style>
-  :root{
-    --bg:#faf8f3; --ink:#1a1a17; --muted:#6b6862; --accent:#c2410c;
-    --line:#e3ddd0; --fact:#1f5c3d; --opinion:#9a6b1c; --tag-bg:#ece5d6;
-  }
+  :root{--bg:#faf8f3;--ink:#1a1a17;--muted:#6b6862;--accent:#c2410c;
+    --line:#e3ddd0;--fact:#1f5c3d;--opinion:#9a6b1c;--tag-bg:#ece5d6;--new:#1f5c3d}
   *{margin:0;padding:0;box-sizing:border-box}
   body{background:var(--bg);color:var(--ink);
     font-family:'Iowan Old Style','Palatino Linotype',Georgia,serif;
@@ -24,35 +22,31 @@
   h2{font-size:1.05rem;font-family:'SF Mono','Menlo',monospace;
     letter-spacing:.04em;margin:3rem 0 1rem;padding-top:2rem;
     border-top:1px solid var(--line);font-weight:500}
-  .era-label{font-family:'SF Mono','Menlo',monospace;font-size:.7rem;
-    letter-spacing:.12em;text-transform:uppercase;color:var(--muted);
-    margin-bottom:.8rem;display:block}
   .article-group{margin-bottom:2.5rem}
   .article-row{display:flex;flex-direction:column;gap:.35rem;
     padding:.9rem 0;border-bottom:1px solid var(--line)}
   .article-row:last-child{border-bottom:none}
-  .article-title{font-weight:600;font-size:1rem}
+  .article-title{font-weight:600;font-size:1rem;display:flex;align-items:center;gap:.5rem}
   .article-title a{color:var(--ink);text-decoration:none}
   .article-title a:hover{color:var(--accent)}
   .article-meta{display:flex;flex-wrap:wrap;gap:.4rem;align-items:center}
-  .badge{font-family:'SF Mono','Menlo',monospace;font-size:.7rem;
-    padding:.2em .6em;border-radius:5px}
+  .badge{font-family:'SF Mono','Menlo',monospace;font-size:.7rem;padding:.2em .6em;border-radius:5px}
   .badge-article{background:rgba(31,92,61,.1);color:var(--fact)}
-  .badge-commentary{background:rgba(154,107,28,.1);color:var(--opinion)}
+  .badge-new{background:var(--new);color:#fff;font-family:'SF Mono','Menlo',monospace;
+    font-size:.65rem;font-weight:700;padding:.2em .55em;border-radius:4px;letter-spacing:.06em}
+  .badge-date{font-family:'SF Mono','Menlo',monospace;font-size:.68rem;color:var(--muted)}
   .tag{font-family:'SF Mono','Menlo',monospace;font-size:.72rem;
     background:var(--tag-bg);padding:.2em .55em;border-radius:5px;color:var(--muted)}
   .commentary-row{display:flex;align-items:baseline;gap:.5rem;
-    padding:.5rem 0 .5rem 1.2rem;border-bottom:1px solid var(--line);
-    font-size:.92rem}
+    padding:.5rem 0 .5rem 1.2rem;border-bottom:1px solid var(--line);font-size:.92rem}
   .commentary-row:last-child{border-bottom:none}
   .commentary-row a{color:var(--opinion);text-decoration:none}
   .commentary-row a:hover{text-decoration:underline}
-  .commentary-prefix{font-family:'SF Mono','Menlo',monospace;
-    font-size:.68rem;color:var(--opinion);white-space:nowrap}
-  a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:3px}
+  .commentary-prefix{font-family:'SF Mono','Menlo',monospace;font-size:.68rem;
+    color:var(--opinion);white-space:nowrap}
   .nav{margin-bottom:2rem;font-family:'SF Mono','Menlo',monospace;font-size:.8rem}
   .nav a{color:var(--accent);text-decoration:none}
-  .nav a:hover{text-decoration:underline}
+  a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:3px}
   footer{margin-top:4rem;padding-top:2rem;border-top:1px solid var(--line);
     color:var(--muted);font-size:.85rem;font-family:'SF Mono','Menlo',monospace}
 </style>
@@ -60,98 +54,138 @@
 <body>
 <main class="wrap">
   <div class="nav"><a href="/korean-history/">← 한국사 아카이브</a></div>
-
   <div class="eyebrow">Contents</div>
   <h1>주요 콘텐츠</h1>
-  <p class="lead">연재 중인 한국사 글 목록. <span style="color:var(--fact)">●&nbsp;article</span>과 <span style="color:var(--opinion)">✎&nbsp;commentary</span>로 구분됩니다.</p>
-
-  <h2>// 통일신라</h2>
-  <div class="article-group">
-    <div class="article-row">
-      <div class="article-title"><a href="/korean-history/articles/silla-tang.html">신라와 당의 외교 관계</a></div>
-      <div class="article-meta"><span class="badge badge-article">● article</span><span class="tag">경주</span><span class="tag">외교</span><span class="tag">당나라</span></div>
-    </div>
-    <div class="commentary-row"><span class="commentary-prefix">✎ commentary</span><a href="/korean-history/thoughts/silla-tang-editor.html">신라의 외교는 굴종이었나, 전략이었나</a></div>
-    <div class="article-row">
-      <div class="article-title"><a href="/korean-history/articles/cheomseongdae.html">선덕여왕의 첨성대</a></div>
-      <div class="article-meta"><span class="badge badge-article">● article</span><span class="tag">경주</span><span class="tag">천문</span><span class="tag">선덕여왕</span></div>
-    </div>
-    <div class="commentary-row"><span class="commentary-prefix">✎ commentary</span><a href="/korean-history/thoughts/cheomseongdae-editor.html">첨성대는 왜 지어졌는가 — 정치적 정당성의 도구</a></div>
-    <div class="article-row">
-      <div class="article-title"><a href="/korean-history/articles/wonhyo.html">원효의 해골 물 — 깨달음의 순간</a></div>
-      <div class="article-meta"><span class="badge badge-article">● article</span><span class="tag">통일신라</span><span class="tag">불교</span><span class="tag">인물</span></div>
-    </div>
-    <div class="commentary-row"><span class="commentary-prefix">✎ commentary</span><a href="/korean-history/thoughts/wonhyo-editor.html">유학 포기가 오히려 한국 불교의 독자 노선이 된 이유</a></div>
-    <div class="article-row">
-      <div class="article-title"><a href="/korean-history/articles/hyecho.html">혜초, 신라 승려의 인도 여행기</a></div>
-      <div class="article-meta"><span class="badge badge-article">● article</span><span class="tag">통일신라</span><span class="tag">여행</span><span class="tag">불교</span></div>
-    </div>
-    <div class="commentary-row"><span class="commentary-prefix">✎ commentary</span><a href="/korean-history/thoughts/hyecho-editor.html">『왕오천축국전』도 파리에 있다 — 패턴의 반복</a></div>
-    <div class="article-row">
-      <div class="article-title"><a href="/korean-history/articles/jangbogo.html">장보고, 바다를 지배한 평민</a></div>
-      <div class="article-meta"><span class="badge badge-article">● article</span><span class="tag">완도·청해진</span><span class="tag">무역</span><span class="tag">당나라</span><span class="tag">일본</span></div>
-    </div>
-    <div class="commentary-row"><span class="commentary-prefix">✎ commentary</span><a href="/korean-history/thoughts/jangbogo-editor.html">장보고는 영웅이었나, 권력욕에 눈먼 반역자였나</a></div>
-    <div class="article-row">
-      <div class="article-title"><a href="/korean-history/articles/cheoyong.html">처용, 역신에게 아내를 빼앗기고 춤을 추다</a></div>
-      <div class="article-meta"><span class="badge badge-article">● article</span><span class="tag">경주</span><span class="tag">설화</span><span class="tag">향가</span></div>
-    </div>
-    <div class="commentary-row"><span class="commentary-prefix">✎ commentary</span><a href="/korean-history/thoughts/cheoyong-editor.html">처용은 왜 화내지 않았는가 — 설화의 심리적 구조</a></div>
-  </div>
-
-  <h2>// 고려</h2>
-  <div class="article-group">
-    <div class="article-row">
-      <div class="article-title"><a href="/korean-history/articles/tripitaka.html">팔만대장경 — 전쟁 중에 새긴 8만 장의 나무</a></div>
-      <div class="article-meta"><span class="badge badge-article">● article</span><span class="tag">강화도</span><span class="tag">불교</span><span class="tag">몽골</span></div>
-    </div>
-    <div class="commentary-row"><span class="commentary-prefix">✎ commentary</span><a href="/korean-history/thoughts/tripitaka-editor.html">전쟁 중 문화 사업 — 실용인가, 도피인가</a></div>
-    <div class="article-row">
-      <div class="article-title"><a href="/korean-history/articles/uimin.html">이의민 — 노비의 아들이 최고 권력자가 되다</a></div>
-      <div class="article-meta"><span class="badge badge-article">● article</span><span class="tag">고려</span><span class="tag">무신정권</span><span class="tag">인물</span></div>
-    </div>
-    <div class="commentary-row"><span class="commentary-prefix">✎ commentary</span><a href="/korean-history/thoughts/uimin-editor.html">고려 무신 시대는 신분 상승의 시대였는가</a></div>
-    <div class="article-row">
-      <div class="article-title"><a href="/korean-history/articles/gongmin.html">공민왕과 노국공주 — 사랑이 나라를 흔들다</a></div>
-      <div class="article-meta"><span class="badge badge-article">● article</span><span class="tag">고려</span><span class="tag">원나라</span><span class="tag">인물</span></div>
-    </div>
-    <div class="commentary-row"><span class="commentary-prefix">✎ commentary</span><a href="/korean-history/thoughts/gongmin-editor.html">개인의 사랑이 국가 정치를 어떻게 무너뜨렸는가</a></div>
-    <div class="article-row">
-      <div class="article-title"><a href="/korean-history/articles/jikji.html">직지심체요절, 구텐베르크보다 78년 앞선 금속활자</a></div>
-      <div class="article-meta"><span class="badge badge-article">● article</span><span class="tag">청주</span><span class="tag">기술</span><span class="tag">프랑스</span></div>
-    </div>
-    <div class="commentary-row"><span class="commentary-prefix">✎ commentary</span><a href="/korean-history/thoughts/jikji-editor.html">직지는 왜 아직도 파리에 있는가</a></div>
-  </div>
-
+  <p class="lead">발행된 글 14편 · 최신순 정렬 · <span style="background:#1f5c3d;color:#fff;font-family:monospace;font-size:.75rem;padding:.15em .5em;border-radius:4px">NEW</span> = 7일 이내 발행</p>
   <h2>// 조선</h2>
   <div class="article-group">
     <div class="article-row">
-      <div class="article-title"><a href="/korean-history/articles/jang-yeongshil.html">장영실 — 관노가 발명한 조선의 시간</a></div>
-      <div class="article-meta"><span class="badge badge-article">● article</span><span class="tag">조선</span><span class="tag">과학</span><span class="tag">세종</span></div>
-    </div>
-    <div class="commentary-row"><span class="commentary-prefix">✎ commentary</span><a href="/korean-history/thoughts/jang-yeongshil-editor.html">세종은 왜 장영실을 버렸는가</a></div>
-    <div class="article-row">
-      <div class="article-title"><a href="/korean-history/articles/heo-jun.html">허준과 『동의보감』 — 전란과 유배 중에 완성된 책</a></div>
-      <div class="article-meta"><span class="badge badge-article">● article</span><span class="tag">조선</span><span class="tag">의학</span><span class="tag">임진왜란</span></div>
-    </div>
-    <div class="commentary-row"><span class="commentary-prefix">✎ commentary</span><a href="/korean-history/thoughts/heo-jun-editor.html">고통이 걸작을 만드는가 — 허준의 경우</a></div>
-    <div class="article-row">
       <div class="article-title"><a href="/korean-history/articles/admiral-yi.html">이순신과 명량 — 12척 대 333척</a></div>
-      <div class="article-meta"><span class="badge badge-article">● article</span><span class="tag">조선</span><span class="tag">임진왜란</span><span class="tag">해전</span></div>
+      <div class="article-meta"><span class="badge badge-article">● article</span><span class="badge-date">2026-05-01</span><span class="tag">조선</span><span class="tag">임진왜란</span><span class="tag">인물</span></div>
     </div>
-    <div class="commentary-row"><span class="commentary-prefix">✎ commentary</span><a href="/korean-history/thoughts/admiral-yi-editor.html">이순신의 진짜 적은 왜군이 아니라 선조였다</a></div>
+    <div class="commentary-row">
+      <span class="commentary-prefix">✎ commentary</span>
+      <a href="/korean-history/thoughts/admiral-yi-editor.html">이순신의 진짜 적은 선조였다 — 편집자의 생각</a>
+    </div>
+    <div class="article-row">
+      <div class="article-title"><a href="/korean-history/articles/heo-jun.html">허준과 『동의보감』</a></div>
+      <div class="article-meta"><span class="badge badge-article">● article</span><span class="badge-date">2026-05-01</span><span class="tag">조선</span><span class="tag">의학</span><span class="tag">인물</span><span class="tag">임진왜란</span></div>
+    </div>
+    <div class="commentary-row">
+      <span class="commentary-prefix">✎ commentary</span>
+      <a href="/korean-history/thoughts/heo-jun-editor.html">고통이 걸작을 만드는가 — 허준의 경우</a>
+    </div>
+    <div class="article-row">
+      <div class="article-title"><a href="/korean-history/articles/jang-yeongshil.html">장영실 — 관노가 발명한 조선의 시간</a></div>
+      <div class="article-meta"><span class="badge badge-article">● article</span><span class="badge-date">2026-05-01</span><span class="tag">조선</span><span class="tag">과학·기술</span><span class="tag">인물</span></div>
+    </div>
+    <div class="commentary-row">
+      <span class="commentary-prefix">✎ commentary</span>
+      <a href="/korean-history/thoughts/jang-yeongshil-editor.html">세종은 왜 장영실을 버렸는가 — 편집자의 생각</a>
+    </div>
   </div>
-
-  <h2>// 근현대</h2>
+  <h2>// 대한제국</h2>
   <div class="article-group">
     <div class="article-row">
-      <div class="article-title"><a href="/korean-history/articles/ahn-junggeun.html">안중근의 동양평화론 — 저격범인가, 사상가인가</a></div>
-      <div class="article-meta"><span class="badge badge-article">● article</span><span class="tag">대한제국</span><span class="tag">독립운동</span><span class="tag">인물</span></div>
+      <div class="article-title"><a href="/korean-history/articles/ahn-junggeun.html">안중근의 동양평화론</a></div>
+      <div class="article-meta"><span class="badge badge-article">● article</span><span class="badge-date">2026-05-01</span><span class="tag">대한제국</span><span class="tag">독립운동</span><span class="tag">인물</span></div>
     </div>
-    <div class="commentary-row"><span class="commentary-prefix">✎ commentary</span><a href="/korean-history/thoughts/ahn-junggeun-editor.html">안중근이 단순 테러리스트가 아닌 이유</a></div>
+    <div class="commentary-row">
+      <span class="commentary-prefix">✎ commentary</span>
+      <a href="/korean-history/thoughts/ahn-junggeun-editor.html">안중근이 단순 테러리스트가 아닌 이유 — 편집자의 생각</a>
+    </div>
   </div>
-
+  <h2>// 신라</h2>
+  <div class="article-group">
+    <div class="article-row">
+      <div class="article-title"><a href="/korean-history/articles/cheomseongdae.html">선덕여왕의 첨성대</a></div>
+      <div class="article-meta"><span class="badge badge-article">● article</span><span class="badge-date">2026-05-01</span><span class="tag">신라</span><span class="tag">과학</span><span class="tag">인물</span></div>
+    </div>
+    <div class="commentary-row">
+      <span class="commentary-prefix">✎ commentary</span>
+      <a href="/korean-history/thoughts/cheomseongdae-editor.html">첨성대는 왜 지어졌는가</a>
+    </div>
+  </div>
+  <h2>// 통일신라</h2>
+  <div class="article-group">
+    <div class="article-row">
+      <div class="article-title"><a href="/korean-history/articles/cheoyong.html">처용, 역신에게 아내를 빼앗기고 춤을 추다</a></div>
+      <div class="article-meta"><span class="badge badge-article">● article</span><span class="badge-date">2026-05-01</span><span class="tag">통일신라</span><span class="tag">설화</span><span class="tag">문화</span></div>
+    </div>
+    <div class="commentary-row">
+      <span class="commentary-prefix">✎ commentary</span>
+      <a href="/korean-history/thoughts/cheoyong-editor.html">처용은 왜 화내지 않았는가</a>
+    </div>
+    <div class="article-row">
+      <div class="article-title"><a href="/korean-history/articles/hyecho.html">혜초, 신라 승려의 인도 여행기</a></div>
+      <div class="article-meta"><span class="badge badge-article">● article</span><span class="badge-date">2026-05-01</span><span class="tag">통일신라</span><span class="tag">여행</span><span class="tag">불교</span></div>
+    </div>
+    <div class="commentary-row">
+      <span class="commentary-prefix">✎ commentary</span>
+      <a href="/korean-history/thoughts/hyecho-editor.html">『왕오천축국전』도 파리에 있다</a>
+    </div>
+    <div class="article-row">
+      <div class="article-title"><a href="/korean-history/articles/jangbogo.html">장보고, 바다를 지배한 평민</a></div>
+      <div class="article-meta"><span class="badge badge-article">● article</span><span class="badge-date">2026-05-01</span><span class="tag">통일신라</span><span class="tag">무역</span><span class="tag">인물</span></div>
+    </div>
+    <div class="commentary-row">
+      <span class="commentary-prefix">✎ commentary</span>
+      <a href="/korean-history/thoughts/jangbogo-editor.html">장보고는 영웅이었나, 반역자였나</a>
+    </div>
+    <div class="article-row">
+      <div class="article-title"><a href="/korean-history/articles/silla-tang.html">신라와 당의 외교 관계</a></div>
+      <div class="article-meta"><span class="badge badge-article">● article</span><span class="badge-date">2026-05-01</span><span class="tag">통일신라</span><span class="tag">외교</span><span class="tag">정치</span></div>
+    </div>
+    <div class="commentary-row">
+      <span class="commentary-prefix">✎ commentary</span>
+      <a href="/korean-history/thoughts/silla-tang-editor.html">편집자의 생각: 신라의 외교</a>
+    </div>
+    <div class="article-row">
+      <div class="article-title"><a href="/korean-history/articles/wonhyo.html">원효의 해골 물</a></div>
+      <div class="article-meta"><span class="badge badge-article">● article</span><span class="badge-date">2026-05-01</span><span class="tag">통일신라</span><span class="tag">불교</span><span class="tag">인물</span><span class="tag">사상</span></div>
+    </div>
+    <div class="commentary-row">
+      <span class="commentary-prefix">✎ commentary</span>
+      <a href="/korean-history/thoughts/wonhyo-editor.html">유학 포기가 오히려 독자 노선이 된 이유</a>
+    </div>
+  </div>
+  <h2>// 고려</h2>
+  <div class="article-group">
+    <div class="article-row">
+      <div class="article-title"><a href="/korean-history/articles/gongmin.html">공민왕과 노국공주</a></div>
+      <div class="article-meta"><span class="badge badge-article">● article</span><span class="badge-date">2026-05-01</span><span class="tag">고려</span><span class="tag">정치</span><span class="tag">인물</span></div>
+    </div>
+    <div class="commentary-row">
+      <span class="commentary-prefix">✎ commentary</span>
+      <a href="/korean-history/thoughts/gongmin-editor.html">개인의 사랑이 국가 정치를 어떻게 무너뜨렸는가</a>
+    </div>
+    <div class="article-row">
+      <div class="article-title"><a href="/korean-history/articles/jikji.html">직지심체요절, 구텐베르크보다 78년 앞선 금속활자</a></div>
+      <div class="article-meta"><span class="badge badge-article">● article</span><span class="badge-date">2026-05-01</span><span class="tag">고려</span><span class="tag">기술</span><span class="tag">문화</span></div>
+    </div>
+    <div class="commentary-row">
+      <span class="commentary-prefix">✎ commentary</span>
+      <a href="/korean-history/thoughts/jikji-editor.html">직지는 왜 아직도 파리에 있는가</a>
+    </div>
+    <div class="article-row">
+      <div class="article-title"><a href="/korean-history/articles/tripitaka.html">팔만대장경</a></div>
+      <div class="article-meta"><span class="badge badge-article">● article</span><span class="badge-date">2026-05-01</span><span class="tag">고려</span><span class="tag">불교</span><span class="tag">문화</span></div>
+    </div>
+    <div class="commentary-row">
+      <span class="commentary-prefix">✎ commentary</span>
+      <a href="/korean-history/thoughts/tripitaka-editor.html">전쟁 중 문화 사업 — 실용인가, 도피인가</a>
+    </div>
+    <div class="article-row">
+      <div class="article-title"><a href="/korean-history/articles/uimin.html">이의민 — 노비의 아들이 최고 권력자가 되다</a></div>
+      <div class="article-meta"><span class="badge badge-article">● article</span><span class="badge-date">2026-05-01</span><span class="tag">고려</span><span class="tag">정치</span><span class="tag">인물</span></div>
+    </div>
+    <div class="commentary-row">
+      <span class="commentary-prefix">✎ commentary</span>
+      <a href="/korean-history/thoughts/uimin-editor.html">고려 무신 시대는 신분 상승의 시대였는가</a>
+    </div>
+  </div>
   <footer>
+    총 14편 발행 · 최종 갱신 2026-06-14<br>
     Markdown 버전: <a href="/korean-history/content.md">/content.md</a><br>
     CC BY 4.0 Andy PAK
   </footer>

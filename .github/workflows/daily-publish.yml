@@ -39,8 +39,10 @@ jobs:
           echo "title=$TITLE" >> $GITHUB_OUTPUT
           echo "file=$NEXT" >> $GITHUB_OUTPUT
 
-          # articles/ 로 이동
-          cp "_queue/articles/$NEXT" "articles/${SLUG}.html"
+          # articles/ 로 이동 + 발행 날짜 주입
+          PUBLISH_DATE=$(date -u +%Y-%m-%d)
+          sed "s|</head>|<meta name=\"published\" content=\"${PUBLISH_DATE}\">\n</head>|" \
+            "_queue/articles/$NEXT" > "articles/${SLUG}.html"
           rm "_queue/articles/$NEXT"
 
           # 편집자 의견도 이동 (있을 경우)
