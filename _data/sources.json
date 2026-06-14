@@ -1,0 +1,239 @@
+{
+  "_meta": {
+    "description": "한국사 아카이브 공식 출처 목록. 홈페이지에 노출하지 않으며 내부 참조 및 출처 표기 시 활용.",
+    "trust_score": "1~5 (5=최고신뢰 / 정부·국책기관 1차 사료, 4=국공립기관 공식 자료, 3=학술기관·대학, 2=민간 공신력 매체, 1=참고용)",
+    "last_updated": "2026-06-14"
+  },
+  "sources": [
+    {
+      "id": "sillok",
+      "name": "조선왕조실록 (朝鮮王朝實錄)",
+      "name_en": "Annals of the Joseon Dynasty",
+      "url": "https://sillok.history.go.kr",
+      "operator": "국사편찬위원회",
+      "trust_score": 5,
+      "note": "조선 태조~철종(1392~1863) 전 기간 국왕별 실록 원문·번역 전문 제공. 1차 사료 최고 권위.",
+      "used_in": ["001","002","006","007","008","009","011","012","013","018","019","020","025","027","028","029","030","032","036","037","042","044","046","048","051","054","057","060","065","069","070","073","074","075","078","079","080"]
+    },
+    {
+      "id": "history-go",
+      "name": "국사편찬위원회 한국사데이터베이스",
+      "name_en": "National Institute of Korean History DB",
+      "url": "https://db.history.go.kr",
+      "operator": "국사편찬위원회 (교육부 산하)",
+      "trust_score": 5,
+      "note": "한국사 1차·2차 사료 통합 DB. 실록·고려사·삼국사기·독립운동 자료 등 수록.",
+      "used_in": ["002","003","005","008","011","014","015","016","021","026","034","038","039","040","041","045","049","050","058","059","061","062","063","071","076","077","082","083","085"]
+    },
+    {
+      "id": "encykorea",
+      "name": "한국민족문화대백과사전",
+      "name_en": "Encyclopedia of Korean Culture",
+      "url": "https://encykorea.aks.ac.kr",
+      "operator": "한국학중앙연구원",
+      "trust_score": 5,
+      "note": "국가 공인 한국학 백과사전. 인물·사건·제도·유물 항목별 학술 검증 서술.",
+      "used_in": ["001","002","003","004","005","006","007","008","009","010","011","012","013","014","015","016","017","018","019","020","021","022","023","024","025","026","027","028"]
+    },
+    {
+      "id": "aks",
+      "name": "한국학중앙연구원",
+      "name_en": "Academy of Korean Studies",
+      "url": "https://www.aks.ac.kr",
+      "operator": "한국학중앙연구원 (교육부 산하)",
+      "trust_score": 5,
+      "note": "한국학 전문 국책 연구기관. 한국민족문화대백과사전·왕조실록 번역 주관.",
+      "used_in": []
+    },
+    {
+      "id": "cha",
+      "name": "문화재청 국가문화유산포털",
+      "name_en": "Cultural Heritage Administration",
+      "url": "https://www.heritage.go.kr",
+      "operator": "문화재청 (국가유산청)",
+      "trust_score": 5,
+      "note": "국보·보물·사적·무형문화재 등 공식 지정 자료. 실측 수치·지정 이유 수록.",
+      "used_in": ["001","004","005","010","017","023","025","031","033","044","048","051","060","066","070","073","081","084"]
+    },
+    {
+      "id": "museum",
+      "name": "국립중앙박물관",
+      "name_en": "National Museum of Korea",
+      "url": "https://www.museum.go.kr",
+      "operator": "국립중앙박물관 (문화체육관광부)",
+      "trust_score": 5,
+      "note": "소장 유물 원문 정보·전시 해설. 선사~근현대 유물 DB 포함.",
+      "used_in": ["004","010","017","023","031","033","044","048","055","063","066","070","073","081"]
+    },
+    {
+      "id": "itkc",
+      "name": "한국고전번역원 한국고전종합DB",
+      "name_en": "Institute for the Translation of Korean Classics",
+      "url": "https://db.itkc.or.kr",
+      "operator": "한국고전번역원",
+      "trust_score": 5,
+      "note": "삼국사기·삼국유사·고려사·조선왕조실록 등 고전 원문·번역 전문 제공.",
+      "used_in": ["003","005","010","017","023","024","031","033","035","043","052","055","062","063","076"]
+    },
+    {
+      "id": "independence",
+      "name": "독립기념관 한국독립운동사 정보시스템",
+      "name_en": "Independence Hall of Korea",
+      "url": "https://search.i815.or.kr",
+      "operator": "독립기념관",
+      "trust_score": 5,
+      "note": "3·1운동·임시정부·의열단 등 독립운동 인물·사건 공식 DB.",
+      "used_in": ["014","015","016","021","049","050","059","061","082"]
+    },
+    {
+      "id": "kyujanggak",
+      "name": "서울대 규장각한국학연구원",
+      "name_en": "Kyujanggak Institute for Korean Studies, SNU",
+      "url": "https://kyu.snu.ac.kr",
+      "operator": "서울대학교",
+      "trust_score": 4,
+      "note": "조선왕조 왕실 도서관 기록물 원본 소장·디지털화. 의궤·등록류 원문 열람.",
+      "used_in": ["007","018","025","027","029","036","044","046","054","057","065","069","073","075","078","079","080"]
+    },
+    {
+      "id": "nl-go",
+      "name": "국립중앙도서관",
+      "name_en": "National Library of Korea",
+      "url": "https://www.nl.go.kr",
+      "operator": "국립중앙도서관 (문화체육관광부)",
+      "trust_score": 4,
+      "note": "고문헌·근현대 자료 원문 열람. 대한민국 납본 도서 전체 소장.",
+      "used_in": []
+    },
+    {
+      "id": "nrich",
+      "name": "국립문화재연구원",
+      "name_en": "National Research Institute of Cultural Heritage",
+      "url": "https://www.nrich.go.kr",
+      "operator": "국립문화재연구원 (국가유산청)",
+      "trust_score": 4,
+      "note": "고고·발굴 조사 보고서 공식 제공. 선사~삼국시대 유적 수치 기준.",
+      "used_in": ["024","031","035","043","052","055","062","063","066","076"]
+    },
+    {
+      "id": "prism",
+      "name": "국가기록원",
+      "name_en": "National Archives of Korea",
+      "url": "https://www.archives.go.kr",
+      "operator": "행정안전부",
+      "trust_score": 4,
+      "note": "대한민국 정부 공문서·행정기록 공식 보관소. 근현대사 공식 문서 열람.",
+      "used_in": ["038","039","040","041","047","053","056","064","067","068","071","077","083","085","086"]
+    },
+    {
+      "id": "mofa",
+      "name": "외교부 조약정보",
+      "name_en": "Ministry of Foreign Affairs - Treaties",
+      "url": "https://www.mofa.go.kr/www/wpge/m_3834/contents.do",
+      "operator": "외교부",
+      "trust_score": 4,
+      "note": "한국 체결 조약·협약 원문 공식 제공.",
+      "used_in": ["038","039","047","050","067","083"]
+    },
+    {
+      "id": "unesco-ich",
+      "name": "UNESCO 무형문화유산",
+      "name_en": "UNESCO Intangible Cultural Heritage",
+      "url": "https://ich.unesco.org",
+      "operator": "UNESCO",
+      "trust_score": 4,
+      "note": "판소리·강강술래·김장문화 등 한국 무형문화유산 등재 결정문 원문.",
+      "used_in": ["001","004","017","025","033","044","048","051","065","068","073","080","084"]
+    },
+    {
+      "id": "unesco-whs",
+      "name": "UNESCO 세계문화유산",
+      "name_en": "UNESCO World Heritage Sites",
+      "url": "https://whc.unesco.org",
+      "operator": "UNESCO",
+      "trust_score": 4,
+      "note": "경주·수원화성·창덕궁·조선왕릉 등 한국 세계유산 등재 결정문.",
+      "used_in": ["001","005","010","017","025","033","044","051","065","070","073","081"]
+    },
+    {
+      "id": "unesco-mow",
+      "name": "UNESCO 세계기록유산",
+      "name_en": "UNESCO Memory of the World",
+      "url": "https://www.unesco.org/en/memory-world",
+      "operator": "UNESCO",
+      "trust_score": 4,
+      "note": "훈민정음·조선왕조실록·난중일기·동의보감 등 등재 결정문.",
+      "used_in": ["001","004","032","044","084"]
+    },
+    {
+      "id": "emuseum",
+      "name": "e뮤지엄 (국립박물관 통합검색)",
+      "name_en": "e-Museum",
+      "url": "https://www.emuseum.go.kr",
+      "operator": "국립중앙박물관",
+      "trust_score": 4,
+      "note": "국립·공립 박물관 소장 유물 통합 검색. 유물 번호·소장처·재질·크기 공식 정보.",
+      "used_in": ["004","010","017","023","024","031","033","043","044","048","052","055","062","063","066","070","073","076","081"]
+    },
+    {
+      "id": "khistory",
+      "name": "우리역사넷",
+      "name_en": "Korean History Online",
+      "url": "https://contents.history.go.kr",
+      "operator": "국사편찬위원회",
+      "trust_score": 4,
+      "note": "국사편찬위원회 대중 서비스. 한국사 개설·교과서 연계 자료 제공.",
+      "used_in": []
+    },
+    {
+      "id": "mpva",
+      "name": "국가보훈부",
+      "name_en": "Ministry of Patriots and Veterans Affairs",
+      "url": "https://www.mpva.go.kr",
+      "operator": "국가보훈부",
+      "trust_score": 4,
+      "note": "독립유공자 공훈록·서훈 정보 공식 제공.",
+      "used_in": ["014","015","016","021","049","059","061","082"]
+    },
+    {
+      "id": "jejuarchive",
+      "name": "제주4·3사건 진상규명 및 희생자명예회복위원회",
+      "name_en": "Jeju April 3rd Committee",
+      "url": "https://jeju43.go.kr",
+      "operator": "행정안전부",
+      "trust_score": 5,
+      "note": "4·3 사건 공식 정부 보고서·희생자 명단 제공.",
+      "used_in": ["085"]
+    },
+    {
+      "id": "518",
+      "name": "5·18민주화운동기록관",
+      "name_en": "May 18th Archives",
+      "url": "https://www.518archives.go.kr",
+      "operator": "광주광역시",
+      "trust_score": 5,
+      "note": "5·18 공식 기록물·희생자 자료. UNESCO 세계기록유산 등재 문건 포함.",
+      "used_in": ["040"]
+    },
+    {
+      "id": "bok",
+      "name": "한국은행 경제통계시스템",
+      "name_en": "Bank of Korea Statistics",
+      "url": "https://ecos.bok.or.kr",
+      "operator": "한국은행",
+      "trust_score": 4,
+      "note": "GDP·경제성장률 등 공식 통계. 한강의 기적 수치 출처.",
+      "used_in": ["086"]
+    },
+    {
+      "id": "nso",
+      "name": "국가통계포털 (KOSIS)",
+      "name_en": "Korean Statistical Information Service",
+      "url": "https://kosis.kr",
+      "operator": "통계청",
+      "trust_score": 4,
+      "note": "인구·경제·사회 통계 공식 포털.",
+      "used_in": ["086"]
+    }
+  ]
+}
