@@ -8,9 +8,9 @@
   "lastUpdated": "2026-06-14",
   "stats": {
     "total": 300,
-    "published": 14,
-    "queued": 286,
-    "new": 0
+    "published": 15,
+    "queued": 285,
+    "new": 1
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,30 @@
     }
   ],
   "articles": [
+    {
+      "title": "세종과 훈민정음",
+      "description": "1443년 세종이 직접 창제한 훈민정음. 왜 왕이 직접 글자를 만들었는가.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "인물",
+        "문화",
+        "과학·기술"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-14",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 세종과 훈민정음",
+        "url": "/korean-history/thoughts/sejong-hangul-editor.html"
+      }
+    },
     {
       "title": "이순신과 명량 — 12척 대 333척",
       "description": "파직·고문·수군 해체 명령을 딛고 12척으로 333척의 왜선을 물리친 이순신의 명량해전.",
@@ -397,26 +421,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "세종과 훈민정음",
-      "description": "1443년 세종이 직접 창제한 훈민정음. 왜 왕이 직접 글자를 만들었는가.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/001-sejong-hangul.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/001-sejong-hangul.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "인물",
-        "문화",
-        "과학·기술"
-      ],
-      "related": [],
-      "region": [],
-      "num": 1,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "광개토대왕",
       "description": "391~413년 재위. 64개 성, 1,400개 촌락 정복. 고구려 역사상 가장 넓은 영토를 일군 정복 군주.",
