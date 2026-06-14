@@ -68,6 +68,17 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: .md 생성 + llms.txt·data.json 재생성
+        if: steps.publish.outputs.queue_empty != 'true'
+        run: |
+          # 발행된 글 .md 생성
+          python scripts/generate-md.py --published
+          # llms.txt + data.json 재생성 (전체 목록 반영)
+          python scripts/rebuild-index.py
+          git add articles/ _queue/ llms.txt data.json
+          git diff --staged --quiet || git commit -m "📄 인덱스 갱신: llms.txt·data.json·.md [skip ci]"
+          git push || true
+
       - name: 발행 후 품질 감사
         if: steps.publish.outputs.queue_empty != 'true'
         run: |
