@@ -27,8 +27,9 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (15편 · 최신순 · 갱신 2026-06-15)
+## 발행 완료 (16편 · 최신순 · 갱신 2026-06-15)
 
+- [](https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.md) [NEW]
 - [세종과 훈민정음](https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md): 조선 [NEW]
 - [이순신과 명량 — 12척 대 333척](https://skandla2002ai-andy.github.io/korean-history/articles/admiral-yi.md): 조선
 - [안중근의 동양평화론](https://skandla2002ai-andy.github.io/korean-history/articles/ahn-junggeun.md): 대한제국

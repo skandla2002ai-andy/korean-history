@@ -7,10 +7,10 @@
   "language": "ko",
   "lastUpdated": "2026-06-15",
   "stats": {
-    "total": 300,
-    "published": 15,
+    "total": 301,
+    "published": 16,
     "queued": 285,
-    "new": 1
+    "new": 2
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,20 @@
     }
   ],
   "articles": [
+    {
+      "title": "",
+      "description": "",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.md",
+      "era": [],
+      "topics": [],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-15",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "세종과 훈민정음",
       "description": "1443년 세종이 직접 창제한 훈민정음. 왜 왕이 직접 글자를 만들었는가.",
