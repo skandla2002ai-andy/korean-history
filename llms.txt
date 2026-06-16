@@ -27,8 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (15편 · 최신순 · 갱신 2026-06-14)
+## 발행 완료 (17편 · 최신순 · 갱신 2026-06-16)
 
+- [광개토대왕](https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md) [NEW]
+- [](https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.md) [NEW]
 - [세종과 훈민정음](https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md): 조선 [NEW]
 - [이순신과 명량 — 12척 대 333척](https://skandla2002ai-andy.github.io/korean-history/articles/admiral-yi.md): 조선
 - [안중근의 동양평화론](https://skandla2002ai-andy.github.io/korean-history/articles/ahn-junggeun.md): 대한제국
@@ -45,9 +47,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (285편)
+## 발행 예정 큐 (284편)
 
-- [002. 광개토대왕](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/002-gwanggaeto-expansion.html)
 - [003. 일연과 삼국유사](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/003-samguk-yusa-ilyeon.html): 고려
 - [004. 김만중](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/004-kim-manjung-gujuwonnim.html): 조선
 - [005. 선덕여왕의 통치](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/005-queen-seondeok-leadership.html): 신라 · 경주

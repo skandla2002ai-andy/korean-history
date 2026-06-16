@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-06-14",
+  "lastUpdated": "2026-06-16",
   "stats": {
-    "total": 300,
-    "published": 15,
-    "queued": 285,
-    "new": 1
+    "total": 301,
+    "published": 17,
+    "queued": 284,
+    "new": 3
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,42 @@
     }
   ],
   "articles": [
+    {
+      "title": "광개토대왕",
+      "description": "391~413년 재위. 64개 성, 1,400개 촌락 정복. 고구려 역사상 가장 넓은 영토를 일군 정복 군주.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md",
+      "era": [],
+      "topics": [
+        "인물",
+        "전쟁",
+        "정치"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-16",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 광개토대왕",
+        "url": "/korean-history/thoughts/gwanggaeto-expansion-editor.html"
+      }
+    },
+    {
+      "title": "",
+      "description": "",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.md",
+      "era": [],
+      "topics": [],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-16",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "세종과 훈민정음",
       "description": "1443년 세종이 직접 창제한 훈민정음. 왜 왕이 직접 글자를 만들었는가.",
@@ -421,24 +457,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "광개토대왕",
-      "description": "391~413년 재위. 64개 성, 1,400개 촌락 정복. 고구려 역사상 가장 넓은 영토를 일군 정복 군주.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/002-gwanggaeto-expansion.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/002-gwanggaeto-expansion.md",
-      "era": [],
-      "topics": [
-        "인물",
-        "전쟁",
-        "정치"
-      ],
-      "related": [],
-      "region": [],
-      "num": 2,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "일연과 삼국유사",
       "description": "1281년 완성된 삼국유사. 원나라 지배 아래 승려 일연이 우리 역사와 신화를 기록한 이유.",
