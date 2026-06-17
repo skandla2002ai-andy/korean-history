@@ -5,7 +5,7 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-06-16",
+  "lastUpdated": "2026-06-17",
   "stats": {
     "total": 301,
     "published": 17,
@@ -42,6 +42,20 @@
   ],
   "articles": [
     {
+      "title": "",
+      "description": "",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.md",
+      "era": [],
+      "topics": [],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-17",
+      "is_new": true,
+      "status": "published"
+    },
+    {
       "title": "광개토대왕",
       "description": "391~413년 재위. 64개 성, 1,400개 촌락 정복. 고구려 역사상 가장 넓은 영토를 일군 정복 군주.",
       "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.html",
@@ -62,20 +76,6 @@
         "title": "[편집자 의견] 광개토대왕",
         "url": "/korean-history/thoughts/gwanggaeto-expansion-editor.html"
       }
-    },
-    {
-      "title": "",
-      "description": "",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.md",
-      "era": [],
-      "topics": [],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-06-16",
-      "is_new": true,
-      "status": "published"
     },
     {
       "title": "세종과 훈민정음",
