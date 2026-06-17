@@ -7,10 +7,10 @@
   "language": "ko",
   "lastUpdated": "2026-06-17",
   "stats": {
-    "total": 301,
-    "published": 17,
+    "total": 302,
+    "published": 18,
     "queued": 284,
-    "new": 3
+    "new": 4
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,20 @@
     }
   ],
   "articles": [
+    {
+      "title": "",
+      "description": "",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md.md",
+      "era": [],
+      "topics": [],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-17",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "",
       "description": "",
