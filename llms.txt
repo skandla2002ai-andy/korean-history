@@ -27,8 +27,9 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (17편 · 최신순 · 갱신 2026-06-17)
+## 발행 완료 (18편 · 최신순 · 갱신 2026-06-17)
 
+- [](https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md.md) [NEW]
 - [](https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.md) [NEW]
 - [광개토대왕](https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md) [NEW]
 - [세종과 훈민정음](https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md): 조선 [NEW]
