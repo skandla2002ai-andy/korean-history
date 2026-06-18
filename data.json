@@ -5,7 +5,7 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-06-19",
+  "lastUpdated": "2026-06-18",
   "stats": {
     "total": 302,
     "published": 28,
@@ -42,273 +42,25 @@
   ],
   "articles": [
     {
-      "title": "병자호란",
-      "description": "1636년 12월. 청 태종의 12만 군대가 조선을 침략했다. 인조는 45일 만에 항복하고 삼전도에서 세 번 절했다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/byeongja-horan.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/byeongja-horan.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "전쟁"
-      ],
-      "related": [
-        "중국(청)"
-      ],
-      "region": [],
-      "num": null,
-      "published": "2026-06-18",
-      "is_new": true,
-      "status": "published",
-      "editor": {
-        "title": "[편집자 의견] 병자호란",
-        "url": "/korean-history/thoughts/byeongja-horan-editor.html"
-      }
+      "title": "\"이순신과 명량 — 12척 대 333척\"",
+      "url": "/korean-history/articles/admiral-yi.md",
+      "era": "\"조선\"",
+      "region": "",
+      "lastUpdated": "2026-06-18"
     },
     {
-      "title": "최치원",
-      "description": "857~?년. 12세에 당나라로 건너가 18세에 과거 급제한 뒤 신라로 돌아와 개혁을 꿈꿨으나 받아들여지지 않은 고독한 천재.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/choe-chiwon-scholar.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/choe-chiwon-scholar.md",
-      "era": [
-        "통일신라"
-      ],
-      "topics": [
-        "인물",
-        "문화·학문"
-      ],
-      "related": [
-        "중국(당)"
-      ],
-      "region": [],
-      "num": null,
-      "published": "2026-06-18",
-      "is_new": true,
-      "status": "published",
-      "editor": {
-        "title": "[편집자 의견] 최치원",
-        "url": "/korean-history/thoughts/choe-chiwon-scholar-editor.html"
-      }
+      "title": "\"안중근의 동양평화론\"",
+      "url": "/korean-history/articles/ahn-junggeun.md",
+      "era": "\"대한제국\"",
+      "region": "",
+      "lastUpdated": "2026-06-18"
     },
     {
-      "title": "단종",
-      "description": "1441~1457년. 삼촌 수양대군에게 왕위를 빼앗기고 강원도 영월에서 사사된 소년 왕.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/danjong-tragedy.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/danjong-tragedy.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "인물",
-        "정치"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-06-18",
-      "is_new": true,
-      "status": "published",
-      "editor": {
-        "title": "[편집자 의견] 단종",
-        "url": "/korean-history/thoughts/danjong-tragedy-editor.html"
-      }
-    },
-    {
-      "title": "",
-      "description": "",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md.md",
-      "era": [],
-      "topics": [],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-06-18",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "권율과 행주대첩",
-      "description": "1593년 2월 12일. 권율이 이끈 조선군 2,300명이 왜군 3만을 물리친 임진왜란 3대 대첩.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwon-yul-haengju.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwon-yul-haengju.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "임진왜란",
-        "인물"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": null,
-      "published": "2026-06-18",
-      "is_new": true,
-      "status": "published",
-      "editor": {
-        "title": "[편집자 의견] 행주대첩",
-        "url": "/korean-history/thoughts/gwon-yul-haengju-editor.html"
-      }
-    },
-    {
-      "title": "홍경래의 난",
-      "description": "1811~1812년. 평안도 지역 차별에 분노한 홍경래가 일으킨 조선 최대 민란.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hong-gyeongnae-rebellion.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hong-gyeongnae-rebellion.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "사회·민란"
-      ],
-      "related": [],
-      "region": [
-        "평안도"
-      ],
-      "num": null,
-      "published": "2026-06-18",
-      "is_new": true,
-      "status": "published",
-      "editor": {
-        "title": "[편집자 의견] 홍경래의 난",
-        "url": "/korean-history/thoughts/hong-gyeongnae-rebellion-editor.html"
-      }
-    },
-    {
-      "title": "황진이",
-      "description": "16세기 개성 기생. 당대 최고 선비들을 감복시키고 한국 시조사에 이름을 남긴 예인.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hwang-jini.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hwang-jini.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "인물",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-06-18",
-      "is_new": true,
-      "status": "published",
-      "editor": {
-        "title": "[편집자 의견] 황진이",
-        "url": "/korean-history/thoughts/hwang-jini-editor.html"
-      }
-    },
-    {
-      "title": "장희빈",
-      "description": "1659~1701년. 숙종의 총애를 받아 왕비에까지 오른 뒤 사사된 희빈 장씨의 실제 삶.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jang-heebin-poison.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jang-heebin-poison.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "인물",
-        "정치"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-06-18",
-      "is_new": true,
-      "status": "published",
-      "editor": {
-        "title": "[편집자 의견] 장희빈",
-        "url": "/korean-history/thoughts/jang-heebin-poison-editor.html"
-      }
-    },
-    {
-      "title": "김만중",
-      "description": "1687년 남해 유배지에서 완성한 『구운몽』. 어머니를 위해 쓴 소설의 정치적 함의.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/kim-manjung-gujuwonnim.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/kim-manjung-gujuwonnim.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "인물",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-06-18",
-      "is_new": true,
-      "status": "published",
-      "editor": {
-        "title": "[편집자 의견] 김만중",
-        "url": "/korean-history/thoughts/kim-manjung-gujuwonnim-editor.html"
-      }
-    },
-    {
-      "title": "선덕여왕의 통치",
-      "description": "632~647년 재위. 첨성대·황룡사 9층 목탑을 세우고, 삼국 전쟁의 한복판에서 신라를 이끈 여왕.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/queen-seondeok-leadership.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/queen-seondeok-leadership.md",
-      "era": [
-        "신라"
-      ],
-      "topics": [
-        "인물",
-        "정치"
-      ],
-      "related": [],
-      "region": [
-        "경주"
-      ],
-      "num": null,
-      "published": "2026-06-18",
-      "is_new": true,
-      "status": "published",
-      "editor": {
-        "title": "[편집자 의견] 선덕여왕",
-        "url": "/korean-history/thoughts/queen-seondeok-leadership-editor.html"
-      }
-    },
-    {
-      "title": "일연과 삼국유사",
-      "description": "1281년 완성된 삼국유사. 원나라 지배 아래 승려 일연이 우리 역사와 신화를 기록한 이유.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/samguk-yusa-ilyeon.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/samguk-yusa-ilyeon.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "인물",
-        "문화",
-        "불교"
-      ],
-      "related": [
-        "몽골"
-      ],
-      "region": [],
-      "num": null,
-      "published": "2026-06-18",
-      "is_new": true,
-      "status": "published",
-      "editor": {
-        "title": "[편집자 의견] 일연과 삼국유사",
-        "url": "/korean-history/thoughts/samguk-yusa-ilyeon-editor.html"
-      }
-    },
-    {
-      "title": "",
-      "description": "",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.md",
-      "era": [],
-      "topics": [],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-06-17",
-      "is_new": true,
-      "status": "published"
+      "title": "\"병자호란\"",
+      "url": "/korean-history/articles/byeongja-horan.md",
+      "era": "\"조선\"",
+      "region": "",
+      "lastUpdated": "2026-06-18"
     },
     {
       "title": "\"선덕여왕의 첨성대\"",
@@ -322,6 +74,20 @@
       "url": "/korean-history/articles/cheoyong.md",
       "era": "\"통일신라\"",
       "region": "\"경주\"",
+      "lastUpdated": "2026-06-18"
+    },
+    {
+      "title": "\"최치원\"",
+      "url": "/korean-history/articles/choe-chiwon-scholar.md",
+      "era": "\"통일신라\"",
+      "region": "",
+      "lastUpdated": "2026-06-18"
+    },
+    {
+      "title": "\"단종\"",
+      "url": "/korean-history/articles/danjong-tragedy.md",
+      "era": "\"조선\"",
+      "region": "",
       "lastUpdated": "2026-06-18"
     },
     {
@@ -346,8 +112,29 @@
       "lastUpdated": "2026-06-18"
     },
     {
+      "title": "\"권율과 행주대첩\"",
+      "url": "/korean-history/articles/gwon-yul-haengju.md",
+      "era": "\"조선\"",
+      "region": "",
+      "lastUpdated": "2026-06-18"
+    },
+    {
       "title": "\"허준과 『동의보감』\"",
       "url": "/korean-history/articles/heo-jun.md",
+      "era": "\"조선\"",
+      "region": "",
+      "lastUpdated": "2026-06-18"
+    },
+    {
+      "title": "\"홍경래의 난\"",
+      "url": "/korean-history/articles/hong-gyeongnae-rebellion.md",
+      "era": "\"조선\"",
+      "region": "\"평안도\"",
+      "lastUpdated": "2026-06-18"
+    },
+    {
+      "title": "\"황진이\"",
+      "url": "/korean-history/articles/hwang-jini.md",
       "era": "\"조선\"",
       "region": "",
       "lastUpdated": "2026-06-18"
@@ -356,6 +143,13 @@
       "title": "\"혜초, 신라 승려의 인도 여행기\"",
       "url": "/korean-history/articles/hyecho.md",
       "era": "\"통일신라\"",
+      "region": "",
+      "lastUpdated": "2026-06-18"
+    },
+    {
+      "title": "\"장희빈\"",
+      "url": "/korean-history/articles/jang-heebin-poison.md",
+      "era": "\"조선\"",
       "region": "",
       "lastUpdated": "2026-06-18"
     },
@@ -378,6 +172,27 @@
       "url": "/korean-history/articles/jikji.md",
       "era": "\"고려\"",
       "region": "\"청주·흥덕사\"",
+      "lastUpdated": "2026-06-18"
+    },
+    {
+      "title": "\"김만중\"",
+      "url": "/korean-history/articles/kim-manjung-gujuwonnim.md",
+      "era": "\"조선\"",
+      "region": "",
+      "lastUpdated": "2026-06-18"
+    },
+    {
+      "title": "\"선덕여왕의 통치\"",
+      "url": "/korean-history/articles/queen-seondeok-leadership.md",
+      "era": "\"신라\"",
+      "region": "\"경주\"",
+      "lastUpdated": "2026-06-18"
+    },
+    {
+      "title": "\"일연과 삼국유사\"",
+      "url": "/korean-history/articles/samguk-yusa-ilyeon.md",
+      "era": "\"고려\"",
+      "region": "",
       "lastUpdated": "2026-06-18"
     },
     {
