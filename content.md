@@ -1,6 +1,6 @@
 # 주요 콘텐츠
 
-> 연재 중인 한국사 글 목록. 마지막 업데이트: 2026-06-18 · 총 28편
+> 연재 중인 한국사 글 목록. 마지막 업데이트: 2026-06-18 · 총 26편
 
 
 
@@ -47,5 +47,3 @@
 ## 기타
 
 - ["광개토대왕"](/korean-history/articles/gwanggaeto-expansion.md) — 
-- ["gwanggaeto-expansion.md"](/korean-history/articles/gwanggaeto-expansion.md.md) — 
-- ["sejong-hangul.md"](/korean-history/articles/sejong-hangul.md.md) — 
