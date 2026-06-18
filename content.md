@@ -1,6 +1,6 @@
 # 주요 콘텐츠
 
-> 연재 중인 한국사 글 목록. 마지막 업데이트: 2026-06-14 · 총 14편
+> 연재 중인 한국사 글 목록. 마지막 업데이트: 2026-06-18 · 총 18편
 
 
 
@@ -24,6 +24,7 @@
 - ["이순신과 명량 — 12척 대 333척"](/korean-history/articles/admiral-yi.md) — 
 - ["허준과 『동의보감』"](/korean-history/articles/heo-jun.md) — 
 - ["장영실 — 관노가 발명한 조선의 시간"](/korean-history/articles/jang-yeongshil.md) — 
+- ["세종과 훈민정음"](/korean-history/articles/sejong-hangul.md) — 
 
 ## "통일신라"
 
@@ -32,3 +33,9 @@
 - ["장보고, 바다를 지배한 평민"](/korean-history/articles/jangbogo.md) — "완도·청해진"
 - ["신라와 당의 외교 관계"](/korean-history/articles/silla-tang.md) — "경주"
 - ["원효의 해골 물"](/korean-history/articles/wonhyo.md) — 
+
+## 기타
+
+- ["광개토대왕"](/korean-history/articles/gwanggaeto-expansion.md) — 
+- ["gwanggaeto-expansion.md"](/korean-history/articles/gwanggaeto-expansion.md.md) — 
+- ["sejong-hangul.md"](/korean-history/articles/sejong-hangul.md.md) — 
