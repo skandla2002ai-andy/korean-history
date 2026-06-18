@@ -20,8 +20,8 @@ jobs:
       - name: 다음 글 발행
         id: publish
         run: |
-          # _queue/articles/ 에서 가장 번호가 작은 파일 찾기
-          NEXT=$(ls _queue/articles/ 2>/dev/null | sort | head -1)
+          # _queue/articles/ 에서 가장 번호가 작은 HTML 파일 찾기 (.md 제외)
+          NEXT=$(ls _queue/articles/*.html 2>/dev/null | xargs -I{} basename {} | sort | head -1)
 
           if [ -z "$NEXT" ]; then
             echo "queue_empty=true" >> $GITHUB_OUTPUT

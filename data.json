@@ -7,10 +7,10 @@
   "language": "ko",
   "lastUpdated": "2026-06-19",
   "stats": {
-    "total": 302,
-    "published": 28,
+    "total": 300,
+    "published": 26,
     "queued": 274,
-    "new": 14
+    "new": 12
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -112,20 +112,6 @@
         "title": "[편집자 의견] 단종",
         "url": "/korean-history/thoughts/danjong-tragedy-editor.html"
       }
-    },
-    {
-      "title": "",
-      "description": "",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md.md",
-      "era": [],
-      "topics": [],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-06-18",
-      "is_new": true,
-      "status": "published"
     },
     {
       "title": "권율과 행주대첩",
@@ -297,130 +283,404 @@
       }
     },
     {
-      "title": "",
-      "description": "",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.md",
+      "title": "광개토대왕",
+      "description": "391~413년 재위. 64개 성, 1,400개 촌락 정복. 고구려 역사상 가장 넓은 영토를 일군 정복 군주.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md",
       "era": [],
-      "topics": [],
+      "topics": [
+        "인물",
+        "전쟁",
+        "정치"
+      ],
       "related": [],
       "region": [],
       "num": null,
-      "published": "2026-06-17",
+      "published": "2026-06-16",
       "is_new": true,
-      "status": "published"
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 광개토대왕",
+        "url": "/korean-history/thoughts/gwanggaeto-expansion-editor.html"
+      }
     },
     {
-      "title": "\"선덕여왕의 첨성대\"",
-      "url": "/korean-history/articles/cheomseongdae.md",
-      "era": "\"신라\"",
-      "region": "\"경주\"",
-      "lastUpdated": "2026-06-18"
+      "title": "세종과 훈민정음",
+      "description": "1443년 세종이 직접 창제한 훈민정음. 왜 왕이 직접 글자를 만들었는가.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "인물",
+        "문화",
+        "과학·기술"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-14",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 세종과 훈민정음",
+        "url": "/korean-history/thoughts/sejong-hangul-editor.html"
+      }
     },
     {
-      "title": "\"처용, 역신에게 아내를 빼앗기고 춤을 추다\"",
-      "url": "/korean-history/articles/cheoyong.md",
-      "era": "\"통일신라\"",
-      "region": "\"경주\"",
-      "lastUpdated": "2026-06-18"
+      "title": "이순신과 명량 — 12척 대 333척",
+      "description": "파직·고문·수군 해체 명령을 딛고 12척으로 333척의 왜선을 물리친 이순신의 명량해전.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/admiral-yi.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/admiral-yi.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "임진왜란",
+        "인물"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "이순신의 진짜 적은 선조였다 — 편집자의 생각",
+        "url": "/korean-history/thoughts/admiral-yi-editor.html"
+      }
     },
     {
-      "title": "\"공민왕과 노국공주\"",
-      "url": "/korean-history/articles/gongmin.md",
-      "era": "\"고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-18"
+      "title": "안중근의 동양평화론",
+      "description": "1909년 하얼빈 의거와 뤼순 감옥에서 쓴 미완의 『동양평화론』 — 저격범인가, 사상가인가.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ahn-junggeun.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ahn-junggeun.md",
+      "era": [
+        "대한제국"
+      ],
+      "topics": [
+        "독립운동",
+        "인물"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "안중근이 단순 테러리스트가 아닌 이유 — 편집자의 생각",
+        "url": "/korean-history/thoughts/ahn-junggeun-editor.html"
+      }
     },
     {
-      "title": "\"광개토대왕\"",
-      "url": "/korean-history/articles/gwanggaeto-expansion.md",
-      "era": "",
-      "region": "",
-      "lastUpdated": "2026-06-18"
+      "title": "선덕여왕의 첨성대",
+      "description": "7세기 동아시아 현존 최고(最古) 천문대, 첨성대와 선덕여왕의 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/cheomseongdae.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/cheomseongdae.md",
+      "era": [
+        "신라"
+      ],
+      "topics": [
+        "과학",
+        "인물"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "첨성대는 왜 지어졌는가",
+        "url": "/korean-history/thoughts/cheomseongdae-editor.html"
+      }
     },
     {
-      "title": "\"gwanggaeto-expansion.md\"",
-      "url": "/korean-history/articles/gwanggaeto-expansion.md.md",
-      "era": "",
-      "region": "",
-      "lastUpdated": "2026-06-18"
+      "title": "처용, 역신에게 아내를 빼앗기고 춤을 추다",
+      "description": "신라 헌강왕 시절 처용 설화 — 역신에게 아내를 빼앗겼지만 노래와 춤으로 감화시킨 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/cheoyong.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/cheoyong.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "설화",
+        "문화"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "처용은 왜 화내지 않았는가",
+        "url": "/korean-history/thoughts/cheoyong-editor.html"
+      }
     },
     {
-      "title": "\"허준과 『동의보감』\"",
-      "url": "/korean-history/articles/heo-jun.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-18"
+      "title": "공민왕과 노국공주",
+      "description": "원나라 공주를 아내로 맞아 반원 개혁을 추진했지만, 아내의 죽음 이후 무너진 고려의 왕.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gongmin.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gongmin.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치",
+        "인물"
+      ],
+      "related": [
+        "원나라"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "개인의 사랑이 국가 정치를 어떻게 무너뜨렸는가",
+        "url": "/korean-history/thoughts/gongmin-editor.html"
+      }
     },
     {
-      "title": "\"혜초, 신라 승려의 인도 여행기\"",
-      "url": "/korean-history/articles/hyecho.md",
-      "era": "\"통일신라\"",
-      "region": "",
-      "lastUpdated": "2026-06-18"
+      "title": "허준과 『동의보감』",
+      "description": "임진왜란과 유배를 견디며 17년에 걸쳐 『동의보감』을 완성한 허준의 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/heo-jun.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/heo-jun.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "의학",
+        "인물",
+        "임진왜란"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "고통이 걸작을 만드는가 — 허준의 경우",
+        "url": "/korean-history/thoughts/heo-jun-editor.html"
+      }
     },
     {
-      "title": "\"장영실 — 관노가 발명한 조선의 시간\"",
-      "url": "/korean-history/articles/jang-yeongshil.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-18"
+      "title": "혜초, 신라 승려의 인도 여행기",
+      "description": "723년 신라 승려 혜초의 인도·중앙아시아 여행과 『왕오천축국전』.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hyecho.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hyecho.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "여행",
+        "불교"
+      ],
+      "related": [
+        "인도",
+        "프랑스"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "『왕오천축국전』도 파리에 있다",
+        "url": "/korean-history/thoughts/hyecho-editor.html"
+      }
     },
     {
-      "title": "\"장보고, 바다를 지배한 평민\"",
-      "url": "/korean-history/articles/jangbogo.md",
-      "era": "\"통일신라\"",
-      "region": "\"완도·청해진\"",
-      "lastUpdated": "2026-06-18"
+      "title": "장영실 — 관노가 발명한 조선의 시간",
+      "description": "조선 세종 시대, 관노 출신 장영실이 자격루·앙부일구·측우기를 발명하고 사라진 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jang-yeongshil.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jang-yeongshil.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "과학·기술",
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "세종은 왜 장영실을 버렸는가 — 편집자의 생각",
+        "url": "/korean-history/thoughts/jang-yeongshil-editor.html"
+      }
     },
     {
-      "title": "\"직지심체요절, 구텐베르크보다 78년 앞선 금속활자\"",
-      "url": "/korean-history/articles/jikji.md",
-      "era": "\"고려\"",
-      "region": "\"청주·흥덕사\"",
-      "lastUpdated": "2026-06-18"
+      "title": "장보고, 바다를 지배한 평민",
+      "description": "9세기 동아시아 해상 무역 전체를 장악한 신라인 장보고의 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jangbogo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jangbogo.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "무역",
+        "인물"
+      ],
+      "related": [
+        "당나라",
+        "일본"
+      ],
+      "region": [
+        "완도·청해진"
+      ],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "장보고는 영웅이었나, 반역자였나",
+        "url": "/korean-history/thoughts/jangbogo-editor.html"
+      }
     },
     {
-      "title": "\"세종과 훈민정음\"",
-      "url": "/korean-history/articles/sejong-hangul.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-18"
+      "title": "직지심체요절, 구텐베르크보다 78년 앞선 금속활자",
+      "description": "1377년 고려 청주에서 인쇄된 세계 최고(最古) 금속활자 인쇄본. 지금은 파리에 있다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jikji.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jikji.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "기술",
+        "문화"
+      ],
+      "related": [
+        "프랑스"
+      ],
+      "region": [
+        "청주·흥덕사"
+      ],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "직지는 왜 아직도 파리에 있는가",
+        "url": "/korean-history/thoughts/jikji-editor.html"
+      }
     },
     {
-      "title": "\"sejong-hangul.md\"",
-      "url": "/korean-history/articles/sejong-hangul.md.md",
-      "era": "",
-      "region": "",
-      "lastUpdated": "2026-06-18"
+      "title": "신라와 당의 외교 관계",
+      "description": "통일신라가 당나라와 맺은 외교 관계와 그 영향.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-tang.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-tang.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "외교",
+        "정치"
+      ],
+      "related": [
+        "당나라"
+      ],
+      "region": [
+        "경주"
+      ],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "편집자의 생각: 신라의 외교",
+        "url": "/korean-history/thoughts/silla-tang-editor.html"
+      }
     },
     {
-      "title": "\"신라와 당의 외교 관계\"",
-      "url": "/korean-history/articles/silla-tang.md",
-      "era": "\"통일신라\"",
-      "region": "\"경주\"",
-      "lastUpdated": "2026-06-18"
+      "title": "팔만대장경",
+      "description": "몽골 침략 중 강화도에서 제작된 8만 장의 불경 목판, 팔만대장경.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/tripitaka.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/tripitaka.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "불교",
+        "문화"
+      ],
+      "related": [
+        "몽골"
+      ],
+      "region": [
+        "강화도"
+      ],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "전쟁 중 문화 사업 — 실용인가, 도피인가",
+        "url": "/korean-history/thoughts/tripitaka-editor.html"
+      }
     },
     {
-      "title": "\"팔만대장경\"",
-      "url": "/korean-history/articles/tripitaka.md",
-      "era": "\"고려\"",
-      "region": "\"강화도\"",
-      "lastUpdated": "2026-06-18"
+      "title": "이의민 — 노비의 아들이 최고 권력자가 되다",
+      "description": "고려 무신정권 시대, 절 노비의 아들 이의민이 최고 권력자가 된 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/uimin.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치",
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "고려 무신 시대는 신분 상승의 시대였는가",
+        "url": "/korean-history/thoughts/uimin-editor.html"
+      }
     },
     {
-      "title": "\"이의민 — 노비의 아들이 최고 권력자가 되다\"",
-      "url": "/korean-history/articles/uimin.md",
-      "era": "\"고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-18"
-    },
-    {
-      "title": "\"원효의 해골 물\"",
-      "url": "/korean-history/articles/wonhyo.md",
-      "era": "\"통일신라\"",
-      "region": "",
-      "lastUpdated": "2026-06-18"
+      "title": "원효의 해골 물",
+      "description": "661년 원효가 해골 물을 마시고 깨달음을 얻어 유학을 포기한 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "불교",
+        "인물",
+        "사상"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "유학 포기가 오히려 독자 노선이 된 이유",
+        "url": "/korean-history/thoughts/wonhyo-editor.html"
+      }
     }
   ],
   "queue": [
