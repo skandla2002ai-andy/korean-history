@@ -8,9 +8,9 @@
   "lastUpdated": "2026-06-18",
   "stats": {
     "total": 300,
-    "published": 26,
-    "queued": 274,
-    "new": 12
+    "published": 27,
+    "queued": 273,
+    "new": 13
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -111,6 +111,31 @@
       "editor": {
         "title": "[편집자 의견] 단종",
         "url": "/korean-history/thoughts/danjong-tragedy-editor.html"
+      }
+    },
+    {
+      "title": "동학농민운동",
+      "description": "1894년. 전봉준이 이끄는 농민군이 \"사람이 곧 하늘\"을 외치며 일어났다. 그 결말은 청일전쟁이었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/donghak-uprising.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/donghak-uprising.md",
+      "era": [
+        "조선 말기"
+      ],
+      "topics": [
+        "민중운동"
+      ],
+      "related": [
+        "일본",
+        "중국(청)"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 동학농민운동",
+        "url": "/korean-history/thoughts/donghak-uprising-editor.html"
       }
     },
     {
@@ -684,27 +709,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "동학농민운동",
-      "description": "1894년. 전봉준이 이끄는 농민군이 \"사람이 곧 하늘\"을 외치며 일어났다. 그 결말은 청일전쟁이었다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/013-donghak-uprising.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/013-donghak-uprising.md",
-      "era": [
-        "조선 말기"
-      ],
-      "topics": [
-        "민중운동"
-      ],
-      "related": [
-        "일본",
-        "중국(청)"
-      ],
-      "region": [],
-      "num": 13,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "3·1 운동",
       "description": "1919년 3월 1일. 33인의 민족 대표가 독립선언서를 낭독했다. 그 외침은 전국으로 번졌다.",

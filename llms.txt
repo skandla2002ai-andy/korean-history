@@ -27,11 +27,12 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (26편 · 최신순 · 갱신 2026-06-18)
+## 발행 완료 (27편 · 최신순 · 갱신 2026-06-18)
 
 - [병자호란](https://skandla2002ai-andy.github.io/korean-history/articles/byeongja-horan.md): 조선 [NEW]
 - [최치원](https://skandla2002ai-andy.github.io/korean-history/articles/choe-chiwon-scholar.md): 통일신라 [NEW]
 - [단종](https://skandla2002ai-andy.github.io/korean-history/articles/danjong-tragedy.md): 조선 [NEW]
+- [동학농민운동](https://skandla2002ai-andy.github.io/korean-history/articles/donghak-uprising.md): 조선 말기 [NEW]
 - [권율과 행주대첩](https://skandla2002ai-andy.github.io/korean-history/articles/gwon-yul-haengju.md): 조선 [NEW]
 - [홍경래의 난](https://skandla2002ai-andy.github.io/korean-history/articles/hong-gyeongnae-rebellion.md): 조선 · 평안도 [NEW]
 - [황진이](https://skandla2002ai-andy.github.io/korean-history/articles/hwang-jini.md): 조선 [NEW]
@@ -56,9 +57,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (274편)
+## 발행 예정 큐 (273편)
 
-- [013. 동학농민운동](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/013-donghak-uprising.html): 조선 말기
 - [014. 3·1 운동](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/014-march-first-movement.html): 일제강점기
 - [015. 유관순](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/015-yu-gwan-sun.html): 일제강점기
 - [016. 김구](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/016-kim-gu-independence.html): 일제강점기
