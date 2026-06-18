@@ -5,7 +5,7 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-06-19",
+  "lastUpdated": "2026-06-18",
   "stats": {
     "total": 300,
     "published": 26,
@@ -42,53 +42,18 @@
   ],
   "articles": [
     {
-      "title": "병자호란",
-      "description": "1636년 12월. 청 태종의 12만 군대가 조선을 침략했다. 인조는 45일 만에 항복하고 삼전도에서 세 번 절했다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/byeongja-horan.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/byeongja-horan.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "전쟁"
-      ],
-      "related": [
-        "중국(청)"
-      ],
-      "region": [],
-      "num": null,
-      "published": "2026-06-18",
-      "is_new": true,
-      "status": "published",
-      "editor": {
-        "title": "[편집자 의견] 병자호란",
-        "url": "/korean-history/thoughts/byeongja-horan-editor.html"
-      }
+      "title": "\"이순신과 명량 — 12척 대 333척\"",
+      "url": "/korean-history/articles/admiral-yi.md",
+      "era": "\"조선\"",
+      "region": "",
+      "lastUpdated": "2026-06-18"
     },
     {
-      "title": "최치원",
-      "description": "857~?년. 12세에 당나라로 건너가 18세에 과거 급제한 뒤 신라로 돌아와 개혁을 꿈꿨으나 받아들여지지 않은 고독한 천재.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/choe-chiwon-scholar.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/choe-chiwon-scholar.md",
-      "era": [
-        "통일신라"
-      ],
-      "topics": [
-        "인물",
-        "문화·학문"
-      ],
-      "related": [
-        "중국(당)"
-      ],
-      "region": [],
-      "num": null,
-      "published": "2026-06-18",
-      "is_new": true,
-      "status": "published",
-      "editor": {
-        "title": "[편집자 의견] 최치원",
-        "url": "/korean-history/thoughts/choe-chiwon-scholar-editor.html"
-      }
+      "title": "\"안중근의 동양평화론\"",
+      "url": "/korean-history/articles/ahn-junggeun.md",
+      "era": "\"대한제국\"",
+      "region": "",
+      "lastUpdated": "2026-06-18"
     },
     {
       "title": "단종",
