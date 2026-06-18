@@ -27,9 +27,19 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (18편 · 최신순 · 갱신 2026-06-17)
+## 발행 완료 (28편 · 최신순 · 갱신 2026-06-19)
 
+- [병자호란](https://skandla2002ai-andy.github.io/korean-history/articles/byeongja-horan.md): 조선 [NEW]
+- [최치원](https://skandla2002ai-andy.github.io/korean-history/articles/choe-chiwon-scholar.md): 통일신라 [NEW]
+- [단종](https://skandla2002ai-andy.github.io/korean-history/articles/danjong-tragedy.md): 조선 [NEW]
 - [](https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md.md) [NEW]
+- [권율과 행주대첩](https://skandla2002ai-andy.github.io/korean-history/articles/gwon-yul-haengju.md): 조선 [NEW]
+- [홍경래의 난](https://skandla2002ai-andy.github.io/korean-history/articles/hong-gyeongnae-rebellion.md): 조선 · 평안도 [NEW]
+- [황진이](https://skandla2002ai-andy.github.io/korean-history/articles/hwang-jini.md): 조선 [NEW]
+- [장희빈](https://skandla2002ai-andy.github.io/korean-history/articles/jang-heebin-poison.md): 조선 [NEW]
+- [김만중](https://skandla2002ai-andy.github.io/korean-history/articles/kim-manjung-gujuwonnim.md): 조선 [NEW]
+- [선덕여왕의 통치](https://skandla2002ai-andy.github.io/korean-history/articles/queen-seondeok-leadership.md): 신라 · 경주 [NEW]
+- [일연과 삼국유사](https://skandla2002ai-andy.github.io/korean-history/articles/samguk-yusa-ilyeon.md): 고려 [NEW]
 - [](https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md.md) [NEW]
 - [광개토대왕](https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md) [NEW]
 - [세종과 훈민정음](https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md): 조선 [NEW]
@@ -48,18 +58,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (284편)
+## 발행 예정 큐 (274편)
 
-- [003. 일연과 삼국유사](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/003-samguk-yusa-ilyeon.html): 고려
-- [004. 김만중](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/004-kim-manjung-gujuwonnim.html): 조선
-- [005. 선덕여왕의 통치](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/005-queen-seondeok-leadership.html): 신라 · 경주
-- [006. 단종](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/006-danjong-tragedy.html): 조선
-- [007. 황진이](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/007-hwang-jini.html): 조선
-- [008. 권율과 행주대첩](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/008-gwon-yul-haengju.html): 조선
-- [009. 장희빈](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/009-jang-heebin-poison.html): 조선
-- [010. 최치원](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/010-choe-chiwon-scholar.html): 통일신라
-- [011. 병자호란](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/011-byeongja-horan.html): 조선
-- [012. 홍경래의 난](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/012-hong-gyeongnae-rebellion.html): 조선 · 평안도
 - [013. 동학농민운동](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/013-donghak-uprising.html): 조선 말기
 - [014. 3·1 운동](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/014-march-first-movement.html): 일제강점기
 - [015. 유관순](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/015-yu-gwan-sun.html): 일제강점기
