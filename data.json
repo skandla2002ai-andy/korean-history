@@ -8,9 +8,9 @@
   "lastUpdated": "2026-06-19",
   "stats": {
     "total": 296,
-    "published": 122,
-    "queued": 174,
-    "new": 108
+    "published": 123,
+    "queued": 173,
+    "new": 109
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "무신정변 1170 — 고려 무신이 칼을 들다",
+      "description": "1170년 무신들이 문신 지배층을 타도한 정변. 이후 100년 무신 집권의 시작.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-coup-1170.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-coup-1170.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치",
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-19",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "안용복과 독도 수호",
       "description": "1693년, 동래 어부 안용복이 일본에 잡혀갔다. 두 번씩이나 일본까지 건너가 \"울릉도·독도는 조선 땅\"이라 주장했다. 나라는 그를 처벌했다.",
@@ -2785,25 +2804,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "무신정변 1170 — 고려 무신이 칼을 들다",
-      "description": "1170년 무신들이 문신 지배층을 타도한 정변. 이후 100년 무신 집권의 시작.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/113-goryeo-military-coup-1170.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/113-goryeo-military-coup-1170.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "정치",
-        "전쟁"
-      ],
-      "related": [],
-      "region": [],
-      "num": 113,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "삼별초 항쟁 — 몽골에 맞선 마지막 저항",
       "description": "1270~1273년. 고려가 몽골에 항복한 후에도 삼별초는 진도·제주에서 싸웠다.",
