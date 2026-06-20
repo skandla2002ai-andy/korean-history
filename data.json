@@ -8,9 +8,9 @@
   "lastUpdated": "2026-06-20",
   "stats": {
     "total": 347,
-    "published": 124,
-    "queued": 223,
-    "new": 110
+    "published": 125,
+    "queued": 222,
+    "new": 111
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,6 +58,29 @@
       ],
       "region": [
         "평양"
+      ],
+      "num": null,
+      "published": "2026-06-20",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "삼별초 항쟁 — 몽골에 맞선 마지막 저항",
+      "description": "1270~1273년. 고려가 몽골에 항복한 후에도 삼별초는 진도·제주에서 싸웠다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sambyeolcho-resistance.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sambyeolcho-resistance.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "전쟁",
+        "독립운동"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "제주"
       ],
       "num": null,
       "published": "2026-06-20",
@@ -2827,29 +2850,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "삼별초 항쟁 — 몽골에 맞선 마지막 저항",
-      "description": "1270~1273년. 고려가 몽골에 항복한 후에도 삼별초는 진도·제주에서 싸웠다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/114-sambyeolcho-resistance.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/114-sambyeolcho-resistance.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "전쟁",
-        "독립운동"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [
-        "제주"
-      ],
-      "num": 114,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "벽란도 무역 — 코리아란 이름이 세계로",
       "description": "고려의 국제 무역항 벽란도. 아라비아 상인과 교역하며 'COREA'라는 이름이 퍼지다.",
