@@ -7,9 +7,9 @@
   "language": "ko",
   "lastUpdated": "2026-06-20",
   "stats": {
-    "total": 346,
+    "total": 347,
     "published": 124,
-    "queued": 222,
+    "queued": 223,
     "new": 110
   },
   "endpoints": {
@@ -42,872 +42,2788 @@
   ],
   "articles": [
     {
-      "title": "\"이순신과 명량 — 12척 대 333척\"",
-      "url": "/korean-history/articles/admiral-yi.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"안중근의 동양평화론\"",
-      "url": "/korean-history/articles/ahn-junggeun.md",
-      "era": "\"대한제국\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"안용복과 독도 수호\"",
-      "url": "/korean-history/articles/an-yong-bok-dokdo.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"4·19 혁명\"",
-      "url": "/korean-history/articles/april-revolution.md",
-      "era": "\"현대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"백두산 국경 분쟁\"",
-      "url": "/korean-history/articles/baekdusan-border.md",
-      "era": "\"조선·현대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"백제와 일본\"",
-      "url": "/korean-history/articles/baekje-art-culture.md",
-      "era": "\"삼국시대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"백제 멸망과 황산벌\"",
-      "url": "/korean-history/articles/baekje-fall-660.md",
-      "era": "\"삼국시대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"온조왕과 백제 건국\"",
-      "url": "/korean-history/articles/baekje-foundation.md",
-      "era": "\"삼국시대\"",
-      "region": "\"충청·한강\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"백제 부흥운동 — 흑치상지와 복신의 저항\"",
-      "url": "/korean-history/articles/baekje-restoration-movement.md",
-      "era": "\"삼국\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"불국사 창건 — 신라 불교건축의 절정\"",
-      "url": "/korean-history/articles/bulguksa-construction.md",
-      "era": "\"통일신라\"",
-      "region": "\"경주\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"병자호란\"",
-      "url": "/korean-history/articles/byeongja-horan.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"제2연평해전\"",
-      "url": "/korean-history/articles/chamsuri-patrol-boat.md",
-      "era": "\"현대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"선덕여왕의 첨성대\"",
-      "url": "/korean-history/articles/cheomseongdae.md",
-      "era": "\"신라\"",
-      "region": "\"경주\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"처용, 역신에게 아내를 빼앗기고 춤을 추다\"",
-      "url": "/korean-history/articles/cheoyong.md",
-      "era": "\"통일신라\"",
-      "region": "\"경주\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"최치원\"",
-      "url": "/korean-history/articles/choe-chiwon-scholar.md",
-      "era": "\"통일신라\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"조선의 노비\"",
-      "url": "/korean-history/articles/chosun-slavery-nobi.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"빗살무늬토기 — 신석기 한반도의 생활\"",
-      "url": "/korean-history/articles/comb-pattern-pottery.md",
-      "era": "\"선사\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"조선의 제사 문화\"",
-      "url": "/korean-history/articles/confucian-ritual-jesa.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"대동법\"",
-      "url": "/korean-history/articles/daedongbeopseok-reform.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"흥선대원군의 쇄국\"",
-      "url": "/korean-history/articles/daewongun-isolation.md",
-      "era": "\"조선 말기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"단종\"",
-      "url": "/korean-history/articles/danjong-tragedy.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"독도의 역사\"",
-      "url": "/korean-history/articles/dokdo-history.md",
-      "era": "\"근현대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"한반도 고인돌 — 세계 최대 밀집지\"",
-      "url": "/korean-history/articles/dolmen-korea.md",
-      "era": "\"선사\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"반구대 암각화\"",
-      "url": "/korean-history/articles/donghae-whale-history.md",
-      "era": "\"선사시대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"동학의 창시\"",
-      "url": "/korean-history/articles/donghak-chondogyo.md",
-      "era": "\"조선 말기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"동학농민운동\"",
-      "url": "/korean-history/articles/donghak-uprising.md",
-      "era": "\"조선 말기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"동의보감\"",
-      "url": "/korean-history/articles/dongui-bogam-unesco.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"동예·옥저 — 삼국 이전 소국들의 삶\"",
-      "url": "/korean-history/articles/dongye-okjeo-peoples.md",
-      "era": "\"선사\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"명성황후\"",
-      "url": "/korean-history/articles/empress-myeongseong.md",
-      "era": "\"조선 말기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"의열단\"",
-      "url": "/korean-history/articles/eui-yeol-dan.md",
-      "era": "\"일제강점기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"을지문덕과 살수대첩 — 30만 수나라를 격파\"",
-      "url": "/korean-history/articles/eulji-mundeok-salsu.md",
-      "era": "\"삼국\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"김치의 역사\"",
-      "url": "/korean-history/articles/eumsik-kimchi-history.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"고구려 개마무사 — 동아시아 최강의 중장기병\"",
-      "url": "/korean-history/articles/gaema-cavalry-goguryeo.md",
-      "era": "\"삼국시대\"",
-      "region": "\"평양\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"강감찬 귀주대첩 — 거란 10만을 물리친 전략\"",
-      "url": "/korean-history/articles/gang-gamchan-gwiju.md",
-      "era": "\"고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"가야 멸망 — 신라에 흡수된 여섯 나라\"",
-      "url": "/korean-history/articles/gaya-fall.md",
-      "era": "\"삼국\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"가야 철기 — 철의 왕국 가야연맹\"",
-      "url": "/korean-history/articles/gaya-iron-kingdom.md",
-      "era": "\"삼국\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"주몽과 고구려 건국\"",
-      "url": "/korean-history/articles/goguryeo-jumong.md",
-      "era": "\"삼국시대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"살수대첩\"",
-      "url": "/korean-history/articles/goguryeo-vs-sui.md",
-      "era": "\"삼국시대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"고구려 고분벽화\"",
-      "url": "/korean-history/articles/goguryeo-wall-paintings.md",
-      "era": "\"삼국시대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"고종과 대한제국\"",
-      "url": "/korean-history/articles/gojong-modernization.md",
-      "era": "\"구한말\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"단군과 고조선\"",
-      "url": "/korean-history/articles/gojoseon-dangun.md",
-      "era": "\"고조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"공민왕과 노국공주\"",
-      "url": "/korean-history/articles/gongmin.md",
-      "era": "\"고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"고려청자\"",
-      "url": "/korean-history/articles/goryeo-celadon.md",
-      "era": "\"고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"귀주대첩\"",
-      "url": "/korean-history/articles/goryeo-invasion-khitan.md",
-      "era": "\"고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"고려와 원나라\"",
-      "url": "/korean-history/articles/goryeo-kings-mongol.md",
-      "era": "\"고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"무신정변 1170 — 고려 무신이 칼을 들다\"",
-      "url": "/korean-history/articles/goryeo-military-coup-1170.md",
-      "era": "\"고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"고려 대몽 항쟁\"",
-      "url": "/korean-history/articles/goryeo-mongol-war.md",
-      "era": "\"고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"고구려 천리장성\"",
-      "url": "/korean-history/articles/great-wall-goguryeo.md",
-      "era": "\"삼국시대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"관창 — 화랑 정신의 상징이 된 소년\"",
-      "url": "/korean-history/articles/gwanchang-hwarang.md",
-      "era": "\"삼국\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"광개토대왕\"",
-      "url": "/korean-history/articles/gwanggaeto-expansion.md",
-      "era": "",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"광개토대왕릉비\"",
-      "url": "/korean-history/articles/gwanggaeto-stele.md",
-      "era": "\"삼국시대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"광해군의 중립 외교\"",
-      "url": "/korean-history/articles/gwanghaegun-diplomacy.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"광종의 노비안검법 — 왕권 강화의 첫 걸음\"",
-      "url": "/korean-history/articles/gwangjong-slave-liberation.md",
-      "era": "\"고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"5·18 광주 민주화운동\"",
-      "url": "/korean-history/articles/gwangju-uprising.md",
-      "era": "\"현대\"",
-      "region": "\"광주·전남\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"권율과 행주대첩\"",
-      "url": "/korean-history/articles/gwon-yul-haengju.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"계백 장군 — 황산벌의 5,000 결사대\"",
-      "url": "/korean-history/articles/gyebaek-hwangsanbeol.md",
-      "era": "\"삼국\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"해인사 팔만대장경\"",
-      "url": "/korean-history/articles/haeinsas-preservation.md",
-      "era": "\"고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"한류의 기원\"",
-      "url": "/korean-history/articles/hallyu-origin.md",
-      "era": "\"현대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"한글날의 역사\"",
-      "url": "/korean-history/articles/hangul-day-history.md",
-      "era": "\"근현대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"일제의 한글 탄압\"",
-      "url": "/korean-history/articles/hangul-suppression.md",
-      "era": "\"일제강점기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"허준과 『동의보감』\"",
-      "url": "/korean-history/articles/heo-jun.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"흥남 철수\"",
-      "url": "/korean-history/articles/heungnam-evacuation.md",
-      "era": "\"현대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"홍경래의 난\"",
-      "url": "/korean-history/articles/hong-gyeongnae-rebellion.md",
-      "era": "\"조선\"",
-      "region": "\"평안도\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"황진이\"",
-      "url": "/korean-history/articles/hwang-jini.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"화랑도 — 신라 청소년 엘리트 교육\"",
-      "url": "/korean-history/articles/hwarang-education.md",
-      "era": "\"삼국\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"화성과 정조\"",
-      "url": "/korean-history/articles/hwaseong-jeongjo.md",
-      "era": "\"조선\"",
-      "region": "\"수원\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"혜초, 신라 승려의 인도 여행기\"",
-      "url": "/korean-history/articles/hyecho.md",
-      "era": "\"통일신라\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"임진왜란과 문화 손실\"",
-      "url": "/korean-history/articles/imjewaran-cultural-loss.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"임진왜란 의병\"",
-      "url": "/korean-history/articles/imjin-volunteer-army.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"해외 독립운동\"",
-      "url": "/korean-history/articles/independence-movement-overseas.md",
-      "era": "\"일제강점기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"장희빈\"",
-      "url": "/korean-history/articles/jang-heebin-poison.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"장영실\"",
-      "url": "/korean-history/articles/jang-yeongshil-mystery.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"장영실 — 관노가 발명한 조선의 시간\"",
-      "url": "/korean-history/articles/jang-yeongshil.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"장보고, 바다를 지배한 평민\"",
-      "url": "/korean-history/articles/jangbogo.md",
-      "era": "\"통일신라\"",
-      "region": "\"완도·청해진\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"제주 4·3 사건\"",
-      "url": "/korean-history/articles/jeju-april-3.md",
-      "era": "\"현대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"정약용\"",
-      "url": "/korean-history/articles/jeong-yakyong-dasan.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"사도세자\"",
-      "url": "/korean-history/articles/jeongjogui-death-sado.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"직지심체요절, 구텐베르크보다 78년 앞선 금속활자\"",
-      "url": "/korean-history/articles/jikji.md",
-      "era": "\"고려\"",
-      "region": "\"청주·흥덕사\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"분단의 시작\"",
-      "url": "/korean-history/articles/joseon-partition-1945.md",
-      "era": "\"현대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"조선 백자\"",
-      "url": "/korean-history/articles/joseon-porcelain-baekja.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"조선의 출판 문화\"",
-      "url": "/korean-history/articles/joseon-printing-books.md",
-      "era": "\"조선·고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"조선 수라상\"",
-      "url": "/korean-history/articles/joseon-royal-cuisine.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"김구\"",
-      "url": "/korean-history/articles/kim-gu-independence.md",
-      "era": "\"일제강점기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"김만중\"",
-      "url": "/korean-history/articles/kim-manjung-gujuwonnim.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"김유신 — 삼국통일을 이끈 노장\"",
-      "url": "/korean-history/articles/kim-yusin-unification.md",
-      "era": "\"삼국\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"1988 서울 올림픽\"",
-      "url": "/korean-history/articles/korea-olympic-1988.md",
-      "era": "\"현대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"코리안 디아스포라\"",
-      "url": "/korean-history/articles/korean-diaspora.md",
-      "era": "\"근현대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"한강의 기적\"",
-      "url": "/korean-history/articles/korean-economy-miracle.md",
-      "era": "\"현대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"한국전쟁\"",
-      "url": "/korean-history/articles/korean-war-1950.md",
-      "era": "\"현대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"후삼국 쟁패 — 궁예·견훤·왕건의 삼파전\"",
-      "url": "/korean-history/articles/later-three-kingdoms.md",
-      "era": "\"통일신라\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"3·1 운동\"",
-      "url": "/korean-history/articles/march-first-movement.md",
-      "era": "\"일제강점기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"묘청의 서경천도 운동 — 고려 중기 최대 쿠데타\"",
-      "url": "/korean-history/articles/myocheong-western-capital.md",
-      "era": "\"고려\"",
-      "region": "\"평양\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"숭례문 화재\"",
-      "url": "/korean-history/articles/namdaemun-fire.md",
-      "era": "\"현대\"",
-      "region": "\"서울\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"낙랑군 — 한사군과 한반도 지배 400년\"",
-      "url": "/korean-history/articles/nangnang-commandery.md",
-      "era": "\"고조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"박제가와 북학론\"",
-      "url": "/korean-history/articles/park-jesam-bokhaeron.md",
-      "era": "\"조선 후기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"박정희와 산업화\"",
-      "url": "/korean-history/articles/parkchunghee-development.md",
-      "era": "\"현대\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"선덕여왕의 통치\"",
-      "url": "/korean-history/articles/queen-seondeok-leadership.md",
-      "era": "\"신라\"",
-      "region": "\"경주\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"신사임당\"",
-      "url": "/korean-history/articles/saimdang-art.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"일연과 삼국유사\"",
-      "url": "/korean-history/articles/samguk-yusa-ilyeon.md",
-      "era": "\"고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"계유정난\"",
-      "url": "/korean-history/articles/sejo-coup.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"훈민정음의 과학\"",
-      "url": "/korean-history/articles/sejong-hangul-science.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"세종과 훈민정음\"",
-      "url": "/korean-history/articles/sejong-hangul.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"석굴암\"",
-      "url": "/korean-history/articles/seokguram-construction.md",
-      "era": "\"통일신라\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"신사임당\"",
-      "url": "/korean-history/articles/shin-saimdang-painter.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"실학 운동\"",
-      "url": "/korean-history/articles/silhak-reform-movement.md",
-      "era": "\"조선 후기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"신라 골품제 — 뼈로 정해진 신분\"",
-      "url": "/korean-history/articles/silla-bone-rank.md",
-      "era": "\"삼국\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"신라 금관 — 황금 문화의 절정\"",
-      "url": "/korean-history/articles/silla-gold-crown.md",
-      "era": "\"삼국\"",
-      "region": "\"경주\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"신라 하대 혼란 — 진성여왕과 왕조의 균열\"",
-      "url": "/korean-history/articles/silla-late-period-chaos.md",
-      "era": "\"통일신라\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"신라의 당나라 유학생들 — 최치원 이전과 이후\"",
-      "url": "/korean-history/articles/silla-tang-students.md",
-      "era": "\"통일신라\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"신라와 당의 외교 관계\"",
-      "url": "/korean-history/articles/silla-tang.md",
-      "era": "\"통일신라\"",
-      "region": "\"경주\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"신채호\"",
-      "url": "/korean-history/articles/sin-chaeho-anarchism.md",
-      "era": "\"일제강점기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"팔만대장경\"",
-      "url": "/korean-history/articles/tripitaka.md",
-      "era": "\"고려\"",
-      "region": "\"강화도\"",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"이의민 — 노비의 아들이 최고 권력자가 되다\"",
-      "url": "/korean-history/articles/uimin.md",
-      "era": "\"고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"왕건의 호족연합 — 고려 건국의 정치학\"",
-      "url": "/korean-history/articles/wanggeon-goryeo-founding.md",
-      "era": "\"고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"위만조선 — 중국계 왕이 다스린 고조선\"",
-      "url": "/korean-history/articles/wiman-joseon.md",
-      "era": "\"고조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"원광법사 세속오계 — 화랑의 윤리강령\"",
-      "url": "/korean-history/articles/wongwang-five-commandments.md",
-      "era": "\"삼국\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"원효 화쟁사상 — 불교 분파를 하나로\"",
-      "url": "/korean-history/articles/wonhyo-hwajaeng.md",
-      "era": "\"통일신라\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"원효의 해골 물\"",
-      "url": "/korean-history/articles/wonhyo.md",
-      "era": "\"통일신라\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"강제 징용\"",
-      "url": "/korean-history/articles/world-war-ii-koreans.md",
-      "era": "\"일제강점기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"조선의 과거제\"",
-      "url": "/korean-history/articles/yangban-gwageo.md",
-      "era": "\"조선·고려\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"연개소문 — 고구려를 쥔 철완 독재자\"",
-      "url": "/korean-history/articles/yeon-gaesomun.md",
-      "era": "\"삼국\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"유관순\"",
-      "url": "/korean-history/articles/yu-gwan-sun.md",
-      "era": "\"일제강점기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"이이 십만양병설\"",
-      "url": "/korean-history/articles/yulgok-defense.md",
-      "era": "\"조선\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
-    },
-    {
-      "title": "\"윤봉길 의거\"",
-      "url": "/korean-history/articles/yun-bong-gil-shanghai.md",
-      "era": "\"일제강점기\"",
-      "region": "",
-      "lastUpdated": "2026-06-20"
+      "title": "고구려 개마무사 — 동아시아 최강의 중장기병",
+      "description": "철갑으로 무장한 고구려 기병 개마무사. 5세기 동아시아 전장을 지배한 중장기병 전술.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gaema-cavalry-goguryeo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gaema-cavalry-goguryeo.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "군사",
+        "문화"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "평양"
+      ],
+      "num": null,
+      "published": "2026-06-20",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "무신정변 1170 — 고려 무신이 칼을 들다",
+      "description": "1170년 무신들이 문신 지배층을 타도한 정변. 이후 100년 무신 집권의 시작.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-coup-1170.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-coup-1170.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치",
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-19",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "안용복과 독도 수호",
+      "description": "1693년, 동래 어부 안용복이 일본에 잡혀갔다. 두 번씩이나 일본까지 건너가 \"울릉도·독도는 조선 땅\"이라 주장했다. 나라는 그를 처벌했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/an-yong-bok-dokdo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/an-yong-bok-dokdo.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "영토·인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 안용복",
+        "url": "/korean-history/thoughts/an-yong-bok-dokdo-editor.html"
+      }
+    },
+    {
+      "title": "4·19 혁명",
+      "description": "1960년 4월 19일. 총탄 앞에 선 학생들이 물러서지 않았다. 12년 독재 이승만이 하야했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/april-revolution.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/april-revolution.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "민주주의·혁명"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 4·19 혁명",
+        "url": "/korean-history/thoughts/april-revolution-editor.html"
+      }
+    },
+    {
+      "title": "백두산 국경 분쟁",
+      "description": "1712년 조선·청 두 나라가 백두산에 경계를 새겼다. \"서쪽은 압록강, 동쪽은 토문강.\" 토문강이 어디냐를 놓고 한·중은 지금도 다르게 읽는다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekdusan-border.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekdusan-border.md",
+      "era": [
+        "조선·현대"
+      ],
+      "topics": [
+        "영토·외교"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 백두산 국경",
+        "url": "/korean-history/thoughts/baekdusan-border-editor.html"
+      }
+    },
+    {
+      "title": "백제와 일본",
+      "description": "4~7세기. 백제는 불교·한자·도공·직조술을 야마토 왜에 전했다. 일본 아스카 문화의 기원.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-art-culture.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-art-culture.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "문화·외교"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 백제와 일본",
+        "url": "/korean-history/thoughts/baekje-art-culture-editor.html"
+      }
+    },
+    {
+      "title": "백제 멸망과 황산벌",
+      "description": "660년. 신라·당 연합군 13만이 쳐들어왔다. 계백은 5,000명으로 황산벌에서 맞섰다. 네 번 이겼고, 다섯 번째 싸움에서 죽었다. 사흘 후 백제는 멸망했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-fall-660.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-fall-660.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "전쟁·인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 백제 멸망",
+        "url": "/korean-history/thoughts/baekje-fall-660-editor.html"
+      }
+    },
+    {
+      "title": "온조왕과 백제 건국",
+      "description": "기원전 18년. 주몽의 두 아들 비류와 온조는 각각 미추홀과 위례성에 나라를 세웠다. 형의 나라는 망했고 동생의 나라는 700년을 이어갔다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-foundation.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-foundation.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "건국·역사"
+      ],
+      "related": [],
+      "region": [
+        "충청·한강"
+      ],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 온조왕과 백제",
+        "url": "/korean-history/thoughts/baekje-foundation-editor.html"
+      }
+    },
+    {
+      "title": "백제 부흥운동 — 흑치상지와 복신의 저항",
+      "description": "660년 백제 멸망 후 3년간 이어진 부흥운동. 왜의 지원을 받은 백강 전투까지.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-restoration-movement.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-restoration-movement.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "전쟁",
+        "정치"
+      ],
+      "related": [
+        "일본",
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "불국사 창건 — 신라 불교건축의 절정",
+      "description": "751년 경덕왕 때 김대성이 창건한 불국사. 석가탑·다보탑이 품은 신라 건축 정수.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/bulguksa-construction.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/bulguksa-construction.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "문화",
+        "종교"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "병자호란",
+      "description": "1636년 12월. 청 태종의 12만 군대가 조선을 침략했다. 인조는 45일 만에 항복하고 삼전도에서 세 번 절했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/byeongja-horan.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/byeongja-horan.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [
+        "중국(청)"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 병자호란",
+        "url": "/korean-history/thoughts/byeongja-horan-editor.html"
+      }
+    },
+    {
+      "title": "제2연평해전",
+      "description": "2002년 6월 29일 오전 10시. 한국 대 독일 3·4위전 날 아침. 서해 연평도 인근에서 남북 함정이 교전했다. 6명이 전사했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/chamsuri-patrol-boat.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/chamsuri-patrol-boat.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "남북관계·해전"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 제2연평해전",
+        "url": "/korean-history/thoughts/chamsuri-patrol-boat-editor.html"
+      }
+    },
+    {
+      "title": "최치원",
+      "description": "857~?년. 12세에 당나라로 건너가 18세에 과거 급제한 뒤 신라로 돌아와 개혁을 꿈꿨으나 받아들여지지 않은 고독한 천재.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/choe-chiwon-scholar.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/choe-chiwon-scholar.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "인물",
+        "문화·학문"
+      ],
+      "related": [
+        "중국(당)"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 최치원",
+        "url": "/korean-history/thoughts/choe-chiwon-scholar-editor.html"
+      }
+    },
+    {
+      "title": "조선의 노비",
+      "description": "15~17세기 조선. 전체 인구의 30~40%가 노비였다. 그들은 매매·상속·증여의 대상이었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/chosun-slavery-nobi.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/chosun-slavery-nobi.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 조선의 노비",
+        "url": "/korean-history/thoughts/chosun-slavery-nobi-editor.html"
+      }
+    },
+    {
+      "title": "빗살무늬토기 — 신석기 한반도의 생활",
+      "description": "기원전 6000년경부터 한반도에 등장한 빗살무늬토기. 신석기인의 삶과 문화.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/comb-pattern-pottery.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/comb-pattern-pottery.md",
+      "era": [
+        "선사"
+      ],
+      "topics": [
+        "문화",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선의 제사 문화",
+      "description": "조선은 유교 국가였다. 죽은 조상을 정기적으로 모시는 제사는 단순한 의례가 아니었다. 가문의 질서, 사회의 구조, 정치의 정당성이 거기에 담겼다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/confucian-ritual-jesa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/confucian-ritual-jesa.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "유교·의례"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 조선의 제사 문화",
+        "url": "/korean-history/thoughts/confucian-ritual-jesa-editor.html"
+      }
+    },
+    {
+      "title": "대동법",
+      "description": "1608~1708년. 공물(貢物) 납부를 쌀로 통일한 대동법. 특산물 대신 쌀 하나로 세금을 낸다는 아이디어가 전국 시행까지 100년이 걸렸다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/daedongbeopseok-reform.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/daedongbeopseok-reform.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "경제·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 대동법",
+        "url": "/korean-history/thoughts/daedongbeopseok-reform-editor.html"
+      }
+    },
+    {
+      "title": "흥선대원군의 쇄국",
+      "description": "1863~1873년 집권. \"서양 오랑캐와 화친하는 것은 나라를 파는 것\"이라는 척화비. 과감한 개혁가이자 완고한 쇄국주의자.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/daewongun-isolation.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/daewongun-isolation.md",
+      "era": [
+        "조선 말기"
+      ],
+      "topics": [
+        "정치·외교",
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 흥선대원군",
+        "url": "/korean-history/thoughts/daewongun-isolation-editor.html"
+      }
+    },
+    {
+      "title": "단종",
+      "description": "1441~1457년. 삼촌 수양대군에게 왕위를 빼앗기고 강원도 영월에서 사사된 소년 왕.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/danjong-tragedy.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/danjong-tragedy.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "인물",
+        "정치"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 단종",
+        "url": "/korean-history/thoughts/danjong-tragedy-editor.html"
+      }
+    },
+    {
+      "title": "독도의 역사",
+      "description": "512년 신라가 우산국을 복속한 이래 한국 영토. 1905년 일본이 '편입'을 선언하고 1952년 한국이 실효 지배를 선언했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/dokdo-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/dokdo-history.md",
+      "era": [
+        "근현대"
+      ],
+      "topics": [
+        "영토·외교",
+        "일본"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 독도의 역사",
+        "url": "/korean-history/thoughts/dokdo-history-editor.html"
+      }
+    },
+    {
+      "title": "한반도 고인돌 — 세계 최대 밀집지",
+      "description": "한반도에는 전 세계 고인돌의 40%가 집중되어 있다. 거석 문화의 비밀.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/dolmen-korea.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/dolmen-korea.md",
+      "era": [
+        "선사"
+      ],
+      "topics": [
+        "문화",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "반구대 암각화",
+      "description": "기원전 5,000년. 신석기 인류가 바위에 고래를 새겼다. 세계에서 가장 오래된 고래 포경 기록. 지금 이 유산은 댐 물에 잠기고 있다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/donghae-whale-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/donghae-whale-history.md",
+      "era": [
+        "선사시대"
+      ],
+      "topics": [
+        "유적·암각화"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 반구대 암각화",
+        "url": "/korean-history/thoughts/donghae-whale-history-editor.html"
+      }
+    },
+    {
+      "title": "동학의 창시",
+      "description": "1860년 최제우가 창시한 동학. \"인내천(人乃天)\"이라는 혁명적 사상이 조선 민중 속으로 퍼졌다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/donghak-chondogyo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/donghak-chondogyo.md",
+      "era": [
+        "조선 말기"
+      ],
+      "topics": [
+        "종교·사상",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 동학의 창시",
+        "url": "/korean-history/thoughts/donghak-chondogyo-editor.html"
+      }
+    },
+    {
+      "title": "동학농민운동",
+      "description": "1894년. 전봉준이 이끄는 농민군이 \"사람이 곧 하늘\"을 외치며 일어났다. 그 결말은 청일전쟁이었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/donghak-uprising.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/donghak-uprising.md",
+      "era": [
+        "조선 말기"
+      ],
+      "topics": [
+        "민중운동"
+      ],
+      "related": [
+        "일본",
+        "중국(청)"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 동학농민운동",
+        "url": "/korean-history/thoughts/donghak-uprising-editor.html"
+      }
+    },
+    {
+      "title": "동의보감",
+      "description": "1613년 완성. 25권, 1만 3,000여 항목. 임진왜란 직후 백성들이 죽어가는 것을 본 허준이 16년을 바쳐 썼다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/dongui-bogam-unesco.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/dongui-bogam-unesco.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "의학·과학",
+        "문화유산"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 동의보감",
+        "url": "/korean-history/thoughts/dongui-bogam-unesco-editor.html"
+      }
+    },
+    {
+      "title": "동예·옥저 — 삼국 이전 소국들의 삶",
+      "description": "삼국에 흡수되기 전 한반도 북동부에 존재한 소국 동예와 옥저. 독특한 풍속과 생활.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/dongye-okjeo-peoples.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/dongye-okjeo-peoples.md",
+      "era": [
+        "선사"
+      ],
+      "topics": [
+        "사회",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "명성황후",
+      "description": "1895년 10월 8일 새벽. 일본 낭인들이 경복궁에 난입하여 왕비를 살해했다. 국제법 위반이었고 외교적 충격이었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/empress-myeongseong.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/empress-myeongseong.md",
+      "era": [
+        "조선 말기"
+      ],
+      "topics": [
+        "인물·외교",
+        "일본"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 명성황후",
+        "url": "/korean-history/thoughts/empress-myeongseong-editor.html"
+      }
+    },
+    {
+      "title": "의열단",
+      "description": "1919년 창단. 김원봉이 이끈 의열단은 조선총독·고관·친일파 처단을 목표로 의열 투쟁을 벌였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/eui-yeol-dan.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/eui-yeol-dan.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "독립운동"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 의열단",
+        "url": "/korean-history/thoughts/eui-yeol-dan-editor.html"
+      }
+    },
+    {
+      "title": "을지문덕과 살수대첩 — 30만 수나라를 격파",
+      "description": "612년 살수(청천강)에서 고구려 을지문덕이 수나라 30만 대군을 물리친 대승.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/eulji-mundeok-salsu.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/eulji-mundeok-salsu.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "전쟁",
+        "인물"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "김치의 역사",
+      "description": "지금의 빨간 김치는 300년 역사다. 그 이전 1,700년 동안 김치는 소금에 절인 채소였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/eumsik-kimchi-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/eumsik-kimchi-history.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "음식·문화"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 김치의 역사",
+        "url": "/korean-history/thoughts/eumsik-kimchi-history-editor.html"
+      }
+    },
+    {
+      "title": "강감찬 귀주대첩 — 거란 10만을 물리친 전략",
+      "description": "1019년 귀주(구성)에서 강감찬이 거란 10만 군을 섬멸한 고려 최대 승전.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gang-gamchan-gwiju.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gang-gamchan-gwiju.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "전쟁",
+        "인물"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "가야 멸망 — 신라에 흡수된 여섯 나라",
+      "description": "532년 금관가야를 시작으로 562년 대가야까지. 신라에 의한 가야 통합 과정.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gaya-fall.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gaya-fall.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "전쟁",
+        "정치"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "가야 철기 — 철의 왕국 가야연맹",
+      "description": "한반도 남부에 번성한 가야연맹. 최고 품질의 철기로 일본·중국과 교역한 무역 왕국.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gaya-iron-kingdom.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gaya-iron-kingdom.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "문화",
+        "경제"
+      ],
+      "related": [
+        "일본",
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "주몽과 고구려 건국",
+      "description": "기원전 37년. 부여에서 탈출한 주몽이 졸본에 나라를 세웠다. 알에서 태어났다는 신화 속에 담긴 역사적 사실.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-jumong.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-jumong.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "인물·건국"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 주몽과 고구려",
+        "url": "/korean-history/thoughts/goguryeo-jumong-editor.html"
+      }
+    },
+    {
+      "title": "살수대첩",
+      "description": "612년. 수 양제의 113만 대군. 살수(청천강)에서 을지문덕의 유인 전술에 걸린 수나라 군대가 궤멸됐다. 살아 돌아간 자는 2,700명.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-vs-sui.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-vs-sui.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "전쟁·외교",
+        "중국(수)"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 살수대첩",
+        "url": "/korean-history/thoughts/goguryeo-vs-sui-editor.html"
+      }
+    },
+    {
+      "title": "고구려 고분벽화",
+      "description": "4~7세기. 고구려 사람들은 무덤 안에 삶을 그렸다. 1,500년이 지난 그림들이 아직 생생하다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-wall-paintings.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-wall-paintings.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 고구려 고분벽화",
+        "url": "/korean-history/thoughts/goguryeo-wall-paintings-editor.html"
+      }
+    },
+    {
+      "title": "고종과 대한제국",
+      "description": "1897년 황제가 되었다. 전차·전기·전화를 들여왔다. 1905년 외교권을 빼앗겼고, 1910년 나라가 사라졌다. 고종은 무능했는가, 아니면 불운했는가.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gojong-modernization.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gojong-modernization.md",
+      "era": [
+        "구한말"
+      ],
+      "topics": [
+        "근대화·외교"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 고종과 대한제국",
+        "url": "/korean-history/thoughts/gojong-modernization-editor.html"
+      }
+    },
+    {
+      "title": "단군과 고조선",
+      "description": "기원전 2333년 단군 건국 신화. 그러나 역사학이 확인할 수 있는 고조선은 기원전 7~4세기부터다. 신화는 역사가 아니지만 역사의 시작이다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gojoseon-dangun.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gojoseon-dangun.md",
+      "era": [
+        "고조선"
+      ],
+      "topics": [
+        "건국 신화·역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 단군과 고조선",
+        "url": "/korean-history/thoughts/gojoseon-dangun-editor.html"
+      }
+    },
+    {
+      "title": "고려청자",
+      "description": "중국 송나라 사람이 \"천하 제일\"이라 불렀다. 비취색 유약, 상감 기법의 문양. 12세기 고려에서 꽃핀 도자기 예술.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-celadon.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-celadon.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "공예·미술"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 고려청자",
+        "url": "/korean-history/thoughts/goryeo-celadon-editor.html"
+      }
+    },
+    {
+      "title": "귀주대첩",
+      "description": "1019년. 거란의 3차 침략. 귀주(평북 구성)에서 강감찬이 이끄는 고려군이 10만 거란군을 대파했다. 거란은 그 후 고려를 다시 침공하지 않았다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-invasion-khitan.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-invasion-khitan.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "전쟁",
+        "거란(요)"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 귀주대첩",
+        "url": "/korean-history/thoughts/goryeo-invasion-khitan-editor.html"
+      }
+    },
+    {
+      "title": "고려와 원나라",
+      "description": "1259년 항복. 고려 왕은 몽골 공주를 아내로 맞았다. 80년간 원나라의 부마국. 그러나 고려는 사라지지 않았다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-kings-mongol.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-kings-mongol.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "외교·전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 고려와 원나라",
+        "url": "/korean-history/thoughts/goryeo-kings-mongol-editor.html"
+      }
+    },
+    {
+      "title": "고려 대몽 항쟁",
+      "description": "1231~1270년. 몽골의 7차례 침략에 맞서 강화도로 수도를 옮기고 39년을 버텼다. 그 대가는 백성의 희생이었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-mongol-war.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-mongol-war.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [
+        "몽골(원)"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 고려 대몽 항쟁",
+        "url": "/korean-history/thoughts/goryeo-mongol-war-editor.html"
+      }
+    },
+    {
+      "title": "고구려 천리장성",
+      "description": "631년 공사 시작, 16년 만에 완성. 동북에서 서남으로 천 리. 고구려가 쌓은 대규모 방어선. 그러나 장성은 고구려를 구하지 못했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/great-wall-goguryeo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/great-wall-goguryeo.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "고구려·국방"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 고구려 천리장성",
+        "url": "/korean-history/thoughts/great-wall-goguryeo-editor.html"
+      }
+    },
+    {
+      "title": "관창 — 화랑 정신의 상징이 된 소년",
+      "description": "황산벌 전투에서 열여섯 나이에 목숨을 바친 화랑 관창. 신라 정신의 상징.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanchang-hwarang.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanchang-hwarang.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "인물",
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "광개토대왕릉비",
+      "description": "414년 고구려에 세워진 돌비. 높이 6.4m, 1,775자. 한·중·일이 각자 다르게 읽는다. 역사가 돌에 새겨져 논쟁이 된다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-stele.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-stele.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "고구려·역사논쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 광개토대왕릉비",
+        "url": "/korean-history/thoughts/gwanggaeto-stele-editor.html"
+      }
+    },
+    {
+      "title": "광해군의 중립 외교",
+      "description": "재위 1608~1623년. 임진왜란 직후 왕이 된 광해군은 명·후금 사이에서 실리 외교를 폈다. 그 결과는 쿠데타로 폐위였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanghaegun-diplomacy.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanghaegun-diplomacy.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "외교·정치",
+        "인물"
+      ],
+      "related": [
+        "중국(명·청)"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 광해군",
+        "url": "/korean-history/thoughts/gwanghaegun-diplomacy-editor.html"
+      }
+    },
+    {
+      "title": "광종의 노비안검법 — 왕권 강화의 첫 걸음",
+      "description": "956년 광종이 시행한 노비안검법. 호족의 사병을 해방해 왕권을 강화한 개혁.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwangjong-slave-liberation.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwangjong-slave-liberation.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "5·18 광주 민주화운동",
+      "description": "1980년 5월 18일~27일. 광주 시민이 계엄군에 맞서 열흘을 싸웠다. 공식 사망자 165명. 진상은 아직 규명 중이다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwangju-uprising.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwangju-uprising.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "민주주의·항쟁"
+      ],
+      "related": [],
+      "region": [
+        "광주·전남"
+      ],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 5·18 광주 민주화운동",
+        "url": "/korean-history/thoughts/gwangju-uprising-editor.html"
+      }
+    },
+    {
+      "title": "권율과 행주대첩",
+      "description": "1593년 2월 12일. 권율이 이끈 조선군 2,300명이 왜군 3만을 물리친 임진왜란 3대 대첩.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwon-yul-haengju.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwon-yul-haengju.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "임진왜란",
+        "인물"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 행주대첩",
+        "url": "/korean-history/thoughts/gwon-yul-haengju-editor.html"
+      }
+    },
+    {
+      "title": "계백 장군 — 황산벌의 5,000 결사대",
+      "description": "660년 황산벌. 계백은 5,000 결사대로 신라 5만 군대에 맞섰다. 백제 최후의 전투.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gyebaek-hwangsanbeol.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gyebaek-hwangsanbeol.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "전쟁",
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "해인사 팔만대장경",
+      "description": "1236~1251년 제작. 8만 1,258개의 나무판, 5,200만 자. 750년이 지났는데 뒤틀리지 않았다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/haeinsas-preservation.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/haeinsas-preservation.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "불교·문화"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 해인사 팔만대장경",
+        "url": "/korean-history/thoughts/haeinsas-preservation-editor.html"
+      }
+    },
+    {
+      "title": "한류의 기원",
+      "description": "1997년 경제 위기. 문화 산업 육성이 국가 전략이 됐다. 그 씨앗이 20년 후 BTS와 봉준호가 됐다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hallyu-origin.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hallyu-origin.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "문화·한류"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 한류의 기원",
+        "url": "/korean-history/thoughts/hallyu-origin-editor.html"
+      }
+    },
+    {
+      "title": "한글날의 역사",
+      "description": "1926년 처음 만들어진 날. 일제가 탄압했다. 광복 후 공휴일이 됐다. 1991년 공휴일에서 빠졌다. 2013년 다시 공휴일이 됐다. 한글날의 굴곡진 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hangul-day-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hangul-day-history.md",
+      "era": [
+        "근현대"
+      ],
+      "topics": [
+        "한글·기념일"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 한글날의 역사",
+        "url": "/korean-history/thoughts/hangul-day-history-editor.html"
+      }
+    },
+    {
+      "title": "일제의 한글 탄압",
+      "description": "1938년 학교에서 조선어 교육을 금지했다. 1942년 조선어학회 사건으로 학자들을 투옥했다. 그래도 한글은 살아남았다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hangul-suppression.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hangul-suppression.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "언어·탄압",
+        "일본"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 일제의 한글 탄압",
+        "url": "/korean-history/thoughts/hangul-suppression-editor.html"
+      }
+    },
+    {
+      "title": "흥남 철수",
+      "description": "1950년 12월. 중공군이 밀려왔다. 흥남 부두에 군인과 피란민 10만 명이 몰렸다. 메러디스 빅토리호 한 척이 1만 4,000명을 태우고 떠났다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/heungnam-evacuation.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/heungnam-evacuation.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "한국전쟁·피란"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 흥남 철수",
+        "url": "/korean-history/thoughts/heungnam-evacuation-editor.html"
+      }
+    },
+    {
+      "title": "홍경래의 난",
+      "description": "1811~1812년. 평안도 지역 차별에 분노한 홍경래가 일으킨 조선 최대 민란.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hong-gyeongnae-rebellion.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hong-gyeongnae-rebellion.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사회·민란"
+      ],
+      "related": [],
+      "region": [
+        "평안도"
+      ],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 홍경래의 난",
+        "url": "/korean-history/thoughts/hong-gyeongnae-rebellion-editor.html"
+      }
+    },
+    {
+      "title": "황진이",
+      "description": "16세기 개성 기생. 당대 최고 선비들을 감복시키고 한국 시조사에 이름을 남긴 예인.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hwang-jini.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hwang-jini.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "인물",
+        "문화"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 황진이",
+        "url": "/korean-history/thoughts/hwang-jini-editor.html"
+      }
+    },
+    {
+      "title": "화랑도 — 신라 청소년 엘리트 교육",
+      "description": "신라의 청소년 교육 집단 화랑도. 세속오계, 수련, 그리고 삼국통일의 인재 양성소.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hwarang-education.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hwarang-education.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "사회",
+        "문화"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "화성과 정조",
+      "description": "1794~1796년. 정조가 아버지 사도세자의 무덤 곁에 세운 화성. 단순한 성곽이 아닌 새로운 정치 수도의 꿈.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hwaseong-jeongjo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hwaseong-jeongjo.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "건축·문화",
+        "인물"
+      ],
+      "related": [],
+      "region": [
+        "수원"
+      ],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 화성과 정조",
+        "url": "/korean-history/thoughts/hwaseong-jeongjo-editor.html"
+      }
+    },
+    {
+      "title": "임진왜란과 문화 손실",
+      "description": "1592~1598년. 7년 전쟁. 경복궁이 불탔고, 실록이 사라질 뻔했고, 도공들이 납치되어 일본 도자기 역사를 바꿨다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/imjewaran-cultural-loss.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/imjewaran-cultural-loss.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "전쟁·문화",
+        "일본"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 임진왜란과 문화 손실",
+        "url": "/korean-history/thoughts/imjewaran-cultural-loss-editor.html"
+      }
+    },
+    {
+      "title": "임진왜란 의병",
+      "description": "1592년 왕은 도망갔다. 정규군은 무너졌다. 그때 곽재우·고경명·조헌이 의병을 일으켰다. 농민·승려·선비가 왜군에 맞섰다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/imjin-volunteer-army.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/imjin-volunteer-army.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "임진왜란·의병"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 임진왜란 의병",
+        "url": "/korean-history/thoughts/imjin-volunteer-army-editor.html"
+      }
+    },
+    {
+      "title": "해외 독립운동",
+      "description": "상하이 임시정부. 만주 봉오동·청산리. 하와이 독립 자금. 미국 외교 로비. 국내에서 싸운 사람만큼, 해외에서 싸운 사람들도 있었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/independence-movement-overseas.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/independence-movement-overseas.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "독립운동·해외"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 해외 독립운동",
+        "url": "/korean-history/thoughts/independence-movement-overseas-editor.html"
+      }
+    },
+    {
+      "title": "장희빈",
+      "description": "1659~1701년. 숙종의 총애를 받아 왕비에까지 오른 뒤 사사된 희빈 장씨의 실제 삶.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jang-heebin-poison.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jang-heebin-poison.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "인물",
+        "정치"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 장희빈",
+        "url": "/korean-history/thoughts/jang-heebin-poison-editor.html"
+      }
+    },
+    {
+      "title": "장영실",
+      "description": "15세기. 천민 출신 장영실은 혼천의·앙부일구·자격루를 만들었다. 그리고 1442년 기록에서 사라졌다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jang-yeongshil-mystery.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jang-yeongshil-mystery.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "과학·기술",
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 장영실",
+        "url": "/korean-history/thoughts/jang-yeongshil-mystery-editor.html"
+      }
+    },
+    {
+      "title": "제주 4·3 사건",
+      "description": "1948년 4월 3일. 제주에서 무장봉기가 시작됐다. 진압 과정에서 민간인이 학살됐다. 제주 인구의 10분의 1이 죽었다. 50년 동안 말할 수 없었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jeju-april-3.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jeju-april-3.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "민주화·인권"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 제주 4·3 사건",
+        "url": "/korean-history/thoughts/jeju-april-3-editor.html"
+      }
+    },
+    {
+      "title": "정약용",
+      "description": "1762~1836년. 강진 유배 18년. 그 긴 고독 속에서 『목민심서』·『경세유표』·『흠흠신서』 등 조선 최고의 실학 저술이 탄생했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jeong-yakyong-dasan.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jeong-yakyong-dasan.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "인물",
+        "학문·실학"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 정약용",
+        "url": "/korean-history/thoughts/jeong-yakyong-dasan-editor.html"
+      }
+    },
+    {
+      "title": "사도세자",
+      "description": "1762년 윤5월. 영조는 세자 이선을 뒤주에 가뒀다. 8일 후 세자가 죽었다. 조선 역사에서 가장 비극적인 부자 관계.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jeongjogui-death-sado.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jeongjogui-death-sado.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치·인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 사도세자",
+        "url": "/korean-history/thoughts/jeongjogui-death-sado-editor.html"
+      }
+    },
+    {
+      "title": "분단의 시작",
+      "description": "1945년 8월 10일 밤. 미국 국무부 장교 두 명이 30분 만에 지도에 선 하나를 그었다. 그 선이 지금도 남아 있다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-partition-1945.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-partition-1945.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "분단·냉전"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 분단의 시작",
+        "url": "/korean-history/thoughts/joseon-partition-1945-editor.html"
+      }
+    },
+    {
+      "title": "조선 백자",
+      "description": "고려청자가 화려함이라면, 조선백자는 절제다. 유교 미학이 도자기에 담겼다. 순백의 표면 위에 조선 선비의 정신이 있다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-porcelain-baekja.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-porcelain-baekja.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "공예·미술"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 조선 백자",
+        "url": "/korean-history/thoughts/joseon-porcelain-baekja-editor.html"
+      }
+    },
+    {
+      "title": "조선의 출판 문화",
+      "description": "고려는 1234년 세계 최초로 금속 활자를 만들었다. 조선은 그 전통 위에 규장각을 세우고 수만 권의 책을 편찬했다. 책을 사랑한 왕조의 기록.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-printing-books.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-printing-books.md",
+      "era": [
+        "조선·고려"
+      ],
+      "topics": [
+        "출판·기술"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 조선의 출판 문화",
+        "url": "/korean-history/thoughts/joseon-printing-books-editor.html"
+      }
+    },
+    {
+      "title": "조선 수라상",
+      "description": "하루 두 번의 수라. 12첩 반상. 전국 팔도의 음식이 한 상에 올랐다. 왕의 밥상은 단순한 식사가 아니었다. 통치의 상징이었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-royal-cuisine.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-royal-cuisine.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "음식·궁중문화"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 조선 수라상",
+        "url": "/korean-history/thoughts/joseon-royal-cuisine-editor.html"
+      }
+    },
+    {
+      "title": "김구",
+      "description": "1876~1949년. 동학농민운동부터 임시정부 주석까지. 분단을 거부하고 총탄에 쓰러진 독립운동의 상징.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/kim-gu-independence.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/kim-gu-independence.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "독립운동",
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 김구",
+        "url": "/korean-history/thoughts/kim-gu-independence-editor.html"
+      }
+    },
+    {
+      "title": "김만중",
+      "description": "1687년 남해 유배지에서 완성한 『구운몽』. 어머니를 위해 쓴 소설의 정치적 함의.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/kim-manjung-gujuwonnim.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/kim-manjung-gujuwonnim.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "인물",
+        "문화"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 김만중",
+        "url": "/korean-history/thoughts/kim-manjung-gujuwonnim-editor.html"
+      }
+    },
+    {
+      "title": "김유신 — 삼국통일을 이끈 노장",
+      "description": "무열왕과 함께 삼국통일을 완수한 신라 최고의 장군. 80세까지 전장을 누빈 생애.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/kim-yusin-unification.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/kim-yusin-unification.md",
+      "era": [
+        "삼국",
+        "통일신라"
+      ],
+      "topics": [
+        "인물",
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "1988 서울 올림픽",
+      "description": "전쟁 후 40년. 폐허에서 올림픽을 열었다. 160개국이 참가했다. 한국은 금메달 12개로 종합 4위. 세계는 처음으로 한국을 제대로 봤다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-olympic-1988.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-olympic-1988.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "스포츠·외교"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 1988 서울 올림픽",
+        "url": "/korean-history/thoughts/korea-olympic-1988-editor.html"
+      }
+    },
+    {
+      "title": "코리안 디아스포라",
+      "description": "굶주림, 강제 이주, 전쟁, 이민. 한국인은 왜, 어떻게 세계로 흩어졌는가. 750만 재외 한인의 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-diaspora.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-diaspora.md",
+      "era": [
+        "근현대"
+      ],
+      "topics": [
+        "이민·사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 코리안 디아스포라",
+        "url": "/korean-history/thoughts/korean-diaspora-editor.html"
+      }
+    },
+    {
+      "title": "한강의 기적",
+      "description": "1953년 1인당 GDP 67달러. 전쟁으로 폐허가 된 나라. 2023년 1인당 GDP 3만 3,000달러. 70년 만에 500배 성장. 역사에서 유례없는 속도.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-economy-miracle.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-economy-miracle.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "경제·산업화"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 한강의 기적",
+        "url": "/korean-history/thoughts/korean-economy-miracle-editor.html"
+      }
+    },
+    {
+      "title": "한국전쟁",
+      "description": "1950년 6월 25일 새벽. 북한군 탱크가 38도선을 넘었다. 3년 후 정전. 그러나 70년이 지나도 평화 협정은 없다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-war-1950.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-war-1950.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "전쟁·분단",
+        "국제관계"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 한국전쟁",
+        "url": "/korean-history/thoughts/korean-war-1950-editor.html"
+      }
+    },
+    {
+      "title": "후삼국 쟁패 — 궁예·견훤·왕건의 삼파전",
+      "description": "신라 붕괴 후 등장한 후삼국. 궁예의 태봉, 견훤의 후백제, 그리고 왕건의 고려.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/later-three-kingdoms.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/later-three-kingdoms.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "정치",
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "3·1 운동",
+      "description": "1919년 3월 1일. 33인의 민족 대표가 독립선언서를 낭독했다. 그 외침은 전국으로 번졌다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/march-first-movement.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/march-first-movement.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "독립운동"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 3·1 운동",
+        "url": "/korean-history/thoughts/march-first-movement-editor.html"
+      }
+    },
+    {
+      "title": "묘청의 서경천도 운동 — 고려 중기 최대 쿠데타",
+      "description": "1135년 묘청이 서경(평양) 천도와 금나라 정벌을 주장하며 반란을 일으키다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/myocheong-western-capital.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/myocheong-western-capital.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치",
+        "역사"
+      ],
+      "related": [],
+      "region": [
+        "평양"
+      ],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "숭례문 화재",
+      "description": "2008년 2월 10일. 600년을 버텨온 숭례문이 방화로 5시간 만에 무너졌다. 복구에 5년이 걸렸다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/namdaemun-fire.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/namdaemun-fire.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "문화유산"
+      ],
+      "related": [],
+      "region": [
+        "서울"
+      ],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 숭례문 화재",
+        "url": "/korean-history/thoughts/namdaemun-fire-editor.html"
+      }
+    },
+    {
+      "title": "낙랑군 — 한사군과 한반도 지배 400년",
+      "description": "기원전 108년 설치된 한사군. 낙랑군은 고구려에 의해 313년 멸망할 때까지 한반도에 존재했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/nangnang-commandery.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/nangnang-commandery.md",
+      "era": [
+        "고조선"
+      ],
+      "topics": [
+        "정치",
+        "역사"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "박제가와 북학론",
+      "description": "\"오랑캐의 나라에서 배울 것이 없다\"는 조선에서, 그는 반대로 말했다. \"청나라가 잘하는 것은 배워야 한다.\" 그게 북학(北學)이었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/park-jesam-bokhaeron.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/park-jesam-bokhaeron.md",
+      "era": [
+        "조선 후기"
+      ],
+      "topics": [
+        "실학·사상"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 박제가와 북학론",
+        "url": "/korean-history/thoughts/park-jesam-bokhaeron-editor.html"
+      }
+    },
+    {
+      "title": "박정희와 산업화",
+      "description": "1961~1979년. 1인당 GDP 82달러에서 1,644달러로. 그러나 그 뒤에 유신 헌법과 민주주의 탄압이 있었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/parkchunghee-development.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/parkchunghee-development.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "정치·경제",
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 박정희와 산업화",
+        "url": "/korean-history/thoughts/parkchunghee-development-editor.html"
+      }
+    },
+    {
+      "title": "선덕여왕의 통치",
+      "description": "632~647년 재위. 첨성대·황룡사 9층 목탑을 세우고, 삼국 전쟁의 한복판에서 신라를 이끈 여왕.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/queen-seondeok-leadership.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/queen-seondeok-leadership.md",
+      "era": [
+        "신라"
+      ],
+      "topics": [
+        "인물",
+        "정치"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 선덕여왕",
+        "url": "/korean-history/thoughts/queen-seondeok-leadership-editor.html"
+      }
+    },
+    {
+      "title": "신사임당",
+      "description": "1504~1551년. 시·서·화에 뛰어난 조선 최고의 여성 예술가. 그러나 역사는 그녀를 \"이이의 어머니\"로 기억한다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/saimdang-art.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/saimdang-art.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "인물",
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 신사임당",
+        "url": "/korean-history/thoughts/saimdang-art-editor.html"
+      }
+    },
+    {
+      "title": "일연과 삼국유사",
+      "description": "1281년 완성된 삼국유사. 원나라 지배 아래 승려 일연이 우리 역사와 신화를 기록한 이유.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/samguk-yusa-ilyeon.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/samguk-yusa-ilyeon.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "인물",
+        "문화",
+        "불교"
+      ],
+      "related": [
+        "몽골"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 일연과 삼국유사",
+        "url": "/korean-history/thoughts/samguk-yusa-ilyeon-editor.html"
+      }
+    },
+    {
+      "title": "계유정난",
+      "description": "1453년 10월. 수양대군은 궁 안에서 황보인·김종서를 직접 살해하고 어린 단종의 왕위를 찬탈했다. 조선 역사상 가장 피 냄새 나는 쿠데타.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejo-coup.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejo-coup.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치·권력"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 계유정난",
+        "url": "/korean-history/thoughts/sejo-coup-editor.html"
+      }
+    },
+    {
+      "title": "훈민정음의 과학",
+      "description": "자음은 발음 기관의 모양을 본뜬 것이다. 모음은 하늘·땅·사람 세 원리로 만들었다. 세계 유일하게 창제 원리가 밝혀진 문자.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul-science.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul-science.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "한글·언어학"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 훈민정음의 과학",
+        "url": "/korean-history/thoughts/sejong-hangul-science-editor.html"
+      }
+    },
+    {
+      "title": "석굴암",
+      "description": "751년 착공. 화강암 돌덩이들이 모르타르 없이 맞물려 360여 년을 견뎠다. 1300년 후 일제가 시멘트를 바르면서 오히려 문제가 생겼다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/seokguram-construction.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/seokguram-construction.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "불교·건축"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 석굴암",
+        "url": "/korean-history/thoughts/seokguram-construction-editor.html"
+      }
+    },
+    {
+      "title": "신사임당",
+      "description": "5만 원권 지폐의 주인공. 뛰어난 화가이자 시인. 이이의 어머니. 그러나 조선은 그를 '현모양처'로만 기억하려 했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/shin-saimdang-painter.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/shin-saimdang-painter.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "여성·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 신사임당",
+        "url": "/korean-history/thoughts/shin-saimdang-painter-editor.html"
+      }
+    },
+    {
+      "title": "실학 운동",
+      "description": "17~19세기. 이익·박지원·정약용. 공리공론보다 실제 백성의 삶을 개선하는 학문. 그러나 그 개혁안 대부분은 채택되지 않았다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silhak-reform-movement.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silhak-reform-movement.md",
+      "era": [
+        "조선 후기"
+      ],
+      "topics": [
+        "학문·사상"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 실학 운동",
+        "url": "/korean-history/thoughts/silhak-reform-movement-editor.html"
+      }
+    },
+    {
+      "title": "신라 골품제 — 뼈로 정해진 신분",
+      "description": "신라의 엄격한 신분제도. 성골·진골·6두품이 정치·사회·문화를 지배한 구조.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-bone-rank.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-bone-rank.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "사회",
+        "정치"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "신라 금관 — 황금 문화의 절정",
+      "description": "경주 고분에서 발굴된 신라 금관. 시베리아·북방 유목 문화와 연결된 황금 예술.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-gold-crown.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-gold-crown.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "문화",
+        "역사"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "신라 하대 혼란 — 진성여왕과 왕조의 균열",
+      "description": "9세기 말 신라. 왕위 다툼, 호족 세력, 농민 봉기로 통일신라가 무너지기 시작하다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-late-period-chaos.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-late-period-chaos.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "정치",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "신라의 당나라 유학생들 — 최치원 이전과 이후",
+      "description": "신라의 국비·사비 유학생 제도. 빈공과 합격자들과 동아시아 지식 네트워크.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-tang-students.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-tang-students.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "역사",
+        "문화"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "신채호",
+      "description": "역사는 아(我)와 비아(非我)의 투쟁이다. 민족주의 역사학을 창시하고, 마지막엔 무정부주의자로 뤼순 감옥에서 죽었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sin-chaeho-anarchism.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sin-chaeho-anarchism.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "독립운동·역사학"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 신채호",
+        "url": "/korean-history/thoughts/sin-chaeho-anarchism-editor.html"
+      }
+    },
+    {
+      "title": "왕건의 호족연합 — 고려 건국의 정치학",
+      "description": "918년 고려 건국. 왕건이 호족들을 혼인동맹으로 묶어 새 왕조를 세운 방식.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/wanggeon-goryeo-founding.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/wanggeon-goryeo-founding.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치",
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "위만조선 — 중국계 왕이 다스린 고조선",
+      "description": "기원전 194년 위만이 준왕을 몰아내고 세운 위만조선. 한나라와의 충돌과 멸망.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/wiman-joseon.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/wiman-joseon.md",
+      "era": [
+        "고조선"
+      ],
+      "topics": [
+        "정치",
+        "역사"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "원광법사 세속오계 — 화랑의 윤리강령",
+      "description": "원광법사가 화랑에게 내린 다섯 가지 가르침. 불교 윤리와 유교 가치의 결합.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/wongwang-five-commandments.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/wongwang-five-commandments.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "종교",
+        "사상"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "원효 화쟁사상 — 불교 분파를 하나로",
+      "description": "원효의 핵심 사상 화쟁(和諍). 대립하는 불교 종파를 통합한 한국 불교철학의 토대.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo-hwajaeng.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo-hwajaeng.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "사상",
+        "종교"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "강제 징용",
+      "description": "1939~1945년. 약 70만~100만 명의 조선인이 일본·사할린·남태평양 등지의 광산·공장·전쟁터로 끌려갔다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/world-war-ii-koreans.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/world-war-ii-koreans.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "인권·강제동원",
+        "일본"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 강제 징용",
+        "url": "/korean-history/thoughts/world-war-ii-koreans-editor.html"
+      }
+    },
+    {
+      "title": "조선의 과거제",
+      "description": "고려 광종 958년 시작. 조선 500년 운영. 이론상 신분을 초월한 능력 선발. 현실은 양반의 독점. 한국 시험 문화의 원형.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yangban-gwageo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yangban-gwageo.md",
+      "era": [
+        "조선·고려"
+      ],
+      "topics": [
+        "제도·관료제"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 조선의 과거제",
+        "url": "/korean-history/thoughts/yangban-gwageo-editor.html"
+      }
+    },
+    {
+      "title": "연개소문 — 고구려를 쥔 철완 독재자",
+      "description": "642년 쿠데타로 고구려 권력을 장악한 연개소문. 당 태종의 침입을 막은 강경파.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yeon-gaesomun.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yeon-gaesomun.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "인물",
+        "정치"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "유관순",
+      "description": "1902~1920년. 이화학당 학생 유관순이 고향 천안 아우내 장터에서 만세를 외쳤다. 그녀는 18세에 옥중에서 세상을 떠났다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yu-gwan-sun.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yu-gwan-sun.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "독립운동",
+        "인물"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 유관순",
+        "url": "/korean-history/thoughts/yu-gwan-sun-editor.html"
+      }
+    },
+    {
+      "title": "이이 십만양병설",
+      "description": "임진왜란 8년 전, 이이가 10만 군사를 길러야 한다고 했다. 아무도 듣지 않았다. 1592년 왜군이 왔다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yulgok-defense.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yulgok-defense.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "국방·사상"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 이이 십만양병설",
+        "url": "/korean-history/thoughts/yulgok-defense-editor.html"
+      }
+    },
+    {
+      "title": "윤봉길 의거",
+      "description": "1932년 4월 29일. 25세의 청년이 폭탄을 던졌다. 그해 12월 처형됐다. 그러나 중국 장제스가 \"중국의 100만 대군이 하지 못한 일을 조선 청년 하나가 해냈다\"고 했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yun-bong-gil-shanghai.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yun-bong-gil-shanghai.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "독립운동·인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-18",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 윤봉길 의거",
+        "url": "/korean-history/thoughts/yun-bong-gil-shanghai-editor.html"
+      }
+    },
+    {
+      "title": "광개토대왕",
+      "description": "391~413년 재위. 64개 성, 1,400개 촌락 정복. 고구려 역사상 가장 넓은 영토를 일군 정복 군주.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md",
+      "era": [],
+      "topics": [
+        "인물",
+        "전쟁",
+        "정치"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-16",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 광개토대왕",
+        "url": "/korean-history/thoughts/gwanggaeto-expansion-editor.html"
+      }
+    },
+    {
+      "title": "세종과 훈민정음",
+      "description": "1443년 세종이 직접 창제한 훈민정음. 왜 왕이 직접 글자를 만들었는가.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "인물",
+        "문화",
+        "과학·기술"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-14",
+      "is_new": true,
+      "status": "published",
+      "editor": {
+        "title": "[편집자 의견] 세종과 훈민정음",
+        "url": "/korean-history/thoughts/sejong-hangul-editor.html"
+      }
+    },
+    {
+      "title": "이순신과 명량 — 12척 대 333척",
+      "description": "파직·고문·수군 해체 명령을 딛고 12척으로 333척의 왜선을 물리친 이순신의 명량해전.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/admiral-yi.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/admiral-yi.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "임진왜란",
+        "인물"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "이순신의 진짜 적은 선조였다 — 편집자의 생각",
+        "url": "/korean-history/thoughts/admiral-yi-editor.html"
+      }
+    },
+    {
+      "title": "안중근의 동양평화론",
+      "description": "1909년 하얼빈 의거와 뤼순 감옥에서 쓴 미완의 『동양평화론』 — 저격범인가, 사상가인가.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ahn-junggeun.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ahn-junggeun.md",
+      "era": [
+        "대한제국"
+      ],
+      "topics": [
+        "독립운동",
+        "인물"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "안중근이 단순 테러리스트가 아닌 이유 — 편집자의 생각",
+        "url": "/korean-history/thoughts/ahn-junggeun-editor.html"
+      }
+    },
+    {
+      "title": "선덕여왕의 첨성대",
+      "description": "7세기 동아시아 현존 최고(最古) 천문대, 첨성대와 선덕여왕의 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/cheomseongdae.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/cheomseongdae.md",
+      "era": [
+        "신라"
+      ],
+      "topics": [
+        "과학",
+        "인물"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "첨성대는 왜 지어졌는가",
+        "url": "/korean-history/thoughts/cheomseongdae-editor.html"
+      }
+    },
+    {
+      "title": "처용, 역신에게 아내를 빼앗기고 춤을 추다",
+      "description": "신라 헌강왕 시절 처용 설화 — 역신에게 아내를 빼앗겼지만 노래와 춤으로 감화시킨 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/cheoyong.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/cheoyong.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "설화",
+        "문화"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "처용은 왜 화내지 않았는가",
+        "url": "/korean-history/thoughts/cheoyong-editor.html"
+      }
+    },
+    {
+      "title": "공민왕과 노국공주",
+      "description": "원나라 공주를 아내로 맞아 반원 개혁을 추진했지만, 아내의 죽음 이후 무너진 고려의 왕.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gongmin.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gongmin.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치",
+        "인물"
+      ],
+      "related": [
+        "원나라"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "개인의 사랑이 국가 정치를 어떻게 무너뜨렸는가",
+        "url": "/korean-history/thoughts/gongmin-editor.html"
+      }
+    },
+    {
+      "title": "허준과 『동의보감』",
+      "description": "임진왜란과 유배를 견디며 17년에 걸쳐 『동의보감』을 완성한 허준의 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/heo-jun.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/heo-jun.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "의학",
+        "인물",
+        "임진왜란"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "고통이 걸작을 만드는가 — 허준의 경우",
+        "url": "/korean-history/thoughts/heo-jun-editor.html"
+      }
+    },
+    {
+      "title": "혜초, 신라 승려의 인도 여행기",
+      "description": "723년 신라 승려 혜초의 인도·중앙아시아 여행과 『왕오천축국전』.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hyecho.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hyecho.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "여행",
+        "불교"
+      ],
+      "related": [
+        "인도",
+        "프랑스"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "『왕오천축국전』도 파리에 있다",
+        "url": "/korean-history/thoughts/hyecho-editor.html"
+      }
+    },
+    {
+      "title": "장영실 — 관노가 발명한 조선의 시간",
+      "description": "조선 세종 시대, 관노 출신 장영실이 자격루·앙부일구·측우기를 발명하고 사라진 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jang-yeongshil.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jang-yeongshil.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "과학·기술",
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "세종은 왜 장영실을 버렸는가 — 편집자의 생각",
+        "url": "/korean-history/thoughts/jang-yeongshil-editor.html"
+      }
+    },
+    {
+      "title": "장보고, 바다를 지배한 평민",
+      "description": "9세기 동아시아 해상 무역 전체를 장악한 신라인 장보고의 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jangbogo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jangbogo.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "무역",
+        "인물"
+      ],
+      "related": [
+        "당나라",
+        "일본"
+      ],
+      "region": [
+        "완도·청해진"
+      ],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "장보고는 영웅이었나, 반역자였나",
+        "url": "/korean-history/thoughts/jangbogo-editor.html"
+      }
+    },
+    {
+      "title": "직지심체요절, 구텐베르크보다 78년 앞선 금속활자",
+      "description": "1377년 고려 청주에서 인쇄된 세계 최고(最古) 금속활자 인쇄본. 지금은 파리에 있다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jikji.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jikji.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "기술",
+        "문화"
+      ],
+      "related": [
+        "프랑스"
+      ],
+      "region": [
+        "청주·흥덕사"
+      ],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "직지는 왜 아직도 파리에 있는가",
+        "url": "/korean-history/thoughts/jikji-editor.html"
+      }
+    },
+    {
+      "title": "신라와 당의 외교 관계",
+      "description": "통일신라가 당나라와 맺은 외교 관계와 그 영향.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-tang.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-tang.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "외교",
+        "정치"
+      ],
+      "related": [
+        "당나라"
+      ],
+      "region": [
+        "경주"
+      ],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "편집자의 생각: 신라의 외교",
+        "url": "/korean-history/thoughts/silla-tang-editor.html"
+      }
+    },
+    {
+      "title": "팔만대장경",
+      "description": "몽골 침략 중 강화도에서 제작된 8만 장의 불경 목판, 팔만대장경.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/tripitaka.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/tripitaka.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "불교",
+        "문화"
+      ],
+      "related": [
+        "몽골"
+      ],
+      "region": [
+        "강화도"
+      ],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "전쟁 중 문화 사업 — 실용인가, 도피인가",
+        "url": "/korean-history/thoughts/tripitaka-editor.html"
+      }
+    },
+    {
+      "title": "이의민 — 노비의 아들이 최고 권력자가 되다",
+      "description": "고려 무신정권 시대, 절 노비의 아들 이의민이 최고 권력자가 된 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/uimin.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치",
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "고려 무신 시대는 신분 상승의 시대였는가",
+        "url": "/korean-history/thoughts/uimin-editor.html"
+      }
+    },
+    {
+      "title": "원효의 해골 물",
+      "description": "661년 원효가 해골 물을 마시고 깨달음을 얻어 유학을 포기한 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "불교",
+        "인물",
+        "사상"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-05-01",
+      "is_new": false,
+      "status": "published",
+      "editor": {
+        "title": "유학 포기가 오히려 독자 노선이 된 이유",
+        "url": "/korean-history/thoughts/wonhyo-editor.html"
+      }
     }
   ],
   "queue": [
@@ -4428,6 +6344,29 @@
       "related": [],
       "region": [],
       "num": 286,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고구려 개마무사 — 동아시아 최강의 중장기병",
+      "description": "철갑으로 무장한 고구려 기병 개마무사. 5세기 동아시아 전장을 지배한 중장기병 전술.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/287-gaema-cavalry-goguryeo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/287-gaema-cavalry-goguryeo.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "군사",
+        "문화"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "평양"
+      ],
+      "num": 287,
       "published": null,
       "is_new": false,
       "status": "queue"
