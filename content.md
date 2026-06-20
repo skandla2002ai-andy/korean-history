@@ -1,6 +1,6 @@
 # 주요 콘텐츠
 
-> 연재 중인 한국사 글 목록. 마지막 업데이트: 2026-06-18 · 총 122편
+> 연재 중인 한국사 글 목록. 마지막 업데이트: 2026-06-20 · 총 124편
 
 
 
@@ -11,6 +11,7 @@
 - ["고려청자"](/korean-history/articles/goryeo-celadon.md) — 
 - ["귀주대첩"](/korean-history/articles/goryeo-invasion-khitan.md) — 
 - ["고려와 원나라"](/korean-history/articles/goryeo-kings-mongol.md) — 
+- ["무신정변 1170 — 고려 무신이 칼을 들다"](/korean-history/articles/goryeo-military-coup-1170.md) — 
 - ["고려 대몽 항쟁"](/korean-history/articles/goryeo-mongol-war.md) — 
 - ["광종의 노비안검법 — 왕권 강화의 첫 걸음"](/korean-history/articles/gwangjong-slave-liberation.md) — 
 - ["해인사 팔만대장경"](/korean-history/articles/haeinsas-preservation.md) — 
@@ -61,6 +62,7 @@
 - ["백제와 일본"](/korean-history/articles/baekje-art-culture.md) — 
 - ["백제 멸망과 황산벌"](/korean-history/articles/baekje-fall-660.md) — 
 - ["온조왕과 백제 건국"](/korean-history/articles/baekje-foundation.md) — "충청·한강"
+- ["고구려 개마무사 — 동아시아 최강의 중장기병"](/korean-history/articles/gaema-cavalry-goguryeo.md) — "평양"
 - ["주몽과 고구려 건국"](/korean-history/articles/goguryeo-jumong.md) — 
 - ["살수대첩"](/korean-history/articles/goguryeo-vs-sui.md) — 
 - ["고구려 고분벽화"](/korean-history/articles/goguryeo-wall-paintings.md) — 
