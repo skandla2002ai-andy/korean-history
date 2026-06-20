@@ -27,8 +27,9 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (122편 · 최신순 · 갱신 2026-06-19)
+## 발행 완료 (123편 · 최신순 · 갱신 2026-06-19)
 
+- [무신정변 1170 — 고려 무신이 칼을 들다](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-coup-1170.md): 고려 [NEW]
 - [안용복과 독도 수호](https://skandla2002ai-andy.github.io/korean-history/articles/an-yong-bok-dokdo.md): 조선 [NEW]
 - [4·19 혁명](https://skandla2002ai-andy.github.io/korean-history/articles/april-revolution.md): 현대 [NEW]
 - [백두산 국경 분쟁](https://skandla2002ai-andy.github.io/korean-history/articles/baekdusan-border.md): 조선·현대 [NEW]
@@ -152,9 +153,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (174편)
+## 발행 예정 큐 (173편)
 
-- [113. 무신정변 1170 — 고려 무신이 칼을 들다](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/113-goryeo-military-coup-1170.html): 고려
 - [114. 삼별초 항쟁 — 몽골에 맞선 마지막 저항](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/114-sambyeolcho-resistance.html): 고려 · 제주
 - [115. 벽란도 무역 — 코리아란 이름이 세계로](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/115-byeollando-trade.html): 고려
 - [116. 고려 팔관회 — 불교와 토착신앙의 국가의례](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/116-goryeo-palgwanhoe.html): 고려
