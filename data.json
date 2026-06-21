@@ -8,9 +8,9 @@
   "lastUpdated": "2026-06-21",
   "stats": {
     "total": 346,
-    "published": 175,
-    "queued": 171,
-    "new": 161
+    "published": 176,
+    "queued": 170,
+    "new": 162
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -904,6 +904,26 @@
       ],
       "topics": [
         "정치",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "새마을운동 — 농촌 근대화의 성과와 그늘",
+      "description": "1970년대 박정희 정부의 새마을운동. 농촌 현대화의 성과와 동원·억압의 그늘.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/saemaul-movement.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/saemaul-movement.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "사회",
+        "경제",
         "역사"
       ],
       "related": [],
@@ -3882,26 +3902,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "새마을운동 — 농촌 근대화의 성과와 그늘",
-      "description": "1970년대 박정희 정부의 새마을운동. 농촌 현대화의 성과와 동원·억압의 그늘.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/164-saemaul-movement.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/164-saemaul-movement.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "사회",
-        "경제",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 164,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "유신헌법 — 박정희의 영구집권 설계",
       "description": "1972년 10월 유신. 대통령 직선제 폐지·임기 무제한. 독재 헌법의 탄생.",

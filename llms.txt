@@ -27,7 +27,7 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (175편 · 최신순 · 갱신 2026-06-21)
+## 발행 완료 (176편 · 최신순 · 갱신 2026-06-21)
 
 - [휴전협정 1953 — 판문점과 굳어진 분단](https://skandla2002ai-andy.github.io/korean-history/articles/armistice-1953.md): 현대 [NEW]
 - [박지원 열하일기 — 청나라에서 배운 실용주의](https://skandla2002ai-andy.github.io/korean-history/articles/bak-jiwon-yolha-diary.md): 조선 [NEW]
@@ -71,6 +71,7 @@
 - [농지개혁 — 조선 천년 토지 불평등의 해소](https://skandla2002ai-andy.github.io/korean-history/articles/land-reform-1950.md): 현대 [NEW]
 - [토지조사사업 — 식민지 수탈의 설계도](https://skandla2002ai-andy.github.io/korean-history/articles/land-survey-1910s.md): 일제강점기 [NEW]
 - [5·16 군사쿠데타 — 민주주의의 중단](https://skandla2002ai-andy.github.io/korean-history/articles/military-coup-1961.md): 현대 [NEW]
+- [새마을운동 — 농촌 근대화의 성과와 그늘](https://skandla2002ai-andy.github.io/korean-history/articles/saemaul-movement.md): 현대 [NEW]
 - [삼별초 항쟁 — 몽골에 맞선 마지막 저항](https://skandla2002ai-andy.github.io/korean-history/articles/sambyeolcho-resistance.md): 고려 · 제주 [NEW]
 - [신간회 — 좌우합작 독립운동 연대](https://skandla2002ai-andy.github.io/korean-history/articles/singanhoe-1927.md): 일제강점기 [NEW]
 - [숙종 환국정치 — 붕당 교체와 왕권의 칼](https://skandla2002ai-andy.github.io/korean-history/articles/sukjong-hwan-guk.md): 조선 [NEW]
@@ -205,9 +206,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (171편)
+## 발행 예정 큐 (170편)
 
-- [164. 새마을운동 — 농촌 근대화의 성과와 그늘](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/164-saemaul-movement.html): 현대
 - [165. 유신헌법 — 박정희의 영구집권 설계](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/165-yusin-constitution-1972.html): 현대
 - [166. 10·26 사태 — 총성으로 끝난 18년](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/166-october-26-1979.html): 현대
 - [167. 6월 민주항쟁 1987 — 직선제를 쟁취한 시민들](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/167-june-democracy-1987.html): 현대
