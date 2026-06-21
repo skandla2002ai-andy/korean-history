@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-06-20",
+  "lastUpdated": "2026-06-21",
   "stats": {
     "total": 346,
-    "published": 124,
-    "queued": 222,
-    "new": 110
+    "published": 174,
+    "queued": 172,
+    "new": 160
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,1040 @@
     }
   ],
   "articles": [
+    {
+      "title": "휴전협정 1953 — 판문점과 굳어진 분단",
+      "description": "1953년 7월 27일 판문점 휴전. 전쟁의 끝이 아닌 분단의 고착. 그날의 의미.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/armistice-1953.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/armistice-1953.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "전쟁",
+        "외교"
+      ],
+      "related": [
+        "미국",
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "박지원 열하일기 — 청나라에서 배운 실용주의",
+      "description": "1780년 청나라를 다녀온 박지원의 기행문 열하일기. 북학파 실학의 정수.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/bak-jiwon-yolha-diary.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/bak-jiwon-yolha-diary.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "사상",
+        "인물"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "봉오동 전투 — 홍범도의 독립군 첫 승리",
+      "description": "1920년 6월 홍범도 부대가 봉오동에서 일본군을 크게 물리친 독립군 최초 대승.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/bongodong-battle-1920.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/bongodong-battle-1920.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "전쟁",
+        "독립운동",
+        "인물"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "건국준비위원회 — 여운형의 광복 직후 72일",
+      "description": "광복 직후 여운형이 세운 건국준비위원회. 미군 진주 전 자주적 건국 준비 72일.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/buildup-committee-1945.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/buildup-committee-1945.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "정치",
+        "인물"
+      ],
+      "related": [
+        "미국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "벽란도 무역 — 코리아란 이름이 세계로",
+      "description": "고려의 국제 무역항 벽란도. 아라비아 상인과 교역하며 'COREA'라는 이름이 퍼지다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/byeollando-trade.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/byeollando-trade.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "경제",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "카이로 선언 — 한국 독립을 약속한 국제문서",
+      "description": "1943년 미·영·중이 서명한 카이로 선언. '적절한 시기에 한국 독립'을 명문화.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/cairo-declaration-1943.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/cairo-declaration-1943.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "외교",
+        "독립운동"
+      ],
+      "related": [
+        "미국",
+        "중국",
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "창씨개명 — 이름까지 빼앗긴 민족",
+      "description": "1940년 일제의 창씨개명 정책. 한국인의 성명을 일본식으로 바꾸도록 강요한 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/changsi-gaemyeong.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/changsi-gaemyeong.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "사회",
+        "역사"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "청산리 대첩 — 김좌진과 6일간의 전투",
+      "description": "1920년 10월 김좌진·홍범도 연합부대가 청산리에서 일본군을 격파한 대첩.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/cheongsanri-battle-1920.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/cheongsanri-battle-1920.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "전쟁",
+        "독립운동",
+        "인물"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "일본군 위안부 — 역사적 진실과 외교 갈등",
+      "description": "일제강점기 일본군 위안부의 역사적 실체. 국제 인권 문제로 번진 한일 갈등의 핵심.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/comfort-women-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/comfort-women-history.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "사회",
+        "외교"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "제헌국회와 헌법 — 대한민국의 탄생",
+      "description": "1948년 5·10 선거와 제헌국회. 대한민국 헌법 제정과 정부 수립의 과정.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/constituent-assembly-1948.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/constituent-assembly-1948.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "정치",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "대한제국 선포 — 고종의 황제 즉위",
+      "description": "1897년 고종이 대한제국을 선포하고 황제에 즉위. 자주 독립국 선언의 의미와 한계.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/daehan-empire-1897.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/daehan-empire-1897.md",
+      "era": [
+        "대한제국"
+      ],
+      "topics": [
+        "정치",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "을사늑약 1905 — 외교권을 빼앗긴 날",
+      "description": "1905년 일본이 강요한 을사늑약. 대한제국의 외교권을 박탈한 불법 조약.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/eulsa-treaty-1905.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/eulsa-treaty-1905.md",
+      "era": [
+        "대한제국"
+      ],
+      "topics": [
+        "외교",
+        "역사"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "강제징용 — 탄광·공장의 조선인 노동자",
+      "description": "태평양전쟁 시기 일본에 강제로 끌려간 조선인 노동자. 미해결 역사 문제의 현재.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/forced-labor-wwii.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/forced-labor-wwii.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "사회",
+        "역사"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "갑오개혁 — 조선의 근대화 법령",
+      "description": "1894년 갑오개혁. 신분제 폐지, 과거제 폐지, 조혼 금지 등 근대 법령의 등장.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gabo-reform-1894.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gabo-reform-1894.md",
+      "era": [
+        "조선후기"
+      ],
+      "topics": [
+        "정치",
+        "사회"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "강화도 조약 1876 — 최초의 근대 불평등조약",
+      "description": "일본 군함 운요호 사건을 빌미로 체결된 강화도 조약. 조선 근대사의 출발점.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ganghwado-treaty-1876.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ganghwado-treaty-1876.md",
+      "era": [
+        "조선후기"
+      ],
+      "topics": [
+        "외교",
+        "역사"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "갑신정변 — 김옥균의 3일 천하",
+      "description": "1884년 개화파 김옥균이 일으킨 정변. 3일 만에 청나라 군대에 의해 진압되다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gapsin-coup-1884.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gapsin-coup-1884.md",
+      "era": [
+        "조선후기"
+      ],
+      "topics": [
+        "정치",
+        "인물"
+      ],
+      "related": [
+        "일본",
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "거제도 포로수용소 — 전선 뒤의 또 다른 전쟁",
+      "description": "한국전쟁 중 거제도 포로수용소. 포로 폭동과 도드 준장 납치 사건.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/geoje-pow-camp.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/geoje-pow-camp.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "전쟁",
+        "역사"
+      ],
+      "related": [
+        "미국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고려 불화 — 세계 최고 수준의 불교 회화",
+      "description": "고려시대 불화는 정교함과 예술성에서 세계 최고 수준으로 평가받는다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-buddhist-painting.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-buddhist-painting.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "문화",
+        "종교"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고려 인삼 무역 — 천년을 이어온 최고의 수출품",
+      "description": "고려 인삼은 중국·아라비아까지 팔린 최고 수출품이었다. 인삼 외교의 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-ginseng-trade.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-ginseng-trade.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "경제",
+        "역사"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고려 팔관회 — 불교와 토착신앙의 국가의례",
+      "description": "고려의 최대 국가 축제 팔관회. 불교·도교·무속이 결합된 복합 국가의례.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-palgwanhoe.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-palgwanhoe.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "문화",
+        "종교"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "경국대전 편찬 — 조선 법치의 완성",
+      "description": "1485년 성종 때 완성된 경국대전. 조선 500년을 지탱한 종합 법전.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gyeongguk-daejeon-law.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gyeongguk-daejeon-law.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "헤이그 특사 — 이준의 마지막 호소",
+      "description": "1907년 고종이 헤이그 만국평화회의에 특사를 파견. 이준의 죽음과 고종 강제 퇴위.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hague-envoy-1907.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hague-envoy-1907.md",
+      "era": [
+        "대한제국"
+      ],
+      "topics": [
+        "외교",
+        "인물"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한산도대첩 — 학익진으로 일본 수군을 격파",
+      "description": "1592년 한산도. 이순신이 학익진 전술로 일본 수군 70여 척을 격파한 해전의 명승.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hansan-battle-crane-wing.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hansan-battle-crane-wing.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "전쟁",
+        "인물"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한양 천도 — 풍수로 고른 조선의 수도",
+      "description": "1394년 태조가 개성에서 한양으로 수도를 옮긴 과정. 풍수·지리·정치의 결합.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hanyang-capital-move.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hanyang-capital-move.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "역사",
+        "정치"
+      ],
+      "related": [],
+      "region": [
+        "한양·서울"
+      ],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "흥선대원군 서원 철폐 — 기득권과의 전쟁",
+      "description": "1871년 대원군이 전국 서원 600여 개를 47개만 남기고 폐쇄. 유생과의 충돌.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/heungseon-seowon-abolition.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/heungseon-seowon-abolition.md",
+      "era": [
+        "조선후기"
+      ],
+      "topics": [
+        "정치",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "효종 북벌론 — 병자호란 이후 굴욕과 복수",
+      "description": "병자호란 이후 효종의 북벌 계획. 청에 대한 복수를 다짐했지만 실현되지 못한 이유.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hyojong-northern-campaign.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hyojong-northern-campaign.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치",
+        "외교"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "임진왜란과 명나라 원군 — 동아시아 국제전",
+      "description": "명나라 원군 파병으로 임진왜란은 동아시아 국제전이 되었다. 삼국의 이해관계.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/imjin-ming-intervention.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/imjin-ming-intervention.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "전쟁",
+        "외교"
+      ],
+      "related": [
+        "중국",
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "인천상륙작전 — 맥아더와 전세의 역전",
+      "description": "1950년 9월 인천상륙작전. 1/5000의 확률에 도전한 맥아더의 도박과 전세 역전.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/incheon-landing-1950.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/incheon-landing-1950.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "전쟁",
+        "외교"
+      ],
+      "related": [
+        "미국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "독립협회와 만민공동회 — 서재필의 시민운동",
+      "description": "1896년 서재필이 만든 독립협회. 만민공동회는 조선 최초의 근대 시민 집회.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/independence-club-1896.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/independence-club-1896.md",
+      "era": [
+        "조선후기"
+      ],
+      "topics": [
+        "정치",
+        "사회",
+        "인물"
+      ],
+      "related": [
+        "미국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "정도전과 조선 설계 — 새 왕조의 청사진",
+      "description": "조선 건국의 이론가 정도전. 한양 도성 설계부터 경국대전 초안까지.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jeong-dojeon-blueprint.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jeong-dojeon-blueprint.md",
+      "era": [
+        "고려",
+        "조선"
+      ],
+      "topics": [
+        "인물",
+        "정치",
+        "사상"
+      ],
+      "related": [],
+      "region": [
+        "한양·서울"
+      ],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "정유재란 — 임진왜란의 두 번째 파고",
+      "description": "1597년 일본의 재침. 명량해전과 도요토미 히데요시 사망으로 끝난 7년 전쟁의 결말.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jeongyu-war-1597.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jeongyu-war-1597.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "전쟁",
+        "외교"
+      ],
+      "related": [
+        "일본",
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "집현전 — 세종의 두뇌집단",
+      "description": "세종이 설립한 학문 연구기관 집현전. 훈민정음 창제와 각종 편찬 사업의 본산.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jiphyeonjeon-academy.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jiphyeonjeon-academy.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조광조 — 사림의 이상과 기묘사화",
+      "description": "도학 정치를 꿈꾼 조광조. 급진 개혁이 훈구파의 역공을 불러 기묘사화로 끝나다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jo-gwangjo-reform.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/jo-gwangjo-reform.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "인물",
+        "정치",
+        "사상"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선 천주교 박해 — 신유박해와 병인박해",
+      "description": "1801년 신유박해와 1866년 병인박해. 수천 명의 천주교 신자가 순교한 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-catholic-persecution.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-catholic-persecution.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "종교",
+        "역사"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선총독부 — 식민 통치기구 35년의 역사",
+      "description": "1910~1945년 조선을 지배한 조선총독부. 제도와 구조로 본 식민 통치의 실체.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-government-general.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-government-general.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "역사",
+        "정치"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선 의녀 제도 — 장금이의 실제 역사",
+      "description": "태종 때 설립된 의녀 제도. 드라마 대장금의 원형이 된 조선의 여성 의료인.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-uinyeo-system.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-uinyeo-system.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사회",
+        "문화",
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한일국교정상화 1965 — 청구권 협정의 명암",
+      "description": "1965년 한일협정. 3억 달러 무상·2억 달러 유상 청구권 자금과 역사 문제 봉인.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-japan-normalization.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-japan-normalization.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "외교",
+        "경제"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선어학회 사건 — 사전 하나로 옥살이",
+      "description": "1942년 조선어학회 탄압. 우리말 큰사전을 편찬하던 학자들이 체포된 사건.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-language-society.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-language-society.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "문화",
+        "독립운동"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "농지개혁 — 조선 천년 토지 불평등의 해소",
+      "description": "1950년 이승만 정부의 농지개혁. 지주제를 해체하고 자작농을 늘린 경제 혁명.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/land-reform-1950.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/land-reform-1950.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "경제",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "토지조사사업 — 식민지 수탈의 설계도",
+      "description": "1910~1918년 조선총독부의 토지조사사업. 농민의 토지를 빼앗은 식민 수탈의 기초.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/land-survey-1910s.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/land-survey-1910s.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "경제",
+        "사회"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "5·16 군사쿠데타 — 민주주의의 중단",
+      "description": "1961년 박정희 소장의 군사쿠데타. 4·19로 이룬 민주주의가 1년 만에 중단된 날.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/military-coup-1961.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/military-coup-1961.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "정치",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "삼별초 항쟁 — 몽골에 맞선 마지막 저항",
+      "description": "1270~1273년. 고려가 몽골에 항복한 후에도 삼별초는 진도·제주에서 싸웠다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sambyeolcho-resistance.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sambyeolcho-resistance.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "전쟁",
+        "독립운동"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "제주"
+      ],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "신간회 — 좌우합작 독립운동 연대",
+      "description": "1927년 결성된 신간회. 민족주의·사회주의 계열이 손을 잡은 최대 항일 단체.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/singanhoe-1927.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/singanhoe-1927.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "독립운동",
+        "정치"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "숙종 환국정치 — 붕당 교체와 왕권의 칼",
+      "description": "숙종은 남인·서인을 번갈아 집권시키며 왕권을 강화했다. 장희빈 사건의 정치적 맥락.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sukjong-hwan-guk.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sukjong-hwan-guk.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "태종 이방원 — 왕자의 난과 왕권 확립",
+      "description": "두 차례 왕자의 난으로 형제를 죽이고 왕위에 오른 태종. 강력한 왕권 확립의 대가.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/taejong-wangjaui-nan.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/taejong-wangjaui-nan.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "인물",
+        "정치"
+      ],
+      "related": [],
+      "region": [
+        "한양·서울"
+      ],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "퇴계·율곡의 논쟁 — 조선 성리학의 두 봉우리",
+      "description": "이황(퇴계)과 이이(율곡)의 사단칠정 논쟁. 조선 성리학을 세계적 수준으로 끌어올리다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/toegye-yulgok-debate.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/toegye-yulgok-debate.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사상",
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "미소공동위원회 — 신탁통치 논란과 분열",
+      "description": "광복 후 미소공동위원회와 신탁통치 논란. 찬탁·반탁으로 갈린 한국 사회의 분열.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/usmilitary-trusteeship.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/usmilitary-trusteeship.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "정치",
+        "역사"
+      ],
+      "related": [
+        "미국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "이성계의 위화도 회군 — 조선 건국의 결정적 순간",
+      "description": "1388년 이성계가 위화도에서 군대를 돌린 사건. 고려를 무너뜨린 역사의 전환점.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/wihwado-retreat.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/wihwado-retreat.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치",
+        "인물"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "영조 탕평책 — 붕당 완화를 위한 균형 외교",
+      "description": "영조가 추진한 탕평책. 노론·소론·남인을 고루 등용해 붕당 싸움을 줄이려 한 시도.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yeongjo-tangpyeong.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yeongjo-tangpyeong.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "연산군 폭정 — 두 번의 사화와 광기",
+      "description": "무오사화·갑자사화. 연산군의 폭정과 조선 최초의 반정(中宗反正).",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yeonsangun-tyranny.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yeonsangun-tyranny.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "인물",
+        "정치"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-21",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "고구려 개마무사 — 동아시아 최강의 중장기병",
       "description": "철갑으로 무장한 고구려 기병 개마무사. 5세기 동아시아 전장을 지배한 중장기병 전술.",
@@ -2827,1040 +3861,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "삼별초 항쟁 — 몽골에 맞선 마지막 저항",
-      "description": "1270~1273년. 고려가 몽골에 항복한 후에도 삼별초는 진도·제주에서 싸웠다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/114-sambyeolcho-resistance.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/114-sambyeolcho-resistance.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "전쟁",
-        "독립운동"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [
-        "제주"
-      ],
-      "num": 114,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "벽란도 무역 — 코리아란 이름이 세계로",
-      "description": "고려의 국제 무역항 벽란도. 아라비아 상인과 교역하며 'COREA'라는 이름이 퍼지다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/115-byeollando-trade.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/115-byeollando-trade.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "경제",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 115,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "고려 팔관회 — 불교와 토착신앙의 국가의례",
-      "description": "고려의 최대 국가 축제 팔관회. 불교·도교·무속이 결합된 복합 국가의례.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/116-goryeo-palgwanhoe.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/116-goryeo-palgwanhoe.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "문화",
-        "종교"
-      ],
-      "related": [],
-      "region": [],
-      "num": 116,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "고려 불화 — 세계 최고 수준의 불교 회화",
-      "description": "고려시대 불화는 정교함과 예술성에서 세계 최고 수준으로 평가받는다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/117-goryeo-buddhist-painting.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/117-goryeo-buddhist-painting.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "문화",
-        "종교"
-      ],
-      "related": [],
-      "region": [],
-      "num": 117,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "이성계의 위화도 회군 — 조선 건국의 결정적 순간",
-      "description": "1388년 이성계가 위화도에서 군대를 돌린 사건. 고려를 무너뜨린 역사의 전환점.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/118-wihwado-retreat.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/118-wihwado-retreat.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "정치",
-        "인물"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [],
-      "num": 118,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "정도전과 조선 설계 — 새 왕조의 청사진",
-      "description": "조선 건국의 이론가 정도전. 한양 도성 설계부터 경국대전 초안까지.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/119-jeong-dojeon-blueprint.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/119-jeong-dojeon-blueprint.md",
-      "era": [
-        "고려",
-        "조선"
-      ],
-      "topics": [
-        "인물",
-        "정치",
-        "사상"
-      ],
-      "related": [],
-      "region": [
-        "한양·서울"
-      ],
-      "num": 119,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "고려 인삼 무역 — 천년을 이어온 최고의 수출품",
-      "description": "고려 인삼은 중국·아라비아까지 팔린 최고 수출품이었다. 인삼 외교의 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/120-goryeo-ginseng-trade.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/120-goryeo-ginseng-trade.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "경제",
-        "역사"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [],
-      "num": 120,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "태종 이방원 — 왕자의 난과 왕권 확립",
-      "description": "두 차례 왕자의 난으로 형제를 죽이고 왕위에 오른 태종. 강력한 왕권 확립의 대가.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/121-taejong-wangjaui-nan.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/121-taejong-wangjaui-nan.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "인물",
-        "정치"
-      ],
-      "related": [],
-      "region": [
-        "한양·서울"
-      ],
-      "num": 121,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "한양 천도 — 풍수로 고른 조선의 수도",
-      "description": "1394년 태조가 개성에서 한양으로 수도를 옮긴 과정. 풍수·지리·정치의 결합.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/122-hanyang-capital-move.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/122-hanyang-capital-move.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "역사",
-        "정치"
-      ],
-      "related": [],
-      "region": [
-        "한양·서울"
-      ],
-      "num": 122,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "집현전 — 세종의 두뇌집단",
-      "description": "세종이 설립한 학문 연구기관 집현전. 훈민정음 창제와 각종 편찬 사업의 본산.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/123-jiphyeonjeon-academy.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/123-jiphyeonjeon-academy.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 123,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "경국대전 편찬 — 조선 법치의 완성",
-      "description": "1485년 성종 때 완성된 경국대전. 조선 500년을 지탱한 종합 법전.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/124-gyeongguk-daejeon-law.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/124-gyeongguk-daejeon-law.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 124,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "연산군 폭정 — 두 번의 사화와 광기",
-      "description": "무오사화·갑자사화. 연산군의 폭정과 조선 최초의 반정(中宗反正).",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/125-yeonsangun-tyranny.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/125-yeonsangun-tyranny.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "인물",
-        "정치"
-      ],
-      "related": [],
-      "region": [],
-      "num": 125,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "조광조 — 사림의 이상과 기묘사화",
-      "description": "도학 정치를 꿈꾼 조광조. 급진 개혁이 훈구파의 역공을 불러 기묘사화로 끝나다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/126-jo-gwangjo-reform.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/126-jo-gwangjo-reform.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "인물",
-        "정치",
-        "사상"
-      ],
-      "related": [],
-      "region": [],
-      "num": 126,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "한산도대첩 — 학익진으로 일본 수군을 격파",
-      "description": "1592년 한산도. 이순신이 학익진 전술로 일본 수군 70여 척을 격파한 해전의 명승.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/127-hansan-battle-crane-wing.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/127-hansan-battle-crane-wing.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "전쟁",
-        "인물"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 127,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "임진왜란과 명나라 원군 — 동아시아 국제전",
-      "description": "명나라 원군 파병으로 임진왜란은 동아시아 국제전이 되었다. 삼국의 이해관계.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/128-imjin-ming-intervention.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/128-imjin-ming-intervention.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "전쟁",
-        "외교"
-      ],
-      "related": [
-        "중국",
-        "일본"
-      ],
-      "region": [],
-      "num": 128,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "정유재란 — 임진왜란의 두 번째 파고",
-      "description": "1597년 일본의 재침. 명량해전과 도요토미 히데요시 사망으로 끝난 7년 전쟁의 결말.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/129-jeongyu-war-1597.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/129-jeongyu-war-1597.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "전쟁",
-        "외교"
-      ],
-      "related": [
-        "일본",
-        "중국"
-      ],
-      "region": [],
-      "num": 129,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "조선 의녀 제도 — 장금이의 실제 역사",
-      "description": "태종 때 설립된 의녀 제도. 드라마 대장금의 원형이 된 조선의 여성 의료인.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/130-joseon-uinyeo-system.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/130-joseon-uinyeo-system.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "사회",
-        "문화",
-        "인물"
-      ],
-      "related": [],
-      "region": [],
-      "num": 130,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "퇴계·율곡의 논쟁 — 조선 성리학의 두 봉우리",
-      "description": "이황(퇴계)과 이이(율곡)의 사단칠정 논쟁. 조선 성리학을 세계적 수준으로 끌어올리다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/131-toegye-yulgok-debate.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/131-toegye-yulgok-debate.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "사상",
-        "인물"
-      ],
-      "related": [],
-      "region": [],
-      "num": 131,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "효종 북벌론 — 병자호란 이후 굴욕과 복수",
-      "description": "병자호란 이후 효종의 북벌 계획. 청에 대한 복수를 다짐했지만 실현되지 못한 이유.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/132-hyojong-northern-campaign.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/132-hyojong-northern-campaign.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치",
-        "외교"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [],
-      "num": 132,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "숙종 환국정치 — 붕당 교체와 왕권의 칼",
-      "description": "숙종은 남인·서인을 번갈아 집권시키며 왕권을 강화했다. 장희빈 사건의 정치적 맥락.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/133-sukjong-hwan-guk.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/133-sukjong-hwan-guk.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 133,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "영조 탕평책 — 붕당 완화를 위한 균형 외교",
-      "description": "영조가 추진한 탕평책. 노론·소론·남인을 고루 등용해 붕당 싸움을 줄이려 한 시도.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/134-yeongjo-tangpyeong.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/134-yeongjo-tangpyeong.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 134,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "박지원 열하일기 — 청나라에서 배운 실용주의",
-      "description": "1780년 청나라를 다녀온 박지원의 기행문 열하일기. 북학파 실학의 정수.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/135-bak-jiwon-yolha-diary.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/135-bak-jiwon-yolha-diary.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "사상",
-        "인물"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [],
-      "num": 135,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "조선 천주교 박해 — 신유박해와 병인박해",
-      "description": "1801년 신유박해와 1866년 병인박해. 수천 명의 천주교 신자가 순교한 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/136-joseon-catholic-persecution.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/136-joseon-catholic-persecution.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "종교",
-        "역사"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [],
-      "num": 136,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "흥선대원군 서원 철폐 — 기득권과의 전쟁",
-      "description": "1871년 대원군이 전국 서원 600여 개를 47개만 남기고 폐쇄. 유생과의 충돌.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/137-heungseon-seowon-abolition.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/137-heungseon-seowon-abolition.md",
-      "era": [
-        "조선후기"
-      ],
-      "topics": [
-        "정치",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 137,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "강화도 조약 1876 — 최초의 근대 불평등조약",
-      "description": "일본 군함 운요호 사건을 빌미로 체결된 강화도 조약. 조선 근대사의 출발점.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/138-ganghwado-treaty-1876.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/138-ganghwado-treaty-1876.md",
-      "era": [
-        "조선후기"
-      ],
-      "topics": [
-        "외교",
-        "역사"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 138,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "갑신정변 — 김옥균의 3일 천하",
-      "description": "1884년 개화파 김옥균이 일으킨 정변. 3일 만에 청나라 군대에 의해 진압되다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/139-gapsin-coup-1884.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/139-gapsin-coup-1884.md",
-      "era": [
-        "조선후기"
-      ],
-      "topics": [
-        "정치",
-        "인물"
-      ],
-      "related": [
-        "일본",
-        "중국"
-      ],
-      "region": [],
-      "num": 139,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "갑오개혁 — 조선의 근대화 법령",
-      "description": "1894년 갑오개혁. 신분제 폐지, 과거제 폐지, 조혼 금지 등 근대 법령의 등장.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/140-gabo-reform-1894.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/140-gabo-reform-1894.md",
-      "era": [
-        "조선후기"
-      ],
-      "topics": [
-        "정치",
-        "사회"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 140,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "독립협회와 만민공동회 — 서재필의 시민운동",
-      "description": "1896년 서재필이 만든 독립협회. 만민공동회는 조선 최초의 근대 시민 집회.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/141-independence-club-1896.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/141-independence-club-1896.md",
-      "era": [
-        "조선후기"
-      ],
-      "topics": [
-        "정치",
-        "사회",
-        "인물"
-      ],
-      "related": [
-        "미국"
-      ],
-      "region": [],
-      "num": 141,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "대한제국 선포 — 고종의 황제 즉위",
-      "description": "1897년 고종이 대한제국을 선포하고 황제에 즉위. 자주 독립국 선언의 의미와 한계.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/142-daehan-empire-1897.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/142-daehan-empire-1897.md",
-      "era": [
-        "대한제국"
-      ],
-      "topics": [
-        "정치",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 142,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "을사늑약 1905 — 외교권을 빼앗긴 날",
-      "description": "1905년 일본이 강요한 을사늑약. 대한제국의 외교권을 박탈한 불법 조약.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/143-eulsa-treaty-1905.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/143-eulsa-treaty-1905.md",
-      "era": [
-        "대한제국"
-      ],
-      "topics": [
-        "외교",
-        "역사"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 143,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "헤이그 특사 — 이준의 마지막 호소",
-      "description": "1907년 고종이 헤이그 만국평화회의에 특사를 파견. 이준의 죽음과 고종 강제 퇴위.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/144-hague-envoy-1907.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/144-hague-envoy-1907.md",
-      "era": [
-        "대한제국"
-      ],
-      "topics": [
-        "외교",
-        "인물"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 144,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "토지조사사업 — 식민지 수탈의 설계도",
-      "description": "1910~1918년 조선총독부의 토지조사사업. 농민의 토지를 빼앗은 식민 수탈의 기초.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/145-land-survey-1910s.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/145-land-survey-1910s.md",
-      "era": [
-        "일제강점기"
-      ],
-      "topics": [
-        "경제",
-        "사회"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 145,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "봉오동 전투 — 홍범도의 독립군 첫 승리",
-      "description": "1920년 6월 홍범도 부대가 봉오동에서 일본군을 크게 물리친 독립군 최초 대승.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/146-bongodong-battle-1920.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/146-bongodong-battle-1920.md",
-      "era": [
-        "일제강점기"
-      ],
-      "topics": [
-        "전쟁",
-        "독립운동",
-        "인물"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 146,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "청산리 대첩 — 김좌진과 6일간의 전투",
-      "description": "1920년 10월 김좌진·홍범도 연합부대가 청산리에서 일본군을 격파한 대첩.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/147-cheongsanri-battle-1920.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/147-cheongsanri-battle-1920.md",
-      "era": [
-        "일제강점기"
-      ],
-      "topics": [
-        "전쟁",
-        "독립운동",
-        "인물"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 147,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "신간회 — 좌우합작 독립운동 연대",
-      "description": "1927년 결성된 신간회. 민족주의·사회주의 계열이 손을 잡은 최대 항일 단체.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/148-singanhoe-1927.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/148-singanhoe-1927.md",
-      "era": [
-        "일제강점기"
-      ],
-      "topics": [
-        "독립운동",
-        "정치"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 148,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "조선어학회 사건 — 사전 하나로 옥살이",
-      "description": "1942년 조선어학회 탄압. 우리말 큰사전을 편찬하던 학자들이 체포된 사건.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/149-korean-language-society.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/149-korean-language-society.md",
-      "era": [
-        "일제강점기"
-      ],
-      "topics": [
-        "문화",
-        "독립운동"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 149,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "창씨개명 — 이름까지 빼앗긴 민족",
-      "description": "1940년 일제의 창씨개명 정책. 한국인의 성명을 일본식으로 바꾸도록 강요한 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/150-changsi-gaemyeong.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/150-changsi-gaemyeong.md",
-      "era": [
-        "일제강점기"
-      ],
-      "topics": [
-        "사회",
-        "역사"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 150,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "강제징용 — 탄광·공장의 조선인 노동자",
-      "description": "태평양전쟁 시기 일본에 강제로 끌려간 조선인 노동자. 미해결 역사 문제의 현재.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/151-forced-labor-wwii.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/151-forced-labor-wwii.md",
-      "era": [
-        "일제강점기"
-      ],
-      "topics": [
-        "사회",
-        "역사"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 151,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "일본군 위안부 — 역사적 진실과 외교 갈등",
-      "description": "일제강점기 일본군 위안부의 역사적 실체. 국제 인권 문제로 번진 한일 갈등의 핵심.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/152-comfort-women-history.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/152-comfort-women-history.md",
-      "era": [
-        "일제강점기"
-      ],
-      "topics": [
-        "사회",
-        "외교"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 152,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "카이로 선언 — 한국 독립을 약속한 국제문서",
-      "description": "1943년 미·영·중이 서명한 카이로 선언. '적절한 시기에 한국 독립'을 명문화.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/153-cairo-declaration-1943.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/153-cairo-declaration-1943.md",
-      "era": [
-        "일제강점기"
-      ],
-      "topics": [
-        "외교",
-        "독립운동"
-      ],
-      "related": [
-        "미국",
-        "중국",
-        "일본"
-      ],
-      "region": [],
-      "num": 153,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "건국준비위원회 — 여운형의 광복 직후 72일",
-      "description": "광복 직후 여운형이 세운 건국준비위원회. 미군 진주 전 자주적 건국 준비 72일.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/154-buildup-committee-1945.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/154-buildup-committee-1945.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "정치",
-        "인물"
-      ],
-      "related": [
-        "미국"
-      ],
-      "region": [],
-      "num": 154,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "조선총독부 — 식민 통치기구 35년의 역사",
-      "description": "1910~1945년 조선을 지배한 조선총독부. 제도와 구조로 본 식민 통치의 실체.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/155-joseon-government-general.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/155-joseon-government-general.md",
-      "era": [
-        "일제강점기"
-      ],
-      "topics": [
-        "역사",
-        "정치"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 155,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "미소공동위원회 — 신탁통치 논란과 분열",
-      "description": "광복 후 미소공동위원회와 신탁통치 논란. 찬탁·반탁으로 갈린 한국 사회의 분열.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/156-usmilitary-trusteeship.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/156-usmilitary-trusteeship.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "정치",
-        "역사"
-      ],
-      "related": [
-        "미국"
-      ],
-      "region": [],
-      "num": 156,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "제헌국회와 헌법 — 대한민국의 탄생",
-      "description": "1948년 5·10 선거와 제헌국회. 대한민국 헌법 제정과 정부 수립의 과정.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/157-constituent-assembly-1948.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/157-constituent-assembly-1948.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "정치",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 157,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "농지개혁 — 조선 천년 토지 불평등의 해소",
-      "description": "1950년 이승만 정부의 농지개혁. 지주제를 해체하고 자작농을 늘린 경제 혁명.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/158-land-reform-1950.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/158-land-reform-1950.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "경제",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
-      "num": 158,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "인천상륙작전 — 맥아더와 전세의 역전",
-      "description": "1950년 9월 인천상륙작전. 1/5000의 확률에 도전한 맥아더의 도박과 전세 역전.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/159-incheon-landing-1950.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/159-incheon-landing-1950.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "전쟁",
-        "외교"
-      ],
-      "related": [
-        "미국"
-      ],
-      "region": [],
-      "num": 159,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "거제도 포로수용소 — 전선 뒤의 또 다른 전쟁",
-      "description": "한국전쟁 중 거제도 포로수용소. 포로 폭동과 도드 준장 납치 사건.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/160-geoje-pow-camp.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/160-geoje-pow-camp.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "전쟁",
-        "역사"
-      ],
-      "related": [
-        "미국"
-      ],
-      "region": [],
-      "num": 160,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "휴전협정 1953 — 판문점과 굳어진 분단",
-      "description": "1953년 7월 27일 판문점 휴전. 전쟁의 끝이 아닌 분단의 고착. 그날의 의미.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/161-armistice-1953.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/161-armistice-1953.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "전쟁",
-        "외교"
-      ],
-      "related": [
-        "미국",
-        "중국"
-      ],
-      "region": [],
-      "num": 161,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "5·16 군사쿠데타 — 민주주의의 중단",
-      "description": "1961년 박정희 소장의 군사쿠데타. 4·19로 이룬 민주주의가 1년 만에 중단된 날.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/162-military-coup-1961.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/162-military-coup-1961.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "정치",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 162,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "한일국교정상화 1965 — 청구권 협정의 명암",
-      "description": "1965년 한일협정. 3억 달러 무상·2억 달러 유상 청구권 자금과 역사 문제 봉인.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/163-korea-japan-normalization.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/163-korea-japan-normalization.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "외교",
-        "경제"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 163,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "새마을운동 — 농촌 근대화의 성과와 그늘",
       "description": "1970년대 박정희 정부의 새마을운동. 농촌 현대화의 성과와 동원·억압의 그늘.",

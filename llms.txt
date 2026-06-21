@@ -27,8 +27,58 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (124편 · 최신순 · 갱신 2026-06-20)
+## 발행 완료 (174편 · 최신순 · 갱신 2026-06-21)
 
+- [휴전협정 1953 — 판문점과 굳어진 분단](https://skandla2002ai-andy.github.io/korean-history/articles/armistice-1953.md): 현대 [NEW]
+- [박지원 열하일기 — 청나라에서 배운 실용주의](https://skandla2002ai-andy.github.io/korean-history/articles/bak-jiwon-yolha-diary.md): 조선 [NEW]
+- [봉오동 전투 — 홍범도의 독립군 첫 승리](https://skandla2002ai-andy.github.io/korean-history/articles/bongodong-battle-1920.md): 일제강점기 [NEW]
+- [건국준비위원회 — 여운형의 광복 직후 72일](https://skandla2002ai-andy.github.io/korean-history/articles/buildup-committee-1945.md): 현대 [NEW]
+- [벽란도 무역 — 코리아란 이름이 세계로](https://skandla2002ai-andy.github.io/korean-history/articles/byeollando-trade.md): 고려 [NEW]
+- [카이로 선언 — 한국 독립을 약속한 국제문서](https://skandla2002ai-andy.github.io/korean-history/articles/cairo-declaration-1943.md): 일제강점기 [NEW]
+- [창씨개명 — 이름까지 빼앗긴 민족](https://skandla2002ai-andy.github.io/korean-history/articles/changsi-gaemyeong.md): 일제강점기 [NEW]
+- [청산리 대첩 — 김좌진과 6일간의 전투](https://skandla2002ai-andy.github.io/korean-history/articles/cheongsanri-battle-1920.md): 일제강점기 [NEW]
+- [일본군 위안부 — 역사적 진실과 외교 갈등](https://skandla2002ai-andy.github.io/korean-history/articles/comfort-women-history.md): 일제강점기 [NEW]
+- [제헌국회와 헌법 — 대한민국의 탄생](https://skandla2002ai-andy.github.io/korean-history/articles/constituent-assembly-1948.md): 현대 [NEW]
+- [대한제국 선포 — 고종의 황제 즉위](https://skandla2002ai-andy.github.io/korean-history/articles/daehan-empire-1897.md): 대한제국 [NEW]
+- [을사늑약 1905 — 외교권을 빼앗긴 날](https://skandla2002ai-andy.github.io/korean-history/articles/eulsa-treaty-1905.md): 대한제국 [NEW]
+- [강제징용 — 탄광·공장의 조선인 노동자](https://skandla2002ai-andy.github.io/korean-history/articles/forced-labor-wwii.md): 일제강점기 [NEW]
+- [갑오개혁 — 조선의 근대화 법령](https://skandla2002ai-andy.github.io/korean-history/articles/gabo-reform-1894.md): 조선후기 [NEW]
+- [강화도 조약 1876 — 최초의 근대 불평등조약](https://skandla2002ai-andy.github.io/korean-history/articles/ganghwado-treaty-1876.md): 조선후기 [NEW]
+- [갑신정변 — 김옥균의 3일 천하](https://skandla2002ai-andy.github.io/korean-history/articles/gapsin-coup-1884.md): 조선후기 [NEW]
+- [거제도 포로수용소 — 전선 뒤의 또 다른 전쟁](https://skandla2002ai-andy.github.io/korean-history/articles/geoje-pow-camp.md): 현대 [NEW]
+- [고려 불화 — 세계 최고 수준의 불교 회화](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-buddhist-painting.md): 고려 [NEW]
+- [고려 인삼 무역 — 천년을 이어온 최고의 수출품](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-ginseng-trade.md): 고려 [NEW]
+- [고려 팔관회 — 불교와 토착신앙의 국가의례](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-palgwanhoe.md): 고려 [NEW]
+- [경국대전 편찬 — 조선 법치의 완성](https://skandla2002ai-andy.github.io/korean-history/articles/gyeongguk-daejeon-law.md): 조선 [NEW]
+- [헤이그 특사 — 이준의 마지막 호소](https://skandla2002ai-andy.github.io/korean-history/articles/hague-envoy-1907.md): 대한제국 [NEW]
+- [한산도대첩 — 학익진으로 일본 수군을 격파](https://skandla2002ai-andy.github.io/korean-history/articles/hansan-battle-crane-wing.md): 조선 [NEW]
+- [한양 천도 — 풍수로 고른 조선의 수도](https://skandla2002ai-andy.github.io/korean-history/articles/hanyang-capital-move.md): 조선 · 한양·서울 [NEW]
+- [흥선대원군 서원 철폐 — 기득권과의 전쟁](https://skandla2002ai-andy.github.io/korean-history/articles/heungseon-seowon-abolition.md): 조선후기 [NEW]
+- [효종 북벌론 — 병자호란 이후 굴욕과 복수](https://skandla2002ai-andy.github.io/korean-history/articles/hyojong-northern-campaign.md): 조선 [NEW]
+- [임진왜란과 명나라 원군 — 동아시아 국제전](https://skandla2002ai-andy.github.io/korean-history/articles/imjin-ming-intervention.md): 조선 [NEW]
+- [인천상륙작전 — 맥아더와 전세의 역전](https://skandla2002ai-andy.github.io/korean-history/articles/incheon-landing-1950.md): 현대 [NEW]
+- [독립협회와 만민공동회 — 서재필의 시민운동](https://skandla2002ai-andy.github.io/korean-history/articles/independence-club-1896.md): 조선후기 [NEW]
+- [정도전과 조선 설계 — 새 왕조의 청사진](https://skandla2002ai-andy.github.io/korean-history/articles/jeong-dojeon-blueprint.md): 고려 · 조선 · 한양·서울 [NEW]
+- [정유재란 — 임진왜란의 두 번째 파고](https://skandla2002ai-andy.github.io/korean-history/articles/jeongyu-war-1597.md): 조선 [NEW]
+- [집현전 — 세종의 두뇌집단](https://skandla2002ai-andy.github.io/korean-history/articles/jiphyeonjeon-academy.md): 조선 [NEW]
+- [조광조 — 사림의 이상과 기묘사화](https://skandla2002ai-andy.github.io/korean-history/articles/jo-gwangjo-reform.md): 조선 [NEW]
+- [조선 천주교 박해 — 신유박해와 병인박해](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-catholic-persecution.md): 조선 [NEW]
+- [조선총독부 — 식민 통치기구 35년의 역사](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-government-general.md): 일제강점기 [NEW]
+- [조선 의녀 제도 — 장금이의 실제 역사](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-uinyeo-system.md): 조선 [NEW]
+- [한일국교정상화 1965 — 청구권 협정의 명암](https://skandla2002ai-andy.github.io/korean-history/articles/korea-japan-normalization.md): 현대 [NEW]
+- [조선어학회 사건 — 사전 하나로 옥살이](https://skandla2002ai-andy.github.io/korean-history/articles/korean-language-society.md): 일제강점기 [NEW]
+- [농지개혁 — 조선 천년 토지 불평등의 해소](https://skandla2002ai-andy.github.io/korean-history/articles/land-reform-1950.md): 현대 [NEW]
+- [토지조사사업 — 식민지 수탈의 설계도](https://skandla2002ai-andy.github.io/korean-history/articles/land-survey-1910s.md): 일제강점기 [NEW]
+- [5·16 군사쿠데타 — 민주주의의 중단](https://skandla2002ai-andy.github.io/korean-history/articles/military-coup-1961.md): 현대 [NEW]
+- [삼별초 항쟁 — 몽골에 맞선 마지막 저항](https://skandla2002ai-andy.github.io/korean-history/articles/sambyeolcho-resistance.md): 고려 · 제주 [NEW]
+- [신간회 — 좌우합작 독립운동 연대](https://skandla2002ai-andy.github.io/korean-history/articles/singanhoe-1927.md): 일제강점기 [NEW]
+- [숙종 환국정치 — 붕당 교체와 왕권의 칼](https://skandla2002ai-andy.github.io/korean-history/articles/sukjong-hwan-guk.md): 조선 [NEW]
+- [태종 이방원 — 왕자의 난과 왕권 확립](https://skandla2002ai-andy.github.io/korean-history/articles/taejong-wangjaui-nan.md): 조선 · 한양·서울 [NEW]
+- [퇴계·율곡의 논쟁 — 조선 성리학의 두 봉우리](https://skandla2002ai-andy.github.io/korean-history/articles/toegye-yulgok-debate.md): 조선 [NEW]
+- [미소공동위원회 — 신탁통치 논란과 분열](https://skandla2002ai-andy.github.io/korean-history/articles/usmilitary-trusteeship.md): 현대 [NEW]
+- [이성계의 위화도 회군 — 조선 건국의 결정적 순간](https://skandla2002ai-andy.github.io/korean-history/articles/wihwado-retreat.md): 고려 [NEW]
+- [영조 탕평책 — 붕당 완화를 위한 균형 외교](https://skandla2002ai-andy.github.io/korean-history/articles/yeongjo-tangpyeong.md): 조선 [NEW]
+- [연산군 폭정 — 두 번의 사화와 광기](https://skandla2002ai-andy.github.io/korean-history/articles/yeonsangun-tyranny.md): 조선 [NEW]
 - [고구려 개마무사 — 동아시아 최강의 중장기병](https://skandla2002ai-andy.github.io/korean-history/articles/gaema-cavalry-goguryeo.md): 삼국시대 · 평양 [NEW]
 - [무신정변 1170 — 고려 무신이 칼을 들다](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-coup-1170.md): 고려 [NEW]
 - [안용복과 독도 수호](https://skandla2002ai-andy.github.io/korean-history/articles/an-yong-bok-dokdo.md): 조선 [NEW]
@@ -154,58 +204,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (222편)
+## 발행 예정 큐 (172편)
 
-- [114. 삼별초 항쟁 — 몽골에 맞선 마지막 저항](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/114-sambyeolcho-resistance.html): 고려 · 제주
-- [115. 벽란도 무역 — 코리아란 이름이 세계로](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/115-byeollando-trade.html): 고려
-- [116. 고려 팔관회 — 불교와 토착신앙의 국가의례](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/116-goryeo-palgwanhoe.html): 고려
-- [117. 고려 불화 — 세계 최고 수준의 불교 회화](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/117-goryeo-buddhist-painting.html): 고려
-- [118. 이성계의 위화도 회군 — 조선 건국의 결정적 순간](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/118-wihwado-retreat.html): 고려
-- [119. 정도전과 조선 설계 — 새 왕조의 청사진](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/119-jeong-dojeon-blueprint.html): 고려 · 조선 · 한양·서울
-- [120. 고려 인삼 무역 — 천년을 이어온 최고의 수출품](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/120-goryeo-ginseng-trade.html): 고려
-- [121. 태종 이방원 — 왕자의 난과 왕권 확립](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/121-taejong-wangjaui-nan.html): 조선 · 한양·서울
-- [122. 한양 천도 — 풍수로 고른 조선의 수도](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/122-hanyang-capital-move.html): 조선 · 한양·서울
-- [123. 집현전 — 세종의 두뇌집단](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/123-jiphyeonjeon-academy.html): 조선
-- [124. 경국대전 편찬 — 조선 법치의 완성](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/124-gyeongguk-daejeon-law.html): 조선
-- [125. 연산군 폭정 — 두 번의 사화와 광기](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/125-yeonsangun-tyranny.html): 조선
-- [126. 조광조 — 사림의 이상과 기묘사화](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/126-jo-gwangjo-reform.html): 조선
-- [127. 한산도대첩 — 학익진으로 일본 수군을 격파](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/127-hansan-battle-crane-wing.html): 조선
-- [128. 임진왜란과 명나라 원군 — 동아시아 국제전](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/128-imjin-ming-intervention.html): 조선
-- [129. 정유재란 — 임진왜란의 두 번째 파고](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/129-jeongyu-war-1597.html): 조선
-- [130. 조선 의녀 제도 — 장금이의 실제 역사](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/130-joseon-uinyeo-system.html): 조선
-- [131. 퇴계·율곡의 논쟁 — 조선 성리학의 두 봉우리](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/131-toegye-yulgok-debate.html): 조선
-- [132. 효종 북벌론 — 병자호란 이후 굴욕과 복수](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/132-hyojong-northern-campaign.html): 조선
-- [133. 숙종 환국정치 — 붕당 교체와 왕권의 칼](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/133-sukjong-hwan-guk.html): 조선
-- [134. 영조 탕평책 — 붕당 완화를 위한 균형 외교](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/134-yeongjo-tangpyeong.html): 조선
-- [135. 박지원 열하일기 — 청나라에서 배운 실용주의](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/135-bak-jiwon-yolha-diary.html): 조선
-- [136. 조선 천주교 박해 — 신유박해와 병인박해](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/136-joseon-catholic-persecution.html): 조선
-- [137. 흥선대원군 서원 철폐 — 기득권과의 전쟁](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/137-heungseon-seowon-abolition.html): 조선후기
-- [138. 강화도 조약 1876 — 최초의 근대 불평등조약](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/138-ganghwado-treaty-1876.html): 조선후기
-- [139. 갑신정변 — 김옥균의 3일 천하](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/139-gapsin-coup-1884.html): 조선후기
-- [140. 갑오개혁 — 조선의 근대화 법령](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/140-gabo-reform-1894.html): 조선후기
-- [141. 독립협회와 만민공동회 — 서재필의 시민운동](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/141-independence-club-1896.html): 조선후기
-- [142. 대한제국 선포 — 고종의 황제 즉위](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/142-daehan-empire-1897.html): 대한제국
-- [143. 을사늑약 1905 — 외교권을 빼앗긴 날](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/143-eulsa-treaty-1905.html): 대한제국
-- [144. 헤이그 특사 — 이준의 마지막 호소](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/144-hague-envoy-1907.html): 대한제국
-- [145. 토지조사사업 — 식민지 수탈의 설계도](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/145-land-survey-1910s.html): 일제강점기
-- [146. 봉오동 전투 — 홍범도의 독립군 첫 승리](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/146-bongodong-battle-1920.html): 일제강점기
-- [147. 청산리 대첩 — 김좌진과 6일간의 전투](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/147-cheongsanri-battle-1920.html): 일제강점기
-- [148. 신간회 — 좌우합작 독립운동 연대](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/148-singanhoe-1927.html): 일제강점기
-- [149. 조선어학회 사건 — 사전 하나로 옥살이](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/149-korean-language-society.html): 일제강점기
-- [150. 창씨개명 — 이름까지 빼앗긴 민족](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/150-changsi-gaemyeong.html): 일제강점기
-- [151. 강제징용 — 탄광·공장의 조선인 노동자](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/151-forced-labor-wwii.html): 일제강점기
-- [152. 일본군 위안부 — 역사적 진실과 외교 갈등](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/152-comfort-women-history.html): 일제강점기
-- [153. 카이로 선언 — 한국 독립을 약속한 국제문서](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/153-cairo-declaration-1943.html): 일제강점기
-- [154. 건국준비위원회 — 여운형의 광복 직후 72일](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/154-buildup-committee-1945.html): 현대
-- [155. 조선총독부 — 식민 통치기구 35년의 역사](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/155-joseon-government-general.html): 일제강점기
-- [156. 미소공동위원회 — 신탁통치 논란과 분열](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/156-usmilitary-trusteeship.html): 현대
-- [157. 제헌국회와 헌법 — 대한민국의 탄생](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/157-constituent-assembly-1948.html): 현대
-- [158. 농지개혁 — 조선 천년 토지 불평등의 해소](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/158-land-reform-1950.html): 현대
-- [159. 인천상륙작전 — 맥아더와 전세의 역전](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/159-incheon-landing-1950.html): 현대
-- [160. 거제도 포로수용소 — 전선 뒤의 또 다른 전쟁](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/160-geoje-pow-camp.html): 현대
-- [161. 휴전협정 1953 — 판문점과 굳어진 분단](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/161-armistice-1953.html): 현대
-- [162. 5·16 군사쿠데타 — 민주주의의 중단](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/162-military-coup-1961.html): 현대
-- [163. 한일국교정상화 1965 — 청구권 협정의 명암](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/163-korea-japan-normalization.html): 현대
 - [164. 새마을운동 — 농촌 근대화의 성과와 그늘](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/164-saemaul-movement.html): 현대
 - [165. 유신헌법 — 박정희의 영구집권 설계](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/165-yusin-constitution-1972.html): 현대
 - [166. 10·26 사태 — 총성으로 끝난 18년](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/166-october-26-1979.html): 현대
