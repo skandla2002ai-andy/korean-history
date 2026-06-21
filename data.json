@@ -1099,6 +1099,29 @@
       "status": "published"
     },
     {
+      "title": "삼별초 항쟁 — 몽골에 맞선 마지막 저항",
+      "description": "1270~1273년. 고려가 몽골에 항복한 후에도 삼별초는 진도·제주에서 싸웠다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sambyeolcho-resistance.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/sambyeolcho-resistance.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "전쟁",
+        "독립운동"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "제주"
+      ],
+      "num": null,
+      "published": "2026-06-20",
+      "is_new": true,
+      "status": "published"
+    },
+    {
       "title": "무신정변 1170 — 고려 무신이 칼을 들다",
       "description": "1170년 무신들이 문신 지배층을 타도한 정변. 이후 100년 무신 집권의 시작.",
       "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-coup-1170.html",
@@ -6344,6 +6367,29 @@
       "related": [],
       "region": [],
       "num": 286,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고구려 개마무사 — 동아시아 최강의 중장기병",
+      "description": "철갑으로 무장한 고구려 기병 개마무사. 5세기 동아시아 전장을 지배한 중장기병 전술.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/287-gaema-cavalry-goguryeo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/287-gaema-cavalry-goguryeo.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "군사",
+        "문화"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "평양"
+      ],
+      "num": 287,
       "published": null,
       "is_new": false,
       "status": "queue"
