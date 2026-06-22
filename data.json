@@ -8,9 +8,9 @@
   "lastUpdated": "2026-06-22",
   "stats": {
     "total": 346,
-    "published": 176,
-    "queued": 170,
-    "new": 161
+    "published": 177,
+    "queued": 169,
+    "new": 162
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "유신헌법 — 박정희의 영구집권 설계",
+      "description": "1972년 10월 유신. 대통령 직선제 폐지·임기 무제한. 독재 헌법의 탄생.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yusin-constitution-1972.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/yusin-constitution-1972.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "정치",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-22",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "휴전협정 1953 — 판문점과 굳어진 분단",
       "description": "1953년 7월 27일 판문점 휴전. 전쟁의 끝이 아닌 분단의 고착. 그날의 의미.",
@@ -3902,25 +3921,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "유신헌법 — 박정희의 영구집권 설계",
-      "description": "1972년 10월 유신. 대통령 직선제 폐지·임기 무제한. 독재 헌법의 탄생.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/165-yusin-constitution-1972.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/165-yusin-constitution-1972.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "정치",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 165,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "10·26 사태 — 총성으로 끝난 18년",
       "description": "1979년 10월 26일. 김재규가 박정희를 저격한 사건. 유신 체제의 갑작스러운 종말.",
