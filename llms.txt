@@ -27,7 +27,7 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (176편 · 최신순 · 갱신 2026-06-21)
+## 발행 완료 (176편 · 최신순 · 갱신 2026-06-22)
 
 - [휴전협정 1953 — 판문점과 굳어진 분단](https://skandla2002ai-andy.github.io/korean-history/articles/armistice-1953.md): 현대 [NEW]
 - [박지원 열하일기 — 청나라에서 배운 실용주의](https://skandla2002ai-andy.github.io/korean-history/articles/bak-jiwon-yolha-diary.md): 조선 [NEW]
@@ -190,7 +190,7 @@
 - [이이 십만양병설](https://skandla2002ai-andy.github.io/korean-history/articles/yulgok-defense.md): 조선 [NEW]
 - [윤봉길 의거](https://skandla2002ai-andy.github.io/korean-history/articles/yun-bong-gil-shanghai.md): 일제강점기 [NEW]
 - [광개토대왕](https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md) [NEW]
-- [세종과 훈민정음](https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md): 조선 [NEW]
+- [세종과 훈민정음](https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md): 조선
 - [이순신과 명량 — 12척 대 333척](https://skandla2002ai-andy.github.io/korean-history/articles/admiral-yi.md): 조선
 - [안중근의 동양평화론](https://skandla2002ai-andy.github.io/korean-history/articles/ahn-junggeun.md): 대한제국
 - [선덕여왕의 첨성대](https://skandla2002ai-andy.github.io/korean-history/articles/cheomseongdae.md): 신라 · 경주

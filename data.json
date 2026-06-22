@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-06-21",
+  "lastUpdated": "2026-06-22",
   "stats": {
     "total": 346,
     "published": 176,
     "queued": 170,
-    "new": 162
+    "new": 161
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -3539,7 +3539,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-14",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 세종과 훈민정음",
