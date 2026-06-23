@@ -27,7 +27,7 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (177편 · 최신순 · 갱신 2026-06-22)
+## 발행 완료 (177편 · 최신순 · 갱신 2026-06-23)
 
 - [유신헌법 — 박정희의 영구집권 설계](https://skandla2002ai-andy.github.io/korean-history/articles/yusin-constitution-1972.md): 현대 [NEW]
 - [휴전협정 1953 — 판문점과 굳어진 분단](https://skandla2002ai-andy.github.io/korean-history/articles/armistice-1953.md): 현대 [NEW]
