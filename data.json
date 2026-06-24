@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-06-23",
+  "lastUpdated": "2026-06-24",
   "stats": {
     "total": 346,
     "published": 178,
     "queued": 168,
-    "new": 163
+    "new": 162
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -3553,7 +3553,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-16",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 광개토대왕",

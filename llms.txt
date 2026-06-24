@@ -27,7 +27,7 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (178편 · 최신순 · 갱신 2026-06-23)
+## 발행 완료 (178편 · 최신순 · 갱신 2026-06-24)
 
 - [10·26 사태 — 총성으로 끝난 18년](https://skandla2002ai-andy.github.io/korean-history/articles/october-26-1979.md): 현대 [NEW]
 - [유신헌법 — 박정희의 영구집권 설계](https://skandla2002ai-andy.github.io/korean-history/articles/yusin-constitution-1972.md): 현대 [NEW]
@@ -191,7 +191,7 @@
 - [유관순](https://skandla2002ai-andy.github.io/korean-history/articles/yu-gwan-sun.md): 일제강점기 [NEW]
 - [이이 십만양병설](https://skandla2002ai-andy.github.io/korean-history/articles/yulgok-defense.md): 조선 [NEW]
 - [윤봉길 의거](https://skandla2002ai-andy.github.io/korean-history/articles/yun-bong-gil-shanghai.md): 일제강점기 [NEW]
-- [광개토대왕](https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md) [NEW]
+- [광개토대왕](https://skandla2002ai-andy.github.io/korean-history/articles/gwanggaeto-expansion.md)
 - [세종과 훈민정음](https://skandla2002ai-andy.github.io/korean-history/articles/sejong-hangul.md): 조선
 - [이순신과 명량 — 12척 대 333척](https://skandla2002ai-andy.github.io/korean-history/articles/admiral-yi.md): 조선
 - [안중근의 동양평화론](https://skandla2002ai-andy.github.io/korean-history/articles/ahn-junggeun.md): 대한제국
