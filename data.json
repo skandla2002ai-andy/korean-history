@@ -8,9 +8,9 @@
   "lastUpdated": "2026-06-24",
   "stats": {
     "total": 346,
-    "published": 178,
-    "queued": 168,
-    "new": 162
+    "published": 179,
+    "queued": 167,
+    "new": 163
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "6월 민주항쟁 1987 — 직선제를 쟁취한 시민들",
+      "description": "1987년 6월. 이한열·박종철의 죽음과 전국 시위. 6·29 선언으로 직선제를 되찾다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/june-democracy-1987.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/june-democracy-1987.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "정치",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-24",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "10·26 사태 — 총성으로 끝난 18년",
       "description": "1979년 10월 26일. 김재규가 박정희를 저격한 사건. 유신 체제의 갑작스러운 종말.",
@@ -3940,25 +3959,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "6월 민주항쟁 1987 — 직선제를 쟁취한 시민들",
-      "description": "1987년 6월. 이한열·박종철의 죽음과 전국 시위. 6·29 선언으로 직선제를 되찾다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/167-june-democracy-1987.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/167-june-democracy-1987.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "정치",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
-      "num": 167,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "IMF 외환위기 — 금 모으기와 국가 부도의 위기",
       "description": "1997년 외환위기. 기업 부도·대량 실직·금 모으기 운동. 한국 경제 구조 개편.",
