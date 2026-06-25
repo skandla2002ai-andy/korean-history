@@ -27,7 +27,7 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (179편 · 최신순 · 갱신 2026-06-24)
+## 발행 완료 (179편 · 최신순 · 갱신 2026-06-25)
 
 - [6월 민주항쟁 1987 — 직선제를 쟁취한 시민들](https://skandla2002ai-andy.github.io/korean-history/articles/june-democracy-1987.md): 현대 [NEW]
 - [10·26 사태 — 총성으로 끝난 18년](https://skandla2002ai-andy.github.io/korean-history/articles/october-26-1979.md): 현대 [NEW]
