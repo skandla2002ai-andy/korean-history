@@ -27,8 +27,9 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (179편 · 최신순 · 갱신 2026-06-25)
+## 발행 완료 (180편 · 최신순 · 갱신 2026-06-25)
 
+- [IMF 외환위기 — 금 모으기와 국가 부도의 위기](https://skandla2002ai-andy.github.io/korean-history/articles/imf-crisis-1997.md): 현대 [NEW]
 - [6월 민주항쟁 1987 — 직선제를 쟁취한 시민들](https://skandla2002ai-andy.github.io/korean-history/articles/june-democracy-1987.md): 현대 [NEW]
 - [10·26 사태 — 총성으로 끝난 18년](https://skandla2002ai-andy.github.io/korean-history/articles/october-26-1979.md): 현대 [NEW]
 - [유신헌법 — 박정희의 영구집권 설계](https://skandla2002ai-andy.github.io/korean-history/articles/yusin-constitution-1972.md): 현대 [NEW]
@@ -209,9 +210,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (167편)
+## 발행 예정 큐 (166편)
 
-- [168. IMF 외환위기 — 금 모으기와 국가 부도의 위기](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/168-imf-crisis-1997.html): 현대
 - [169. 남북정상회담 2000 — 김대중과 김정일의 악수](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/169-inter-korean-summit-2000.html): 현대 · 평양
 - [170. 세월호 참사 2014 — 304명과 대한민국의 질문](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/170-sewol-disaster-2014.html): 현대
 - [171. 조선 천문학 — 혼천의·앙부일구와 독자 역법](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/171-joseon-astronomy.html): 조선
