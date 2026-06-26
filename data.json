@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-06-25",
+  "lastUpdated": "2026-06-26",
   "stats": {
     "total": 346,
     "published": 180,
     "queued": 166,
-    "new": 164
+    "new": 58
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -1251,7 +1251,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 안용복",
@@ -1273,7 +1273,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 4·19 혁명",
@@ -1295,7 +1295,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 백두산 국경",
@@ -1319,7 +1319,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 백제와 일본",
@@ -1341,7 +1341,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 백제 멸망",
@@ -1365,7 +1365,7 @@
       ],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 온조왕과 백제",
@@ -1391,7 +1391,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -1412,7 +1412,7 @@
       ],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -1432,7 +1432,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 병자호란",
@@ -1454,7 +1454,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 제2연평해전",
@@ -1479,7 +1479,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 최치원",
@@ -1501,7 +1501,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 조선의 노비",
@@ -1524,7 +1524,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -1542,7 +1542,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 조선의 제사 문화",
@@ -1564,7 +1564,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 대동법",
@@ -1587,7 +1587,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 흥선대원군",
@@ -1610,7 +1610,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 단종",
@@ -1633,7 +1633,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 독도의 역사",
@@ -1656,7 +1656,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -1674,7 +1674,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 반구대 암각화",
@@ -1697,7 +1697,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 동학의 창시",
@@ -1722,7 +1722,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 동학농민운동",
@@ -1745,7 +1745,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 동의보감",
@@ -1768,7 +1768,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -1787,7 +1787,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 명성황후",
@@ -1811,7 +1811,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 의열단",
@@ -1836,7 +1836,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -1854,7 +1854,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 김치의 역사",
@@ -1879,7 +1879,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -1898,7 +1898,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -1920,7 +1920,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -1938,7 +1938,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 주몽과 고구려",
@@ -1961,7 +1961,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 살수대첩",
@@ -1983,7 +1983,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 고구려 고분벽화",
@@ -2005,7 +2005,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 고종과 대한제국",
@@ -2027,7 +2027,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 단군과 고조선",
@@ -2049,7 +2049,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 고려청자",
@@ -2072,7 +2072,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 귀주대첩",
@@ -2094,7 +2094,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 고려와 원나라",
@@ -2118,7 +2118,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 고려 대몽 항쟁",
@@ -2140,7 +2140,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 고구려 천리장성",
@@ -2163,7 +2163,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -2181,7 +2181,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 광개토대왕릉비",
@@ -2206,7 +2206,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 광해군",
@@ -2229,7 +2229,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -2249,7 +2249,7 @@
       ],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 5·18 광주 민주화운동",
@@ -2274,7 +2274,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 행주대첩",
@@ -2297,7 +2297,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -2315,7 +2315,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 해인사 팔만대장경",
@@ -2337,7 +2337,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 한류의 기원",
@@ -2359,7 +2359,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 한글날의 역사",
@@ -2382,7 +2382,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 일제의 한글 탄압",
@@ -2404,7 +2404,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 흥남 철수",
@@ -2428,7 +2428,7 @@
       ],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 홍경래의 난",
@@ -2451,7 +2451,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 황진이",
@@ -2474,7 +2474,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -2495,7 +2495,7 @@
       ],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 화성과 정조",
@@ -2518,7 +2518,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 임진왜란과 문화 손실",
@@ -2540,7 +2540,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 임진왜란 의병",
@@ -2562,7 +2562,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 해외 독립운동",
@@ -2585,7 +2585,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 장희빈",
@@ -2608,7 +2608,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 장영실",
@@ -2630,7 +2630,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 제주 4·3 사건",
@@ -2653,7 +2653,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 정약용",
@@ -2675,7 +2675,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 사도세자",
@@ -2697,7 +2697,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 분단의 시작",
@@ -2719,7 +2719,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 조선 백자",
@@ -2741,7 +2741,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 조선의 출판 문화",
@@ -2763,7 +2763,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 조선 수라상",
@@ -2786,7 +2786,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 김구",
@@ -2809,7 +2809,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 김만중",
@@ -2833,7 +2833,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -2851,7 +2851,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 1988 서울 올림픽",
@@ -2873,7 +2873,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 코리안 디아스포라",
@@ -2895,7 +2895,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 한강의 기적",
@@ -2918,7 +2918,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 한국전쟁",
@@ -2941,7 +2941,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -2961,7 +2961,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 3·1 운동",
@@ -2986,7 +2986,7 @@
       ],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -3006,7 +3006,7 @@
       ],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 숭례문 화재",
@@ -3031,7 +3031,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -3049,7 +3049,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 박제가와 북학론",
@@ -3072,7 +3072,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 박정희와 산업화",
@@ -3097,7 +3097,7 @@
       ],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 선덕여왕",
@@ -3120,7 +3120,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 신사임당",
@@ -3146,7 +3146,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 일연과 삼국유사",
@@ -3168,7 +3168,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 계유정난",
@@ -3190,7 +3190,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 훈민정음의 과학",
@@ -3212,7 +3212,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 석굴암",
@@ -3234,7 +3234,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 신사임당",
@@ -3256,7 +3256,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 실학 운동",
@@ -3279,7 +3279,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -3300,7 +3300,7 @@
       ],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -3319,7 +3319,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -3340,7 +3340,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -3358,7 +3358,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 신채호",
@@ -3381,7 +3381,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -3402,7 +3402,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -3421,7 +3421,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -3440,7 +3440,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -3459,7 +3459,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 강제 징용",
@@ -3481,7 +3481,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 조선의 과거제",
@@ -3506,7 +3506,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -3527,7 +3527,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 유관순",
@@ -3549,7 +3549,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 이이 십만양병설",
@@ -3571,7 +3571,7 @@
       "region": [],
       "num": null,
       "published": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "status": "published",
       "editor": {
         "title": "[편집자 의견] 윤봉길 의거",
