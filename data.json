@@ -8,9 +8,9 @@
   "lastUpdated": "2026-06-26",
   "stats": {
     "total": 346,
-    "published": 180,
-    "queued": 166,
-    "new": 58
+    "published": 181,
+    "queued": 165,
+    "new": 59
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,27 @@
     }
   ],
   "articles": [
+    {
+      "title": "남북정상회담 2000 — 김대중과 김정일의 악수",
+      "description": "2000년 6월 평양. 분단 55년 만의 남북 정상 첫 만남. 햇볕정책의 정점.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/inter-korean-summit-2000.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/inter-korean-summit-2000.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "정치",
+        "외교"
+      ],
+      "related": [],
+      "region": [
+        "평양"
+      ],
+      "num": null,
+      "published": "2026-06-26",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "IMF 외환위기 — 금 모으기와 국가 부도의 위기",
       "description": "1997년 외환위기. 기업 부도·대량 실직·금 모으기 운동. 한국 경제 구조 개편.",
@@ -3980,27 +4001,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "남북정상회담 2000 — 김대중과 김정일의 악수",
-      "description": "2000년 6월 평양. 분단 55년 만의 남북 정상 첫 만남. 햇볕정책의 정점.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/169-inter-korean-summit-2000.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/169-inter-korean-summit-2000.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "정치",
-        "외교"
-      ],
-      "related": [],
-      "region": [
-        "평양"
-      ],
-      "num": 169,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "세월호 참사 2014 — 304명과 대한민국의 질문",
       "description": "2014년 4월 16일 세월호 침몰. 304명의 희생. 국가란 무엇인가를 물은 사건.",
