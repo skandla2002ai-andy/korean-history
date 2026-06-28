@@ -27,7 +27,7 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (182편 · 최신순 · 갱신 2026-06-27)
+## 발행 완료 (182편 · 최신순 · 갱신 2026-06-28)
 
 - [세월호 참사 2014 — 304명과 대한민국의 질문](https://skandla2002ai-andy.github.io/korean-history/articles/sewol-disaster-2014.md): 현대 [NEW]
 - [남북정상회담 2000 — 김대중과 김정일의 악수](https://skandla2002ai-andy.github.io/korean-history/articles/inter-korean-summit-2000.md): 현대 · 평양 [NEW]
@@ -87,7 +87,7 @@
 - [이성계의 위화도 회군 — 조선 건국의 결정적 순간](https://skandla2002ai-andy.github.io/korean-history/articles/wihwado-retreat.md): 고려 [NEW]
 - [영조 탕평책 — 붕당 완화를 위한 균형 외교](https://skandla2002ai-andy.github.io/korean-history/articles/yeongjo-tangpyeong.md): 조선 [NEW]
 - [연산군 폭정 — 두 번의 사화와 광기](https://skandla2002ai-andy.github.io/korean-history/articles/yeonsangun-tyranny.md): 조선 [NEW]
-- [고구려 개마무사 — 동아시아 최강의 중장기병](https://skandla2002ai-andy.github.io/korean-history/articles/gaema-cavalry-goguryeo.md): 삼국시대 · 평양 [NEW]
+- [고구려 개마무사 — 동아시아 최강의 중장기병](https://skandla2002ai-andy.github.io/korean-history/articles/gaema-cavalry-goguryeo.md): 삼국시대 · 평양
 - [무신정변 1170 — 고려 무신이 칼을 들다](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-coup-1170.md): 고려
 - [안용복과 독도 수호](https://skandla2002ai-andy.github.io/korean-history/articles/an-yong-bok-dokdo.md): 조선
 - [4·19 혁명](https://skandla2002ai-andy.github.io/korean-history/articles/april-revolution.md): 현대
