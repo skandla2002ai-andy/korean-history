@@ -8,9 +8,9 @@
   "lastUpdated": "2026-06-28",
   "stats": {
     "total": 346,
-    "published": 182,
-    "queued": 164,
-    "new": 58
+    "published": 183,
+    "queued": 163,
+    "new": 59
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "조선 천문학 — 혼천의·앙부일구와 독자 역법",
+      "description": "세종 때 완성된 조선의 천문학. 혼천의·앙부일구·자격루와 독자 역법 칠정산.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-astronomy.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-astronomy.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "과학·기술",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-28",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "세월호 참사 2014 — 304명과 대한민국의 질문",
       "description": "2014년 4월 16일 세월호 침몰. 304명의 희생. 국가란 무엇인가를 물은 사건.",
@@ -4020,25 +4039,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "조선 천문학 — 혼천의·앙부일구와 독자 역법",
-      "description": "세종 때 완성된 조선의 천문학. 혼천의·앙부일구·자격루와 독자 역법 칠정산.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/171-joseon-astronomy.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/171-joseon-astronomy.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "과학·기술",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 171,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "대동여지도 — 김정호의 22첩 조선 지도",
       "description": "1861년 김정호가 완성한 대동여지도. 한 장도 틀리지 않은 22첩 목판 지도의 비밀.",
