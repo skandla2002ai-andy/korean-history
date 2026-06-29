@@ -8,9 +8,9 @@
   "lastUpdated": "2026-06-29",
   "stats": {
     "total": 346,
-    "published": 183,
-    "queued": 163,
-    "new": 7
+    "published": 184,
+    "queued": 162,
+    "new": 8
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "대동여지도 — 김정호의 22첩 조선 지도",
+      "description": "1861년 김정호가 완성한 대동여지도. 한 장도 틀리지 않은 22첩 목판 지도의 비밀.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/daedong-yeojido-map.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/daedong-yeojido-map.md",
+      "era": [
+        "조선후기"
+      ],
+      "topics": [
+        "과학·기술",
+        "문화"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-29",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "조선 천문학 — 혼천의·앙부일구와 독자 역법",
       "description": "세종 때 완성된 조선의 천문학. 혼천의·앙부일구·자격루와 독자 역법 칠정산.",
@@ -4039,25 +4058,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "대동여지도 — 김정호의 22첩 조선 지도",
-      "description": "1861년 김정호가 완성한 대동여지도. 한 장도 틀리지 않은 22첩 목판 지도의 비밀.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/172-daedong-yeojido-map.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/172-daedong-yeojido-map.md",
-      "era": [
-        "조선후기"
-      ],
-      "topics": [
-        "과학·기술",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": 172,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "향약집성방 — 조선의 첫 의학 백과",
       "description": "1433년 편찬된 향약집성방. 중국 의학을 넘어 조선 자생 약재를 체계화한 의서.",
