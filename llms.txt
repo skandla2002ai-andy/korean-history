@@ -27,8 +27,9 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (184편 · 최신순 · 갱신 2026-06-30)
+## 발행 완료 (185편 · 최신순 · 갱신 2026-06-30)
 
+- [향약집성방 — 조선의 첫 의학 백과](https://skandla2002ai-andy.github.io/korean-history/articles/hyangyak-medical-book.md): 조선 [NEW]
 - [대동여지도 — 김정호의 22첩 조선 지도](https://skandla2002ai-andy.github.io/korean-history/articles/daedong-yeojido-map.md): 조선후기 [NEW]
 - [조선 천문학 — 혼천의·앙부일구와 독자 역법](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-astronomy.md): 조선 [NEW]
 - [세월호 참사 2014 — 304명과 대한민국의 질문](https://skandla2002ai-andy.github.io/korean-history/articles/sewol-disaster-2014.md): 현대 [NEW]
@@ -214,9 +215,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (162편)
+## 발행 예정 큐 (161편)
 
-- [173. 향약집성방 — 조선의 첫 의학 백과](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/173-hyangyak-medical-book.html): 조선
 - [174. 판소리의 역사 — 소리꾼과 민중의 예술](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/174-pansori-history.html): 조선후기
 - [175. 탈춤 — 권력을 비웃은 민중 예술](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/175-talchum-mask-dance.html): 조선
 - [176. 조선 서원 — 교육·학문·붕당의 공간](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/176-joseon-seowon-culture.html): 조선

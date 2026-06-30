@@ -8,9 +8,9 @@
   "lastUpdated": "2026-06-30",
   "stats": {
     "total": 346,
-    "published": 184,
-    "queued": 162,
-    "new": 7
+    "published": 185,
+    "queued": 161,
+    "new": 8
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "향약집성방 — 조선의 첫 의학 백과",
+      "description": "1433년 편찬된 향약집성방. 중국 의학을 넘어 조선 자생 약재를 체계화한 의서.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hyangyak-medical-book.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hyangyak-medical-book.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "과학·기술",
+        "문화"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-06-30",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "대동여지도 — 김정호의 22첩 조선 지도",
       "description": "1861년 김정호가 완성한 대동여지도. 한 장도 틀리지 않은 22첩 목판 지도의 비밀.",
@@ -4058,25 +4077,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "향약집성방 — 조선의 첫 의학 백과",
-      "description": "1433년 편찬된 향약집성방. 중국 의학을 넘어 조선 자생 약재를 체계화한 의서.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/173-hyangyak-medical-book.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/173-hyangyak-medical-book.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "과학·기술",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": 173,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "판소리의 역사 — 소리꾼과 민중의 예술",
       "description": "조선 후기 탄생한 판소리. 광대의 예술이 사대부 문화를 넘어 국가무형유산이 되다.",
