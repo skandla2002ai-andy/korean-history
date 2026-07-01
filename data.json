@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-01",
   "stats": {
     "total": 346,
-    "published": 185,
-    "queued": 161,
-    "new": 7
+    "published": 186,
+    "queued": 160,
+    "new": 8
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "판소리의 역사 — 소리꾼과 민중의 예술",
+      "description": "조선 후기 탄생한 판소리. 광대의 예술이 사대부 문화를 넘어 국가무형유산이 되다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/pansori-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/pansori-history.md",
+      "era": [
+        "조선후기"
+      ],
+      "topics": [
+        "문화",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-01",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "향약집성방 — 조선의 첫 의학 백과",
       "description": "1433년 편찬된 향약집성방. 중국 의학을 넘어 조선 자생 약재를 체계화한 의서.",
@@ -4077,25 +4096,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "판소리의 역사 — 소리꾼과 민중의 예술",
-      "description": "조선 후기 탄생한 판소리. 광대의 예술이 사대부 문화를 넘어 국가무형유산이 되다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/174-pansori-history.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/174-pansori-history.md",
-      "era": [
-        "조선후기"
-      ],
-      "topics": [
-        "문화",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 174,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "탈춤 — 권력을 비웃은 민중 예술",
       "description": "조선의 탈춤은 단순한 오락이 아니었다. 양반·승려를 조롱한 민중 저항의 예술.",
