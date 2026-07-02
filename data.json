@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-02",
   "stats": {
     "total": 346,
-    "published": 186,
-    "queued": 160,
-    "new": 7
+    "published": 187,
+    "queued": 159,
+    "new": 8
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "탈춤 — 권력을 비웃은 민중 예술",
+      "description": "조선의 탈춤은 단순한 오락이 아니었다. 양반·승려를 조롱한 민중 저항의 예술.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/talchum-mask-dance.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/talchum-mask-dance.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-02",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "판소리의 역사 — 소리꾼과 민중의 예술",
       "description": "조선 후기 탄생한 판소리. 광대의 예술이 사대부 문화를 넘어 국가무형유산이 되다.",
@@ -4096,25 +4115,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "탈춤 — 권력을 비웃은 민중 예술",
-      "description": "조선의 탈춤은 단순한 오락이 아니었다. 양반·승려를 조롱한 민중 저항의 예술.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/175-talchum-mask-dance.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/175-talchum-mask-dance.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
-      "num": 175,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "조선 서원 — 교육·학문·붕당의 공간",
       "description": "조선 중기 확산된 서원. 인재 양성의 공간이자 붕당 정치의 근거지.",
