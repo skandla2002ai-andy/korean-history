@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-03",
   "stats": {
     "total": 346,
-    "published": 187,
-    "queued": 159,
-    "new": 7
+    "published": 188,
+    "queued": 158,
+    "new": 8
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,26 @@
     }
   ],
   "articles": [
+    {
+      "title": "조선 서원 — 교육·학문·붕당의 공간",
+      "description": "조선 중기 확산된 서원. 인재 양성의 공간이자 붕당 정치의 근거지.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-seowon-culture.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-seowon-culture.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "교육",
+        "정치"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-03",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "탈춤 — 권력을 비웃은 민중 예술",
       "description": "조선의 탈춤은 단순한 오락이 아니었다. 양반·승려를 조롱한 민중 저항의 예술.",
@@ -4115,26 +4135,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "조선 서원 — 교육·학문·붕당의 공간",
-      "description": "조선 중기 확산된 서원. 인재 양성의 공간이자 붕당 정치의 근거지.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/176-joseon-seowon-culture.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/176-joseon-seowon-culture.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "교육",
-        "정치"
-      ],
-      "related": [],
-      "region": [],
-      "num": 176,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한복의 역사 — 삼국부터 현대까지 변천",
       "description": "삼국시대 좁은 소매에서 조선의 치마·저고리까지. 한복 2000년의 변천사.",
