@@ -27,7 +27,7 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (187편 · 최신순 · 갱신 2026-07-02)
+## 발행 완료 (187편 · 최신순 · 갱신 2026-07-03)
 
 - [탈춤 — 권력을 비웃은 민중 예술](https://skandla2002ai-andy.github.io/korean-history/articles/talchum-mask-dance.md): 조선 [NEW]
 - [판소리의 역사 — 소리꾼과 민중의 예술](https://skandla2002ai-andy.github.io/korean-history/articles/pansori-history.md): 조선후기 [NEW]
@@ -36,7 +36,7 @@
 - [조선 천문학 — 혼천의·앙부일구와 독자 역법](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-astronomy.md): 조선 [NEW]
 - [세월호 참사 2014 — 304명과 대한민국의 질문](https://skandla2002ai-andy.github.io/korean-history/articles/sewol-disaster-2014.md): 현대 [NEW]
 - [남북정상회담 2000 — 김대중과 김정일의 악수](https://skandla2002ai-andy.github.io/korean-history/articles/inter-korean-summit-2000.md): 현대 · 평양 [NEW]
-- [IMF 외환위기 — 금 모으기와 국가 부도의 위기](https://skandla2002ai-andy.github.io/korean-history/articles/imf-crisis-1997.md): 현대 [NEW]
+- [IMF 외환위기 — 금 모으기와 국가 부도의 위기](https://skandla2002ai-andy.github.io/korean-history/articles/imf-crisis-1997.md): 현대
 - [6월 민주항쟁 1987 — 직선제를 쟁취한 시민들](https://skandla2002ai-andy.github.io/korean-history/articles/june-democracy-1987.md): 현대
 - [10·26 사태 — 총성으로 끝난 18년](https://skandla2002ai-andy.github.io/korean-history/articles/october-26-1979.md): 현대
 - [유신헌법 — 박정희의 영구집권 설계](https://skandla2002ai-andy.github.io/korean-history/articles/yusin-constitution-1972.md): 현대
