@@ -27,8 +27,9 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (188편 · 최신순 · 갱신 2026-07-04)
+## 발행 완료 (189편 · 최신순 · 갱신 2026-07-04)
 
+- [한복의 역사 — 삼국부터 현대까지 변천](https://skandla2002ai-andy.github.io/korean-history/articles/hanbok-history.md): 삼국 [NEW]
 - [조선 서원 — 교육·학문·붕당의 공간](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-seowon-culture.md): 조선 [NEW]
 - [탈춤 — 권력을 비웃은 민중 예술](https://skandla2002ai-andy.github.io/korean-history/articles/talchum-mask-dance.md): 조선 [NEW]
 - [판소리의 역사 — 소리꾼과 민중의 예술](https://skandla2002ai-andy.github.io/korean-history/articles/pansori-history.md): 조선후기 [NEW]
@@ -218,9 +219,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (158편)
+## 발행 예정 큐 (157편)
 
-- [177. 한복의 역사 — 삼국부터 현대까지 변천](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/177-hanbok-history.html): 삼국
 - [178. 한양 도성 — 사대문과 600년 성곽](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/178-hanyang-city-wall.html): 조선 · 한양·서울
 - [179. 측우기 — 세계 최초 강우량 측정 기구](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/179-joseon-rain-gauge.html): 조선
 - [180. 한국 불교 종파 — 선종과 교종의 천년 논쟁](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/180-korean-buddhism-sects.html): 삼국

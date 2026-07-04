@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-04",
   "stats": {
     "total": 346,
-    "published": 188,
-    "queued": 158,
-    "new": 7
+    "published": 189,
+    "queued": 157,
+    "new": 8
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "한복의 역사 — 삼국부터 현대까지 변천",
+      "description": "삼국시대 좁은 소매에서 조선의 치마·저고리까지. 한복 2000년의 변천사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hanbok-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hanbok-history.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "문화",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-04",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "조선 서원 — 교육·학문·붕당의 공간",
       "description": "조선 중기 확산된 서원. 인재 양성의 공간이자 붕당 정치의 근거지.",
@@ -4135,25 +4154,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "한복의 역사 — 삼국부터 현대까지 변천",
-      "description": "삼국시대 좁은 소매에서 조선의 치마·저고리까지. 한복 2000년의 변천사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/177-hanbok-history.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/177-hanbok-history.md",
-      "era": [
-        "삼국"
-      ],
-      "topics": [
-        "문화",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 177,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한양 도성 — 사대문과 600년 성곽",
       "description": "1396년 완성된 한양 도성. 18.6km 성곽과 사대문·사소문의 역사와 현재.",
