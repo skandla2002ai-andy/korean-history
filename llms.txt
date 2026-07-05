@@ -27,7 +27,7 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (189편 · 최신순 · 갱신 2026-07-04)
+## 발행 완료 (189편 · 최신순 · 갱신 2026-07-05)
 
 - [한복의 역사 — 삼국부터 현대까지 변천](https://skandla2002ai-andy.github.io/korean-history/articles/hanbok-history.md): 삼국 [NEW]
 - [조선 서원 — 교육·학문·붕당의 공간](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-seowon-culture.md): 조선 [NEW]
@@ -36,7 +36,7 @@
 - [향약집성방 — 조선의 첫 의학 백과](https://skandla2002ai-andy.github.io/korean-history/articles/hyangyak-medical-book.md): 조선 [NEW]
 - [대동여지도 — 김정호의 22첩 조선 지도](https://skandla2002ai-andy.github.io/korean-history/articles/daedong-yeojido-map.md): 조선후기 [NEW]
 - [조선 천문학 — 혼천의·앙부일구와 독자 역법](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-astronomy.md): 조선 [NEW]
-- [세월호 참사 2014 — 304명과 대한민국의 질문](https://skandla2002ai-andy.github.io/korean-history/articles/sewol-disaster-2014.md): 현대 [NEW]
+- [세월호 참사 2014 — 304명과 대한민국의 질문](https://skandla2002ai-andy.github.io/korean-history/articles/sewol-disaster-2014.md): 현대
 - [남북정상회담 2000 — 김대중과 김정일의 악수](https://skandla2002ai-andy.github.io/korean-history/articles/inter-korean-summit-2000.md): 현대 · 평양
 - [IMF 외환위기 — 금 모으기와 국가 부도의 위기](https://skandla2002ai-andy.github.io/korean-history/articles/imf-crisis-1997.md): 현대
 - [6월 민주항쟁 1987 — 직선제를 쟁취한 시민들](https://skandla2002ai-andy.github.io/korean-history/articles/june-democracy-1987.md): 현대
