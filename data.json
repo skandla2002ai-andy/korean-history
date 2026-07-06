@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-06",
   "stats": {
     "total": 346,
-    "published": 190,
-    "queued": 156,
-    "new": 7
+    "published": 191,
+    "queued": 155,
+    "new": 8
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "측우기 — 세계 최초 강우량 측정 기구",
+      "description": "1441년 세종 때 발명된 측우기. 서양보다 200년 앞선 과학기기의 탄생.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-rain-gauge.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-rain-gauge.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "과학·기술",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-06",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "한양 도성 — 사대문과 600년 성곽",
       "description": "1396년 완성된 한양 도성. 18.6km 성곽과 사대문·사소문의 역사와 현재.",
@@ -4175,25 +4194,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "측우기 — 세계 최초 강우량 측정 기구",
-      "description": "1441년 세종 때 발명된 측우기. 서양보다 200년 앞선 과학기기의 탄생.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/179-joseon-rain-gauge.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/179-joseon-rain-gauge.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "과학·기술",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 179,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한국 불교 종파 — 선종과 교종의 천년 논쟁",
       "description": "삼국 이후 수입된 불교가 한국에서 어떻게 변화했는가. 선종·교종·조계종.",
