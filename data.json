@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-07",
   "stats": {
     "total": 346,
-    "published": 191,
-    "queued": 155,
-    "new": 7
+    "published": 192,
+    "queued": 154,
+    "new": 8
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,26 @@
     }
   ],
   "articles": [
+    {
+      "title": "한국 불교 종파 — 선종과 교종의 천년 논쟁",
+      "description": "삼국 이후 수입된 불교가 한국에서 어떻게 변화했는가. 선종·교종·조계종.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-buddhism-sects.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-buddhism-sects.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "종교",
+        "사상",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-07",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "측우기 — 세계 최초 강우량 측정 기구",
       "description": "1441년 세종 때 발명된 측우기. 서양보다 200년 앞선 과학기기의 탄생.",
@@ -4194,26 +4214,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "한국 불교 종파 — 선종과 교종의 천년 논쟁",
-      "description": "삼국 이후 수입된 불교가 한국에서 어떻게 변화했는가. 선종·교종·조계종.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/180-korean-buddhism-sects.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/180-korean-buddhism-sects.md",
-      "era": [
-        "삼국"
-      ],
-      "topics": [
-        "종교",
-        "사상",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 180,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한국 무속신앙 — 무당과 굿의 역사",
       "description": "한반도 최고(最古)의 신앙 무속. 단군 이전부터 현재까지 이어진 무당·굿의 역사.",

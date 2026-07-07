@@ -27,8 +27,9 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (191편 · 최신순 · 갱신 2026-07-07)
+## 발행 완료 (192편 · 최신순 · 갱신 2026-07-07)
 
+- [한국 불교 종파 — 선종과 교종의 천년 논쟁](https://skandla2002ai-andy.github.io/korean-history/articles/korean-buddhism-sects.md): 삼국 [NEW]
 - [측우기 — 세계 최초 강우량 측정 기구](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-rain-gauge.md): 조선 [NEW]
 - [한양 도성 — 사대문과 600년 성곽](https://skandla2002ai-andy.github.io/korean-history/articles/hanyang-city-wall.md): 조선 · 한양·서울 [NEW]
 - [한복의 역사 — 삼국부터 현대까지 변천](https://skandla2002ai-andy.github.io/korean-history/articles/hanbok-history.md): 삼국 [NEW]
@@ -221,9 +222,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (155편)
+## 발행 예정 큐 (154편)
 
-- [180. 한국 불교 종파 — 선종과 교종의 천년 논쟁](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/180-korean-buddhism-sects.html): 삼국
 - [181. 한국 무속신앙 — 무당과 굿의 역사](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/181-korean-shamanism.html): 선사
 - [182. 육의전과 조선 상업 — 한양 시장의 역사](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/182-joseon-market-yujeon.html): 조선 · 한양·서울
 - [183. 한국 차 문화 — 초의선사와 다도의 부활](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/183-korean-tea-culture.html): 조선후기
