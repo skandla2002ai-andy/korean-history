@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-09",
   "stats": {
     "total": 346,
-    "published": 193,
-    "queued": 153,
-    "new": 7
+    "published": 194,
+    "queued": 152,
+    "new": 8
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,27 @@
     }
   ],
   "articles": [
+    {
+      "title": "육의전과 조선 상업 — 한양 시장의 역사",
+      "description": "한양 종로의 육의전. 조선 상업의 중심지와 시전상인의 독점 특권.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-market-yujeon.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-market-yujeon.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "경제",
+        "사회"
+      ],
+      "related": [],
+      "region": [
+        "한양·서울"
+      ],
+      "num": null,
+      "published": "2026-07-09",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "한국 무속신앙 — 무당과 굿의 역사",
       "description": "한반도 최고(最古)의 신앙 무속. 단군 이전부터 현재까지 이어진 무당·굿의 역사.",
@@ -4233,27 +4254,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "육의전과 조선 상업 — 한양 시장의 역사",
-      "description": "한양 종로의 육의전. 조선 상업의 중심지와 시전상인의 독점 특권.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/182-joseon-market-yujeon.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/182-joseon-market-yujeon.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "경제",
-        "사회"
-      ],
-      "related": [],
-      "region": [
-        "한양·서울"
-      ],
-      "num": 182,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한국 차 문화 — 초의선사와 다도의 부활",
       "description": "삼국시대 전래된 차 문화. 조선에서 쇠퇴하고 초의선사가 복원한 한국 다도.",
