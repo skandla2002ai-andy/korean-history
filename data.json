@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-10",
   "stats": {
     "total": 346,
-    "published": 194,
-    "queued": 152,
-    "new": 7
+    "published": 195,
+    "queued": 151,
+    "new": 8
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "한국 차 문화 — 초의선사와 다도의 부활",
+      "description": "삼국시대 전래된 차 문화. 조선에서 쇠퇴하고 초의선사가 복원한 한국 다도.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-tea-culture.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-tea-culture.md",
+      "era": [
+        "조선후기"
+      ],
+      "topics": [
+        "문화",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-10",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "육의전과 조선 상업 — 한양 시장의 역사",
       "description": "한양 종로의 육의전. 조선 상업의 중심지와 시전상인의 독점 특권.",
@@ -4254,25 +4273,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "한국 차 문화 — 초의선사와 다도의 부활",
-      "description": "삼국시대 전래된 차 문화. 조선에서 쇠퇴하고 초의선사가 복원한 한국 다도.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/183-korean-tea-culture.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/183-korean-tea-culture.md",
-      "era": [
-        "조선후기"
-      ],
-      "topics": [
-        "문화",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 183,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "김홍도·신윤복 — 조선 풍속화의 두 거장",
       "description": "단원 김홍도와 혜원 신윤복. 양반이 아닌 민중을 그린 조선 풍속화의 걸작들.",
