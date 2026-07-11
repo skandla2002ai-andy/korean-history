@@ -1,6 +1,6 @@
 # 주요 콘텐츠
 
-> 연재 중인 한국사 글 목록. 마지막 업데이트: 2026-06-21 · 총 174편
+> 연재 중인 한국사 글 목록. 마지막 업데이트: 2026-06-21 · 총 175편
 
 
 
@@ -162,6 +162,7 @@
 - ["집현전 — 세종의 두뇌집단"](/korean-history/articles/jiphyeonjeon-academy.md) — 
 - ["조광조 — 사림의 이상과 기묘사화"](/korean-history/articles/jo-gwangjo-reform.md) — 
 - ["조선 천주교 박해 — 신유박해와 병인박해"](/korean-history/articles/joseon-catholic-persecution.md) — 
+- ["경복궁 — 조선 왕조의 법궁"](/korean-history/articles/joseon-gyeongbokgung.md) — "서울"
 - ["조선 백자"](/korean-history/articles/joseon-porcelain-baekja.md) — 
 - ["조선 수라상"](/korean-history/articles/joseon-royal-cuisine.md) — 
 - ["조선 의녀 제도 — 장금이의 실제 역사"](/korean-history/articles/joseon-uinyeo-system.md) — 

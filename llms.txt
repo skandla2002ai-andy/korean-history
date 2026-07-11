@@ -255,7 +255,7 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (171편)
+## 발행 예정 큐 (151편)
 
 - [214. 조선-여진 관계 — 회유와 정벌 사이](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/214-joseon-jurchens-policy.html): 조선
 - [215. 나당전쟁 — 동맹을 깨고 당을 몰아낸 신라](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/215-nadan-war-silla.html): 통일신라
