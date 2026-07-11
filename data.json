@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-11",
   "stats": {
     "total": 546,
-    "published": 275,
-    "queued": 271,
-    "new": 100
+    "published": 276,
+    "queued": 270,
+    "new": 101
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -596,6 +596,25 @@
       "region": [
         "한양·서울"
       ],
+      "num": null,
+      "published": "2026-07-11",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한옥 — 한국 전통 건축의 구조와 철학",
+      "description": "온돌·마루·기둥의 결합. 자연과 조화를 이루는 한옥의 구조 원리와 지역별 특징.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hanok-architecture.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hanok-architecture.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "문화",
+        "과학·기술"
+      ],
+      "related": [],
+      "region": [],
       "num": null,
       "published": "2026-07-11",
       "is_new": true,
@@ -5913,25 +5932,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "한옥 — 한국 전통 건축의 구조와 철학",
-      "description": "온돌·마루·기둥의 결합. 자연과 조화를 이루는 한옥의 구조 원리와 지역별 특징.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/264-hanok-architecture.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/264-hanok-architecture.md",
-      "era": [
-        "삼국"
-      ],
-      "topics": [
-        "문화",
-        "과학·기술"
-      ],
-      "related": [],
-      "region": [],
-      "num": 264,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
