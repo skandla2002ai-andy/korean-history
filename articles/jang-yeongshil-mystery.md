@@ -3,6 +3,7 @@ title: "장영실"
 type: article
 era: "조선"
 topics: ["과학·기술", "인물"]
+description: "15세기. 천민 출신 장영실은 혼천의·앙부일구·자격루를 만들었다. 그리고 1442년 기록에서 사라졌다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

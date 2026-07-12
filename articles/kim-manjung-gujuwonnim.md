@@ -3,6 +3,7 @@ title: "김만중"
 type: article
 era: "조선"
 topics: ["인물", "문화"]
+description: "1687년 남해 유배지에서 완성한 『구운몽』. 어머니를 위해 쓴 소설의 정치적 함의."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

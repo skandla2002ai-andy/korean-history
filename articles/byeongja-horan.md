@@ -4,6 +4,7 @@ type: article
 era: "조선"
 topics: ["전쟁"]
 related_countries: ["중국(청)"]
+description: "1636년 12월. 청 태종의 12만 군대가 조선을 침략했다. 인조는 45일 만에 항복하고 삼전도에서 세 번 절했다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

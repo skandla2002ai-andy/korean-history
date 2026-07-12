@@ -3,6 +3,7 @@ title: "제2연평해전"
 type: article
 era: "현대"
 topics: ["남북관계·해전"]
+description: "2002년 6월 29일 오전 10시. 한국 대 독일 3·4위전 날 아침. 서해 연평도 인근에서 남북 함정이 교전했다. 6명이 전사했다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

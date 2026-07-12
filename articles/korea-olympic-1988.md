@@ -3,6 +3,7 @@ title: "1988 서울 올림픽"
 type: article
 era: "현대"
 topics: ["스포츠·외교"]
+description: "전쟁 후 40년. 폐허에서 올림픽을 열었다. 160개국이 참가했다. 한국은 금메달 12개로 종합 4위. 세계는 처음으로 한국을 제대로 봤다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

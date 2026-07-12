@@ -3,6 +3,7 @@ title: "윤봉길 의거"
 type: article
 era: "일제강점기"
 topics: ["독립운동·인물"]
+description: "1932년 4월 29일. 25세의 청년이 폭탄을 던졌다. 그해 12월 처형됐다. 그러나 중국 장제스가"
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

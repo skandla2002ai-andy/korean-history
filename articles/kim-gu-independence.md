@@ -3,6 +3,7 @@ title: "김구"
 type: article
 era: "일제강점기"
 topics: ["독립운동", "인물"]
+description: "1876~1949년. 동학농민운동부터 임시정부 주석까지. 분단을 거부하고 총탄에 쓰러진 독립운동의 상징."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

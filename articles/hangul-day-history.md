@@ -3,6 +3,7 @@ title: "한글날의 역사"
 type: article
 era: "근현대"
 topics: ["한글·기념일"]
+description: "1926년 처음 만들어진 날. 일제가 탄압했다. 광복 후 공휴일이 됐다. 1991년 공휴일에서 빠졌다. 2013년 다시 공휴일이 됐다. 한글날의 굴곡진 역사."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

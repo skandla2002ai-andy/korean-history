@@ -3,6 +3,7 @@ title: "조선의 과거제"
 type: article
 era: "조선·고려"
 topics: ["제도·관료제"]
+description: "고려 광종 958년 시작. 조선 500년 운영. 이론상 신분을 초월한 능력 선발. 현실은 양반의 독점. 한국 시험 문화의 원형."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

@@ -4,6 +4,7 @@ type: article
 era: "조선"
 region: "평안도"
 topics: ["사회·민란"]
+description: "1811~1812년. 평안도 지역 차별에 분노한 홍경래가 일으킨 조선 최대 민란."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

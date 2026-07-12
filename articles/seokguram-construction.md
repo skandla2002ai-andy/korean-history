@@ -3,6 +3,7 @@ title: "석굴암"
 type: article
 era: "통일신라"
 topics: ["불교·건축"]
+description: "751년 착공. 화강암 돌덩이들이 모르타르 없이 맞물려 360여 년을 견뎠다. 1300년 후 일제가 시멘트를 바르면서 오히려 문제가 생겼다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

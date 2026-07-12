@@ -3,6 +3,7 @@ title: "계유정난"
 type: article
 era: "조선"
 topics: ["정치·권력"]
+description: "1453년 10월. 수양대군은 궁 안에서 황보인·김종서를 직접 살해하고 어린 단종의 왕위를 찬탈했다. 조선 역사상 가장 피 냄새 나는 쿠데타."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

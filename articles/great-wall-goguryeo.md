@@ -3,6 +3,7 @@ title: "고구려 천리장성"
 type: article
 era: "삼국시대"
 topics: ["고구려·국방"]
+description: "631년 공사 시작, 16년 만에 완성. 동북에서 서남으로 천 리. 고구려가 쌓은 대규모 방어선. 그러나 장성은 고구려를 구하지 못했다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

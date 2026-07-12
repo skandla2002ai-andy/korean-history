@@ -3,6 +3,7 @@ title: "제주 4·3 사건"
 type: article
 era: "현대"
 topics: ["민주화·인권"]
+description: "1948년 4월 3일. 제주에서 무장봉기가 시작됐다. 진압 과정에서 민간인이 학살됐다. 제주 인구의 10분의 1이 죽었다. 50년 동안 말할 수 없었다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

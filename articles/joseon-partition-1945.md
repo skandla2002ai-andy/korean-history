@@ -3,6 +3,7 @@ title: "분단의 시작"
 type: article
 era: "현대"
 topics: ["분단·냉전"]
+description: "1945년 8월 10일 밤. 미국 국무부 장교 두 명이 30분 만에 지도에 선 하나를 그었다. 그 선이 지금도 남아 있다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

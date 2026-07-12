@@ -3,6 +3,7 @@ title: "고구려 고분벽화"
 type: article
 era: "삼국시대"
 topics: ["문화·예술"]
+description: "4~7세기. 고구려 사람들은 무덤 안에 삶을 그렸다. 1,500년이 지난 그림들이 아직 생생하다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

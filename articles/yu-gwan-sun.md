@@ -4,6 +4,7 @@ type: article
 era: "일제강점기"
 topics: ["독립운동", "인물"]
 related_countries: ["일본"]
+description: "1902~1920년. 이화학당 학생 유관순이 고향 천안 아우내 장터에서 만세를 외쳤다. 그녀는 18세에 옥중에서 세상을 떠났다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

@@ -3,6 +3,7 @@ title: "광개토대왕릉비"
 type: article
 era: "삼국시대"
 topics: ["고구려·역사논쟁"]
+description: "414년 고구려에 세워진 돌비. 높이 6.4m, 1,775자. 한·중·일이 각자 다르게 읽는다. 역사가 돌에 새겨져 논쟁이 된다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

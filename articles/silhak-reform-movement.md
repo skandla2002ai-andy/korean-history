@@ -3,6 +3,7 @@ title: "실학 운동"
 type: article
 era: "조선 후기"
 topics: ["학문·사상"]
+description: "17~19세기. 이익·박지원·정약용. 공리공론보다 실제 백성의 삶을 개선하는 학문. 그러나 그 개혁안 대부분은 채택되지 않았다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

@@ -3,6 +3,7 @@ title: "동의보감"
 type: article
 era: "조선"
 topics: ["의학·과학", "문화유산"]
+description: "1613년 완성. 25권, 1만 3,000여 항목. 임진왜란 직후 백성들이 죽어가는 것을 본 허준이 16년을 바쳐 썼다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

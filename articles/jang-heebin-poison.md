@@ -3,6 +3,7 @@ title: "장희빈"
 type: article
 era: "조선"
 topics: ["인물", "정치"]
+description: "1659~1701년. 숙종의 총애를 받아 왕비에까지 오른 뒤 사사된 희빈 장씨의 실제 삶."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

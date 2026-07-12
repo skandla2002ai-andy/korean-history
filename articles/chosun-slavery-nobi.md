@@ -3,6 +3,7 @@ title: "조선의 노비"
 type: article
 era: "조선"
 topics: ["사회"]
+description: "15~17세기 조선. 전체 인구의 30~40%가 노비였다. 그들은 매매·상속·증여의 대상이었다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

@@ -4,6 +4,7 @@ type: article
 era: "조선"
 topics: ["임진왜란", "인물"]
 related_countries: ["일본"]
+description: "1593년 2월 12일. 권율이 이끈 조선군 2,300명이 왜군 3만을 물리친 임진왜란 3대 대첩."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

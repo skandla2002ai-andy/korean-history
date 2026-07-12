@@ -3,6 +3,7 @@ title: "해인사 팔만대장경"
 type: article
 era: "고려"
 topics: ["불교·문화"]
+description: "1236~1251년 제작. 8만 1,258개의 나무판, 5,200만 자. 750년이 지났는데 뒤틀리지 않았다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

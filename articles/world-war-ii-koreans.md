@@ -3,6 +3,7 @@ title: "강제 징용"
 type: article
 era: "일제강점기"
 topics: ["인권·강제동원", "일본"]
+description: "1939~1945년. 약 70만~100만 명의 조선인이 일본·사할린·남태평양 등지의 광산·공장·전쟁터로 끌려갔다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

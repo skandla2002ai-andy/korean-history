@@ -4,6 +4,7 @@ type: article
 era: "삼국시대"
 region: "충청·한강"
 topics: ["건국·역사"]
+description: "기원전 18년. 주몽의 두 아들 비류와 온조는 각각 미추홀과 위례성에 나라를 세웠다. 형의 나라는 망했고 동생의 나라는 700년을 이어갔다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

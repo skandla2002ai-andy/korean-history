@@ -3,6 +3,7 @@ title: "조선의 출판 문화"
 type: article
 era: "조선·고려"
 topics: ["출판·기술"]
+description: "고려는 1234년 세계 최초로 금속 활자를 만들었다. 조선은 그 전통 위에 규장각을 세우고 수만 권의 책을 편찬했다. 책을 사랑한 왕조의 기록."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

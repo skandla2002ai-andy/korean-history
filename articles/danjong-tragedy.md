@@ -3,6 +3,7 @@ title: "단종"
 type: article
 era: "조선"
 topics: ["인물", "정치"]
+description: "1441~1457년. 삼촌 수양대군에게 왕위를 빼앗기고 강원도 영월에서 사사된 소년 왕."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

@@ -3,6 +3,7 @@ title: "단군과 고조선"
 type: article
 era: "고조선"
 topics: ["건국 신화·역사"]
+description: "기원전 2333년 단군 건국 신화. 그러나 역사학이 확인할 수 있는 고조선은 기원전 7~4세기부터다. 신화는 역사가 아니지만 역사의 시작이다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

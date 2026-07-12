@@ -3,6 +3,7 @@ title: "조선 백자"
 type: article
 era: "조선"
 topics: ["공예·미술"]
+description: "고려청자가 화려함이라면, 조선백자는 절제다. 유교 미학이 도자기에 담겼다. 순백의 표면 위에 조선 선비의 정신이 있다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

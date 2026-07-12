@@ -3,6 +3,7 @@ title: "고종과 대한제국"
 type: article
 era: "구한말"
 topics: ["근대화·외교"]
+description: "1897년 황제가 되었다. 전차·전기·전화를 들여왔다. 1905년 외교권을 빼앗겼고, 1910년 나라가 사라졌다. 고종은 무능했는가, 아니면 불운했는가."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

@@ -3,6 +3,7 @@ title: "4·19 혁명"
 type: article
 era: "현대"
 topics: ["민주주의·혁명"]
+description: "1960년 4월 19일. 총탄 앞에 선 학생들이 물러서지 않았다. 12년 독재 이승만이 하야했다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

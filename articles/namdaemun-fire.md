@@ -4,6 +4,7 @@ type: article
 era: "현대"
 region: "서울"
 topics: ["문화유산"]
+description: "2008년 2월 10일. 600년을 버텨온 숭례문이 방화로 5시간 만에 무너졌다. 복구에 5년이 걸렸다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

@@ -3,6 +3,7 @@ title: "이이 십만양병설"
 type: article
 era: "조선"
 topics: ["국방·사상"]
+description: "임진왜란 8년 전, 이이가 10만 군사를 길러야 한다고 했다. 아무도 듣지 않았다. 1592년 왜군이 왔다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

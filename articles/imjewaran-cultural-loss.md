@@ -3,6 +3,7 @@ title: "임진왜란과 문화 손실"
 type: article
 era: "조선"
 topics: ["전쟁·문화", "일본"]
+description: "1592~1598년. 7년 전쟁. 경복궁이 불탔고, 실록이 사라질 뻔했고, 도공들이 납치되어 일본 도자기 역사를 바꿨다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

@@ -4,6 +4,7 @@ type: article
 era: "조선 말기"
 topics: ["민중운동"]
 related_countries: ["일본", "중국(청)"]
+description: "1894년. 전봉준이 이끄는 농민군이"
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

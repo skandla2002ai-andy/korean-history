@@ -3,6 +3,7 @@ title: "고려와 원나라"
 type: article
 era: "고려"
 topics: ["외교·전쟁"]
+description: "1259년 항복. 고려 왕은 몽골 공주를 아내로 맞았다. 80년간 원나라의 부마국. 그러나 고려는 사라지지 않았다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

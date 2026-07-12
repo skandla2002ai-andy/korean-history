@@ -3,6 +3,7 @@ title: "대동법"
 type: article
 era: "조선"
 topics: ["경제·제도"]
+description: "1608~1708년. 공물(貢物) 납부를 쌀로 통일한 대동법. 특산물 대신 쌀 하나로 세금을 낸다는 아이디어가 전국 시행까지 100년이 걸렸다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

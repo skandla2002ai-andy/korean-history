@@ -3,6 +3,7 @@ title: "독도의 역사"
 type: article
 era: "근현대"
 topics: ["영토·외교", "일본"]
+description: "512년 신라가 우산국을 복속한 이래 한국 영토. 1905년 일본이 '편입'을 선언하고 1952년 한국이 실효 지배를 선언했다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

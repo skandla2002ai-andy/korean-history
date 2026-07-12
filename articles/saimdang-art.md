@@ -3,6 +3,7 @@ title: "신사임당"
 type: article
 era: "조선"
 topics: ["인물", "문화·예술"]
+description: "1504~1551년. 시·서·화에 뛰어난 조선 최고의 여성 예술가. 그러나 역사는 그녀를"
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

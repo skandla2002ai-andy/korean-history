@@ -3,6 +3,7 @@ title: "반구대 암각화"
 type: article
 era: "선사시대"
 topics: ["유적·암각화"]
+description: "기원전 5,000년. 신석기 인류가 바위에 고래를 새겼다. 세계에서 가장 오래된 고래 포경 기록. 지금 이 유산은 댐 물에 잠기고 있다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

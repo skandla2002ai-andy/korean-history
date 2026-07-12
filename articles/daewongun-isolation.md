@@ -3,6 +3,7 @@ title: "흥선대원군의 쇄국"
 type: article
 era: "조선 말기"
 topics: ["정치·외교", "인물"]
+description: "1863~1873년 집권."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---
