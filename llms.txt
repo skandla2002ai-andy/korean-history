@@ -27,7 +27,7 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (275편 · 최신순 · 갱신 2026-07-11)
+## 발행 완료 (276편 · 최신순 · 갱신 2026-07-11)
 
 - [아리랑의 역사 — 민족의 노래는 어디서 왔나](https://skandla2002ai-andy.github.io/korean-history/articles/arirang-history.md): 조선후기 [NEW]
 - [박혁거세 — 신라 건국 설화와 알에서 태어난 왕](https://skandla2002ai-andy.github.io/korean-history/articles/baek-hyeokgeose-silla.md): 삼국 · 경주 [NEW]
@@ -56,6 +56,7 @@
 - [견훤 — 후백제를 세운 장군 출신 왕](https://skandla2002ai-andy.github.io/korean-history/articles/gyeonhwon-hubaekje.md): 통일신라 · 전라도 [NEW]
 - [한복의 역사 — 삼국부터 현대까지 변천](https://skandla2002ai-andy.github.io/korean-history/articles/hanbok-history.md): 삼국 [NEW]
 - [한강 개발 역사 — 서울의 젖줄이 바뀌다](https://skandla2002ai-andy.github.io/korean-history/articles/hangang-development-history.md): 현대 · 한양·서울 [NEW]
+- [한옥 — 한국 전통 건축의 구조와 철학](https://skandla2002ai-andy.github.io/korean-history/articles/hanok-architecture.md): 삼국 [NEW]
 - [한양 도성 — 사대문과 600년 성곽](https://skandla2002ai-andy.github.io/korean-history/articles/hanyang-city-wall.md): 조선 · 한양·서울 [NEW]
 - [황희 정승 — 조선 최장 재임 청백리](https://skandla2002ai-andy.github.io/korean-history/articles/hwang-hee-clean-official.md): 조선 [NEW]
 - [향약집성방 — 조선의 첫 의학 백과](https://skandla2002ai-andy.github.io/korean-history/articles/hyangyak-medical-book.md): 조선 [NEW]
@@ -305,9 +306,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (271편)
+## 발행 예정 큐 (270편)
 
-- [264. 한옥 — 한국 전통 건축의 구조와 철학](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/264-hanok-architecture.html): 삼국
 - [265. 분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/265-buncheong-ware.html): 조선
 - [266. 민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/266-korean-minhwa.html): 조선
 - [267. 씨름의 역사 — 삼국시대부터 현대까지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/267-ssireum-wrestling-history.html): 삼국
