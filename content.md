@@ -1,6 +1,6 @@
 # 주요 콘텐츠
 
-> 연재 중인 한국사 글 목록. 마지막 업데이트: 2026-07-11 · 총 275편
+> 연재 중인 한국사 글 목록. 마지막 업데이트: 2026-07-12 · 총 276편
 
 
 
@@ -77,6 +77,7 @@
 - ["계백 장군 — 황산벌의 5,000 결사대"](/korean-history/articles/gyebaek-hwangsanbeol.md) — 
 - ["경주 천년 — 신라 수도의 유산"](/korean-history/articles/gyeongju-millennium-capital.md) — "경주"
 - ["한복의 역사 — 삼국부터 현대까지 변천"](/korean-history/articles/hanbok-history.md) — 
+- ["한옥 — 한국 전통 건축의 구조와 철학"](/korean-history/articles/hanok-architecture.md) — 
 - ["화랑도 — 신라 청소년 엘리트 교육"](/korean-history/articles/hwarang-education.md) — 
 - ["진흥왕 — 신라 최대 영토 확장"](/korean-history/articles/jinheung-silla-expansion.md) — 
 - ["김춘추 무열왕 — 외교로 삼국통일 기반을 닦다"](/korean-history/articles/kim-chunchoo-diplomacy.md) — 
