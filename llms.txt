@@ -27,7 +27,7 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (276편 · 최신순 · 갱신 2026-07-11)
+## 발행 완료 (276편 · 최신순 · 갱신 2026-07-13)
 
 - [아리랑의 역사 — 민족의 노래는 어디서 왔나](https://skandla2002ai-andy.github.io/korean-history/articles/arirang-history.md): 조선후기 [NEW]
 - [박혁거세 — 신라 건국 설화와 알에서 태어난 왕](https://skandla2002ai-andy.github.io/korean-history/articles/baek-hyeokgeose-silla.md): 삼국 · 경주 [NEW]
