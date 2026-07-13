@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-13",
   "stats": {
     "total": 546,
-    "published": 277,
-    "queued": 269,
-    "new": 102
+    "published": 278,
+    "queued": 268,
+    "new": 103
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
+      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-13",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
@@ -5953,25 +5972,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
-      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/266-korean-minhwa.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/266-korean-minhwa.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
-      "num": 266,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "씨름의 역사 — 삼국시대부터 현대까지",
       "description": "고구려 벽화에 등장하는 씨름. 조선 단오절의 씨름 대회와 현대 천하장사.",
