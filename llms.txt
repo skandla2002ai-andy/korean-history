@@ -27,7 +27,7 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (277편 · 최신순 · 갱신 2026-07-12)
+## 발행 완료 (277편 · 최신순 · 갱신 2026-07-13)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
 - [아리랑의 역사 — 민족의 노래는 어디서 왔나](https://skandla2002ai-andy.github.io/korean-history/articles/arirang-history.md): 조선후기 [NEW]
