@@ -27,10 +27,11 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (278편 · 최신순 · 갱신 2026-07-14)
+## 발행 완료 (279편 · 최신순 · 갱신 2026-07-14)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [씨름의 역사 — 삼국시대부터 현대까지](https://skandla2002ai-andy.github.io/korean-history/articles/ssireum-wrestling-history.md): 삼국 [NEW]
 - [아리랑의 역사 — 민족의 노래는 어디서 왔나](https://skandla2002ai-andy.github.io/korean-history/articles/arirang-history.md): 조선후기 [NEW]
 - [박혁거세 — 신라 건국 설화와 알에서 태어난 왕](https://skandla2002ai-andy.github.io/korean-history/articles/baek-hyeokgeose-silla.md): 삼국 · 경주 [NEW]
 - [박은식 — 역사는 민족의 혼 (한국통사)](https://skandla2002ai-andy.github.io/korean-history/articles/bak-eun-sik-history.md): 일제강점기 [NEW]
@@ -308,9 +309,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (268편)
+## 발행 예정 큐 (267편)
 
-- [267. 씨름의 역사 — 삼국시대부터 현대까지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/267-ssireum-wrestling-history.html): 삼국
 - [268. 금속활자의 계보 — 직지에서 훈민정음까지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/268-metal-movable-type-lineage.html): 고려
 - [269. 고구려 천문도 — 별자리 고분 벽화의 비밀](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/269-goguryeo-star-map.html): 삼국
 - [270. 조선 화포 기술 — 최무선에서 신기전까지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/270-joseon-armament-history.html): 고려 · 조선

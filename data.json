@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-14",
   "stats": {
     "total": 546,
-    "published": 278,
-    "queued": 268,
-    "new": 103
+    "published": 279,
+    "queued": 267,
+    "new": 104
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -73,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-14",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "씨름의 역사 — 삼국시대부터 현대까지",
+      "description": "고구려 벽화에 등장하는 씨름. 조선 단오절의 씨름 대회와 현대 천하장사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ssireum-wrestling-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ssireum-wrestling-history.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "문화",
+        "역사"
       ],
       "related": [],
       "region": [],
@@ -5972,25 +5991,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "씨름의 역사 — 삼국시대부터 현대까지",
-      "description": "고구려 벽화에 등장하는 씨름. 조선 단오절의 씨름 대회와 현대 천하장사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/267-ssireum-wrestling-history.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/267-ssireum-wrestling-history.md",
-      "era": [
-        "삼국"
-      ],
-      "topics": [
-        "문화",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 267,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "금속활자의 계보 — 직지에서 훈민정음까지",
       "description": "고려의 금속활자 발명에서 조선 주자소까지. 구텐베르크보다 앞선 활자 인쇄의 역사.",
