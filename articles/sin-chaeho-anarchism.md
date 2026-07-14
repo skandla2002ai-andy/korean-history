@@ -3,6 +3,7 @@ title: "신채호"
 type: article
 era: "일제강점기"
 topics: ["독립운동·역사학"]
+description: "역사는 아(我)와 비아(非我)의 투쟁이다. 민족주의 역사학을 창시하고, 마지막엔 무정부주의자로 뤼순 감옥에서 죽었다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

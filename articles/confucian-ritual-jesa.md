@@ -3,6 +3,7 @@ title: "조선의 제사 문화"
 type: article
 era: "조선"
 topics: ["유교·의례"]
+description: "조선은 유교 국가였다. 죽은 조상을 정기적으로 모시는 제사는 단순한 의례가 아니었다. 가문의 질서, 사회의 구조, 정치의 정당성이 거기에 담겼다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

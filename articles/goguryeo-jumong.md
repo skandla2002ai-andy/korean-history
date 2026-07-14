@@ -3,6 +3,7 @@ title: "주몽과 고구려 건국"
 type: article
 era: "삼국시대"
 topics: ["인물·건국"]
+description: "기원전 37년. 부여에서 탈출한 주몽이 졸본에 나라를 세웠다. 알에서 태어났다는 신화 속에 담긴 역사적 사실."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

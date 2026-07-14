@@ -3,6 +3,7 @@ title: "해외 독립운동"
 type: article
 era: "일제강점기"
 topics: ["독립운동·해외"]
+description: "상하이 임시정부. 만주 봉오동·청산리. 하와이 독립 자금. 미국 외교 로비. 국내에서 싸운 사람만큼, 해외에서 싸운 사람들도 있었다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

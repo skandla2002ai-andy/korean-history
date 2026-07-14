@@ -3,6 +3,7 @@ title: "백두산 국경 분쟁"
 type: article
 era: "조선·현대"
 topics: ["영토·외교"]
+description: "1712년 조선·청 두 나라가 백두산에 경계를 새겼다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

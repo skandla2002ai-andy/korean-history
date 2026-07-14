@@ -3,6 +3,7 @@ title: "정약용"
 type: article
 era: "조선"
 topics: ["인물", "학문·실학"]
+description: "1762~1836년. 강진 유배 18년. 그 긴 고독 속에서 『목민심서』·『경세유표』·『흠흠신서』 등 조선 최고의 실학 저술이 탄생했다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

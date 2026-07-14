@@ -3,6 +3,7 @@ title: "김치의 역사"
 type: article
 era: "조선"
 topics: ["음식·문화"]
+description: "지금의 빨간 김치는 300년 역사다. 그 이전 1,700년 동안 김치는 소금에 절인 채소였다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

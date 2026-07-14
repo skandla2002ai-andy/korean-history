@@ -3,6 +3,7 @@ title: "임진왜란 의병"
 type: article
 era: "조선"
 topics: ["임진왜란·의병"]
+description: "1592년 왕은 도망갔다. 정규군은 무너졌다. 그때 곽재우·고경명·조헌이 의병을 일으켰다. 농민·승려·선비가 왜군에 맞섰다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

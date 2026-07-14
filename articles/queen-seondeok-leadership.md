@@ -4,6 +4,7 @@ type: article
 era: "신라"
 region: "경주"
 topics: ["인물", "정치"]
+description: "632~647년 재위. 첨성대·황룡사 9층 목탑을 세우고, 삼국 전쟁의 한복판에서 신라를 이끈 여왕."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

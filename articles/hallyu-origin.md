@@ -3,6 +3,7 @@ title: "한류의 기원"
 type: article
 era: "현대"
 topics: ["문화·한류"]
+description: "1997년 경제 위기. 문화 산업 육성이 국가 전략이 됐다. 그 씨앗이 20년 후 BTS와 봉준호가 됐다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

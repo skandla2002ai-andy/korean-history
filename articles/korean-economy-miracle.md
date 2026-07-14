@@ -3,6 +3,7 @@ title: "한강의 기적"
 type: article
 era: "현대"
 topics: ["경제·산업화"]
+description: "1953년 1인당 GDP 67달러. 전쟁으로 폐허가 된 나라. 2023년 1인당 GDP 3만 3,000달러. 70년 만에 500배 성장. 역사에서 유례없는 속도."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

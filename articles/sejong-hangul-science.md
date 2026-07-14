@@ -3,6 +3,7 @@ title: "훈민정음의 과학"
 type: article
 era: "조선"
 topics: ["한글·언어학"]
+description: "자음은 발음 기관의 모양을 본뜬 것이다. 모음은 하늘·땅·사람 세 원리로 만들었다. 세계 유일하게 창제 원리가 밝혀진 문자."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

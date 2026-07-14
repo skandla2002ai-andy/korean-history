@@ -4,6 +4,7 @@ type: article
 era: "일제강점기"
 topics: ["독립운동"]
 related_countries: ["일본"]
+description: "1919년 3월 1일. 33인의 민족 대표가 독립선언서를 낭독했다. 그 외침은 전국으로 번졌다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

@@ -3,6 +3,7 @@ title: "황진이"
 type: article
 era: "조선"
 topics: ["인물", "문화"]
+description: "16세기 개성 기생. 당대 최고 선비들을 감복시키고 한국 시조사에 이름을 남긴 예인."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

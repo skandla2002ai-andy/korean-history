@@ -4,6 +4,7 @@ type: article
 era: "조선"
 topics: ["외교·정치", "인물"]
 related_countries: ["중국(명·청)"]
+description: "재위 1608~1623년. 임진왜란 직후 왕이 된 광해군은 명·후금 사이에서 실리 외교를 폈다. 그 결과는 쿠데타로 폐위였다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

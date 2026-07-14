@@ -3,6 +3,7 @@ title: "박정희와 산업화"
 type: article
 era: "현대"
 topics: ["정치·경제", "인물"]
+description: "1961~1979년. 1인당 GDP 82달러에서 1,644달러로. 그러나 그 뒤에 유신 헌법과 민주주의 탄압이 있었다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

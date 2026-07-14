@@ -3,6 +3,7 @@ title: "조선 수라상"
 type: article
 era: "조선"
 topics: ["음식·궁중문화"]
+description: "하루 두 번의 수라. 12첩 반상. 전국 팔도의 음식이 한 상에 올랐다. 왕의 밥상은 단순한 식사가 아니었다. 통치의 상징이었다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

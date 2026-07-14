@@ -3,6 +3,7 @@ title: "안용복과 독도 수호"
 type: article
 era: "조선"
 topics: ["영토·인물"]
+description: "1693년, 동래 어부 안용복이 일본에 잡혀갔다. 두 번씩이나 일본까지 건너가"
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

@@ -3,6 +3,7 @@ title: "동학의 창시"
 type: article
 era: "조선 말기"
 topics: ["종교·사상", "사회"]
+description: "1860년 최제우가 창시한 동학."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

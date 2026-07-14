@@ -3,6 +3,7 @@ title: "백제 멸망과 황산벌"
 type: article
 era: "삼국시대"
 topics: ["전쟁·인물"]
+description: "660년. 신라·당 연합군 13만이 쳐들어왔다. 계백은 5,000명으로 황산벌에서 맞섰다. 네 번 이겼고, 다섯 번째 싸움에서 죽었다. 사흘 후 백제는 멸망했다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

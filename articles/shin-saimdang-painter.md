@@ -3,6 +3,7 @@ title: "신사임당"
 type: article
 era: "조선"
 topics: ["여성·예술"]
+description: "5만 원권 지폐의 주인공. 뛰어난 화가이자 시인. 이이의 어머니. 그러나 조선은 그를 '현모양처'로만 기억하려 했다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

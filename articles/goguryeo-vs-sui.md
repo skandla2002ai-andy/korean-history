@@ -3,6 +3,7 @@ title: "살수대첩"
 type: article
 era: "삼국시대"
 topics: ["전쟁·외교", "중국(수)"]
+description: "612년. 수 양제의 113만 대군. 살수(청천강)에서 을지문덕의 유인 전술에 걸린 수나라 군대가 궤멸됐다. 살아 돌아간 자는 2,700명."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

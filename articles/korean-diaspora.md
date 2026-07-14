@@ -3,6 +3,7 @@ title: "코리안 디아스포라"
 type: article
 era: "근현대"
 topics: ["이민·사회"]
+description: "굶주림, 강제 이주, 전쟁, 이민. 한국인은 왜, 어떻게 세계로 흩어졌는가. 750만 재외 한인의 역사."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

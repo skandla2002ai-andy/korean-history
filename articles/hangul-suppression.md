@@ -3,6 +3,7 @@ title: "일제의 한글 탄압"
 type: article
 era: "일제강점기"
 topics: ["언어·탄압", "일본"]
+description: "1938년 학교에서 조선어 교육을 금지했다. 1942년 조선어학회 사건으로 학자들을 투옥했다. 그래도 한글은 살아남았다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

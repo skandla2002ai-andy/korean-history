@@ -3,6 +3,7 @@ title: "명성황후"
 type: article
 era: "조선 말기"
 topics: ["인물·외교", "일본"]
+description: "1895년 10월 8일 새벽. 일본 낭인들이 경복궁에 난입하여 왕비를 살해했다. 국제법 위반이었고 외교적 충격이었다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

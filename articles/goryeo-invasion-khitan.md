@@ -3,6 +3,7 @@ title: "귀주대첩"
 type: article
 era: "고려"
 topics: ["전쟁", "거란(요)"]
+description: "1019년. 거란의 3차 침략. 귀주(평북 구성)에서 강감찬이 이끄는 고려군이 10만 거란군을 대파했다. 거란은 그 후 고려를 다시 침공하지 않았다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

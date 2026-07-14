@@ -4,6 +4,7 @@ type: article
 era: "삼국시대"
 topics: ["문화·외교"]
 related_countries: ["일본"]
+description: "4~7세기. 백제는 불교·한자·도공·직조술을 야마토 왜에 전했다. 일본 아스카 문화의 기원."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

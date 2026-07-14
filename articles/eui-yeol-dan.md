@@ -4,6 +4,7 @@ type: article
 era: "일제강점기"
 topics: ["독립운동"]
 related_countries: ["일본"]
+description: "1919년 창단. 김원봉이 이끈 의열단은 조선총독·고관·친일파 처단을 목표로 의열 투쟁을 벌였다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

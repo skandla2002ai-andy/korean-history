@@ -3,6 +3,7 @@ title: "고려청자"
 type: article
 era: "고려"
 topics: ["공예·미술"]
+description: "중국 송나라 사람이"
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

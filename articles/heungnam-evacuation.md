@@ -3,6 +3,7 @@ title: "흥남 철수"
 type: article
 era: "현대"
 topics: ["한국전쟁·피란"]
+description: "1950년 12월. 중공군이 밀려왔다. 흥남 부두에 군인과 피란민 10만 명이 몰렸다. 메러디스 빅토리호 한 척이 1만 4,000명을 태우고 떠났다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

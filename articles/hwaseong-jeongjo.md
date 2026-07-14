@@ -4,6 +4,7 @@ type: article
 era: "조선"
 region: "수원"
 topics: ["건축·문화", "인물"]
+description: "1794~1796년. 정조가 아버지 사도세자의 무덤 곁에 세운 화성. 단순한 성곽이 아닌 새로운 정치 수도의 꿈."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

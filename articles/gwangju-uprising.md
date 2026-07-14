@@ -4,6 +4,7 @@ type: article
 era: "현대"
 region: "광주·전남"
 topics: ["민주주의·항쟁"]
+description: "1980년 5월 18일~27일. 광주 시민이 계엄군에 맞서 열흘을 싸웠다. 공식 사망자 165명. 진상은 아직 규명 중이다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

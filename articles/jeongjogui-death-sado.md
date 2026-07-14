@@ -3,6 +3,7 @@ title: "사도세자"
 type: article
 era: "조선"
 topics: ["정치·인물"]
+description: "1762년 윤5월. 영조는 세자 이선을 뒤주에 가뒀다. 8일 후 세자가 죽었다. 조선 역사에서 가장 비극적인 부자 관계."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

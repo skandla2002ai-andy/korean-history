@@ -3,6 +3,7 @@ title: "한국전쟁"
 type: article
 era: "현대"
 topics: ["전쟁·분단", "국제관계"]
+description: "1950년 6월 25일 새벽. 북한군 탱크가 38도선을 넘었다. 3년 후 정전. 그러나 70년이 지나도 평화 협정은 없다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

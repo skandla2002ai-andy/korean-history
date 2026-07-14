@@ -4,6 +4,7 @@ type: article
 era: "고려"
 topics: ["전쟁"]
 related_countries: ["몽골(원)"]
+description: "1231~1270년. 몽골의 7차례 침략에 맞서 강화도로 수도를 옮기고 39년을 버텼다. 그 대가는 백성의 희생이었다."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---

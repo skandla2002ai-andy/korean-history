@@ -4,6 +4,7 @@ type: article
 era: "통일신라"
 topics: ["인물", "문화·학문"]
 related_countries: ["중국(당)"]
+description: "857~?년. 12세에 당나라로 건너가 18세에 과거 급제한 뒤 신라로 돌아와 개혁을 꿈꿨으나 받아들여지지 않은 고독한 천재."
 source: "https://skandla2002ai-andy.github.io/korean-history"
 license: "CC BY 4.0"
 ---
