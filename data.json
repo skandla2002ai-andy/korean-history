@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-15",
   "stats": {
     "total": 546,
-    "published": 279,
-    "queued": 267,
-    "new": 104
+    "published": 280,
+    "queued": 266,
+    "new": 105
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -73,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-15",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "금속활자의 계보 — 직지에서 훈민정음까지",
+      "description": "고려의 금속활자 발명에서 조선 주자소까지. 구텐베르크보다 앞선 활자 인쇄의 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/metal-movable-type-lineage.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/metal-movable-type-lineage.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "과학·기술",
+        "문화"
       ],
       "related": [],
       "region": [],
@@ -5991,25 +6010,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "금속활자의 계보 — 직지에서 훈민정음까지",
-      "description": "고려의 금속활자 발명에서 조선 주자소까지. 구텐베르크보다 앞선 활자 인쇄의 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/268-metal-movable-type-lineage.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/268-metal-movable-type-lineage.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "과학·기술",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": 268,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "고구려 천문도 — 별자리 고분 벽화의 비밀",
       "description": "고구려 고분 천장에 그려진 천문도. 조선의 천상열차분야지도로 이어진 별자리 지식.",
