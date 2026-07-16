@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-16",
   "stats": {
     "total": 546,
-    "published": 280,
-    "queued": 266,
-    "new": 105
+    "published": 281,
+    "queued": 265,
+    "new": 106
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-07-16",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고구려 천문도 — 별자리 고분 벽화의 비밀",
+      "description": "고구려 고분 천장에 그려진 천문도. 조선의 천상열차분야지도로 이어진 별자리 지식.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-star-map.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-star-map.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "과학·기술",
+        "문화"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-07-16",
@@ -6010,25 +6029,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "고구려 천문도 — 별자리 고분 벽화의 비밀",
-      "description": "고구려 고분 천장에 그려진 천문도. 조선의 천상열차분야지도로 이어진 별자리 지식.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/269-goguryeo-star-map.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/269-goguryeo-star-map.md",
-      "era": [
-        "삼국"
-      ],
-      "topics": [
-        "과학·기술",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": 269,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "조선 화포 기술 — 최무선에서 신기전까지",
       "description": "고려말 최무선의 화약에서 조선의 신기전·화차까지. 한국 화기 발전의 역사.",
