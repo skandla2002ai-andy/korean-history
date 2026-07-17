@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-17",
   "stats": {
     "total": 546,
-    "published": 281,
-    "queued": 265,
-    "new": 106
+    "published": 282,
+    "queued": 264,
+    "new": 107
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,26 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-07-17",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선 화포 기술 — 최무선에서 신기전까지",
+      "description": "고려말 최무선의 화약에서 조선의 신기전·화차까지. 한국 화기 발전의 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-armament-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-armament-history.md",
+      "era": [
+        "고려",
+        "조선"
+      ],
+      "topics": [
+        "과학·기술",
+        "전쟁"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-07-17",
@@ -6029,26 +6049,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "조선 화포 기술 — 최무선에서 신기전까지",
-      "description": "고려말 최무선의 화약에서 조선의 신기전·화차까지. 한국 화기 발전의 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/270-joseon-armament-history.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/270-joseon-armament-history.md",
-      "era": [
-        "고려",
-        "조선"
-      ],
-      "topics": [
-        "과학·기술",
-        "전쟁"
-      ],
-      "related": [],
-      "region": [],
-      "num": 270,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한국 원자력 발전 역사 — 고리 1호기부터",
       "description": "1978년 고리 1호기 준공. 세계 5위 원전 강국이 된 한국 원자력 50년.",
