@@ -5,7 +5,7 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-07-16",
+  "lastUpdated": "2026-07-17",
   "stats": {
     "total": 546,
     "published": 281,
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-07-16",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "고구려 천문도 — 별자리 고분 벽화의 비밀",
-      "description": "고구려 고분 천장에 그려진 천문도. 조선의 천상열차분야지도로 이어진 별자리 지식.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-star-map.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-star-map.md",
-      "era": [
-        "삼국"
-      ],
-      "topics": [
-        "과학·기술",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-07-16",
+      "published": "2026-07-17",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-17",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고구려 천문도 — 별자리 고분 벽화의 비밀",
+      "description": "고구려 고분 천장에 그려진 천문도. 조선의 천상열차분야지도로 이어진 별자리 지식.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-star-map.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-star-map.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "과학·기술",
+        "문화"
       ],
       "related": [],
       "region": [],
