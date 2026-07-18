@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-07-13",
+  "lastUpdated": "2026-07-17",
   "stats": {
     "total": 546,
-    "published": 278,
-    "queued": 268,
-    "new": 103
+    "published": 282,
+    "queued": 264,
+    "new": 107
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -42,25 +42,6 @@
   ],
   "articles": [
     {
-      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
-      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-07-13",
-      "is_new": true,
-      "status": "published"
-    },
-    {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
       "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.html",
@@ -77,7 +58,103 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-07-12",
+      "published": "2026-07-17",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선 화포 기술 — 최무선에서 신기전까지",
+      "description": "고려말 최무선의 화약에서 조선의 신기전·화차까지. 한국 화기 발전의 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-armament-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-armament-history.md",
+      "era": [
+        "고려",
+        "조선"
+      ],
+      "topics": [
+        "과학·기술",
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-17",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
+      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-17",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고구려 천문도 — 별자리 고분 벽화의 비밀",
+      "description": "고구려 고분 천장에 그려진 천문도. 조선의 천상열차분야지도로 이어진 별자리 지식.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-star-map.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-star-map.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "과학·기술",
+        "문화"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-16",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "금속활자의 계보 — 직지에서 훈민정음까지",
+      "description": "고려의 금속활자 발명에서 조선 주자소까지. 구텐베르크보다 앞선 활자 인쇄의 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/metal-movable-type-lineage.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/metal-movable-type-lineage.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "과학·기술",
+        "문화"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-15",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "씨름의 역사 — 삼국시대부터 현대까지",
+      "description": "고구려 벽화에 등장하는 씨름. 조선 단오절의 씨름 대회와 현대 천하장사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ssireum-wrestling-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ssireum-wrestling-history.md",
+      "era": [
+        "삼국"
+      ],
+      "topics": [
+        "문화",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-14",
       "is_new": true,
       "status": "published"
     },
@@ -5972,83 +6049,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "씨름의 역사 — 삼국시대부터 현대까지",
-      "description": "고구려 벽화에 등장하는 씨름. 조선 단오절의 씨름 대회와 현대 천하장사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/267-ssireum-wrestling-history.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/267-ssireum-wrestling-history.md",
-      "era": [
-        "삼국"
-      ],
-      "topics": [
-        "문화",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 267,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "금속활자의 계보 — 직지에서 훈민정음까지",
-      "description": "고려의 금속활자 발명에서 조선 주자소까지. 구텐베르크보다 앞선 활자 인쇄의 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/268-metal-movable-type-lineage.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/268-metal-movable-type-lineage.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "과학·기술",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": 268,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "고구려 천문도 — 별자리 고분 벽화의 비밀",
-      "description": "고구려 고분 천장에 그려진 천문도. 조선의 천상열차분야지도로 이어진 별자리 지식.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/269-goguryeo-star-map.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/269-goguryeo-star-map.md",
-      "era": [
-        "삼국"
-      ],
-      "topics": [
-        "과학·기술",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": 269,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
-    {
-      "title": "조선 화포 기술 — 최무선에서 신기전까지",
-      "description": "고려말 최무선의 화약에서 조선의 신기전·화차까지. 한국 화기 발전의 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/270-joseon-armament-history.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/270-joseon-armament-history.md",
-      "era": [
-        "고려",
-        "조선"
-      ],
-      "topics": [
-        "과학·기술",
-        "전쟁"
-      ],
-      "related": [],
-      "region": [],
-      "num": 270,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한국 원자력 발전 역사 — 고리 1호기부터",
       "description": "1978년 고리 1호기 준공. 세계 5위 원전 강국이 된 한국 원자력 50년.",

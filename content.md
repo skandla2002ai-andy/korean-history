@@ -1,6 +1,6 @@
 # 주요 콘텐츠
 
-> 연재 중인 한국사 글 목록. 마지막 업데이트: 2026-07-12 · 총 276편
+> 연재 중인 한국사 글 목록. 마지막 업데이트: 2026-07-14 · 총 278편
 
 
 
@@ -171,6 +171,7 @@
 - ["이순신과 명량 — 12척 대 333척"](/korean-history/articles/admiral-yi.md) — 
 - ["안용복과 독도 수호"](/korean-history/articles/an-yong-bok-dokdo.md) — 
 - ["박지원 열하일기 — 청나라에서 배운 실용주의"](/korean-history/articles/bak-jiwon-yolha-diary.md) — 
+- ["분청사기 — 고려청자와 조선백자 사이"](/korean-history/articles/buncheong-ware.md) — 
 - ["부산의 역사 — 왜관에서 근대 항구로"](/korean-history/articles/busan-history-modern.md) — 
 - ["병자호란"](/korean-history/articles/byeongja-horan.md) — 
 - ["천주교 전래 — 자발적 수용과 박해"](/korean-history/articles/catholicism-introduction.md) — 
@@ -224,6 +225,7 @@
 - ["조선 의녀 제도 — 장금이의 실제 역사"](/korean-history/articles/joseon-uinyeo-system.md) — 
 - ["조선 여성 억압의 제도화 — 칠거지악과 열녀문"](/korean-history/articles/joseon-women-oppression.md) — 
 - ["김만중"](/korean-history/articles/kim-manjung-gujuwonnim.md) — 
+- ["민화 — 민중의 꿈과 소망을 그린 그림"](/korean-history/articles/korean-minhwa.md) — 
 - ["나선정벌 — 조선 군대가 러시아와 싸운 날"](/korean-history/articles/naeseon-jeongbeol.md) — 
 - ["논개 — 진주 의기의 최후"](/korean-history/articles/nongae-jinjuseong.md) — 
 - ["신사임당"](/korean-history/articles/saimdang-art.md) — 
