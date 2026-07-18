@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-18",
   "stats": {
     "total": 646,
-    "published": 282,
-    "queued": 364,
-    "new": 107
+    "published": 283,
+    "queued": 363,
+    "new": 108
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -55,6 +55,27 @@
       ],
       "related": [
         "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-07-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한국 원자력 발전 역사 — 고리 1호기부터",
+      "description": "1978년 고리 1호기 준공. 세계 5위 원전 강국이 된 한국 원자력 50년.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-nuclear-power.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-nuclear-power.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "과학·기술",
+        "역사"
+      ],
+      "related": [
+        "미국"
       ],
       "region": [],
       "num": null,
@@ -6049,27 +6070,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "한국 원자력 발전 역사 — 고리 1호기부터",
-      "description": "1978년 고리 1호기 준공. 세계 5위 원전 강국이 된 한국 원자력 50년.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/271-korea-nuclear-power.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/271-korea-nuclear-power.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "과학·기술",
-        "역사"
-      ],
-      "related": [
-        "미국"
-      ],
-      "region": [],
-      "num": 271,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한국 우주개발 역사 — 나로호에서 누리호까지",
       "description": "2013년 나로호 발사에서 2022년 순수 국산 로켓 누리호까지. 한국 우주개발 30년.",

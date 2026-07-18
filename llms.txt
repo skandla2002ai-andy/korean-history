@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (282편 · 최신순 · 갱신 2026-07-18)
+## 발행 완료 (283편 · 최신순 · 갱신 2026-07-18)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [한국 원자력 발전 역사 — 고리 1호기부터](https://skandla2002ai-andy.github.io/korean-history/articles/korea-nuclear-power.md): 현대 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [조선 화포 기술 — 최무선에서 신기전까지](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-armament-history.md): 고려 · 조선 [NEW]
 - [고구려 천문도 — 별자리 고분 벽화의 비밀](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-star-map.md): 삼국 [NEW]
@@ -312,9 +313,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (364편)
+## 발행 예정 큐 (363편)
 
-- [271. 한국 원자력 발전 역사 — 고리 1호기부터](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/271-korea-nuclear-power.html): 현대
 - [272. 한국 우주개발 역사 — 나로호에서 누리호까지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/272-korea-space-program.html): 현대
 - [273. 한국 인터넷 역사 — IT 강국의 탄생](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/273-korea-internet-history.html): 현대
 - [274. 한의학의 역사 — 동의보감 이후 발전](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/274-korean-medicine-hanbang.html): 조선
