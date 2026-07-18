@@ -5,11 +5,11 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-07-17",
+  "lastUpdated": "2026-07-18",
   "stats": {
-    "total": 546,
+    "total": 646,
     "published": 282,
-    "queued": 264,
+    "queued": 364,
     "new": 107
   },
   "endpoints": {
@@ -58,7 +58,26 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-07-17",
+      "published": "2026-07-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
+      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-18",
       "is_new": true,
       "status": "published"
     },
@@ -74,25 +93,6 @@
       "topics": [
         "과학·기술",
         "전쟁"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-07-17",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
-      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "사회"
       ],
       "related": [],
       "region": [],
@@ -11362,6 +11362,1839 @@
       "related": [],
       "region": [],
       "num": 536,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고조선 8조법 — 한국 최초의 성문 법률",
+      "description": "고조선의 8조법은 한국사에서 가장 오래된 성문 법률 체계다. 현재 3개 조항만 전해지지만, 당시 사회 구조와 윤리관을 엿볼 수 있는 귀중한 사료다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/537-gojoseon-eight-laws.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/537-gojoseon-eight-laws.md",
+      "era": [
+        "고조선"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 537,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "위만조선 — 고조선의 마지막 왕조",
+      "description": "기원전 194년 위만이 준왕을 몰아내고 세운 위만조선. 철기 문화와 중계 무역으로 번성했으나 기원전 108년 한 무제의 침공으로 멸망했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/538-gojoseon-wiman-reign.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/538-gojoseon-wiman-reign.md",
+      "era": [
+        "고조선"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 538,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "삼한의 정치 체제 — 마한·진한·변한의 통치 구조",
+      "description": "마한·진한·변한으로 구성된 삼한의 정치 체제. 천군과 소도 제도, 읍군·신지·험측 등 독특한 지배 구조를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/539-samhan-political-system.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/539-samhan-political-system.md",
+      "era": [
+        "삼한"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 539,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "가야 연맹의 실체 — 전기·후기 가야 연맹",
+      "description": "가야는 단일 왕국이 아닌 여러 소국의 연맹체였다. 금관가야 중심의 전기 연맹과 대가야 중심의 후기 연맹으로 나뉜 가야 연맹의 실체를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/540-gaya-confederacy-detail.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/540-gaya-confederacy-detail.md",
+      "era": [
+        "가야"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 540,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "가야의 철기 문화 — 동아시아 철의 왕국",
+      "description": "가야는 풍부한 철광석을 바탕으로 동아시아 최고 수준의 철기 문화를 꽃피웠다. 판갑옷·철제 농기구·덩이쇠 화폐로 낙랑·왜·중국과 교역했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/541-gaya-iron-culture.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/541-gaya-iron-culture.md",
+      "era": [
+        "가야"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 541,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "가야 멸망 원인 — 왜 가야는 통일 왕국을 이루지 못했나",
+      "description": "532년 금관가야, 562년 대가야의 순으로 신라에 복속된 가야. 분권적 연맹 구조, 고구려 남정의 충격, 신라·백제의 협공이 멸망 원인으로 작용했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/542-gaya-fall-reasons.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/542-gaya-fall-reasons.md",
+      "era": [
+        "가야"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": 542,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "부여 왕국 — 고구려·백제의 모태",
+      "description": "부여는 기원전 2세기부터 기원후 494년까지 만주 쑹화강 유역에 존재한 예맥계 왕국이다. 고구려와 백제 모두 부여 계승 의식을 가졌다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/543-buyeo-kingdom.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/543-buyeo-kingdom.md",
+      "era": [
+        "부여"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 543,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "동부여와 갈사부여 — 부여의 분열과 망명 왕국",
+      "description": "동부여는 금와왕이 세운 부여의 분파 왕국이며, 갈사부여는 부여 왕족이 세운 또 다른 분파다. 주몽 설화와 깊이 연결된 두 나라의 역사를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/544-dongbuyeo-galbuyeo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/544-dongbuyeo-galbuyeo.md",
+      "era": [
+        "부여"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 544,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "옥저의 사회와 풍습 — 민며느리제와 골장제",
+      "description": "함경도 해안 지역의 옥저는 민며느리제와 골장제라는 독특한 혼인·장례 풍습으로 유명하다. 고구려에 공납을 바치던 복속 사회였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/545-okjeo-society.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/545-okjeo-society.md",
+      "era": [
+        "옥저"
+      ],
+      "topics": [
+        "사회·경제"
+      ],
+      "related": [],
+      "region": [],
+      "num": 545,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "동예의 문화와 제천행사 — 무천과 책화 풍습",
+      "description": "강원도 북부에 자리한 동예는 10월 무천 제천행사와 다른 읍락 침범을 금지하는 책화 제도로 유명하다. 단궁·과하마·반어피가 특산물이었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/546-dongye-culture.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/546-dongye-culture.md",
+      "era": [
+        "동예"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 546,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고구려 태조왕의 영토 확장 — 요동·옥저·동예 복속",
+      "description": "고구려 태조왕(재위 53~146년)은 옥저·동예·요동 일부를 복속시켜 고구려 팽창의 기틀을 마련했다. 왕위 세습제 확립과 함께 고구려 국가 체제를 강화했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/547-goguryeo-taejo-expansion.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/547-goguryeo-taejo-expansion.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": 547,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고국천왕 을파소 개혁 — 진대법과 국상제",
+      "description": "고구려 고국천왕(재위 179~197년)은 을파소를 국상으로 등용해 진대법을 시행했다. 봄에 곡식을 빌려주고 가을에 갚게 하는 진대법은 한국 최초의 빈민 구제 제도다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/548-goguryeo-gogukcheon-reform.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/548-goguryeo-gogukcheon-reform.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 548,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고구려 미천왕과 낙랑 축출 — 313년 한사군 종식",
+      "description": "고구려 미천왕(재위 300~331년)은 313년 낙랑군을 축출하고 314년 대방군을 멸망시켜 400여 년간 이어진 한사군의 지배를 종식시켰다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/549-goguryeo-mihyeon-culture.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/549-goguryeo-mihyeon-culture.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": 549,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "소수림왕의 불교·태학·율령 — 고구려 체제 정비",
+      "description": "고구려 소수림왕(재위 371~384년)은 불교 공인, 태학 설립, 율령 반포를 잇달아 시행해 고구려를 집권적 고대 국가로 완성했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/550-goguryeo-sosurim-reform.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/550-goguryeo-sosurim-reform.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 550,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "장수왕의 남진 정책 — 평양 천도와 한강 장악",
+      "description": "고구려 장수왕(재위 413~491년)은 427년 평양으로 수도를 옮기고 475년 백제 한성을 함락해 한강 유역을 장악했다. 고구려 최대 영역의 완성이었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/551-goguryeo-jangsu-south.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/551-goguryeo-jangsu-south.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": 551,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고구려 온돌 문화 — 한반도 난방 문화의 기원",
+      "description": "온돌은 고구려에서 발달해 한반도 전역으로 퍼진 바닥 난방 시스템이다. 고구려 고분과 생활 유적에서 확인된 온돌 구조는 현대 한국 주거 문화의 직접적 뿌리다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/552-goguryeo-ondol-culture.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/552-goguryeo-ondol-culture.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 552,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고구려 보장왕과 멸망 — 668년 나당연합군의 평양 함락",
+      "description": "고구려 마지막 왕 보장왕(재위 642~668년) 치세에 나당연합군의 공격으로 668년 평양성이 함락되며 고구려가 멸망했다. 연개소문 사후 내분이 결정적 원인이었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/553-goguryeo-bojang-fall.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/553-goguryeo-bojang-fall.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": 553,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "연개소문의 집권 — 고구려 최후의 권력자",
+      "description": "642년 쿠데타로 영류왕을 시해하고 권력을 장악한 연개소문. 당 태종의 친정을 막아낸 고구려의 마지막 영웅이자 멸망의 씨앗을 뿌린 독재자였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/554-goguryeo-yeon-gaesomun.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/554-goguryeo-yeon-gaesomun.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": 554,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고구려-당 전쟁 상세 — 안시성에서 평양 함락까지",
+      "description": "612년 수나라 침공부터 668년 당나라의 평양 함락까지 약 60년에 걸친 고구려와 중국 왕조의 전쟁을 상세히 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/555-goguryeo-tang-war.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/555-goguryeo-tang-war.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": 555,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고구려 부흥 운동 — 검모잠·안승의 저항",
+      "description": "668년 고구려 멸망 후 검모잠·안승을 중심으로 부흥 운동이 일어났다. 신라의 지원을 받은 안승은 보덕국왕에 책봉되었으나 부흥 운동은 결국 실패했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/556-goguryeo-revival-movement.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/556-goguryeo-revival-movement.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": 556,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고구려 5부 체제 — 계루·절노·순노·관노·소노부",
+      "description": "고구려의 5부 체제는 부족 연맹에서 중앙 집권 국가로 전환하는 과정의 산물이다. 계루부 왕실 독점과 4부 귀족의 관계를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/557-goguryeo-five-buwi.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/557-goguryeo-five-buwi.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 557,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고구려 고분 사신도 — 청룡·백호·주작·현무의 세계",
+      "description": "고구려 고분 벽화의 백미인 사신도. 동쪽 청룡·서쪽 백호·남쪽 주작·북쪽 현무가 무덤을 수호하는 4방위 신의 세계를 고구려인들은 어떻게 표현했는가.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/558-goguryeo-sasin-tomb.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/558-goguryeo-sasin-tomb.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 558,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고구려 경제 구조 — 약탈 경제에서 생산 경제로",
+      "description": "고구려의 경제는 초기 약탈·공납 중심에서 점차 농업·수공업·교역 중심으로 발전했다. 진대법·부경 등 고구려 경제 제도의 실태를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/559-goguryeo-economy.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/559-goguryeo-economy.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "사회·경제"
+      ],
+      "related": [],
+      "region": [],
+      "num": 559,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고구려 종교와 무속 — 불교·도교·샤머니즘의 공존",
+      "description": "고구려는 토착 샤머니즘 위에 불교·도교가 공존한 다원적 종교 사회였다. 고분 벽화에 나타난 종교적 세계관과 무속 신앙의 흔적을 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/560-goguryeo-religion-shamanism.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/560-goguryeo-religion-shamanism.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "종교·사상"
+      ],
+      "related": [],
+      "region": [],
+      "num": 560,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고구려 여성의 지위 — 서옥제와 벽화 속 여성",
+      "description": "고구려 여성은 서옥제라는 독특한 혼인 풍습 속에서 상당한 자율성을 누렸다. 고분 벽화에 묘사된 여성의 모습과 사회적 역할을 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/561-goguryeo-women-status.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/561-goguryeo-women-status.md",
+      "era": [
+        "고구려"
+      ],
+      "topics": [
+        "사회·경제"
+      ],
+      "related": [],
+      "region": [],
+      "num": 561,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "근초고왕 전성기 — 백제 최대 영토의 완성",
+      "description": "백제 근초고왕(재위 346~375년)은 마한을 통합하고 고구려 평양을 공격해 고국원왕을 전사시켰다. 왜에 칠지도를 하사하고 중국 동진과 외교를 맺은 백제 전성기의 군주다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/562-baekje-geunchogo-expansion.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/562-baekje-geunchogo-expansion.md",
+      "era": [
+        "백제"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": 562,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "백제의 일본 문화 전파 — 불교·한자·유교를 건넨 나라",
+      "description": "백제는 4~7세기 불교·한자·유교·기술을 일본에 전파한 문화 전달자였다. 아직기·왕인·노리사치계 등 백제 학자들이 일본 아스카 문화의 기초를 놓았다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/563-baekje-japan-culture.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/563-baekje-japan-culture.md",
+      "era": [
+        "백제"
+      ],
+      "topics": [
+        "외교"
+      ],
+      "related": [],
+      "region": [],
+      "num": 563,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "웅진 시대 백제 — 한성 함락 후의 재건",
+      "description": "475년 고구려에 한성을 빼앗긴 백제는 웅진(공주)으로 천도해 재건을 도모했다. 동성왕·무령왕의 안정화 정책과 웅진 시대 63년의 역사를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/564-baekje-woongjin-era.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/564-baekje-woongjin-era.md",
+      "era": [
+        "백제"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 564,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "사비 시대 백제 — 남부여의 문화 전성기",
+      "description": "538년 성왕의 사비 천도로 시작된 사비 시대는 백제 문화의 황금기였다. 22부 중앙 관제, 5방 지방제, 금동대향로로 대표되는 찬란한 불교 문화가 꽃피었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/565-baekje-sabi-era.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/565-baekje-sabi-era.md",
+      "era": [
+        "백제"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 565,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "성왕의 죽음과 관산성 전투 — 신라의 배신과 백제의 원한",
+      "description": "554년 관산성 전투에서 백제 성왕이 신라군에게 살해되었다. 한강을 함께 수복했다가 신라에게 배신당한 분노가 부른 비극, 그리고 이후 백제-신라 관계의 변화를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/566-baekje-seong-wang-death.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/566-baekje-seong-wang-death.md",
+      "era": [
+        "백제"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": 566,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "의자왕과 백제 멸망 — 660년 사비성 함락",
+      "description": "백제 마지막 왕 의자왕(재위 641~660년)은 초기 신라 공격에서 큰 성과를 거두었으나 660년 나당연합군의 공격에 항복했다. 계백의 황산벌 전투와 사비성 함락을 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/567-baekje-uija-last.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/567-baekje-uija-last.md",
+      "era": [
+        "백제"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": 567,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "백제 부흥 운동 — 복신·도침·풍왕의 3년 항전",
+      "description": "660년 백제 멸망 후 복신·도침이 주류성을 거점으로 부흥 운동을 일으켰다. 왜에서 귀국한 풍왕을 추대하고 나당연합군에 맞서 3년간 항전했으나 663년 백강 전투 패배로 종결되었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/568-baekje-revival-movement.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/568-baekje-revival-movement.md",
+      "era": [
+        "백제"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": 568,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "백제 금동대향로 — 신선 세계를 담은 걸작",
+      "description": "1993년 부여 능산리에서 출토된 백제금동대향로(국보 287호)는 높이 61.8cm의 금동 향로로, 불교와 도교의 신선 세계를 정교하게 표현한 백제 공예의 최고 걸작이다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/569-baekje-art-detail.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/569-baekje-art-detail.md",
+      "era": [
+        "백제"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 569,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "무령왕릉의 비밀 — 1971년 발굴과 백제 문화의 재발견",
+      "description": "1971년 우연히 발굴된 무령왕릉은 묘지석 덕분에 피장자를 정확히 알 수 있는 유일한 삼국 시대 왕릉이다. 4,600여 점의 유물이 쏟아져 백제 문화를 새로 쓰게 했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/570-baekje-muryeong-tomb.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/570-baekje-muryeong-tomb.md",
+      "era": [
+        "백제"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 570,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "백제 건축과 미륵사 — 동아시아 최대 목탑의 나라",
+      "description": "백제 건축은 목탑 중심의 가람 배치와 세련된 석조 기술로 유명하다. 익산 미륵사는 동아시아 최대 규모의 백제 사찰이었으며, 미륵사지 석탑은 현존 최고(最古)의 석탑이다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/571-baekje-architecture-detail.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/571-baekje-architecture-detail.md",
+      "era": [
+        "백제"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 571,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "신라 건국과 박혁거세 — 알에서 태어난 시조",
+      "description": "기원전 57년 박혁거세가 세운 신라. 알에서 태어난 시조 설화와 6촌 연맹에서 출발한 신라 초기 역사, 그리고 박·석·김 세 성씨의 왕위 교체를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/572-silla-park-hyeokgeose.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/572-silla-park-hyeokgeose.md",
+      "era": [
+        "신라"
+      ],
+      "topics": [
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": 572,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "내물왕과 김씨 왕통 확립 — 마립간 시대의 시작",
+      "description": "신라 내물왕(재위 356~402년)은 김씨 왕통을 확립하고 마립간 칭호를 사용하기 시작했다. 고구려와의 동맹으로 왜의 침입을 막아낸 내물왕 시대의 신라를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/573-silla-naemul-kim.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/573-silla-naemul-kim.md",
+      "era": [
+        "신라"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 573,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "지증왕 개혁 — 신라·우경·순장 금지",
+      "description": "신라 지증왕(재위 500~514년)은 국호를 신라로, 왕호를 왕으로 확정하고, 우경 도입과 순장 금지를 단행했다. 이사부를 보내 우산국(울릉도)도 복속시켰다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/574-silla-jijung-reform.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/574-silla-jijung-reform.md",
+      "era": [
+        "신라"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 574,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "법흥왕과 이차돈 순교 — 신라 불교 공인의 피",
+      "description": "527년 이차돈의 순교로 신라에 불교가 공인되었다. 법흥왕은 율령 반포·골품제 정비·금관가야 병합도 이루어 신라 고대 국가 완성에 결정적으로 기여했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/575-silla-beopheung-buddhism.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/575-silla-beopheung-buddhism.md",
+      "era": [
+        "신라"
+      ],
+      "topics": [
+        "종교·사상"
+      ],
+      "related": [],
+      "region": [],
+      "num": 575,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "진흥왕 영토 확장 — 4개 순수비와 한강 장악",
+      "description": "신라 진흥왕(재위 540~576년)은 한강 유역 점령, 함경도 진출, 대가야 정복으로 신라 최대 영토를 달성했다. 4개의 순수비가 그 증거로 남아 있다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/576-silla-jinheung-expansion.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/576-silla-jinheung-expansion.md",
+      "era": [
+        "신라"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": 576,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "화랑도 상세 — 세속오계와 신라 엘리트 양성",
+      "description": "신라 화랑도는 귀족 청소년으로 구성된 국가 수련 조직이다. 원광법사의 세속오계를 준수하며 문무를 연마했고, 김유신·관창 등 삼국 통일의 영웅들을 배출했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/577-silla-hwarang-detail.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/577-silla-hwarang-detail.md",
+      "era": [
+        "신라"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 577,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "삼국 통일 과정 상세 — 나당동맹부터 기벌포까지",
+      "description": "648년 나당동맹 체결부터 660년 백제 멸망, 668년 고구려 멸망, 676년 기벌포 전투 승리까지 신라의 삼국 통일 전 과정을 상세히 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/578-silla-unification-process.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/578-silla-unification-process.md",
+      "era": [
+        "신라"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [],
+      "region": [],
+      "num": 578,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "문무왕 수중릉 — 동해의 호국룡이 된 왕",
+      "description": "삼국 통일을 완성한 신라 문무왕(재위 661~681년)은 죽어서도 동해의 용이 되어 나라를 지키겠다는 유언을 남기고 경주 앞바다 대왕암에 수중 장례되었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/579-silla-moon-mu-sea.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/579-silla-moon-mu-sea.md",
+      "era": [
+        "신라"
+      ],
+      "topics": [
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": 579,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "원효와 의상 — 신라 불교를 완성한 두 거장",
+      "description": "원효(617~686)와 의상(625~702)은 신라 불교의 두 봉우리다. 원효는 대중 불교를, 의상은 화엄 교학을 확립해 한국 불교의 기틀을 마련했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/580-silla-wonhyo-uisang.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/580-silla-wonhyo-uisang.md",
+      "era": [
+        "신라"
+      ],
+      "topics": [
+        "종교·사상"
+      ],
+      "related": [],
+      "region": [],
+      "num": 580,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "신라 9서당 10정 — 통일신라 군사 제도",
+      "description": "통일신라는 중앙군 9서당과 지방군 10정으로 군사 제도를 정비했다. 9서당에는 신라인뿐 아니라 고구려·백제·말갈 유민도 포함되어 통합 정책의 성격을 띠었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/581-silla-nine-seowon.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/581-silla-nine-seowon.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 581,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "통일신라 사회 구조 — 골품제와 진골 귀족",
+      "description": "통일신라 사회는 골품제라는 엄격한 신분 제도 위에 세워졌다. 진골 귀족의 특권 독점, 6두품 지식인의 좌절, 일반 백성의 생활을 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/582-unified-silla-society.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/582-unified-silla-society.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "사회·경제"
+      ],
+      "related": [],
+      "region": [],
+      "num": 582,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "통일신라 경제 — 청해진과 장보고의 해상 왕국",
+      "description": "통일신라의 경제는 농업을 기반으로 하면서 9세기 장보고의 청해진을 통한 동아시아 해상 무역이 번성했다. 민정문서로 확인되는 촌락 경제와 국제 교역의 실태를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/583-unified-silla-economy.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/583-unified-silla-economy.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "사회·경제"
+      ],
+      "related": [],
+      "region": [],
+      "num": 583,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "통일신라 예술 — 범종·금속공예·탑파의 전성기",
+      "description": "통일신라 시대는 성덕대왕신종, 감은사 삼층석탑, 사천왕사 녹유신장상 등 불교 미술과 공예의 전성기였다. 통일신라 예술의 특징과 대표 작품을 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/584-unified-silla-art.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/584-unified-silla-art.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 584,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "석굴암 건축 원리 — 수학과 신앙이 만든 걸작",
+      "description": "석굴암(751년)은 수학적 비례와 불교 우주관이 결합된 통일신라 최고의 건축 예술이다. 원형 주실, 본존불, 천장 돔의 구조적 원리와 역사적 배경을 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/585-unified-silla-seokguram.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/585-unified-silla-seokguram.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 585,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "불국사 건축 — 불국토를 지상에 구현하다",
+      "description": "불국사(751년)는 경덕왕 때 김대성이 창건한 통일신라의 대표 사찰로, 다보탑·석가탑·청운교·백운교 등 뛰어난 건축 조형물을 갖추고 있다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/586-unified-silla-bulguksa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/586-unified-silla-bulguksa.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 586,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "통일신라 쇠퇴 — 왕위 쟁탈과 지방 호족의 도전",
+      "description": "8세기 말 혜공왕 피살 이후 통일신라는 왕위 쟁탈전과 진골 귀족 간 내분으로 급격히 쇠퇴했다. 150년간 20명의 왕이 교체되는 혼란 속에 지방 호족들이 독립했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/587-unified-silla-decline.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/587-unified-silla-decline.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 587,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "헌강왕 시대의 번영 — 처용가와 신라 마지막 황금기",
+      "description": "헌강왕(재위 875~886년) 시대는 통일신라 하대의 마지막 번영기로, 처용설화와 처용무가 탄생했으며 경주는 여전히 화려한 국제 도시의 면모를 유지했다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/588-unified-silla-heongang.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/588-unified-silla-heongang.md",
+      "era": [
+        "통일신라"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 588,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "후삼국 성립 — 신라의 분열과 새로운 경쟁",
+      "description": "900년 견훤의 후백제, 901년 궁예의 후고구려(태봉) 건국으로 한반도는 다시 삼국으로 분열되었다. 후삼국 성립의 배경과 과정을 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/589-unified-silla-later-three.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/589-unified-silla-later-three.md",
+      "era": [
+        "통일신라 말·후삼국"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 589,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "궁예와 태봉 — 미륵불을 자처한 폭군의 흥망",
+      "description": "궁예(弓裔)는 신라 왕족 출신으로 후고구려·마진·태봉을 세우며 후삼국 최강국을 이루었으나, 독재와 공포 정치로 918년 왕건에게 쫓겨났다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/590-unified-silla-gungye.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/590-unified-silla-gungye.md",
+      "era": [
+        "후삼국"
+      ],
+      "topics": [
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": 590,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "견훤과 후백제 — 아들에게 배신당한 영웅의 비극",
+      "description": "견훤(867~936년)은 900년 후백제를 세우고 한때 후삼국 최강국을 이루었으나, 아들 신검에게 폐위·유폐되었다가 고려 왕건에게 귀순해 후백제 멸망을 지켜보았다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/591-unified-silla-gyeonhwon.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/591-unified-silla-gyeonhwon.md",
+      "era": [
+        "후삼국"
+      ],
+      "topics": [
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": 591,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "발해 대조영 건국 — 고구려 유민이 세운 해동성국",
+      "description": "대조영(大祚榮)은 698년 고구려 유민을 이끌고 동모산에서 발해를 건국했다. 고구려 부흥 운동의 연장선에서 만주·연해주를 아우르는 대국을 세운 과정을 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/592-balhae-dae-joyeong.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/592-balhae-dae-joyeong.md",
+      "era": [
+        "발해"
+      ],
+      "topics": [
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": 592,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "발해 무왕의 당 공격 — 732년 등주 기습",
+      "description": "발해 무왕(재위 719~737년)은 732년 장문휴를 보내 당나라 등주를 수군으로 공격했다. 신생 발해가 당나라에 정면 도전한 이 사건의 배경과 의미를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/593-balhae-mu-wang.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/593-balhae-mu-wang.md",
+      "era": [
+        "발해"
+      ],
+      "topics": [
+        "전쟁·외교"
+      ],
+      "related": [],
+      "region": [],
+      "num": 593,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "발해 선왕 전성기 — 해동성국의 완성",
+      "description": "발해 선왕(재위 818~830년)은 요동까지 영토를 확장해 발해의 최전성기를 이루었다. 당나라로부터 '해동성국(海東盛國)'이라 불린 발해의 전성기를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/594-balhae-seon-wang.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/594-balhae-seon-wang.md",
+      "era": [
+        "발해"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 594,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "발해 5경 제도 — 광대한 영토를 다스린 행정 체계",
+      "description": "발해는 상경·중경·동경·남경·서경의 5경과 15부 62주로 광대한 영토를 통치했다. 당나라 제도를 모방하면서도 독자성을 가진 발해 지방 행정 체계를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/595-balhae-five-capitals.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/595-balhae-five-capitals.md",
+      "era": [
+        "발해"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 595,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "발해 문화와 예술 — 고구려 전통과 당 문화의 융합",
+      "description": "발해 문화는 고구려 전통을 계승하면서 당나라 문화를 수용했다. 정혜공주묘·정효공주묘의 벽화, 석등, 불상 등 발해 예술의 특징을 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/596-balhae-culture-art.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/596-balhae-culture-art.md",
+      "era": [
+        "발해"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 596,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "발해 경제와 무역 — 동아시아 교역망의 북방 거점",
+      "description": "발해는 농업·수렵·어업을 기반으로 하면서 당나라·일본·신라와 활발하게 교역했다. 발해 담비가죽·인삼·말은 동아시아 시장에서 귀하게 여겨졌다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/597-balhae-economy-trade.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/597-balhae-economy-trade.md",
+      "era": [
+        "발해"
+      ],
+      "topics": [
+        "사회·경제"
+      ],
+      "related": [],
+      "region": [],
+      "num": 597,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "발해-일본 외교 — 200년간의 바다 건너 교류",
+      "description": "발해는 727년부터 약 200년간 일본과 34차례 공식 사행을 교환했다. 당나라를 견제하는 전략적 동반자이자 교역 파트너였던 발해-일본 관계를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/598-balhae-japan-diplomacy.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/598-balhae-japan-diplomacy.md",
+      "era": [
+        "발해"
+      ],
+      "topics": [
+        "전쟁·외교"
+      ],
+      "related": [],
+      "region": [],
+      "num": 598,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "발해 멸망과 거란 — 926년 홀연히 사라진 해동성국",
+      "description": "926년 거란(요나라)의 야율아보기가 발해를 단 15일 만에 멸망시켰다. 200여 년 역사의 해동성국이 갑자기 붕괴된 원인과 발해 유민의 행방을 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/599-balhae-fall-khitan.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/599-balhae-fall-khitan.md",
+      "era": [
+        "발해"
+      ],
+      "topics": [
+        "전쟁·외교"
+      ],
+      "related": [],
+      "region": [],
+      "num": 599,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "600번 특집 — 한국사 속 잊혀진 왕국들",
+      "description": "한국사 아카이브 600번 특집. 교과서에서 잘 다루지 않는 부여·옥저·동예·동부여·정안국 등 잊혀진 왕국들을 한자리에서 조명한다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/600-600th-special.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/600-600th-special.md",
+      "era": [],
+      "topics": [
+        "특집"
+      ],
+      "related": [],
+      "region": [],
+      "num": 600,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "발해 유민과 고려 — 두 나라의 만남",
+      "description": "926년 발해 멸망 후 수만 명의 발해 유민이 고려로 귀순했다. 고려 태조 왕건은 이들을 후하게 대우했으며, 발해 유민은 고려 사회에 통합되었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/601-balhae-revival-goryeo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/601-balhae-revival-goryeo.md",
+      "era": [
+        "발해·고려 초"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 601,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고려 태조 훈요 10조 — 왕건이 후손에게 남긴 유훈",
+      "description": "고려 태조 왕건(943년)이 임종 전 남긴 훈요 10조는 고려 왕조의 통치 방향을 제시한 유훈이다. 불교 존중, 거란 배척, 차령 이남 사람 경계 등 주요 내용을 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/602-goryeo-taejo-hunyo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/602-goryeo-taejo-hunyo.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 602,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "광종의 노비안검법 — 호족 약화와 왕권 강화",
+      "description": "고려 광종(재위 949~975년)은 956년 노비안검법을 실시해 불법으로 노비가 된 사람들을 해방시켰다. 호족 세력을 약화시키고 왕권을 강화한 개혁의 배경과 결과를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/603-goryeo-gwangjong-nobi.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/603-goryeo-gwangjong-nobi.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 603,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "거란 3차 침입과 귀주대첩 — 강감찬의 대승",
+      "description": "1018년 거란 소배압의 10만 대군이 고려를 침공했다. 강감찬(姜邯贊)이 이끄는 고려군은 1019년 귀주(龜州)에서 거란군을 대파하여 고려의 독립을 지켰다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/604-goryeo-khitan-third-war.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/604-goryeo-khitan-third-war.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "전쟁·외교"
+      ],
+      "related": [],
+      "region": [],
+      "num": 604,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "윤관과 여진 정벌 — 별무반과 동북 9성",
+      "description": "고려 윤관(尹瓘)은 1107년 별무반을 이끌고 여진을 정벌해 동북 9성을 쌓았다. 기병 중심의 여진에 대응하기 위해 창설한 별무반의 구성과 9성 개척의 역사를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/605-goryeo-yun-gwan-detail.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/605-goryeo-yun-gwan-detail.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "전쟁·외교"
+      ],
+      "related": [],
+      "region": [],
+      "num": 605,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "대각국사 의천 — 고려 천태종 개창과 교장 편찬",
+      "description": "의천(義天, 1055~1101년)은 고려 문종의 넷째 아들로 출가해 천태종을 개창하고 『교장(敎藏)』을 편찬했다. 교관겸수(敎觀兼修)를 제창한 고려 최고의 승려를 살펴본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/606-goryeo-monk-uicheon.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/606-goryeo-monk-uicheon.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "종교·사상"
+      ],
+      "related": [],
+      "region": [],
+      "num": 606,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "보조국사 지눌과 조계종",
+      "description": "고려 중기 선승 지눌(1158~1210)은 돈오점수와 정혜쌍수를 제창하며 조계종을 창종, 한국 불교의 방향을 결정지었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/607-goryeo-monk-jinul.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/607-goryeo-monk-jinul.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "불교·종교",
+        "문화"
+      ],
+      "related": [],
+      "region": [],
+      "num": 607,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고려사 편찬 과정",
+      "description": "조선 초기 편찬된 『고려사』는 139권의 기전체 정사로, 고려 500년 역사를 정리한 한국사의 핵심 사료이다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/608-goryeo-goryeo-sa-compilation.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/608-goryeo-goryeo-sa-compilation.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치·제도",
+        "문화"
+      ],
+      "related": [],
+      "region": [],
+      "num": 608,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고려 무역항 벽란도",
+      "description": "예성강 하구의 벽란도는 고려 최대의 국제 무역항으로 송·아라비아 상인까지 드나들며 코리아(Korea)라는 이름을 세계에 알렸다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/609-goryeo-open-port-byeokrando.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/609-goryeo-open-port-byeokrando.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "경제·무역"
+      ],
+      "related": [],
+      "region": [],
+      "num": 609,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "고려 과거제 실태",
+      "description": "광종 9년(958) 도입된 고려 과거제는 능력 중심 관료 선발 제도였으나, 음서제와 공존하며 귀족 지배 체제를 유지하는 한계도 지녔다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/610-goryeo-public-service-exam.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/610-goryeo-public-service-exam.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 610,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "1170년 무신 정변",
+      "description": "1170년 정중부·이의방 등 무신들이 문신 귀족을 제거하고 권력을 장악한 무신 정변은 고려 정치사의 전환점이 되었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/611-goryeo-military-coup-1170.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/611-goryeo-military-coup-1170.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치·제도",
+        "전쟁·반란"
+      ],
+      "related": [],
+      "region": [],
+      "num": 611,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "조선 한양 천도",
+      "description": "1394년 태조 이성계는 고려의 옛 수도 개경을 떠나 한양으로 천도하며 새 왕조의 공간적 정당성을 확립하였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/612-joseon-taejo-capital.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/612-joseon-taejo-capital.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [
+        "서울·한양"
+      ],
+      "num": 612,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "집현전과 세종",
+      "description": "세종이 확대·강화한 집현전은 훈민정음 창제를 비롯해 조선 전기 학술·문화 발전을 이끈 왕립 연구 기관이었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/613-joseon-hall-of-worthies.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/613-joseon-hall-of-worthies.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화·학술",
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 613,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "조선 4군 6진 개척",
+      "description": "세종 대 김종서·최윤덕이 주도한 4군 6진 개척은 압록강·두만강을 경계로 한 조선의 북방 국경선을 확정하였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/614-joseon-four-commanderies.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/614-joseon-four-commanderies.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "전쟁·국방",
+        "정치·영토"
+      ],
+      "related": [],
+      "region": [],
+      "num": 614,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "조선 신분제 상세",
+      "description": "조선의 신분제는 양반·중인·상민·천민의 4계층으로 구성되었으며, 법적·사회적 특권과 제한이 출생에 의해 결정되는 엄격한 세습 체계였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/615-joseon-sipgu-system.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/615-joseon-sipgu-system.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사회·신분"
+      ],
+      "related": [],
+      "region": [],
+      "num": 615,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "조선 의금부",
+      "description": "의금부는 조선의 왕명 특별 사법 기관으로 반역·강상죄 등 중대 범죄를 왕의 명령으로 직접 수사·처결하였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/616-joseon-jangui-system.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/616-joseon-jangui-system.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치·제도",
+        "법·사법"
+      ],
+      "related": [],
+      "region": [],
+      "num": 616,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "조선 4대 사화",
+      "description": "무오·갑자·기묘·을사 4대 사화는 15~16세기 조선에서 훈구파와 사림파의 권력 충돌로 수많은 선비가 희생된 정치적 참변이었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/617-joseon-sahwa-four.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/617-joseon-sahwa-four.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 617,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "조선 붕당 정치",
+      "description": "16세기 후반 동인·서인으로 분화된 조선의 붕당 정치는 공론 정치의 이상과 극단적 당쟁의 폐해를 동시에 보여 준다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/618-joseon-party-struggle.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/618-joseon-party-struggle.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 618,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "대동법 시행",
+      "description": "17세기 조선에서 시행된 대동법은 공물을 쌀로 통일 납부하는 세제 개혁으로, 100년에 걸쳐 전국으로 확대되며 상품 경제 발달을 촉진하였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/619-joseon-tax-reform-daedong.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/619-joseon-tax-reform-daedong.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "경제·세제",
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 619,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "조선 군제 개혁",
+      "description": "임진왜란과 병자호란을 겪으며 조선은 5군영 체제로 군사 제도를 재편하였고, 영조·정조 대에는 장용영 설치 등 추가 개혁이 이루어졌다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/620-joseon-military-reform.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/620-joseon-military-reform.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "전쟁·국방",
+        "정치·제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": 620,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "수원 화성과 정조의 도시 개혁",
+      "description": "정조가 건설한 수원 화성은 군사·상업·농업을 통합한 계획 도시로, 조선 후기 왕권 강화와 개혁 정치의 상징이었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/621-joseon-suju-reform.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/621-joseon-suju-reform.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "건축·문화",
+        "정치·개혁"
+      ],
+      "related": [],
+      "region": [
+        "수원"
+      ],
+      "num": 621,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "조선 후기 상업 발달",
+      "description": "17~18세기 조선 후기에는 대동법 시행, 화폐 유통 확대, 사상 성장으로 상품 경제가 발달하여 전통 농업 사회의 구조적 변화를 촉진하였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/622-joseon-trade-economy.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/622-joseon-trade-economy.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "경제·상업"
+      ],
+      "related": [],
+      "region": [],
+      "num": 622,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "조선 민중 봉기",
+      "description": "홍경래의 난(1811)과 임술농민봉기(1862)는 세도 정치 시기 탐관오리의 수탈에 분노한 민중이 일으킨 대규모 저항 운동이었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/623-joseon-peasant-uprising.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/623-joseon-peasant-uprising.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "반란·민중운동",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": 623,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "조선 여성 문학",
+      "description": "허난설헌·신사임당·혜경궁 홍씨 등 조선 여성들은 사회적 제약 속에서도 시·그림·회고록으로 독자적 문학 세계를 구축하였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/624-joseon-women-literature.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/624-joseon-women-literature.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문학·문화",
+        "사회·여성"
+      ],
+      "related": [],
+      "region": [],
+      "num": 624,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "조선 마지막 왕 순종",
+      "description": "조선의 마지막 왕 순종(재위 1907~1910)은 일제의 강압 속에서 한일병합조약을 강요당하며 519년 조선왕조의 막을 내렸다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/625-joseon-last-king-sunjong.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/625-joseon-last-king-sunjong.md",
+      "era": [
+        "조선",
+        "근현대"
+      ],
+      "topics": [
+        "정치·외교"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": 625,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "조선 궁중 음악",
+      "description": "조선의 궁중 음악은 아악·향악·당악을 체계화한 정간보와 함께 발전하였으며, 종묘제례악은 유네스코 인류무형문화유산으로 등재되었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/626-joseon-royal-court-music.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/626-joseon-royal-court-music.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화·예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": 626,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "동학 2차 봉기",
+      "description": "1894년 9월 동학농민군의 2차 봉기는 일본군 철수와 내정 개혁을 요구하며 일어났으나 우금치 전투에서 패배하며 좌절되었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/627-donghak-second-uprising.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/627-donghak-second-uprising.md",
+      "era": [
+        "근현대"
+      ],
+      "topics": [
+        "민중운동"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": 627,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "러일전쟁과 조선",
+      "description": "1904~1905년 러일전쟁은 조선을 전장으로 삼아 한반도의 운명을 결정지었으며, 일본의 승리는 곧 을사늑약으로 이어졌다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/628-korea-russia-war.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/628-korea-russia-war.md",
+      "era": [
+        "근현대"
+      ],
+      "topics": [
+        "전쟁·외교"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": 628,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "이토 히로부미와 조선 통감정치",
+      "description": "초대 조선 통감 이토 히로부미는 을사늑약 체결을 주도하고 통감부 체제를 구축하여 대한제국 병합의 기반을 마련하였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/629-ito-hirobumi-detail.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/629-ito-hirobumi-detail.md",
+      "era": [
+        "근현대"
+      ],
+      "topics": [
+        "정치·외교"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": 629,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "안중근 재판과 옥중 저술",
+      "description": "1909년 이토 히로부미를 저격한 안중근은 뤼순 감옥에서 재판을 받으면서 동양평화론을 집필하여 평화 사상가로서의 면모를 보였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/630-an-junggeun-court.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/630-an-junggeun-court.md",
+      "era": [
+        "근현대"
+      ],
+      "topics": [
+        "독립운동"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": 630,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "신채호의 민족주의 사학",
+      "description": "신채호(1880~1936)는 식민지 시기 민족 자주사관을 수립하여 한국 근대 역사학의 토대를 놓은 역사가·독립운동가이다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/631-independence-shin-chaeho.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/631-independence-shin-chaeho.md",
+      "era": [
+        "근현대"
+      ],
+      "topics": [
+        "독립운동",
+        "학술·사학"
+      ],
+      "related": [],
+      "region": [],
+      "num": 631,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "1920년대 문화통치",
+      "description": "3·1운동 이후 일제는 무단통치에서 이른바 문화통치로 전환하였으나, 이는 민족 분열을 조장하고 수탈을 정교화한 기만적 통치였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/632-cultural-rule-1920s.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/632-cultural-rule-1920s.md",
+      "era": [
+        "근현대"
+      ],
+      "topics": [
+        "식민통치"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": 632,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "강제 징용의 실태",
+      "description": "태평양전쟁 시기 일제는 70만 명 이상의 조선인을 탄광·군수공장 등에 강제 동원하였으며, 열악한 환경과 폭력 속에서 다수가 희생되었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/633-korean-forced-labor.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/633-korean-forced-labor.md",
+      "era": [
+        "근현대"
+      ],
+      "topics": [
+        "강제동원·인권"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": 633,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "일본군 위안부 역사",
+      "description": "일본군 위안부 제도는 일제가 전쟁 수행 과정에서 강제·기망으로 여성들을 성 착취에 동원한 중대한 인권 범죄였다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/634-comfort-women-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/634-comfort-women-history.md",
+      "era": [
+        "근현대"
+      ],
+      "topics": [
+        "인권·여성"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": 634,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "원폭 피해 조선인",
+      "description": "1945년 히로시마·나가사키 원폭으로 약 7만 명의 조선인이 희생되었으나, 이들의 피해는 오랫동안 역사에서 지워져 있었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/635-atomic-bomb-koreans.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/635-atomic-bomb-koreans.md",
+      "era": [
+        "근현대"
+      ],
+      "topics": [
+        "인권·전쟁피해"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": 635,
+      "published": null,
+      "is_new": false,
+      "status": "queue"
+    },
+    {
+      "title": "분단 협상 과정",
+      "description": "1945년 해방 이후 미소 양국의 분할 점령과 신탁통치 논의, 미소공동위원회의 결렬이 한반도의 영구 분단을 향한 길을 열었다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/636-partition-negotiation.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/636-partition-negotiation.md",
+      "era": [
+        "근현대"
+      ],
+      "topics": [
+        "정치·외교"
+      ],
+      "related": [],
+      "region": [],
+      "num": 636,
       "published": null,
       "is_new": false,
       "status": "queue"

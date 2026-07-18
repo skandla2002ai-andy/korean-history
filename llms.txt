@@ -27,11 +27,11 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (282편 · 최신순 · 갱신 2026-07-17)
+## 발행 완료 (282편 · 최신순 · 갱신 2026-07-18)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [조선 화포 기술 — 최무선에서 신기전까지](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-armament-history.md): 고려 · 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [조선 화포 기술 — 최무선에서 신기전까지](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-armament-history.md): 고려 · 조선 [NEW]
 - [고구려 천문도 — 별자리 고분 벽화의 비밀](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-star-map.md): 삼국 [NEW]
 - [금속활자의 계보 — 직지에서 훈민정음까지](https://skandla2002ai-andy.github.io/korean-history/articles/metal-movable-type-lineage.md): 고려 [NEW]
 - [씨름의 역사 — 삼국시대부터 현대까지](https://skandla2002ai-andy.github.io/korean-history/articles/ssireum-wrestling-history.md): 삼국 [NEW]
@@ -312,7 +312,7 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (264편)
+## 발행 예정 큐 (364편)
 
 - [271. 한국 원자력 발전 역사 — 고리 1호기부터](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/271-korea-nuclear-power.html): 현대
 - [272. 한국 우주개발 역사 — 나로호에서 누리호까지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/272-korea-space-program.html): 현대
@@ -578,6 +578,106 @@
 - [534. 전쟁의 기억 — 한국인에게 6·25란 무엇인가](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/534-korean-war-memory.html): 현대
 - [535. 한국 경제사 — 가난에서 선진국까지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/535-korean-economic-history.html): 현대
 - [536. 한국인의 정체성 — '우리'라는 감각의 역사](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/536-korean-identity-history.html): 현대
+- [537. 고조선 8조법 — 한국 최초의 성문 법률](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/537-gojoseon-eight-laws.html): 고조선
+- [538. 위만조선 — 고조선의 마지막 왕조](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/538-gojoseon-wiman-reign.html): 고조선
+- [539. 삼한의 정치 체제 — 마한·진한·변한의 통치 구조](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/539-samhan-political-system.html): 삼한
+- [540. 가야 연맹의 실체 — 전기·후기 가야 연맹](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/540-gaya-confederacy-detail.html): 가야
+- [541. 가야의 철기 문화 — 동아시아 철의 왕국](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/541-gaya-iron-culture.html): 가야
+- [542. 가야 멸망 원인 — 왜 가야는 통일 왕국을 이루지 못했나](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/542-gaya-fall-reasons.html): 가야
+- [543. 부여 왕국 — 고구려·백제의 모태](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/543-buyeo-kingdom.html): 부여
+- [544. 동부여와 갈사부여 — 부여의 분열과 망명 왕국](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/544-dongbuyeo-galbuyeo.html): 부여
+- [545. 옥저의 사회와 풍습 — 민며느리제와 골장제](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/545-okjeo-society.html): 옥저
+- [546. 동예의 문화와 제천행사 — 무천과 책화 풍습](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/546-dongye-culture.html): 동예
+- [547. 고구려 태조왕의 영토 확장 — 요동·옥저·동예 복속](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/547-goguryeo-taejo-expansion.html): 고구려
+- [548. 고국천왕 을파소 개혁 — 진대법과 국상제](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/548-goguryeo-gogukcheon-reform.html): 고구려
+- [549. 고구려 미천왕과 낙랑 축출 — 313년 한사군 종식](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/549-goguryeo-mihyeon-culture.html): 고구려
+- [550. 소수림왕의 불교·태학·율령 — 고구려 체제 정비](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/550-goguryeo-sosurim-reform.html): 고구려
+- [551. 장수왕의 남진 정책 — 평양 천도와 한강 장악](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/551-goguryeo-jangsu-south.html): 고구려
+- [552. 고구려 온돌 문화 — 한반도 난방 문화의 기원](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/552-goguryeo-ondol-culture.html): 고구려
+- [553. 고구려 보장왕과 멸망 — 668년 나당연합군의 평양 함락](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/553-goguryeo-bojang-fall.html): 고구려
+- [554. 연개소문의 집권 — 고구려 최후의 권력자](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/554-goguryeo-yeon-gaesomun.html): 고구려
+- [555. 고구려-당 전쟁 상세 — 안시성에서 평양 함락까지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/555-goguryeo-tang-war.html): 고구려
+- [556. 고구려 부흥 운동 — 검모잠·안승의 저항](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/556-goguryeo-revival-movement.html): 고구려
+- [557. 고구려 5부 체제 — 계루·절노·순노·관노·소노부](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/557-goguryeo-five-buwi.html): 고구려
+- [558. 고구려 고분 사신도 — 청룡·백호·주작·현무의 세계](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/558-goguryeo-sasin-tomb.html): 고구려
+- [559. 고구려 경제 구조 — 약탈 경제에서 생산 경제로](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/559-goguryeo-economy.html): 고구려
+- [560. 고구려 종교와 무속 — 불교·도교·샤머니즘의 공존](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/560-goguryeo-religion-shamanism.html): 고구려
+- [561. 고구려 여성의 지위 — 서옥제와 벽화 속 여성](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/561-goguryeo-women-status.html): 고구려
+- [562. 근초고왕 전성기 — 백제 최대 영토의 완성](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/562-baekje-geunchogo-expansion.html): 백제
+- [563. 백제의 일본 문화 전파 — 불교·한자·유교를 건넨 나라](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/563-baekje-japan-culture.html): 백제
+- [564. 웅진 시대 백제 — 한성 함락 후의 재건](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/564-baekje-woongjin-era.html): 백제
+- [565. 사비 시대 백제 — 남부여의 문화 전성기](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/565-baekje-sabi-era.html): 백제
+- [566. 성왕의 죽음과 관산성 전투 — 신라의 배신과 백제의 원한](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/566-baekje-seong-wang-death.html): 백제
+- [567. 의자왕과 백제 멸망 — 660년 사비성 함락](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/567-baekje-uija-last.html): 백제
+- [568. 백제 부흥 운동 — 복신·도침·풍왕의 3년 항전](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/568-baekje-revival-movement.html): 백제
+- [569. 백제 금동대향로 — 신선 세계를 담은 걸작](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/569-baekje-art-detail.html): 백제
+- [570. 무령왕릉의 비밀 — 1971년 발굴과 백제 문화의 재발견](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/570-baekje-muryeong-tomb.html): 백제
+- [571. 백제 건축과 미륵사 — 동아시아 최대 목탑의 나라](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/571-baekje-architecture-detail.html): 백제
+- [572. 신라 건국과 박혁거세 — 알에서 태어난 시조](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/572-silla-park-hyeokgeose.html): 신라
+- [573. 내물왕과 김씨 왕통 확립 — 마립간 시대의 시작](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/573-silla-naemul-kim.html): 신라
+- [574. 지증왕 개혁 — 신라·우경·순장 금지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/574-silla-jijung-reform.html): 신라
+- [575. 법흥왕과 이차돈 순교 — 신라 불교 공인의 피](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/575-silla-beopheung-buddhism.html): 신라
+- [576. 진흥왕 영토 확장 — 4개 순수비와 한강 장악](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/576-silla-jinheung-expansion.html): 신라
+- [577. 화랑도 상세 — 세속오계와 신라 엘리트 양성](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/577-silla-hwarang-detail.html): 신라
+- [578. 삼국 통일 과정 상세 — 나당동맹부터 기벌포까지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/578-silla-unification-process.html): 신라
+- [579. 문무왕 수중릉 — 동해의 호국룡이 된 왕](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/579-silla-moon-mu-sea.html): 신라
+- [580. 원효와 의상 — 신라 불교를 완성한 두 거장](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/580-silla-wonhyo-uisang.html): 신라
+- [581. 신라 9서당 10정 — 통일신라 군사 제도](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/581-silla-nine-seowon.html): 통일신라
+- [582. 통일신라 사회 구조 — 골품제와 진골 귀족](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/582-unified-silla-society.html): 통일신라
+- [583. 통일신라 경제 — 청해진과 장보고의 해상 왕국](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/583-unified-silla-economy.html): 통일신라
+- [584. 통일신라 예술 — 범종·금속공예·탑파의 전성기](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/584-unified-silla-art.html): 통일신라
+- [585. 석굴암 건축 원리 — 수학과 신앙이 만든 걸작](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/585-unified-silla-seokguram.html): 통일신라
+- [586. 불국사 건축 — 불국토를 지상에 구현하다](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/586-unified-silla-bulguksa.html): 통일신라
+- [587. 통일신라 쇠퇴 — 왕위 쟁탈과 지방 호족의 도전](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/587-unified-silla-decline.html): 통일신라
+- [588. 헌강왕 시대의 번영 — 처용가와 신라 마지막 황금기](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/588-unified-silla-heongang.html): 통일신라
+- [589. 후삼국 성립 — 신라의 분열과 새로운 경쟁](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/589-unified-silla-later-three.html): 통일신라 말·후삼국
+- [590. 궁예와 태봉 — 미륵불을 자처한 폭군의 흥망](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/590-unified-silla-gungye.html): 후삼국
+- [591. 견훤과 후백제 — 아들에게 배신당한 영웅의 비극](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/591-unified-silla-gyeonhwon.html): 후삼국
+- [592. 발해 대조영 건국 — 고구려 유민이 세운 해동성국](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/592-balhae-dae-joyeong.html): 발해
+- [593. 발해 무왕의 당 공격 — 732년 등주 기습](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/593-balhae-mu-wang.html): 발해
+- [594. 발해 선왕 전성기 — 해동성국의 완성](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/594-balhae-seon-wang.html): 발해
+- [595. 발해 5경 제도 — 광대한 영토를 다스린 행정 체계](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/595-balhae-five-capitals.html): 발해
+- [596. 발해 문화와 예술 — 고구려 전통과 당 문화의 융합](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/596-balhae-culture-art.html): 발해
+- [597. 발해 경제와 무역 — 동아시아 교역망의 북방 거점](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/597-balhae-economy-trade.html): 발해
+- [598. 발해-일본 외교 — 200년간의 바다 건너 교류](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/598-balhae-japan-diplomacy.html): 발해
+- [599. 발해 멸망과 거란 — 926년 홀연히 사라진 해동성국](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/599-balhae-fall-khitan.html): 발해
+- [600. 600번 특집 — 한국사 속 잊혀진 왕국들](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/600-600th-special.html)
+- [601. 발해 유민과 고려 — 두 나라의 만남](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/601-balhae-revival-goryeo.html): 발해·고려 초
+- [602. 고려 태조 훈요 10조 — 왕건이 후손에게 남긴 유훈](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/602-goryeo-taejo-hunyo.html): 고려
+- [603. 광종의 노비안검법 — 호족 약화와 왕권 강화](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/603-goryeo-gwangjong-nobi.html): 고려
+- [604. 거란 3차 침입과 귀주대첩 — 강감찬의 대승](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/604-goryeo-khitan-third-war.html): 고려
+- [605. 윤관과 여진 정벌 — 별무반과 동북 9성](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/605-goryeo-yun-gwan-detail.html): 고려
+- [606. 대각국사 의천 — 고려 천태종 개창과 교장 편찬](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/606-goryeo-monk-uicheon.html): 고려
+- [607. 보조국사 지눌과 조계종](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/607-goryeo-monk-jinul.html): 고려
+- [608. 고려사 편찬 과정](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/608-goryeo-goryeo-sa-compilation.html): 고려
+- [609. 고려 무역항 벽란도](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/609-goryeo-open-port-byeokrando.html): 고려
+- [610. 고려 과거제 실태](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/610-goryeo-public-service-exam.html): 고려
+- [611. 1170년 무신 정변](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/611-goryeo-military-coup-1170.html): 고려
+- [612. 조선 한양 천도](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/612-joseon-taejo-capital.html): 조선 · 서울·한양
+- [613. 집현전과 세종](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/613-joseon-hall-of-worthies.html): 조선
+- [614. 조선 4군 6진 개척](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/614-joseon-four-commanderies.html): 조선
+- [615. 조선 신분제 상세](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/615-joseon-sipgu-system.html): 조선
+- [616. 조선 의금부](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/616-joseon-jangui-system.html): 조선
+- [617. 조선 4대 사화](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/617-joseon-sahwa-four.html): 조선
+- [618. 조선 붕당 정치](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/618-joseon-party-struggle.html): 조선
+- [619. 대동법 시행](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/619-joseon-tax-reform-daedong.html): 조선
+- [620. 조선 군제 개혁](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/620-joseon-military-reform.html): 조선
+- [621. 수원 화성과 정조의 도시 개혁](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/621-joseon-suju-reform.html): 조선 · 수원
+- [622. 조선 후기 상업 발달](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/622-joseon-trade-economy.html): 조선
+- [623. 조선 민중 봉기](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/623-joseon-peasant-uprising.html): 조선
+- [624. 조선 여성 문학](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/624-joseon-women-literature.html): 조선
+- [625. 조선 마지막 왕 순종](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/625-joseon-last-king-sunjong.html): 조선 · 근현대
+- [626. 조선 궁중 음악](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/626-joseon-royal-court-music.html): 조선
+- [627. 동학 2차 봉기](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/627-donghak-second-uprising.html): 근현대
+- [628. 러일전쟁과 조선](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/628-korea-russia-war.html): 근현대
+- [629. 이토 히로부미와 조선 통감정치](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/629-ito-hirobumi-detail.html): 근현대
+- [630. 안중근 재판과 옥중 저술](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/630-an-junggeun-court.html): 근현대
+- [631. 신채호의 민족주의 사학](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/631-independence-shin-chaeho.html): 근현대
+- [632. 1920년대 문화통치](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/632-cultural-rule-1920s.html): 근현대
+- [633. 강제 징용의 실태](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/633-korean-forced-labor.html): 근현대
+- [634. 일본군 위안부 역사](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/634-comfort-women-history.html): 근현대
+- [635. 원폭 피해 조선인](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/635-atomic-bomb-koreans.html): 근현대
+- [636. 분단 협상 과정](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/636-partition-negotiation.html): 근현대
 
 ## 라이선스
 
