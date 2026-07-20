@@ -5,7 +5,7 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-07-19",
+  "lastUpdated": "2026-07-20",
   "stats": {
     "total": 646,
     "published": 284,
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-07-19",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "한국 우주개발 역사 — 나로호에서 누리호까지",
-      "description": "2013년 나로호 발사에서 2022년 순수 국산 로켓 누리호까지. 한국 우주개발 30년.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-space-program.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-space-program.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "과학·기술",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-07-19",
+      "published": "2026-07-20",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-20",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한국 우주개발 역사 — 나로호에서 누리호까지",
+      "description": "2013년 나로호 발사에서 2022년 순수 국산 로켓 누리호까지. 한국 우주개발 30년.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-space-program.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-space-program.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "과학·기술",
+        "역사"
       ],
       "related": [],
       "region": [],
