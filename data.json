@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-21",
   "stats": {
     "total": 646,
-    "published": 285,
-    "queued": 361,
-    "new": 9
+    "published": 286,
+    "queued": 360,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-07-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한의학의 역사 — 동의보감 이후 발전",
+      "description": "허준의 동의보감 이후 한의학의 제도화와 발전. 현대 한의학의 위상과 과학화.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-medicine-hanbang.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-medicine-hanbang.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "과학·기술",
+        "문화"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-07-21",
@@ -6108,25 +6127,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "한의학의 역사 — 동의보감 이후 발전",
-      "description": "허준의 동의보감 이후 한의학의 제도화와 발전. 현대 한의학의 위상과 과학화.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/274-korean-medicine-hanbang.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/274-korean-medicine-hanbang.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "과학·기술",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": 274,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한국 이민사 — 하와이 사탕수수밭에서 LA까지",
       "description": "1903년 하와이 이민 시작. 미국·중국·소련으로 흩어진 한국인 디아스포라의 역사.",

@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (285편 · 최신순 · 갱신 2026-07-21)
+## 발행 완료 (286편 · 최신순 · 갱신 2026-07-21)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [한의학의 역사 — 동의보감 이후 발전](https://skandla2002ai-andy.github.io/korean-history/articles/korean-medicine-hanbang.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [한국 인터넷 역사 — IT 강국의 탄생](https://skandla2002ai-andy.github.io/korean-history/articles/korea-internet-history.md): 현대 [NEW]
 - [한국 우주개발 역사 — 나로호에서 누리호까지](https://skandla2002ai-andy.github.io/korean-history/articles/korea-space-program.md): 현대 [NEW]
@@ -315,9 +316,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (361편)
+## 발행 예정 큐 (360편)
 
-- [274. 한의학의 역사 — 동의보감 이후 발전](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/274-korean-medicine-hanbang.html): 조선
 - [275. 한국 이민사 — 하와이 사탕수수밭에서 LA까지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/275-korean-diaspora-hawaii.html): 현대 · 일제강점기
 - [276. 재일교포의 역사 — 차별과 정체성의 100년](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/276-zainichi-koreans.html): 일제강점기 · 현대
 - [277. 중국 조선족 — 만주 이민의 후손들](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/277-chaoxianzu-china.html): 일제강점기 · 현대
