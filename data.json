@@ -5,7 +5,7 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-07-20",
+  "lastUpdated": "2026-07-21",
   "stats": {
     "total": 646,
     "published": 285,
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-07-20",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "한국 인터넷 역사 — IT 강국의 탄생",
-      "description": "1994년 인터넷 상용화에서 초고속 인터넷·스마트폰 강국까지. 디지털 전환의 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-internet-history.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-internet-history.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "과학·기술",
-        "경제"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-07-20",
+      "published": "2026-07-21",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한국 인터넷 역사 — IT 강국의 탄생",
+      "description": "1994년 인터넷 상용화에서 초고속 인터넷·스마트폰 강국까지. 디지털 전환의 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-internet-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-internet-history.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "과학·기술",
+        "경제"
       ],
       "related": [],
       "region": [],
