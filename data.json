@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-07-21",
+  "lastUpdated": "2026-07-22",
   "stats": {
     "total": 646,
     "published": 286,
     "queued": 360,
-    "new": 10
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-07-21",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "한의학의 역사 — 동의보감 이후 발전",
-      "description": "허준의 동의보감 이후 한의학의 제도화와 발전. 현대 한의학의 위상과 과학화.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-medicine-hanbang.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-medicine-hanbang.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "과학·기술",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-07-21",
+      "published": "2026-07-22",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-22",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한의학의 역사 — 동의보감 이후 발전",
+      "description": "허준의 동의보감 이후 한의학의 제도화와 발전. 현대 한의학의 위상과 과학화.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-medicine-hanbang.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-medicine-hanbang.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "과학·기술",
+        "문화"
       ],
       "related": [],
       "region": [],
@@ -233,7 +233,7 @@
       "region": [],
       "num": null,
       "published": "2026-07-14",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
