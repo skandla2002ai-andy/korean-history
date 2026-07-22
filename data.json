@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-22",
   "stats": {
     "total": 646,
-    "published": 286,
-    "queued": 360,
-    "new": 9
+    "published": 287,
+    "queued": 359,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -55,6 +55,28 @@
       ],
       "related": [
         "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-07-22",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한국 이민사 — 하와이 사탕수수밭에서 LA까지",
+      "description": "1903년 하와이 이민 시작. 미국·중국·소련으로 흩어진 한국인 디아스포라의 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-diaspora-hawaii.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-diaspora-hawaii.md",
+      "era": [
+        "현대",
+        "일제강점기"
+      ],
+      "topics": [
+        "역사",
+        "사회"
+      ],
+      "related": [
+        "미국"
       ],
       "region": [],
       "num": null,
@@ -6127,28 +6149,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "한국 이민사 — 하와이 사탕수수밭에서 LA까지",
-      "description": "1903년 하와이 이민 시작. 미국·중국·소련으로 흩어진 한국인 디아스포라의 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/275-korean-diaspora-hawaii.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/275-korean-diaspora-hawaii.md",
-      "era": [
-        "현대",
-        "일제강점기"
-      ],
-      "topics": [
-        "역사",
-        "사회"
-      ],
-      "related": [
-        "미국"
-      ],
-      "region": [],
-      "num": 275,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "재일교포의 역사 — 차별과 정체성의 100년",
       "description": "강제연행과 자발적 이주로 일본에 남은 조선인. 재일교포의 법적 지위와 정체성.",
