@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-23",
   "stats": {
     "total": 646,
-    "published": 287,
-    "queued": 359,
-    "new": 9
+    "published": 288,
+    "queued": 358,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -75,6 +75,28 @@
         "사회"
       ],
       "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-23",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "재일교포의 역사 — 차별과 정체성의 100년",
+      "description": "강제연행과 자발적 이주로 일본에 남은 조선인. 재일교포의 법적 지위와 정체성.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/zainichi-koreans.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/zainichi-koreans.md",
+      "era": [
+        "일제강점기",
+        "현대"
+      ],
+      "topics": [
+        "사회",
+        "역사"
+      ],
+      "related": [
+        "일본"
+      ],
       "region": [],
       "num": null,
       "published": "2026-07-23",
@@ -6149,28 +6171,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "재일교포의 역사 — 차별과 정체성의 100년",
-      "description": "강제연행과 자발적 이주로 일본에 남은 조선인. 재일교포의 법적 지위와 정체성.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/276-zainichi-koreans.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/276-zainichi-koreans.md",
-      "era": [
-        "일제강점기",
-        "현대"
-      ],
-      "topics": [
-        "사회",
-        "역사"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 276,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "중국 조선족 — 만주 이민의 후손들",
       "description": "20세기 초 만주로 이주한 조선인의 후손 조선족. 중국 내 소수민족의 정체성.",
