@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-24",
   "stats": {
     "total": 646,
-    "published": 288,
-    "queued": 358,
-    "new": 9
+    "published": 289,
+    "queued": 357,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -55,6 +55,28 @@
       ],
       "related": [
         "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-07-24",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "중국 조선족 — 만주 이민의 후손들",
+      "description": "20세기 초 만주로 이주한 조선인의 후손 조선족. 중국 내 소수민족의 정체성.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/chaoxianzu-china.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/chaoxianzu-china.md",
+      "era": [
+        "일제강점기",
+        "현대"
+      ],
+      "topics": [
+        "사회",
+        "역사"
+      ],
+      "related": [
+        "중국"
       ],
       "region": [],
       "num": null,
@@ -6171,28 +6193,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "중국 조선족 — 만주 이민의 후손들",
-      "description": "20세기 초 만주로 이주한 조선인의 후손 조선족. 중국 내 소수민족의 정체성.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/277-chaoxianzu-china.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/277-chaoxianzu-china.md",
-      "era": [
-        "일제강점기",
-        "현대"
-      ],
-      "topics": [
-        "사회",
-        "역사"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [],
-      "num": 277,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "고려인 — 스탈린이 중앙아시아로 보낸 한인들",
       "description": "1937년 스탈린의 강제이주. 연해주 한인 17만 명이 카자흐스탄·우즈베키스탄으로.",
