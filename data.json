@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-25",
   "stats": {
     "total": 646,
-    "published": 289,
-    "queued": 357,
-    "new": 9
+    "published": 290,
+    "queued": 356,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -72,6 +72,25 @@
       ],
       "topics": [
         "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-25",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고려인 — 스탈린이 중앙아시아로 보낸 한인들",
+      "description": "1937년 스탈린의 강제이주. 연해주 한인 17만 명이 카자흐스탄·우즈베키스탄으로.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/koryeo-saram-central-asia.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/koryeo-saram-central-asia.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "역사",
         "사회"
       ],
       "related": [],
@@ -6193,25 +6212,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "고려인 — 스탈린이 중앙아시아로 보낸 한인들",
-      "description": "1937년 스탈린의 강제이주. 연해주 한인 17만 명이 카자흐스탄·우즈베키스탄으로.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/278-koryeo-saram-central-asia.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/278-koryeo-saram-central-asia.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "역사",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
-      "num": 278,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한국전쟁과 UN군 — 16개국이 참전한 이유",
       "description": "한국전쟁에 참전한 16개국 UN군. 냉전 구도 속 집단안보의 첫 번째 실험.",
