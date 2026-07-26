@@ -27,7 +27,7 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (290편 · 최신순 · 갱신 2026-07-25)
+## 발행 완료 (290편 · 최신순 · 갱신 2026-07-26)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
@@ -38,7 +38,7 @@
 - [한의학의 역사 — 동의보감 이후 발전](https://skandla2002ai-andy.github.io/korean-history/articles/korean-medicine-hanbang.md): 조선 [NEW]
 - [한국 인터넷 역사 — IT 강국의 탄생](https://skandla2002ai-andy.github.io/korean-history/articles/korea-internet-history.md): 현대 [NEW]
 - [한국 우주개발 역사 — 나로호에서 누리호까지](https://skandla2002ai-andy.github.io/korean-history/articles/korea-space-program.md): 현대 [NEW]
-- [한국 원자력 발전 역사 — 고리 1호기부터](https://skandla2002ai-andy.github.io/korean-history/articles/korea-nuclear-power.md): 현대 [NEW]
+- [한국 원자력 발전 역사 — 고리 1호기부터](https://skandla2002ai-andy.github.io/korean-history/articles/korea-nuclear-power.md): 현대
 - [조선 화포 기술 — 최무선에서 신기전까지](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-armament-history.md): 고려 · 조선
 - [고구려 천문도 — 별자리 고분 벽화의 비밀](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-star-map.md): 삼국
 - [금속활자의 계보 — 직지에서 훈민정음까지](https://skandla2002ai-andy.github.io/korean-history/articles/metal-movable-type-lineage.md): 고려
