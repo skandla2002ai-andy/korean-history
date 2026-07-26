@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-26",
   "stats": {
     "total": 646,
-    "published": 290,
-    "queued": 356,
-    "new": 9
+    "published": 291,
+    "queued": 355,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -75,6 +75,27 @@
         "사회"
       ],
       "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-26",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한국전쟁과 UN군 — 16개국이 참전한 이유",
+      "description": "한국전쟁에 참전한 16개국 UN군. 냉전 구도 속 집단안보의 첫 번째 실험.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/un-forces-korea.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/un-forces-korea.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "전쟁",
+        "외교"
+      ],
+      "related": [
+        "미국"
+      ],
       "region": [],
       "num": null,
       "published": "2026-07-26",
@@ -6212,27 +6233,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "한국전쟁과 UN군 — 16개국이 참전한 이유",
-      "description": "한국전쟁에 참전한 16개국 UN군. 냉전 구도 속 집단안보의 첫 번째 실험.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/279-un-forces-korea.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/279-un-forces-korea.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "전쟁",
-        "외교"
-      ],
-      "related": [
-        "미국"
-      ],
-      "region": [],
-      "num": 279,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한류의 세계화 — 드라마·음악·음식의 확산",
       "description": "1990년대 드라마로 시작된 한류. K팝·웹툰·K푸드로 확장된 문화 수출의 역사.",

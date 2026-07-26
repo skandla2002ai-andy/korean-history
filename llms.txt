@@ -27,10 +27,11 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (290편 · 최신순 · 갱신 2026-07-26)
+## 발행 완료 (291편 · 최신순 · 갱신 2026-07-26)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [한국전쟁과 UN군 — 16개국이 참전한 이유](https://skandla2002ai-andy.github.io/korean-history/articles/un-forces-korea.md): 현대 [NEW]
 - [고려인 — 스탈린이 중앙아시아로 보낸 한인들](https://skandla2002ai-andy.github.io/korean-history/articles/koryeo-saram-central-asia.md): 현대 [NEW]
 - [중국 조선족 — 만주 이민의 후손들](https://skandla2002ai-andy.github.io/korean-history/articles/chaoxianzu-china.md): 일제강점기 · 현대 [NEW]
 - [재일교포의 역사 — 차별과 정체성의 100년](https://skandla2002ai-andy.github.io/korean-history/articles/zainichi-koreans.md): 일제강점기 · 현대 [NEW]
@@ -320,9 +321,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (356편)
+## 발행 예정 큐 (355편)
 
-- [279. 한국전쟁과 UN군 — 16개국이 참전한 이유](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/279-un-forces-korea.html): 현대
 - [280. 한류의 세계화 — 드라마·음악·음식의 확산](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/280-hallyu-global-spread.html): 현대
 - [281. 남북 이산가족 — 분단이 갈라놓은 혈육](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/281-separated-families-division.html): 현대
 - [282. 한국 저출생 문제의 역사적 맥락](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/282-korea-low-birthrate.html): 현대
