@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-07-27",
+  "lastUpdated": "2026-07-28",
   "stats": {
     "total": 646,
     "published": 292,
     "queued": 354,
-    "new": 10
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-07-27",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "한류의 세계화 — 드라마·음악·음식의 확산",
-      "description": "1990년대 드라마로 시작된 한류. K팝·웹툰·K푸드로 확장된 문화 수출의 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hallyu-global-spread.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hallyu-global-spread.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "문화",
-        "경제"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-07-27",
+      "published": "2026-07-28",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-28",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한류의 세계화 — 드라마·음악·음식의 확산",
+      "description": "1990년대 드라마로 시작된 한류. K팝·웹툰·K푸드로 확장된 문화 수출의 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hallyu-global-spread.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/hallyu-global-spread.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "문화",
+        "경제"
       ],
       "related": [],
       "region": [],
@@ -241,7 +241,7 @@
       "region": [],
       "num": null,
       "published": "2026-07-20",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
