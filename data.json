@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-28",
   "stats": {
     "total": 646,
-    "published": 292,
-    "queued": 354,
-    "new": 9
+    "published": 293,
+    "queued": 353,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -73,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-28",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "남북 이산가족 — 분단이 갈라놓은 혈육",
+      "description": "한국전쟁과 분단으로 생이별한 이산가족. 상봉 행사 역사와 줄어드는 생존자들.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/separated-families-division.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/separated-families-division.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "사회",
+        "역사"
       ],
       "related": [],
       "region": [],
@@ -6252,25 +6271,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "남북 이산가족 — 분단이 갈라놓은 혈육",
-      "description": "한국전쟁과 분단으로 생이별한 이산가족. 상봉 행사 역사와 줄어드는 생존자들.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/281-separated-families-division.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/281-separated-families-division.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "사회",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 281,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한국 저출생 문제의 역사적 맥락",
       "description": "세계 최저 출산율의 배경. 과거 산아제한 정책에서 현재 저출생 위기까지.",
