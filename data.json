@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-29",
   "stats": {
     "total": 646,
-    "published": 293,
-    "queued": 353,
-    "new": 9
+    "published": 294,
+    "queued": 352,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-07-29",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한국 저출생 문제의 역사적 맥락",
+      "description": "세계 최저 출산율의 배경. 과거 산아제한 정책에서 현재 저출생 위기까지.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-low-birthrate.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-low-birthrate.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "사회",
+        "역사"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-07-29",
@@ -6271,25 +6290,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "한국 저출생 문제의 역사적 맥락",
-      "description": "세계 최저 출산율의 배경. 과거 산아제한 정책에서 현재 저출생 위기까지.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/282-korea-low-birthrate.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/282-korea-low-birthrate.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "사회",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 282,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "북핵 문제의 기원과 전개",
       "description": "1990년대 1차 핵위기부터 현재까지. 한반도 비핵화를 둘러싼 국제 외교의 역사.",

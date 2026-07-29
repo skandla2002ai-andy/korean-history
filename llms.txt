@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (293편 · 최신순 · 갱신 2026-07-29)
+## 발행 완료 (294편 · 최신순 · 갱신 2026-07-29)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [한국 저출생 문제의 역사적 맥락](https://skandla2002ai-andy.github.io/korean-history/articles/korea-low-birthrate.md): 현대 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [남북 이산가족 — 분단이 갈라놓은 혈육](https://skandla2002ai-andy.github.io/korean-history/articles/separated-families-division.md): 현대 [NEW]
 - [한류의 세계화 — 드라마·음악·음식의 확산](https://skandla2002ai-andy.github.io/korean-history/articles/hallyu-global-spread.md): 현대 [NEW]
@@ -323,9 +324,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (353편)
+## 발행 예정 큐 (352편)
 
-- [282. 한국 저출생 문제의 역사적 맥락](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/282-korea-low-birthrate.html): 현대
 - [283. 북핵 문제의 기원과 전개](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/283-north-korea-nuclear.html): 현대
 - [284. 한국 헌법 개정 9번의 역사](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/284-korean-constitution-history.html): 현대
 - [285. 재벌의 역사 — 삼성·현대·SK·LG의 탄생](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/285-chaebol-history.html): 현대
