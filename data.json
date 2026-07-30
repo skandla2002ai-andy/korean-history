@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-30",
   "stats": {
     "total": 646,
-    "published": 294,
-    "queued": 352,
-    "new": 9
+    "published": 295,
+    "queued": 351,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -75,6 +75,28 @@
         "사회"
       ],
       "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-30",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "북핵 문제의 기원과 전개",
+      "description": "1990년대 1차 핵위기부터 현재까지. 한반도 비핵화를 둘러싼 국제 외교의 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/north-korea-nuclear.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/north-korea-nuclear.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "외교",
+        "정치"
+      ],
+      "related": [
+        "미국",
+        "중국"
+      ],
       "region": [],
       "num": null,
       "published": "2026-07-30",
@@ -6290,28 +6312,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "북핵 문제의 기원과 전개",
-      "description": "1990년대 1차 핵위기부터 현재까지. 한반도 비핵화를 둘러싼 국제 외교의 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/283-north-korea-nuclear.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/283-north-korea-nuclear.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "외교",
-        "정치"
-      ],
-      "related": [
-        "미국",
-        "중국"
-      ],
-      "region": [],
-      "num": 283,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한국 헌법 개정 9번의 역사",
       "description": "1948년 제헌헌법부터 1987년 현행 헌법까지. 헌법 개정으로 보는 한국 민주주의.",
