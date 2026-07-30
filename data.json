@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-07-29",
+  "lastUpdated": "2026-07-30",
   "stats": {
     "total": 646,
     "published": 294,
     "queued": 352,
-    "new": 10
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-07-29",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "한국 저출생 문제의 역사적 맥락",
-      "description": "세계 최저 출산율의 배경. 과거 산아제한 정책에서 현재 저출생 위기까지.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-low-birthrate.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-low-birthrate.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "사회",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-07-29",
+      "published": "2026-07-30",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-07-30",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한국 저출생 문제의 역사적 맥락",
+      "description": "세계 최저 출산율의 배경. 과거 산아제한 정책에서 현재 저출생 위기까지.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-low-birthrate.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-low-birthrate.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "사회",
+        "역사"
       ],
       "related": [],
       "region": [],
@@ -241,7 +241,7 @@
       "region": [],
       "num": null,
       "published": "2026-07-22",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
