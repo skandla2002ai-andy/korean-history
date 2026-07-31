@@ -8,9 +8,9 @@
   "lastUpdated": "2026-07-31",
   "stats": {
     "total": 646,
-    "published": 295,
-    "queued": 351,
-    "new": 9
+    "published": 296,
+    "queued": 350,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-07-31",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한국 헌법 개정 9번의 역사",
+      "description": "1948년 제헌헌법부터 1987년 현행 헌법까지. 헌법 개정으로 보는 한국 민주주의.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-constitution-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-constitution-history.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "정치",
+        "역사"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-07-31",
@@ -6312,25 +6331,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "한국 헌법 개정 9번의 역사",
-      "description": "1948년 제헌헌법부터 1987년 현행 헌법까지. 헌법 개정으로 보는 한국 민주주의.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/284-korean-constitution-history.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/284-korean-constitution-history.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "정치",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 284,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "재벌의 역사 — 삼성·현대·SK·LG의 탄생",
       "description": "한국전쟁 후 국가 주도로 육성된 재벌. 경제성장의 주역과 특혜·세습 논란.",
