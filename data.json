@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-07-31",
+  "lastUpdated": "2026-08-01",
   "stats": {
     "total": 646,
     "published": 296,
     "queued": 350,
-    "new": 10
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-07-31",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "한국 헌법 개정 9번의 역사",
-      "description": "1948년 제헌헌법부터 1987년 현행 헌법까지. 헌법 개정으로 보는 한국 민주주의.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-constitution-history.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-constitution-history.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "정치",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-08-01",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한국 헌법 개정 9번의 역사",
+      "description": "1948년 제헌헌법부터 1987년 현행 헌법까지. 헌법 개정으로 보는 한국 민주주의.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-constitution-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-constitution-history.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "정치",
+        "역사"
       ],
       "related": [],
       "region": [],
@@ -238,7 +238,7 @@
       "region": [],
       "num": null,
       "published": "2026-07-24",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
