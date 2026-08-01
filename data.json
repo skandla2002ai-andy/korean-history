@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-01",
   "stats": {
     "total": 646,
-    "published": 296,
-    "queued": 350,
-    "new": 9
+    "published": 297,
+    "queued": 349,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-08-01",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "재벌의 역사 — 삼성·현대·SK·LG의 탄생",
+      "description": "한국전쟁 후 국가 주도로 육성된 재벌. 경제성장의 주역과 특혜·세습 논란.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/chaebol-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/chaebol-history.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "경제",
+        "사회"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-08-01",
@@ -6331,25 +6350,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "재벌의 역사 — 삼성·현대·SK·LG의 탄생",
-      "description": "한국전쟁 후 국가 주도로 육성된 재벌. 경제성장의 주역과 특혜·세습 논란.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/285-chaebol-history.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/285-chaebol-history.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "경제",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
-      "num": 285,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한국 교육열의 역사 — 과거제에서 수능까지",
       "description": "조선시대 과거제에서 일제 교육, 해방 후 교육 열풍, 사교육 시장까지.",

@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (296편 · 최신순 · 갱신 2026-08-01)
+## 발행 완료 (297편 · 최신순 · 갱신 2026-08-01)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [재벌의 역사 — 삼성·현대·SK·LG의 탄생](https://skandla2002ai-andy.github.io/korean-history/articles/chaebol-history.md): 현대 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [한국 헌법 개정 9번의 역사](https://skandla2002ai-andy.github.io/korean-history/articles/korean-constitution-history.md): 현대 [NEW]
 - [북핵 문제의 기원과 전개](https://skandla2002ai-andy.github.io/korean-history/articles/north-korea-nuclear.md): 현대 [NEW]
@@ -326,9 +327,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (350편)
+## 발행 예정 큐 (349편)
 
-- [285. 재벌의 역사 — 삼성·현대·SK·LG의 탄생](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/285-chaebol-history.html): 현대
 - [286. 한국 교육열의 역사 — 과거제에서 수능까지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/286-korean-education-history.html): 조선
 - [288. 고려 금속활자 — 세계 최초의 인쇄 혁명](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/288-goryeo-printing-movable-type.html): 고려 · 개성
 - [289. 성균관 — 조선의 최고 국립대학](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/289-joseon-seonggyungwan.html): 조선 · 서울
