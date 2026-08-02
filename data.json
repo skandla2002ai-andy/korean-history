@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-02",
   "stats": {
     "total": 646,
-    "published": 297,
-    "queued": 349,
-    "new": 9
+    "published": 298,
+    "queued": 348,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-08-02",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한국 교육열의 역사 — 과거제에서 수능까지",
+      "description": "조선시대 과거제에서 일제 교육, 해방 후 교육 열풍, 사교육 시장까지.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-education-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-education-history.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사회",
+        "역사"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-08-02",
@@ -6350,25 +6369,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "한국 교육열의 역사 — 과거제에서 수능까지",
-      "description": "조선시대 과거제에서 일제 교육, 해방 후 교육 열풍, 사교육 시장까지.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/286-korean-education-history.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/286-korean-education-history.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "사회",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 286,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "고려 금속활자 — 세계 최초의 인쇄 혁명",
       "description": "1234년 고려가 세계 최초로 금속활자를 발명. 직지심체요절과 인쇄 문화의 혁신.",
