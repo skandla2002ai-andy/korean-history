@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (298편 · 최신순 · 갱신 2026-08-03)
+## 발행 완료 (299편 · 최신순 · 갱신 2026-08-03)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [고려 금속활자 — 세계 최초의 인쇄 혁명](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-printing-movable-type.md): 고려 · 개성 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [한국 교육열의 역사 — 과거제에서 수능까지](https://skandla2002ai-andy.github.io/korean-history/articles/korean-education-history.md): 조선 [NEW]
 - [재벌의 역사 — 삼성·현대·SK·LG의 탄생](https://skandla2002ai-andy.github.io/korean-history/articles/chaebol-history.md): 현대 [NEW]
@@ -328,9 +329,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (348편)
+## 발행 예정 큐 (347편)
 
-- [288. 고려 금속활자 — 세계 최초의 인쇄 혁명](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/288-goryeo-printing-movable-type.html): 고려 · 개성
 - [289. 성균관 — 조선의 최고 국립대학](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/289-joseon-seonggyungwan.html): 조선 · 서울
 - [290. 백제의 일본 문화 전파 — 한류의 원조](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/290-baekje-to-japan-culture.html): 삼국시대 · 부여
 - [291. 신라의 삼국통일 과정 — 외세 이용과 자주성의 딜레마](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/291-silla-unification-process.html): 삼국시대 · 경주

@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-03",
   "stats": {
     "total": 646,
-    "published": 298,
-    "queued": 348,
-    "new": 9
+    "published": 299,
+    "queued": 347,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-08-03",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고려 금속활자 — 세계 최초의 인쇄 혁명",
+      "description": "1234년 고려가 세계 최초로 금속활자를 발명. 직지심체요절과 인쇄 문화의 혁신.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-printing-movable-type.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-printing-movable-type.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "문화",
+        "과학기술"
+      ],
+      "related": [],
+      "region": [
+        "개성"
+      ],
       "num": null,
       "published": "2026-08-03",
       "is_new": true,
@@ -6369,27 +6390,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "고려 금속활자 — 세계 최초의 인쇄 혁명",
-      "description": "1234년 고려가 세계 최초로 금속활자를 발명. 직지심체요절과 인쇄 문화의 혁신.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/288-goryeo-printing-movable-type.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/288-goryeo-printing-movable-type.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "문화",
-        "과학기술"
-      ],
-      "related": [],
-      "region": [
-        "개성"
-      ],
-      "num": 288,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "성균관 — 조선의 최고 국립대학",
       "description": "조선 최고의 국립 교육기관 성균관. 유교 이념 교육과 관리 양성의 중심지.",
