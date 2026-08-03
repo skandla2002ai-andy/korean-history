@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-08-02",
+  "lastUpdated": "2026-08-03",
   "stats": {
     "total": 646,
     "published": 298,
     "queued": 348,
-    "new": 10
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-08-02",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "한국 교육열의 역사 — 과거제에서 수능까지",
-      "description": "조선시대 과거제에서 일제 교육, 해방 후 교육 열풍, 사교육 시장까지.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-education-history.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-education-history.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "사회",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-08-02",
+      "published": "2026-08-03",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-08-03",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한국 교육열의 역사 — 과거제에서 수능까지",
+      "description": "조선시대 과거제에서 일제 교육, 해방 후 교육 열풍, 사교육 시장까지.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-education-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-education-history.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사회",
+        "역사"
       ],
       "related": [],
       "region": [],
@@ -235,7 +235,7 @@
       "region": [],
       "num": null,
       "published": "2026-07-26",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
