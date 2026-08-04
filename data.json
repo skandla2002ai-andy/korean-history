@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-04",
   "stats": {
     "total": 646,
-    "published": 299,
-    "queued": 347,
-    "new": 9
+    "published": 300,
+    "queued": 346,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-08-04",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "성균관 — 조선의 최고 국립대학",
+      "description": "조선 최고의 국립 교육기관 성균관. 유교 이념 교육과 관리 양성의 중심지.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-seonggyungwan.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-seonggyungwan.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "교육",
+        "문화"
+      ],
+      "related": [],
+      "region": [
+        "서울"
+      ],
       "num": null,
       "published": "2026-08-04",
       "is_new": true,
@@ -6390,27 +6411,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "성균관 — 조선의 최고 국립대학",
-      "description": "조선 최고의 국립 교육기관 성균관. 유교 이념 교육과 관리 양성의 중심지.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/289-joseon-seonggyungwan.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/289-joseon-seonggyungwan.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "교육",
-        "문화"
-      ],
-      "related": [],
-      "region": [
-        "서울"
-      ],
-      "num": 289,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "백제의 일본 문화 전파 — 한류의 원조",
       "description": "4~7세기 백제가 일본에 전한 불교·한자·건축·의학. 일본 고대 문명의 뿌리.",
