@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-05",
   "stats": {
     "total": 646,
-    "published": 300,
-    "queued": 346,
-    "new": 9
+    "published": 301,
+    "queued": 345,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,29 @@
     }
   ],
   "articles": [
+    {
+      "title": "백제의 일본 문화 전파 — 한류의 원조",
+      "description": "4~7세기 백제가 일본에 전한 불교·한자·건축·의학. 일본 고대 문명의 뿌리.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-to-japan-culture.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-to-japan-culture.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "문화",
+        "외교"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [
+        "부여"
+      ],
+      "num": null,
+      "published": "2026-08-05",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
@@ -6411,29 +6434,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "백제의 일본 문화 전파 — 한류의 원조",
-      "description": "4~7세기 백제가 일본에 전한 불교·한자·건축·의학. 일본 고대 문명의 뿌리.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/290-baekje-to-japan-culture.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/290-baekje-to-japan-culture.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "문화",
-        "외교"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [
-        "부여"
-      ],
-      "num": 290,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "신라의 삼국통일 과정 — 외세 이용과 자주성의 딜레마",
       "description": "660~676년 신라가 당나라와 손잡고 백제·고구려를 멸망시킨 통일 전쟁의 전 과정.",
