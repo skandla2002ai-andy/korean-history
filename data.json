@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-07",
   "stats": {
     "total": 646,
-    "published": 302,
-    "queued": 344,
-    "new": 9
+    "published": 303,
+    "queued": 343,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-08-07",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "직지심체요절 — 현존 최고의 금속활자본",
+      "description": "1377년 청주 흥덕사에서 인쇄된 직지심체요절. 구텐베르크보다 78년 앞선 금속활자 인쇄.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-jikji.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-jikji.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "문화",
+        "과학기술"
+      ],
+      "related": [],
+      "region": [
+        "청주"
+      ],
       "num": null,
       "published": "2026-08-07",
       "is_new": true,
@@ -6457,27 +6478,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "직지심체요절 — 현존 최고의 금속활자본",
-      "description": "1377년 청주 흥덕사에서 인쇄된 직지심체요절. 구텐베르크보다 78년 앞선 금속활자 인쇄.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/292-goryeo-jikji.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/292-goryeo-jikji.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "문화",
-        "과학기술"
-      ],
-      "related": [],
-      "region": [
-        "청주"
-      ],
-      "num": 292,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "팔만대장경 — 몽골을 부처의 힘으로 막으려 한 국가 프로젝트",
       "description": "1236~1251년 몽골 침입을 막기 위해 제작된 팔만대장경. 8만 1258장 목판의 경이.",
