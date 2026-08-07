@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-07",
   "stats": {
     "total": 646,
-    "published": 301,
-    "queued": 345,
-    "new": 8
+    "published": 302,
+    "queued": 344,
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -76,6 +76,29 @@
       ],
       "related": [],
       "region": [],
+      "num": null,
+      "published": "2026-08-07",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "신라의 삼국통일 과정 — 외세 이용과 자주성의 딜레마",
+      "description": "660~676년 신라가 당나라와 손잡고 백제·고구려를 멸망시킨 통일 전쟁의 전 과정.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-unification-process.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-unification-process.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "전쟁",
+        "정치"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "경주"
+      ],
       "num": null,
       "published": "2026-08-07",
       "is_new": true,
@@ -6434,29 +6457,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "신라의 삼국통일 과정 — 외세 이용과 자주성의 딜레마",
-      "description": "660~676년 신라가 당나라와 손잡고 백제·고구려를 멸망시킨 통일 전쟁의 전 과정.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/291-silla-unification-process.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/291-silla-unification-process.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "전쟁",
-        "정치"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [
-        "경주"
-      ],
-      "num": 291,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "직지심체요절 — 현존 최고의 금속활자본",
       "description": "1377년 청주 흥덕사에서 인쇄된 직지심체요절. 구텐베르크보다 78년 앞선 금속활자 인쇄.",

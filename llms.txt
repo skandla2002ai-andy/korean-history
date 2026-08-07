@@ -27,10 +27,11 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (301편 · 최신순 · 갱신 2026-08-07)
+## 발행 완료 (302편 · 최신순 · 갱신 2026-08-07)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [신라의 삼국통일 과정 — 외세 이용과 자주성의 딜레마](https://skandla2002ai-andy.github.io/korean-history/articles/silla-unification-process.md): 삼국시대 · 경주 [NEW]
 - [백제의 일본 문화 전파 — 한류의 원조](https://skandla2002ai-andy.github.io/korean-history/articles/baekje-to-japan-culture.md): 삼국시대 · 부여 [NEW]
 - [성균관 — 조선의 최고 국립대학](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-seonggyungwan.md): 조선 · 서울 [NEW]
 - [고려 금속활자 — 세계 최초의 인쇄 혁명](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-printing-movable-type.md): 고려 · 개성 [NEW]
@@ -331,9 +332,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (345편)
+## 발행 예정 큐 (344편)
 
-- [291. 신라의 삼국통일 과정 — 외세 이용과 자주성의 딜레마](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/291-silla-unification-process.html): 삼국시대 · 경주
 - [292. 직지심체요절 — 현존 최고의 금속활자본](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/292-goryeo-jikji.html): 고려 · 청주
 - [294. 팔만대장경 — 몽골을 부처의 힘으로 막으려 한 국가 프로젝트](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/294-goryeo-tripitaka-koreana.html): 고려 · 합천
 - [295. 사림파의 등장 — 조선 정치를 바꾼 지방 선비들](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/295-joseon-party-politics-sarim.html): 조선
