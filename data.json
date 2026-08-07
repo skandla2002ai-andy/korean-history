@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-07",
   "stats": {
     "total": 646,
     "published": 301,
     "queued": 345,
-    "new": 10
+    "new": 8
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -42,29 +42,6 @@
   ],
   "articles": [
     {
-      "title": "백제의 일본 문화 전파 — 한류의 원조",
-      "description": "4~7세기 백제가 일본에 전한 불교·한자·건축·의학. 일본 고대 문명의 뿌리.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-to-japan-culture.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-to-japan-culture.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "문화",
-        "외교"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [
-        "부여"
-      ],
-      "num": null,
-      "published": "2026-08-05",
-      "is_new": true,
-      "status": "published"
-    },
-    {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
       "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.html",
@@ -81,7 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-08-05",
+      "published": "2026-08-07",
       "is_new": true,
       "status": "published"
     },
@@ -99,6 +76,29 @@
       ],
       "related": [],
       "region": [],
+      "num": null,
+      "published": "2026-08-07",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "백제의 일본 문화 전파 — 한류의 원조",
+      "description": "4~7세기 백제가 일본에 전한 불교·한자·건축·의학. 일본 고대 문명의 뿌리.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-to-japan-culture.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-to-japan-culture.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "문화",
+        "외교"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [
+        "부여"
+      ],
       "num": null,
       "published": "2026-08-05",
       "is_new": true,
@@ -222,7 +222,7 @@
       "region": [],
       "num": null,
       "published": "2026-07-30",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -241,7 +241,7 @@
       "region": [],
       "num": null,
       "published": "2026-07-29",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
