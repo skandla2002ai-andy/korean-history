@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-08",
   "stats": {
     "total": 646,
-    "published": 303,
-    "queued": 343,
-    "new": 9
+    "published": 304,
+    "queued": 342,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,29 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-08-08",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "팔만대장경 — 몽골을 부처의 힘으로 막으려 한 국가 프로젝트",
+      "description": "1236~1251년 몽골 침입을 막기 위해 제작된 팔만대장경. 8만 1258장 목판의 경이.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-tripitaka-koreana.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-tripitaka-koreana.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "불교",
+        "문화"
+      ],
+      "related": [
+        "몽골"
+      ],
+      "region": [
+        "합천"
+      ],
       "num": null,
       "published": "2026-08-08",
       "is_new": true,
@@ -6478,29 +6501,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "팔만대장경 — 몽골을 부처의 힘으로 막으려 한 국가 프로젝트",
-      "description": "1236~1251년 몽골 침입을 막기 위해 제작된 팔만대장경. 8만 1258장 목판의 경이.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/294-goryeo-tripitaka-koreana.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/294-goryeo-tripitaka-koreana.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "불교",
-        "문화"
-      ],
-      "related": [
-        "몽골"
-      ],
-      "region": [
-        "합천"
-      ],
-      "num": 294,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "사림파의 등장 — 조선 정치를 바꾼 지방 선비들",
       "description": "15세기 후반 중앙 정계에 진출한 사림파. 훈구파와의 대립과 4대 사화.",
