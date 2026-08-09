@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-09",
   "stats": {
     "total": 646,
-    "published": 304,
-    "queued": 342,
-    "new": 9
+    "published": 305,
+    "queued": 341,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,24 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-08-09",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "사림파의 등장 — 조선 정치를 바꾼 지방 선비들",
+      "description": "15세기 후반 중앙 정계에 진출한 사림파. 훈구파와의 대립과 4대 사화.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-party-politics-sarim.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-party-politics-sarim.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-08-09",
@@ -6501,24 +6519,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "사림파의 등장 — 조선 정치를 바꾼 지방 선비들",
-      "description": "15세기 후반 중앙 정계에 진출한 사림파. 훈구파와의 대립과 4대 사화.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/295-joseon-party-politics-sarim.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/295-joseon-party-politics-sarim.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치"
-      ],
-      "related": [],
-      "region": [],
-      "num": 295,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "토지조사사업 — 식민지 수탈의 법적 기반",
       "description": "1910~1918년 일제의 토지조사사업. 신고제 방식으로 조선 농민의 땅을 빼앗다.",
