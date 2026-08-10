@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-08-09",
+  "lastUpdated": "2026-08-10",
   "stats": {
     "total": 646,
     "published": 305,
     "queued": 341,
-    "new": 10
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,25 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-08-09",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "사림파의 등장 — 조선 정치를 바꾼 지방 선비들",
-      "description": "15세기 후반 중앙 정계에 진출한 사림파. 훈구파와의 대립과 4대 사화.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-party-politics-sarim.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-party-politics-sarim.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-08-09",
+      "published": "2026-08-10",
       "is_new": true,
       "status": "published"
     },
@@ -91,6 +73,24 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-08-10",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "사림파의 등장 — 조선 정치를 바꾼 지방 선비들",
+      "description": "15세기 후반 중앙 정계에 진출한 사림파. 훈구파와의 대립과 4대 사화.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-party-politics-sarim.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-party-politics-sarim.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치"
       ],
       "related": [],
       "region": [],
@@ -247,7 +247,7 @@
       "region": [],
       "num": null,
       "published": "2026-08-02",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
