@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-10",
   "stats": {
     "total": 646,
-    "published": 305,
-    "queued": 341,
-    "new": 9
+    "published": 306,
+    "queued": 340,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -52,6 +52,27 @@
       "topics": [
         "문화",
         "역사"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-08-10",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "토지조사사업 — 식민지 수탈의 법적 기반",
+      "description": "1910~1918년 일제의 토지조사사업. 신고제 방식으로 조선 농민의 땅을 빼앗다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/japanese-colonial-land-survey.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/japanese-colonial-land-survey.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "경제",
+        "일제강점"
       ],
       "related": [
         "일본"
@@ -6519,27 +6540,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "토지조사사업 — 식민지 수탈의 법적 기반",
-      "description": "1910~1918년 일제의 토지조사사업. 신고제 방식으로 조선 농민의 땅을 빼앗다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/296-japanese-colonial-land-survey.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/296-japanese-colonial-land-survey.md",
-      "era": [
-        "일제강점기"
-      ],
-      "topics": [
-        "경제",
-        "일제강점"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 296,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "광무개혁 — 대한제국의 자강 시도",
       "description": "1897~1904년 고종 황제의 광무개혁. 근대적 토지제도·군사력 강화·산업 육성 시도.",
