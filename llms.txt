@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (306편 · 최신순 · 갱신 2026-08-11)
+## 발행 완료 (307편 · 최신순 · 갱신 2026-08-11)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [광무개혁 — 대한제국의 자강 시도](https://skandla2002ai-andy.github.io/korean-history/articles/gwangmu-reform.md): 조선후기 · 서울 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [토지조사사업 — 식민지 수탈의 법적 기반](https://skandla2002ai-andy.github.io/korean-history/articles/japanese-colonial-land-survey.md): 일제강점기 [NEW]
 - [사림파의 등장 — 조선 정치를 바꾼 지방 선비들](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-party-politics-sarim.md): 조선 [NEW]
@@ -336,9 +337,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (340편)
+## 발행 예정 큐 (339편)
 
-- [297. 광무개혁 — 대한제국의 자강 시도](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/297-gwangmu-reform.html): 조선후기 · 서울
 - [298. 조선 건국 — 이성계의 위화도 회군](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/298-korea-joseon-founding.html): 조선 · 개성
 - [299. 화랑도의 기원 — 신라 청소년 엘리트 조직](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/299-silla-hwarang-origin.html): 삼국시대 · 경주
 - [300. 조선 300번째 글 특집 — 500년 왕조의 빛과 그림자](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/300-joseon-300th.html): 조선

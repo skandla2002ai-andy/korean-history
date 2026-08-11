@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-11",
   "stats": {
     "total": 646,
-    "published": 306,
-    "queued": 340,
-    "new": 9
+    "published": 307,
+    "queued": 339,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,26 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-08-11",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "광무개혁 — 대한제국의 자강 시도",
+      "description": "1897~1904년 고종 황제의 광무개혁. 근대적 토지제도·군사력 강화·산업 육성 시도.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwangmu-reform.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gwangmu-reform.md",
+      "era": [
+        "조선후기"
+      ],
+      "topics": [
+        "정치"
+      ],
+      "related": [],
+      "region": [
+        "서울"
+      ],
       "num": null,
       "published": "2026-08-11",
       "is_new": true,
@@ -6540,26 +6560,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "광무개혁 — 대한제국의 자강 시도",
-      "description": "1897~1904년 고종 황제의 광무개혁. 근대적 토지제도·군사력 강화·산업 육성 시도.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/297-gwangmu-reform.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/297-gwangmu-reform.md",
-      "era": [
-        "조선후기"
-      ],
-      "topics": [
-        "정치"
-      ],
-      "related": [],
-      "region": [
-        "서울"
-      ],
-      "num": 297,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "조선 건국 — 이성계의 위화도 회군",
       "description": "1388년 위화도 회군으로 권력을 잡은 이성계. 1392년 고려를 무너뜨리고 조선 건국.",
