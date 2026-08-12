@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-12",
   "stats": {
     "total": 646,
-    "published": 307,
-    "queued": 339,
-    "new": 9
+    "published": 308,
+    "queued": 338,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-08-12",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선 건국 — 이성계의 위화도 회군",
+      "description": "1388년 위화도 회군으로 권력을 잡은 이성계. 1392년 고려를 무너뜨리고 조선 건국.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-joseon-founding.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-joseon-founding.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치",
+        "인물"
+      ],
+      "related": [],
+      "region": [
+        "개성"
+      ],
       "num": null,
       "published": "2026-08-12",
       "is_new": true,
@@ -6560,27 +6581,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "조선 건국 — 이성계의 위화도 회군",
-      "description": "1388년 위화도 회군으로 권력을 잡은 이성계. 1392년 고려를 무너뜨리고 조선 건국.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/298-korea-joseon-founding.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/298-korea-joseon-founding.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치",
-        "인물"
-      ],
-      "related": [],
-      "region": [
-        "개성"
-      ],
-      "num": 298,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "화랑도의 기원 — 신라 청소년 엘리트 조직",
       "description": "신라의 청소년 수련단체 화랑도. 원광법사의 세속오계와 전사·문화 엘리트 양성.",
