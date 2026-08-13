@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-13",
   "stats": {
     "total": 646,
-    "published": 308,
-    "queued": 338,
-    "new": 9
+    "published": 309,
+    "queued": 337,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -76,6 +76,27 @@
       ],
       "related": [],
       "region": [],
+      "num": null,
+      "published": "2026-08-13",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "화랑도의 기원 — 신라 청소년 엘리트 조직",
+      "description": "신라의 청소년 수련단체 화랑도. 원광법사의 세속오계와 전사·문화 엘리트 양성.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-hwarang-origin.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-hwarang-origin.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "교육",
+        "군사"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
       "num": null,
       "published": "2026-08-13",
       "is_new": true,
@@ -6581,27 +6602,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "화랑도의 기원 — 신라 청소년 엘리트 조직",
-      "description": "신라의 청소년 수련단체 화랑도. 원광법사의 세속오계와 전사·문화 엘리트 양성.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/299-silla-hwarang-origin.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/299-silla-hwarang-origin.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "교육",
-        "군사"
-      ],
-      "related": [],
-      "region": [
-        "경주"
-      ],
-      "num": 299,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "조선 300번째 글 특집 — 500년 왕조의 빛과 그림자",
       "description": "조선왕조 500년의 주요 장면들. 건국부터 멸망까지 역사의 굴곡을 돌아본다.",
