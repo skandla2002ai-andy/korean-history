@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-14",
   "stats": {
     "total": 646,
-    "published": 309,
-    "queued": 337,
-    "new": 10
+    "published": 310,
+    "queued": 336,
+    "new": 11
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,24 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-08-14",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선 300번째 글 특집 — 500년 왕조의 빛과 그림자",
+      "description": "조선왕조 500년의 주요 장면들. 건국부터 멸망까지 역사의 굴곡을 돌아본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-300th.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-300th.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "역사"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-08-14",
@@ -6602,24 +6620,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "조선 300번째 글 특집 — 500년 왕조의 빛과 그림자",
-      "description": "조선왕조 500년의 주요 장면들. 건국부터 멸망까지 역사의 굴곡을 돌아본다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/300-joseon-300th.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/300-joseon-300th.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 300,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "원삼국시대 — 삼국 이전의 한반도",
       "description": "기원전 1세기~3세기 삼한·부여·옥저 등 초기 국가들. 삼국 성립 이전의 한반도.",
