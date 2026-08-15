@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-15",
   "stats": {
     "total": 646,
     "published": 310,
     "queued": 336,
-    "new": 11
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,25 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-08-14",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "조선 300번째 글 특집 — 500년 왕조의 빛과 그림자",
-      "description": "조선왕조 500년의 주요 장면들. 건국부터 멸망까지 역사의 굴곡을 돌아본다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-300th.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-300th.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "is_new": true,
       "status": "published"
     },
@@ -91,6 +73,24 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-08-15",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선 300번째 글 특집 — 500년 왕조의 빛과 그림자",
+      "description": "조선왕조 500년의 주요 장면들. 건국부터 멸망까지 역사의 굴곡을 돌아본다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-300th.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-300th.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "역사"
       ],
       "related": [],
       "region": [],
@@ -241,7 +241,7 @@
       ],
       "num": null,
       "published": "2026-08-07",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -264,7 +264,7 @@
       ],
       "num": null,
       "published": "2026-08-07",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
