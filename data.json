@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-15",
   "stats": {
     "total": 646,
-    "published": 310,
-    "queued": 336,
-    "new": 9
+    "published": 311,
+    "queued": 335,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -73,6 +73,24 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-08-15",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "원삼국시대 — 삼국 이전의 한반도",
+      "description": "기원전 1세기~3세기 삼한·부여·옥저 등 초기 국가들. 삼국 성립 이전의 한반도.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/proto-three-kingdoms.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/proto-three-kingdoms.md",
+      "era": [
+        "고대"
+      ],
+      "topics": [
+        "역사"
       ],
       "related": [],
       "region": [],
@@ -6620,24 +6638,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "원삼국시대 — 삼국 이전의 한반도",
-      "description": "기원전 1세기~3세기 삼한·부여·옥저 등 초기 국가들. 삼국 성립 이전의 한반도.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/301-proto-three-kingdoms.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/301-proto-three-kingdoms.md",
-      "era": [
-        "고대"
-      ],
-      "topics": [
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 301,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "고려 태조의 훈요십조 — 후대 왕에게 남긴 10가지 유훈",
       "description": "943년 고려 태조 왕건이 남긴 훈요십조. 불교 숭상·지역 차별·왕권 유지의 지침서.",
