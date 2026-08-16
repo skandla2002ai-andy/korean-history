@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (311편 · 최신순 · 갱신 2026-08-16)
+## 발행 완료 (312편 · 최신순 · 갱신 2026-08-16)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [고려 태조의 훈요십조 — 후대 왕에게 남긴 10가지 유훈](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-wang-geon-policy.md): 고려 · 개성 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [원삼국시대 — 삼국 이전의 한반도](https://skandla2002ai-andy.github.io/korean-history/articles/proto-three-kingdoms.md): 고대 [NEW]
 - [조선 300번째 글 특집 — 500년 왕조의 빛과 그림자](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-300th.md): 조선 [NEW]
@@ -341,9 +342,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (335편)
+## 발행 예정 큐 (334편)
 
-- [302. 고려 태조의 훈요십조 — 후대 왕에게 남긴 10가지 유훈](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/302-goryeo-wang-geon-policy.html): 고려 · 개성
 - [303. 암행어사 — 조선의 비밀 감찰관](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/303-joseon-amhaeng-eosa.html): 조선
 - [304. 고려의 상업과 화폐 — 벽란도와 해상무역](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/304-goryeo-commerce-economy.html): 고려 · 개성
 - [305. 조선 성리학의 전개 — 이황과 이이의 논쟁](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/305-joseon-dohak-neo-confucianism.html): 조선
