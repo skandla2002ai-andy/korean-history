@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-17",
   "stats": {
     "total": 646,
-    "published": 312,
-    "queued": 334,
-    "new": 9
+    "published": 313,
+    "queued": 333,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-08-17",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "암행어사 — 조선의 비밀 감찰관",
+      "description": "임금이 비밀리에 파견한 감찰관 암행어사. 마패와 유척으로 지방 탐관오리를 응징하다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-amhaeng-eosa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-amhaeng-eosa.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치",
+        "제도"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-08-17",
@@ -6659,25 +6678,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "암행어사 — 조선의 비밀 감찰관",
-      "description": "임금이 비밀리에 파견한 감찰관 암행어사. 마패와 유척으로 지방 탐관오리를 응징하다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/303-joseon-amhaeng-eosa.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/303-joseon-amhaeng-eosa.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치",
-        "제도"
-      ],
-      "related": [],
-      "region": [],
-      "num": 303,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "고려의 상업과 화폐 — 벽란도와 해상무역",
       "description": "고려의 활발한 상업 활동. 개경 벽란도를 중심으로 한 국제무역과 화폐 경제.",
