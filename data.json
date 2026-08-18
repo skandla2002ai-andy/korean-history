@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-18",
   "stats": {
     "total": 646,
-    "published": 313,
-    "queued": 333,
-    "new": 9
+    "published": 314,
+    "queued": 332,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,28 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-08-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고려의 상업과 화폐 — 벽란도와 해상무역",
+      "description": "고려의 활발한 상업 활동. 개경 벽란도를 중심으로 한 국제무역과 화폐 경제.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-commerce-economy.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-commerce-economy.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "경제"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "개성"
+      ],
       "num": null,
       "published": "2026-08-18",
       "is_new": true,
@@ -6678,28 +6700,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "고려의 상업과 화폐 — 벽란도와 해상무역",
-      "description": "고려의 활발한 상업 활동. 개경 벽란도를 중심으로 한 국제무역과 화폐 경제.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/304-goryeo-commerce-economy.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/304-goryeo-commerce-economy.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "경제"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [
-        "개성"
-      ],
-      "num": 304,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "조선 성리학의 전개 — 이황과 이이의 논쟁",
       "description": "16세기 조선 성리학을 이끈 이황(퇴계)과 이이(율곡). 이기론 논쟁과 조선 철학의 심화.",
