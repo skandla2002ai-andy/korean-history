@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-08-17",
+  "lastUpdated": "2026-08-18",
   "stats": {
     "total": 646,
     "published": 313,
     "queued": 333,
-    "new": 10
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-08-17",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "암행어사 — 조선의 비밀 감찰관",
-      "description": "임금이 비밀리에 파견한 감찰관 암행어사. 마패와 유척으로 지방 탐관오리를 응징하다.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-amhaeng-eosa.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-amhaeng-eosa.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치",
-        "제도"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-08-17",
+      "published": "2026-08-18",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-08-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "암행어사 — 조선의 비밀 감찰관",
+      "description": "임금이 비밀리에 파견한 감찰관 암행어사. 마패와 유척으로 지방 탐관오리를 응징하다.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-amhaeng-eosa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-amhaeng-eosa.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치",
+        "제도"
       ],
       "related": [],
       "region": [],
@@ -237,7 +237,7 @@
       "region": [],
       "num": null,
       "published": "2026-08-10",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
