@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-19",
   "stats": {
     "total": 646,
-    "published": 314,
-    "queued": 332,
-    "new": 9
+    "published": 315,
+    "queued": 331,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-08-19",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선 성리학의 전개 — 이황과 이이의 논쟁",
+      "description": "16세기 조선 성리학을 이끈 이황(퇴계)과 이이(율곡). 이기론 논쟁과 조선 철학의 심화.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-dohak-neo-confucianism.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-dohak-neo-confucianism.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사상",
+        "인물"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-08-19",
@@ -6700,25 +6719,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "조선 성리학의 전개 — 이황과 이이의 논쟁",
-      "description": "16세기 조선 성리학을 이끈 이황(퇴계)과 이이(율곡). 이기론 논쟁과 조선 철학의 심화.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/305-joseon-dohak-neo-confucianism.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/305-joseon-dohak-neo-confucianism.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "사상",
-        "인물"
-      ],
-      "related": [],
-      "region": [],
-      "num": 305,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한국 청동기시대 — 고인돌과 민무늬토기",
       "description": "기원전 15세기~기원전 4세기 한반도 청동기문화. 고인돌·청동검·민무늬토기의 세계.",

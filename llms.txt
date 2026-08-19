@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (314편 · 최신순 · 갱신 2026-08-19)
+## 발행 완료 (315편 · 최신순 · 갱신 2026-08-19)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [조선 성리학의 전개 — 이황과 이이의 논쟁](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-dohak-neo-confucianism.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [고려의 상업과 화폐 — 벽란도와 해상무역](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-commerce-economy.md): 고려 · 개성 [NEW]
 - [암행어사 — 조선의 비밀 감찰관](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-amhaeng-eosa.md): 조선 [NEW]
@@ -344,9 +345,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (332편)
+## 발행 예정 큐 (331편)
 
-- [305. 조선 성리학의 전개 — 이황과 이이의 논쟁](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/305-joseon-dohak-neo-confucianism.html): 조선
 - [306. 한국 청동기시대 — 고인돌과 민무늬토기](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/306-ancient-korea-bronze-age.html): 선사시대
 - [307. 흥부전과 놀부전 — 조선 민중의 세계관](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/307-joseon-heungbu-nolbu.html): 조선
 - [308. 대한민국 임시정부의 활동 — 상하이에서 충칭까지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/308-independence-provisional-govt.html): 일제강점기
