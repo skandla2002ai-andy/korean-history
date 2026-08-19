@@ -27,18 +27,18 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (314편 · 최신순 · 갱신 2026-08-18)
+## 발행 완료 (314편 · 최신순 · 갱신 2026-08-19)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [고려의 상업과 화폐 — 벽란도와 해상무역](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-commerce-economy.md): 고려 · 개성 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [고려의 상업과 화폐 — 벽란도와 해상무역](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-commerce-economy.md): 고려 · 개성 [NEW]
 - [암행어사 — 조선의 비밀 감찰관](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-amhaeng-eosa.md): 조선 [NEW]
 - [고려 태조의 훈요십조 — 후대 왕에게 남긴 10가지 유훈](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-wang-geon-policy.md): 고려 · 개성 [NEW]
 - [원삼국시대 — 삼국 이전의 한반도](https://skandla2002ai-andy.github.io/korean-history/articles/proto-three-kingdoms.md): 고대 [NEW]
 - [조선 300번째 글 특집 — 500년 왕조의 빛과 그림자](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-300th.md): 조선 [NEW]
 - [화랑도의 기원 — 신라 청소년 엘리트 조직](https://skandla2002ai-andy.github.io/korean-history/articles/silla-hwarang-origin.md): 삼국시대 · 경주 [NEW]
 - [조선 건국 — 이성계의 위화도 회군](https://skandla2002ai-andy.github.io/korean-history/articles/korea-joseon-founding.md): 조선 · 개성 [NEW]
-- [광무개혁 — 대한제국의 자강 시도](https://skandla2002ai-andy.github.io/korean-history/articles/gwangmu-reform.md): 조선후기 · 서울 [NEW]
+- [광무개혁 — 대한제국의 자강 시도](https://skandla2002ai-andy.github.io/korean-history/articles/gwangmu-reform.md): 조선후기 · 서울
 - [토지조사사업 — 식민지 수탈의 법적 기반](https://skandla2002ai-andy.github.io/korean-history/articles/japanese-colonial-land-survey.md): 일제강점기
 - [사림파의 등장 — 조선 정치를 바꾼 지방 선비들](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-party-politics-sarim.md): 조선
 - [팔만대장경 — 몽골을 부처의 힘으로 막으려 한 국가 프로젝트](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-tripitaka-koreana.md): 고려 · 합천
