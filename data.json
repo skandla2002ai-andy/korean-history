@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-20",
   "stats": {
     "total": 646,
-    "published": 315,
-    "queued": 331,
-    "new": 9
+    "published": 316,
+    "queued": 330,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "한국 청동기시대 — 고인돌과 민무늬토기",
+      "description": "기원전 15세기~기원전 4세기 한반도 청동기문화. 고인돌·청동검·민무늬토기의 세계.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ancient-korea-bronze-age.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ancient-korea-bronze-age.md",
+      "era": [
+        "선사시대"
+      ],
+      "topics": [
+        "고고학",
+        "문화"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-08-20",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
@@ -6719,25 +6738,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "한국 청동기시대 — 고인돌과 민무늬토기",
-      "description": "기원전 15세기~기원전 4세기 한반도 청동기문화. 고인돌·청동검·민무늬토기의 세계.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/306-ancient-korea-bronze-age.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/306-ancient-korea-bronze-age.md",
-      "era": [
-        "선사시대"
-      ],
-      "topics": [
-        "고고학",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": 306,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "흥부전과 놀부전 — 조선 민중의 세계관",
       "description": "조선 후기 판소리계 소설 흥부전. 빈부 격차와 형제 갈등을 통해 본 조선 민중의 윤리관.",
