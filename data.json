@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-22",
   "stats": {
     "total": 646,
-    "published": 317,
-    "queued": 329,
-    "new": 9
+    "published": 318,
+    "queued": 328,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -55,6 +55,27 @@
       ],
       "related": [
         "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-08-22",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "대한민국 임시정부의 활동 — 상하이에서 충칭까지",
+      "description": "1919년 수립된 임시정부가 상하이·항저우·충칭을 거치며 전개한 독립운동 27년.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/independence-provisional-govt.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/independence-provisional-govt.md",
+      "era": [
+        "일제강점기"
+      ],
+      "topics": [
+        "독립운동",
+        "정치"
+      ],
+      "related": [
+        "중국"
       ],
       "region": [],
       "num": null,
@@ -6757,27 +6778,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "대한민국 임시정부의 활동 — 상하이에서 충칭까지",
-      "description": "1919년 수립된 임시정부가 상하이·항저우·충칭을 거치며 전개한 독립운동 27년.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/308-independence-provisional-govt.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/308-independence-provisional-govt.md",
-      "era": [
-        "일제강점기"
-      ],
-      "topics": [
-        "독립운동",
-        "정치"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [],
-      "num": 308,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "영조의 탕평책 — 붕당 정치를 넘으려 한 왕",
       "description": "영조(재위 1724~1776)의 탕평 정치. 노론·소론·남인을 고루 등용해 왕권 강화 시도.",
