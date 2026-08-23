@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-23",
   "stats": {
     "total": 646,
-    "published": 318,
-    "queued": 328,
-    "new": 9
+    "published": 319,
+    "queued": 327,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-08-23",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "영조의 탕평책 — 붕당 정치를 넘으려 한 왕",
+      "description": "영조(재위 1724~1776)의 탕평 정치. 노론·소론·남인을 고루 등용해 왕권 강화 시도.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-yeongjo-policy.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-yeongjo-policy.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치",
+        "인물"
+      ],
+      "related": [],
+      "region": [
+        "서울"
+      ],
       "num": null,
       "published": "2026-08-23",
       "is_new": true,
@@ -6778,27 +6799,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "영조의 탕평책 — 붕당 정치를 넘으려 한 왕",
-      "description": "영조(재위 1724~1776)의 탕평 정치. 노론·소론·남인을 고루 등용해 왕권 강화 시도.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/309-joseon-yeongjo-policy.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/309-joseon-yeongjo-policy.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치",
-        "인물"
-      ],
-      "related": [],
-      "region": [
-        "서울"
-      ],
-      "num": 309,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "의천과 천태종 — 고려 불교의 통합 시도",
       "description": "고려 문종의 아들 의천. 교종과 선종을 통합한 천태종 개창과 속장경 편찬.",
