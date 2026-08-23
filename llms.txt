@@ -27,18 +27,18 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (318편 · 최신순 · 갱신 2026-08-22)
+## 발행 완료 (318편 · 최신순 · 갱신 2026-08-23)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [대한민국 임시정부의 활동 — 상하이에서 충칭까지](https://skandla2002ai-andy.github.io/korean-history/articles/independence-provisional-govt.md): 일제강점기 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [대한민국 임시정부의 활동 — 상하이에서 충칭까지](https://skandla2002ai-andy.github.io/korean-history/articles/independence-provisional-govt.md): 일제강점기 [NEW]
 - [흥부전과 놀부전 — 조선 민중의 세계관](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-heungbu-nolbu.md): 조선 [NEW]
 - [한국 청동기시대 — 고인돌과 민무늬토기](https://skandla2002ai-andy.github.io/korean-history/articles/ancient-korea-bronze-age.md): 선사시대 [NEW]
 - [조선 성리학의 전개 — 이황과 이이의 논쟁](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-dohak-neo-confucianism.md): 조선 [NEW]
 - [고려의 상업과 화폐 — 벽란도와 해상무역](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-commerce-economy.md): 고려 · 개성 [NEW]
 - [암행어사 — 조선의 비밀 감찰관](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-amhaeng-eosa.md): 조선 [NEW]
 - [고려 태조의 훈요십조 — 후대 왕에게 남긴 10가지 유훈](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-wang-geon-policy.md): 고려 · 개성 [NEW]
-- [원삼국시대 — 삼국 이전의 한반도](https://skandla2002ai-andy.github.io/korean-history/articles/proto-three-kingdoms.md): 고대 [NEW]
+- [원삼국시대 — 삼국 이전의 한반도](https://skandla2002ai-andy.github.io/korean-history/articles/proto-three-kingdoms.md): 고대
 - [조선 300번째 글 특집 — 500년 왕조의 빛과 그림자](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-300th.md): 조선
 - [화랑도의 기원 — 신라 청소년 엘리트 조직](https://skandla2002ai-andy.github.io/korean-history/articles/silla-hwarang-origin.md): 삼국시대 · 경주
 - [조선 건국 — 이성계의 위화도 회군](https://skandla2002ai-andy.github.io/korean-history/articles/korea-joseon-founding.md): 조선 · 개성
