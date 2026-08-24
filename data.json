@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-24",
   "stats": {
     "total": 646,
-    "published": 319,
-    "queued": 327,
-    "new": 9
+    "published": 320,
+    "queued": 326,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-08-24",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "의천과 천태종 — 고려 불교의 통합 시도",
+      "description": "고려 문종의 아들 의천. 교종과 선종을 통합한 천태종 개창과 속장경 편찬.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-uicheon-cheonje.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-uicheon-cheonje.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "불교",
+        "인물"
+      ],
+      "related": [],
+      "region": [
+        "개성"
+      ],
       "num": null,
       "published": "2026-08-24",
       "is_new": true,
@@ -6799,27 +6820,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "의천과 천태종 — 고려 불교의 통합 시도",
-      "description": "고려 문종의 아들 의천. 교종과 선종을 통합한 천태종 개창과 속장경 편찬.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/310-goryeo-uicheon-cheonje.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/310-goryeo-uicheon-cheonje.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "불교",
-        "인물"
-      ],
-      "related": [],
-      "region": [
-        "개성"
-      ],
-      "num": 310,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "신라의 천문학 — 첨성대와 별자리 관측",
       "description": "7세기 선덕여왕 때 세워진 첨성대. 동아시아 현존 최고의 천문대와 신라 과학.",
