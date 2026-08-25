@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-25",
   "stats": {
     "total": 646,
-    "published": 320,
-    "queued": 326,
-    "new": 9
+    "published": 321,
+    "queued": 325,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -76,6 +76,26 @@
       ],
       "related": [],
       "region": [],
+      "num": null,
+      "published": "2026-08-25",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "신라의 천문학 — 첨성대와 별자리 관측",
+      "description": "7세기 선덕여왕 때 세워진 첨성대. 동아시아 현존 최고의 천문대와 신라 과학.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-seokguram-astronomy.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-seokguram-astronomy.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "과학기술"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
       "num": null,
       "published": "2026-08-25",
       "is_new": true,
@@ -6820,26 +6840,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "신라의 천문학 — 첨성대와 별자리 관측",
-      "description": "7세기 선덕여왕 때 세워진 첨성대. 동아시아 현존 최고의 천문대와 신라 과학.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/311-silla-seokguram-astronomy.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/311-silla-seokguram-astronomy.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "과학기술"
-      ],
-      "related": [],
-      "region": [
-        "경주"
-      ],
-      "num": 311,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "조선 여성의 삶 — 내방과 외출 사이",
       "description": "조선 시대 여성의 사회적 지위와 일상. 열녀 이데올로기, 재가 금지, 여성 문화의 양면성.",
