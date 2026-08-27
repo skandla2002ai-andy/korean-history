@@ -5,11 +5,11 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-08-26",
+  "lastUpdated": "2026-08-27",
   "stats": {
     "total": 646,
-    "published": 321,
-    "queued": 325,
+    "published": 322,
+    "queued": 324,
     "new": 9
   },
   "endpoints": {
@@ -58,7 +58,26 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-08-26",
+      "published": "2026-08-27",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선 여성의 삶 — 내방과 외출 사이",
+      "description": "조선 시대 여성의 사회적 지위와 일상. 열녀 이데올로기, 재가 금지, 여성 문화의 양면성.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-women-role.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-women-role.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사회",
+        "여성"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-08-27",
       "is_new": true,
       "status": "published"
     },
@@ -77,7 +96,7 @@
       "related": [],
       "region": [],
       "num": null,
-      "published": "2026-08-26",
+      "published": "2026-08-27",
       "is_new": true,
       "status": "published"
     },
@@ -218,7 +237,7 @@
       "region": [],
       "num": null,
       "published": "2026-08-19",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -6840,25 +6859,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "조선 여성의 삶 — 내방과 외출 사이",
-      "description": "조선 시대 여성의 사회적 지위와 일상. 열녀 이데올로기, 재가 금지, 여성 문화의 양면성.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/312-joseon-women-role.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/312-joseon-women-role.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "사회",
-        "여성"
-      ],
-      "related": [],
-      "region": [],
-      "num": 312,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "고려 무신정권 60년 — 최씨 가문의 사병국가",
       "description": "1196년 최충헌이 집권한 뒤 4대 100년간 이어진 최씨 무신정권. 고려판 막부체제.",
