@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-28",
   "stats": {
     "total": 646,
-    "published": 322,
-    "queued": 324,
-    "new": 8
+    "published": 323,
+    "queued": 323,
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-08-28",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고려 무신정권 60년 — 최씨 가문의 사병국가",
+      "description": "1196년 최충헌이 집권한 뒤 4대 100년간 이어진 최씨 무신정권. 고려판 막부체제.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-regime.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-regime.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치",
+        "군사"
+      ],
+      "related": [],
+      "region": [
+        "개성"
+      ],
       "num": null,
       "published": "2026-08-28",
       "is_new": true,
@@ -6859,27 +6880,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "고려 무신정권 60년 — 최씨 가문의 사병국가",
-      "description": "1196년 최충헌이 집권한 뒤 4대 100년간 이어진 최씨 무신정권. 고려판 막부체제.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/313-goryeo-military-regime.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/313-goryeo-military-regime.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "정치",
-        "군사"
-      ],
-      "related": [],
-      "region": [
-        "개성"
-      ],
-      "num": 313,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "순종과 한일병합 — 눈물로 도장을 찍은 마지막 황제",
       "description": "1910년 8월 22일 한일병합조약 체결. 순종 황제와 마지막 대신들의 비극적 선택.",
