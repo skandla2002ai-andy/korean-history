@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-08-27",
+  "lastUpdated": "2026-08-28",
   "stats": {
     "total": 646,
     "published": 322,
     "queued": 324,
-    "new": 9
+    "new": 8
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-08-27",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "조선 여성의 삶 — 내방과 외출 사이",
-      "description": "조선 시대 여성의 사회적 지위와 일상. 열녀 이데올로기, 재가 금지, 여성 문화의 양면성.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-women-role.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-women-role.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "사회",
-        "여성"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-08-27",
+      "published": "2026-08-28",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-08-28",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선 여성의 삶 — 내방과 외출 사이",
+      "description": "조선 시대 여성의 사회적 지위와 일상. 열녀 이데올로기, 재가 금지, 여성 문화의 양면성.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-women-role.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-women-role.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사회",
+        "여성"
       ],
       "related": [],
       "region": [],
@@ -218,7 +218,7 @@
       "region": [],
       "num": null,
       "published": "2026-08-20",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
