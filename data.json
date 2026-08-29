@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-29",
   "stats": {
     "total": 646,
-    "published": 324,
-    "queued": 322,
-    "new": 9
+    "published": 325,
+    "queued": 321,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,29 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-08-29",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "동학농민운동 2차 봉기 — 반외세 투쟁의 절정",
+      "description": "1894년 9월 전봉준의 2차 봉기. 일본군 격퇴를 목표로 한 반외세 무장투쟁과 우금치 전투.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/donghak-second-uprising.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/donghak-second-uprising.md",
+      "era": [
+        "조선후기"
+      ],
+      "topics": [
+        "농민운동",
+        "전쟁"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [
+        "전주"
+      ],
       "num": null,
       "published": "2026-08-29",
       "is_new": true,
@@ -6903,29 +6926,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "동학농민운동 2차 봉기 — 반외세 투쟁의 절정",
-      "description": "1894년 9월 전봉준의 2차 봉기. 일본군 격퇴를 목표로 한 반외세 무장투쟁과 우금치 전투.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/315-donghak-second-uprising.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/315-donghak-second-uprising.md",
-      "era": [
-        "조선후기"
-      ],
-      "topics": [
-        "농민운동",
-        "전쟁"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [
-        "전주"
-      ],
-      "num": 315,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "인천상륙작전 — 전세를 뒤집은 도박",
       "description": "1950년 9월 15일 맥아더 장군의 인천상륙작전. 한국전쟁의 흐름을 바꾼 전략적 도박.",
