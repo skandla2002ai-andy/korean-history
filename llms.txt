@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (323편 · 최신순 · 갱신 2026-08-29)
+## 발행 완료 (324편 · 최신순 · 갱신 2026-08-29)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [순종과 한일병합 — 눈물로 도장을 찍은 마지막 황제](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-last-king-sunjong.md): 조선후기 · 서울 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [고려 무신정권 60년 — 최씨 가문의 사병국가](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-regime.md): 고려 · 개성 [NEW]
 - [조선 여성의 삶 — 내방과 외출 사이](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-women-role.md): 조선 [NEW]
@@ -353,9 +354,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (323편)
+## 발행 예정 큐 (322편)
 
-- [314. 순종과 한일병합 — 눈물로 도장을 찍은 마지막 황제](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/314-joseon-last-king-sunjong.html): 조선후기 · 서울
 - [315. 동학농민운동 2차 봉기 — 반외세 투쟁의 절정](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/315-donghak-second-uprising.html): 조선후기 · 전주
 - [316. 인천상륙작전 — 전세를 뒤집은 도박](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/316-korean-war-incheon-landing.html): 현대 · 인천
 - [317. 정도전 — 조선 설계자의 꿈과 죽음](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/317-joseon-jeong-dojeon.html): 조선 · 서울

@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-29",
   "stats": {
     "total": 646,
-    "published": 323,
-    "queued": 323,
-    "new": 8
+    "published": 324,
+    "queued": 322,
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,29 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-08-29",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "순종과 한일병합 — 눈물로 도장을 찍은 마지막 황제",
+      "description": "1910년 8월 22일 한일병합조약 체결. 순종 황제와 마지막 대신들의 비극적 선택.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-last-king-sunjong.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-last-king-sunjong.md",
+      "era": [
+        "조선후기"
+      ],
+      "topics": [
+        "정치",
+        "일제강점"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [
+        "서울"
+      ],
       "num": null,
       "published": "2026-08-29",
       "is_new": true,
@@ -6880,29 +6903,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "순종과 한일병합 — 눈물로 도장을 찍은 마지막 황제",
-      "description": "1910년 8월 22일 한일병합조약 체결. 순종 황제와 마지막 대신들의 비극적 선택.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/314-joseon-last-king-sunjong.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/314-joseon-last-king-sunjong.md",
-      "era": [
-        "조선후기"
-      ],
-      "topics": [
-        "정치",
-        "일제강점"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [
-        "서울"
-      ],
-      "num": 314,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "동학농민운동 2차 봉기 — 반외세 투쟁의 절정",
       "description": "1894년 9월 전봉준의 2차 봉기. 일본군 격퇴를 목표로 한 반외세 무장투쟁과 우금치 전투.",
