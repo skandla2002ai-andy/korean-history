@@ -8,9 +8,9 @@
   "lastUpdated": "2026-08-30",
   "stats": {
     "total": 646,
-    "published": 325,
-    "queued": 321,
-    "new": 9
+    "published": 326,
+    "queued": 320,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -76,6 +76,29 @@
       ],
       "related": [],
       "region": [],
+      "num": null,
+      "published": "2026-08-30",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "인천상륙작전 — 전세를 뒤집은 도박",
+      "description": "1950년 9월 15일 맥아더 장군의 인천상륙작전. 한국전쟁의 흐름을 바꾼 전략적 도박.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-war-incheon-landing.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-war-incheon-landing.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "전쟁",
+        "외교"
+      ],
+      "related": [
+        "미국"
+      ],
+      "region": [
+        "인천"
+      ],
       "num": null,
       "published": "2026-08-30",
       "is_new": true,
@@ -6926,29 +6949,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "인천상륙작전 — 전세를 뒤집은 도박",
-      "description": "1950년 9월 15일 맥아더 장군의 인천상륙작전. 한국전쟁의 흐름을 바꾼 전략적 도박.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/316-korean-war-incheon-landing.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/316-korean-war-incheon-landing.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "전쟁",
-        "외교"
-      ],
-      "related": [
-        "미국"
-      ],
-      "region": [
-        "인천"
-      ],
-      "num": 316,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "정도전 — 조선 설계자의 꿈과 죽음",
       "description": "조선의 법·제도·도시를 설계한 정도전. 왕자의 난으로 이방원에게 살해된 혁명가의 비극.",
