@@ -27,18 +27,18 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (325편 · 최신순 · 갱신 2026-08-29)
+## 발행 완료 (325편 · 최신순 · 갱신 2026-08-30)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [동학농민운동 2차 봉기 — 반외세 투쟁의 절정](https://skandla2002ai-andy.github.io/korean-history/articles/donghak-second-uprising.md): 조선후기 · 전주 [NEW]
 - [순종과 한일병합 — 눈물로 도장을 찍은 마지막 황제](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-last-king-sunjong.md): 조선후기 · 서울 [NEW]
-- [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [고려 무신정권 60년 — 최씨 가문의 사병국가](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-regime.md): 고려 · 개성 [NEW]
 - [조선 여성의 삶 — 내방과 외출 사이](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-women-role.md): 조선 [NEW]
 - [신라의 천문학 — 첨성대와 별자리 관측](https://skandla2002ai-andy.github.io/korean-history/articles/silla-seokguram-astronomy.md): 삼국시대 · 경주 [NEW]
 - [의천과 천태종 — 고려 불교의 통합 시도](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-uicheon-cheonje.md): 고려 · 개성 [NEW]
 - [영조의 탕평책 — 붕당 정치를 넘으려 한 왕](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-yeongjo-policy.md): 조선 · 서울 [NEW]
-- [대한민국 임시정부의 활동 — 상하이에서 충칭까지](https://skandla2002ai-andy.github.io/korean-history/articles/independence-provisional-govt.md): 일제강점기 [NEW]
+- [대한민국 임시정부의 활동 — 상하이에서 충칭까지](https://skandla2002ai-andy.github.io/korean-history/articles/independence-provisional-govt.md): 일제강점기
 - [흥부전과 놀부전 — 조선 민중의 세계관](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-heungbu-nolbu.md): 조선
 - [한국 청동기시대 — 고인돌과 민무늬토기](https://skandla2002ai-andy.github.io/korean-history/articles/ancient-korea-bronze-age.md): 선사시대
 - [조선 성리학의 전개 — 이황과 이이의 논쟁](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-dohak-neo-confucianism.md): 조선
