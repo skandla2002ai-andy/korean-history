@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (327편 · 최신순 · 갱신 2026-09-01)
+## 발행 완료 (328편 · 최신순 · 갱신 2026-09-01)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [고려 여성의 지위 — 조선보다 자유로웠던 삶](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-women-status.md): 고려 [NEW]
 - [정도전 — 조선 설계자의 꿈과 죽음](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-jeong-dojeon.md): 조선 · 서울 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [인천상륙작전 — 전세를 뒤집은 도박](https://skandla2002ai-andy.github.io/korean-history/articles/korean-war-incheon-landing.md): 현대 · 인천 [NEW]
@@ -357,9 +358,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (319편)
+## 발행 예정 큐 (318편)
 
-- [318. 고려 여성의 지위 — 조선보다 자유로웠던 삶](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/318-goryeo-women-status.html): 고려
 - [319. 1960년대 수출주도 공업화 — 한강의 기적 1막](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/319-korea-1960s-industrialization.html): 현대
 - [320. 대동여지도 — 김정호의 22첩 조선 지도](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/320-joseon-topography-map.html): 조선
 - [321. 고려 과거제 — 신분보다 실력으로](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/321-goryeo-gwageo-system.html): 고려 · 개성

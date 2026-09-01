@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-01",
   "stats": {
     "total": 646,
-    "published": 327,
-    "queued": 319,
-    "new": 9
+    "published": 328,
+    "queued": 318,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-09-01",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고려 여성의 지위 — 조선보다 자유로웠던 삶",
+      "description": "고려 시대 여성의 비교적 높은 사회적 지위. 재가 허용·재산 상속·제사 주도권.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-women-status.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-women-status.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "사회",
+        "여성"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-09-01",
@@ -6970,25 +6989,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "고려 여성의 지위 — 조선보다 자유로웠던 삶",
-      "description": "고려 시대 여성의 비교적 높은 사회적 지위. 재가 허용·재산 상속·제사 주도권.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/318-goryeo-women-status.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/318-goryeo-women-status.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "사회",
-        "여성"
-      ],
-      "related": [],
-      "region": [],
-      "num": 318,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "1960년대 수출주도 공업화 — 한강의 기적 1막",
       "description": "1962년 경제개발 5개년 계획 시작. 섬유·신발·가발 수출로 시작된 한국 산업화의 출발.",
