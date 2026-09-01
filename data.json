@@ -5,11 +5,11 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-08-31",
+  "lastUpdated": "2026-09-01",
   "stats": {
     "total": 646,
-    "published": 326,
-    "queued": 320,
+    "published": 327,
+    "queued": 319,
     "new": 9
   },
   "endpoints": {
@@ -58,7 +58,28 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-08-31",
+      "published": "2026-09-01",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "정도전 — 조선 설계자의 꿈과 죽음",
+      "description": "조선의 법·제도·도시를 설계한 정도전. 왕자의 난으로 이방원에게 살해된 혁명가의 비극.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-jeong-dojeon.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-jeong-dojeon.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치",
+        "인물"
+      ],
+      "related": [],
+      "region": [
+        "서울"
+      ],
+      "num": null,
+      "published": "2026-09-01",
       "is_new": true,
       "status": "published"
     },
@@ -77,7 +98,7 @@
       "related": [],
       "region": [],
       "num": null,
-      "published": "2026-08-31",
+      "published": "2026-09-01",
       "is_new": true,
       "status": "published"
     },
@@ -228,7 +249,7 @@
       ],
       "num": null,
       "published": "2026-08-24",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -6949,27 +6970,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "정도전 — 조선 설계자의 꿈과 죽음",
-      "description": "조선의 법·제도·도시를 설계한 정도전. 왕자의 난으로 이방원에게 살해된 혁명가의 비극.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/317-joseon-jeong-dojeon.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/317-joseon-jeong-dojeon.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치",
-        "인물"
-      ],
-      "related": [],
-      "region": [
-        "서울"
-      ],
-      "num": 317,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "고려 여성의 지위 — 조선보다 자유로웠던 삶",
       "description": "고려 시대 여성의 비교적 높은 사회적 지위. 재가 허용·재산 상속·제사 주도권.",

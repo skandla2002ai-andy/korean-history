@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (326편 · 최신순 · 갱신 2026-08-31)
+## 발행 완료 (327편 · 최신순 · 갱신 2026-09-01)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [정도전 — 조선 설계자의 꿈과 죽음](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-jeong-dojeon.md): 조선 · 서울 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [인천상륙작전 — 전세를 뒤집은 도박](https://skandla2002ai-andy.github.io/korean-history/articles/korean-war-incheon-landing.md): 현대 · 인천 [NEW]
 - [동학농민운동 2차 봉기 — 반외세 투쟁의 절정](https://skandla2002ai-andy.github.io/korean-history/articles/donghak-second-uprising.md): 조선후기 · 전주 [NEW]
@@ -37,7 +38,7 @@
 - [고려 무신정권 60년 — 최씨 가문의 사병국가](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-regime.md): 고려 · 개성 [NEW]
 - [조선 여성의 삶 — 내방과 외출 사이](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-women-role.md): 조선 [NEW]
 - [신라의 천문학 — 첨성대와 별자리 관측](https://skandla2002ai-andy.github.io/korean-history/articles/silla-seokguram-astronomy.md): 삼국시대 · 경주 [NEW]
-- [의천과 천태종 — 고려 불교의 통합 시도](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-uicheon-cheonje.md): 고려 · 개성 [NEW]
+- [의천과 천태종 — 고려 불교의 통합 시도](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-uicheon-cheonje.md): 고려 · 개성
 - [영조의 탕평책 — 붕당 정치를 넘으려 한 왕](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-yeongjo-policy.md): 조선 · 서울
 - [대한민국 임시정부의 활동 — 상하이에서 충칭까지](https://skandla2002ai-andy.github.io/korean-history/articles/independence-provisional-govt.md): 일제강점기
 - [흥부전과 놀부전 — 조선 민중의 세계관](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-heungbu-nolbu.md): 조선
@@ -356,9 +357,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (320편)
+## 발행 예정 큐 (319편)
 
-- [317. 정도전 — 조선 설계자의 꿈과 죽음](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/317-joseon-jeong-dojeon.html): 조선 · 서울
 - [318. 고려 여성의 지위 — 조선보다 자유로웠던 삶](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/318-goryeo-women-status.html): 고려
 - [319. 1960년대 수출주도 공업화 — 한강의 기적 1막](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/319-korea-1960s-industrialization.html): 현대
 - [320. 대동여지도 — 김정호의 22첩 조선 지도](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/320-joseon-topography-map.html): 조선
