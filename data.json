@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-03",
   "stats": {
     "total": 646,
-    "published": 329,
-    "queued": 317,
-    "new": 10
+    "published": 330,
+    "queued": 316,
+    "new": 11
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-09-03",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "대동여지도 — 김정호의 22첩 조선 지도",
+      "description": "1861년 김정호가 완성한 대동여지도. 목판 인쇄 22첩 분합 지도의 정밀성과 제작 비화.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-topography-map.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-topography-map.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "과학기술",
+        "문화"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-09-03",
@@ -7008,25 +7027,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "대동여지도 — 김정호의 22첩 조선 지도",
-      "description": "1861년 김정호가 완성한 대동여지도. 목판 인쇄 22첩 분합 지도의 정밀성과 제작 비화.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/320-joseon-topography-map.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/320-joseon-topography-map.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "과학기술",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": 320,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "고려 과거제 — 신분보다 실력으로",
       "description": "958년 광종이 도입한 과거제. 호족 견제와 능력 중심 관료 등용의 의미.",
