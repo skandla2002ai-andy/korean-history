@@ -27,11 +27,11 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (329편 · 최신순 · 갱신 2026-09-02)
+## 발행 완료 (329편 · 최신순 · 갱신 2026-09-03)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [1960년대 수출주도 공업화 — 한강의 기적 1막](https://skandla2002ai-andy.github.io/korean-history/articles/korea-1960s-industrialization.md): 현대 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [1960년대 수출주도 공업화 — 한강의 기적 1막](https://skandla2002ai-andy.github.io/korean-history/articles/korea-1960s-industrialization.md): 현대 [NEW]
 - [고려 여성의 지위 — 조선보다 자유로웠던 삶](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-women-status.md): 고려 [NEW]
 - [정도전 — 조선 설계자의 꿈과 죽음](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-jeong-dojeon.md): 조선 · 서울 [NEW]
 - [인천상륙작전 — 전세를 뒤집은 도박](https://skandla2002ai-andy.github.io/korean-history/articles/korean-war-incheon-landing.md): 현대 · 인천 [NEW]

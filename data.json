@@ -5,7 +5,7 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-09-02",
+  "lastUpdated": "2026-09-03",
   "stats": {
     "total": 646,
     "published": 329,
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-09-02",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "1960년대 수출주도 공업화 — 한강의 기적 1막",
-      "description": "1962년 경제개발 5개년 계획 시작. 섬유·신발·가발 수출로 시작된 한국 산업화의 출발.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-1960s-industrialization.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-1960s-industrialization.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "경제",
-        "산업화"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-09-02",
+      "published": "2026-09-03",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-09-03",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "1960년대 수출주도 공업화 — 한강의 기적 1막",
+      "description": "1962년 경제개발 5개년 계획 시작. 섬유·신발·가발 수출로 시작된 한국 산업화의 출발.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-1960s-industrialization.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-1960s-industrialization.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "경제",
+        "산업화"
       ],
       "related": [],
       "region": [],
