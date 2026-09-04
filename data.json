@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-09-03",
+  "lastUpdated": "2026-09-04",
   "stats": {
     "total": 646,
     "published": 330,
     "queued": 316,
-    "new": 11
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-09-03",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "대동여지도 — 김정호의 22첩 조선 지도",
-      "description": "1861년 김정호가 완성한 대동여지도. 목판 인쇄 22첩 분합 지도의 정밀성과 제작 비화.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-topography-map.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-topography-map.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "과학기술",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-09-03",
+      "published": "2026-09-04",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-09-04",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "대동여지도 — 김정호의 22첩 조선 지도",
+      "description": "1861년 김정호가 완성한 대동여지도. 목판 인쇄 22첩 분합 지도의 정밀성과 제작 비화.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-topography-map.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-topography-map.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "과학기술",
+        "문화"
       ],
       "related": [],
       "region": [],
@@ -265,7 +265,7 @@
       "region": [],
       "num": null,
       "published": "2026-08-27",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
