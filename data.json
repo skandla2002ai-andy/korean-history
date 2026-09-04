@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-04",
   "stats": {
     "total": 646,
-    "published": 330,
-    "queued": 316,
-    "new": 10
+    "published": 331,
+    "queued": 315,
+    "new": 11
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-09-04",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고려 과거제 — 신분보다 실력으로",
+      "description": "958년 광종이 도입한 과거제. 호족 견제와 능력 중심 관료 등용의 의미.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gwageo-system.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gwageo-system.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "제도",
+        "교육"
+      ],
+      "related": [],
+      "region": [
+        "개성"
+      ],
       "num": null,
       "published": "2026-09-04",
       "is_new": true,
@@ -7027,27 +7048,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "고려 과거제 — 신분보다 실력으로",
-      "description": "958년 광종이 도입한 과거제. 호족 견제와 능력 중심 관료 등용의 의미.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/321-goryeo-gwageo-system.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/321-goryeo-gwageo-system.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "제도",
-        "교육"
-      ],
-      "related": [],
-      "region": [
-        "개성"
-      ],
-      "num": 321,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한반도 철기문화 — 고대 국가 성립의 물질 기반",
       "description": "기원전 4~3세기 한반도에 전래된 철기문화. 농업 생산성 증가와 국가 형성의 연결고리.",
