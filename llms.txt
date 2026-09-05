@@ -27,11 +27,11 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (331편 · 최신순 · 갱신 2026-09-04)
+## 발행 완료 (331편 · 최신순 · 갱신 2026-09-05)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [고려 과거제 — 신분보다 실력으로](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gwageo-system.md): 고려 · 개성 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [고려 과거제 — 신분보다 실력으로](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gwageo-system.md): 고려 · 개성 [NEW]
 - [대동여지도 — 김정호의 22첩 조선 지도](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-topography-map.md): 조선 [NEW]
 - [1960년대 수출주도 공업화 — 한강의 기적 1막](https://skandla2002ai-andy.github.io/korean-history/articles/korea-1960s-industrialization.md): 현대 [NEW]
 - [고려 여성의 지위 — 조선보다 자유로웠던 삶](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-women-status.md): 고려 [NEW]
@@ -39,7 +39,7 @@
 - [인천상륙작전 — 전세를 뒤집은 도박](https://skandla2002ai-andy.github.io/korean-history/articles/korean-war-incheon-landing.md): 현대 · 인천 [NEW]
 - [동학농민운동 2차 봉기 — 반외세 투쟁의 절정](https://skandla2002ai-andy.github.io/korean-history/articles/donghak-second-uprising.md): 조선후기 · 전주 [NEW]
 - [순종과 한일병합 — 눈물로 도장을 찍은 마지막 황제](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-last-king-sunjong.md): 조선후기 · 서울 [NEW]
-- [고려 무신정권 60년 — 최씨 가문의 사병국가](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-regime.md): 고려 · 개성 [NEW]
+- [고려 무신정권 60년 — 최씨 가문의 사병국가](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-military-regime.md): 고려 · 개성
 - [조선 여성의 삶 — 내방과 외출 사이](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-women-role.md): 조선
 - [신라의 천문학 — 첨성대와 별자리 관측](https://skandla2002ai-andy.github.io/korean-history/articles/silla-seokguram-astronomy.md): 삼국시대 · 경주
 - [의천과 천태종 — 고려 불교의 통합 시도](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-uicheon-cheonje.md): 고려 · 개성

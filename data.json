@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-09-04",
+  "lastUpdated": "2026-09-05",
   "stats": {
     "total": 646,
     "published": 331,
     "queued": 315,
-    "new": 11
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,7 +58,26 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-09-04",
+      "published": "2026-09-05",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
+      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-09-05",
       "is_new": true,
       "status": "published"
     },
@@ -78,25 +97,6 @@
       "region": [
         "개성"
       ],
-      "num": null,
-      "published": "2026-09-04",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
-      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
       "num": null,
       "published": "2026-09-04",
       "is_new": true,
@@ -267,7 +267,7 @@
       ],
       "num": null,
       "published": "2026-08-28",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
