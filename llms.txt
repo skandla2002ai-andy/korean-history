@@ -27,8 +27,9 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (331편 · 최신순 · 갱신 2026-09-05)
+## 발행 완료 (332편 · 최신순 · 갱신 2026-09-05)
 
+- [한반도 철기문화 — 고대 국가 성립의 물질 기반](https://skandla2002ai-andy.github.io/korean-history/articles/ancient-iron-culture-korea.md): 선사시대 [NEW]
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [고려 과거제 — 신분보다 실력으로](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gwageo-system.md): 고려 · 개성 [NEW]
@@ -361,9 +362,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (315편)
+## 발행 예정 큐 (314편)
 
-- [322. 한반도 철기문화 — 고대 국가 성립의 물질 기반](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/322-ancient-iron-culture-korea.html): 선사시대
 - [323. 조선의 해금 정책 — 바다를 닫은 왕조](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/323-joseon-maritime-trade.html): 조선
 - [324. 주몽 설화 — 고구려 건국 신화의 역사성](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/324-goguryeo-jumong-legend.html): 고대 · 평양
 - [325. 춘향가 — 신분을 넘은 사랑 이야기](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/325-joseon-chunhyangga.html): 조선 · 전주

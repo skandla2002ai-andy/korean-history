@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-05",
   "stats": {
     "total": 646,
-    "published": 331,
-    "queued": 315,
-    "new": 10
+    "published": 332,
+    "queued": 314,
+    "new": 11
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "한반도 철기문화 — 고대 국가 성립의 물질 기반",
+      "description": "기원전 4~3세기 한반도에 전래된 철기문화. 농업 생산성 증가와 국가 형성의 연결고리.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ancient-iron-culture-korea.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ancient-iron-culture-korea.md",
+      "era": [
+        "선사시대"
+      ],
+      "topics": [
+        "고고학",
+        "경제"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-09-05",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
@@ -7048,25 +7067,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "한반도 철기문화 — 고대 국가 성립의 물질 기반",
-      "description": "기원전 4~3세기 한반도에 전래된 철기문화. 농업 생산성 증가와 국가 형성의 연결고리.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/322-ancient-iron-culture-korea.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/322-ancient-iron-culture-korea.md",
-      "era": [
-        "선사시대"
-      ],
-      "topics": [
-        "고고학",
-        "경제"
-      ],
-      "related": [],
-      "region": [],
-      "num": 322,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "조선의 해금 정책 — 바다를 닫은 왕조",
       "description": "조선이 민간 해상무역을 금지한 해금 정책. 왜구 대응과 중화 질서 편입의 결과.",
