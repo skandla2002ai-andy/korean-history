@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-07",
   "stats": {
     "total": 646,
-    "published": 333,
-    "queued": 313,
-    "new": 9
+    "published": 334,
+    "queued": 312,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,26 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-09-07",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "주몽 설화 — 고구려 건국 신화의 역사성",
+      "description": "알에서 태어나 나라를 세운 주몽. 건국 신화의 구조와 역사적 실체.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-jumong-legend.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-jumong-legend.md",
+      "era": [
+        "고대"
+      ],
+      "topics": [
+        "신화"
+      ],
+      "related": [],
+      "region": [
+        "평양"
+      ],
       "num": null,
       "published": "2026-09-07",
       "is_new": true,
@@ -7086,26 +7106,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "주몽 설화 — 고구려 건국 신화의 역사성",
-      "description": "알에서 태어나 나라를 세운 주몽. 건국 신화의 구조와 역사적 실체.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/324-goguryeo-jumong-legend.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/324-goguryeo-jumong-legend.md",
-      "era": [
-        "고대"
-      ],
-      "topics": [
-        "신화"
-      ],
-      "related": [],
-      "region": [
-        "평양"
-      ],
-      "num": 324,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "춘향가 — 신분을 넘은 사랑 이야기",
       "description": "판소리 춘향가의 역사와 문학적 의미. 이도령과 춘향의 사랑으로 본 조선 사회 비판.",
