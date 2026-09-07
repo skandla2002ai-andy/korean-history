@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-09-06",
+  "lastUpdated": "2026-09-07",
   "stats": {
     "total": 646,
     "published": 333,
     "queued": 313,
-    "new": 10
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-09-06",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "조선의 해금 정책 — 바다를 닫은 왕조",
-      "description": "조선이 민간 해상무역을 금지한 해금 정책. 왜구 대응과 중화 질서 편입의 결과.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-maritime-trade.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-maritime-trade.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "경제",
-        "외교"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-09-06",
+      "published": "2026-09-07",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-09-07",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선의 해금 정책 — 바다를 닫은 왕조",
+      "description": "조선이 민간 해상무역을 금지한 해금 정책. 왜구 대응과 중화 질서 편입의 결과.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-maritime-trade.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-maritime-trade.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "경제",
+        "외교"
       ],
       "related": [],
       "region": [],
@@ -238,7 +238,7 @@
       ],
       "num": null,
       "published": "2026-08-30",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
