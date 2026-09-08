@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-08",
   "stats": {
     "total": 646,
-    "published": 334,
-    "queued": 312,
-    "new": 10
+    "published": 335,
+    "queued": 311,
+    "new": 11
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-09-08",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "춘향가 — 신분을 넘은 사랑 이야기",
+      "description": "판소리 춘향가의 역사와 문학적 의미. 이도령과 춘향의 사랑으로 본 조선 사회 비판.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-chunhyangga.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-chunhyangga.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "문학"
+      ],
+      "related": [],
+      "region": [
+        "전주"
+      ],
       "num": null,
       "published": "2026-09-08",
       "is_new": true,
@@ -7106,27 +7127,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "춘향가 — 신분을 넘은 사랑 이야기",
-      "description": "판소리 춘향가의 역사와 문학적 의미. 이도령과 춘향의 사랑으로 본 조선 사회 비판.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/325-joseon-chunhyangga.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/325-joseon-chunhyangga.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "문학"
-      ],
-      "related": [],
-      "region": [
-        "전주"
-      ],
-      "num": 325,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "정전협정 — 끝나지 않은 전쟁",
       "description": "1953년 7월 27일 판문점 정전협정 체결. 3년 1개월의 전쟁이 끝나지 않고 멈춘 이유.",
