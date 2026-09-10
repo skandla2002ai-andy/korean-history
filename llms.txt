@@ -27,18 +27,18 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (336편 · 최신순 · 갱신 2026-09-09)
+## 발행 완료 (336편 · 최신순 · 갱신 2026-09-10)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [정전협정 — 끝나지 않은 전쟁](https://skandla2002ai-andy.github.io/korean-history/articles/korea-armistice-1953.md): 현대 · 판문점 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [정전협정 — 끝나지 않은 전쟁](https://skandla2002ai-andy.github.io/korean-history/articles/korea-armistice-1953.md): 현대 · 판문점 [NEW]
 - [춘향가 — 신분을 넘은 사랑 이야기](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-chunhyangga.md): 조선 · 전주 [NEW]
 - [주몽 설화 — 고구려 건국 신화의 역사성](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-jumong-legend.md): 고대 · 평양 [NEW]
 - [조선의 해금 정책 — 바다를 닫은 왕조](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-maritime-trade.md): 조선 [NEW]
 - [한반도 철기문화 — 고대 국가 성립의 물질 기반](https://skandla2002ai-andy.github.io/korean-history/articles/ancient-iron-culture-korea.md): 선사시대 [NEW]
 - [고려 과거제 — 신분보다 실력으로](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gwageo-system.md): 고려 · 개성 [NEW]
 - [대동여지도 — 김정호의 22첩 조선 지도](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-topography-map.md): 조선 [NEW]
-- [1960년대 수출주도 공업화 — 한강의 기적 1막](https://skandla2002ai-andy.github.io/korean-history/articles/korea-1960s-industrialization.md): 현대 [NEW]
+- [1960년대 수출주도 공업화 — 한강의 기적 1막](https://skandla2002ai-andy.github.io/korean-history/articles/korea-1960s-industrialization.md): 현대
 - [고려 여성의 지위 — 조선보다 자유로웠던 삶](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-women-status.md): 고려
 - [정도전 — 조선 설계자의 꿈과 죽음](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-jeong-dojeon.md): 조선 · 서울
 - [인천상륙작전 — 전세를 뒤집은 도박](https://skandla2002ai-andy.github.io/korean-history/articles/korean-war-incheon-landing.md): 현대 · 인천
