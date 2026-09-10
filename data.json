@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-10",
   "stats": {
     "total": 646,
-    "published": 336,
-    "queued": 310,
-    "new": 9
+    "published": 337,
+    "queued": 309,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-09-10",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고려의 국가 불교 — 연등회·팔관회와 불교 정치",
+      "description": "불교를 국교로 삼은 고려. 연등회·팔관회 등 국가 의례와 왕실 불교의 정치적 의미.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-buddhism-state.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-buddhism-state.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "불교",
+        "정치"
+      ],
+      "related": [],
+      "region": [
+        "개성"
+      ],
       "num": null,
       "published": "2026-09-10",
       "is_new": true,
@@ -7150,27 +7171,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "고려의 국가 불교 — 연등회·팔관회와 불교 정치",
-      "description": "불교를 국교로 삼은 고려. 연등회·팔관회 등 국가 의례와 왕실 불교의 정치적 의미.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/327-goryeo-buddhism-state.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/327-goryeo-buddhism-state.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "불교",
-        "정치"
-      ],
-      "related": [],
-      "region": [
-        "개성"
-      ],
-      "num": 327,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "농악 — 논과 마당에서 울린 민중의 음악",
       "description": "조선 민중의 집단 음악 농악. 두레·풍물·사물놀이로 이어지는 공동체 음악의 역사.",
