@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-11",
   "stats": {
     "total": 646,
-    "published": 337,
-    "queued": 309,
-    "new": 9
+    "published": 338,
+    "queued": 308,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-09-11",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "농악 — 논과 마당에서 울린 민중의 음악",
+      "description": "조선 민중의 집단 음악 농악. 두레·풍물·사물놀이로 이어지는 공동체 음악의 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-nongak-music.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-nongak-music.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "음악"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-09-11",
@@ -7171,25 +7190,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "농악 — 논과 마당에서 울린 민중의 음악",
-      "description": "조선 민중의 집단 음악 농악. 두레·풍물·사물놀이로 이어지는 공동체 음악의 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/328-joseon-nongak-music.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/328-joseon-nongak-music.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "음악"
-      ],
-      "related": [],
-      "region": [],
-      "num": 328,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "새마을운동 — 농촌 근대화의 빛과 그림자",
       "description": "1970년 박정희 정부가 시작한 새마을운동. 초가지붕 개량에서 농촌 소득 증대까지.",

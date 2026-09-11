@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (337편 · 최신순 · 갱신 2026-09-11)
+## 발행 완료 (338편 · 최신순 · 갱신 2026-09-11)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [농악 — 논과 마당에서 울린 민중의 음악](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-nongak-music.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [고려의 국가 불교 — 연등회·팔관회와 불교 정치](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-buddhism-state.md): 고려 · 개성 [NEW]
 - [정전협정 — 끝나지 않은 전쟁](https://skandla2002ai-andy.github.io/korean-history/articles/korea-armistice-1953.md): 현대 · 판문점 [NEW]
@@ -367,9 +368,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (309편)
+## 발행 예정 큐 (308편)
 
-- [328. 농악 — 논과 마당에서 울린 민중의 음악](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/328-joseon-nongak-music.html): 조선
 - [329. 새마을운동 — 농촌 근대화의 빛과 그림자](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/329-korea-saemaul-movement.html): 현대
 - [330. 팔관회 — 고려의 국가 축제](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/330-goryeo-palgwanhoe.html): 고려 · 개성
 - [331. 홍경래의 난 — 서북인의 오랜 울분](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/331-joseon-hong-gyeongnae.html): 조선 · 평양
