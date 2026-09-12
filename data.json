@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-12",
   "stats": {
     "total": 646,
-    "published": 338,
-    "queued": 308,
-    "new": 9
+    "published": 339,
+    "queued": 307,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-09-12",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "새마을운동 — 농촌 근대화의 빛과 그림자",
+      "description": "1970년 박정희 정부가 시작한 새마을운동. 초가지붕 개량에서 농촌 소득 증대까지.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-saemaul-movement.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-saemaul-movement.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "사회",
+        "경제"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-09-12",
@@ -7190,25 +7209,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "새마을운동 — 농촌 근대화의 빛과 그림자",
-      "description": "1970년 박정희 정부가 시작한 새마을운동. 초가지붕 개량에서 농촌 소득 증대까지.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/329-korea-saemaul-movement.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/329-korea-saemaul-movement.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "사회",
-        "경제"
-      ],
-      "related": [],
-      "region": [],
-      "num": 329,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "팔관회 — 고려의 국가 축제",
       "description": "고려의 최대 국가 행사 팔관회. 불교·토속신앙·외교가 결합된 다원적 국가 의례.",
