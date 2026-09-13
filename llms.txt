@@ -30,6 +30,7 @@
 ## 발행 완료 (339편 · 최신순 · 갱신 2026-09-13)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [팔관회 — 고려의 국가 축제](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-palgwanhoe.md): 고려 · 개성 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [새마을운동 — 농촌 근대화의 빛과 그림자](https://skandla2002ai-andy.github.io/korean-history/articles/korea-saemaul-movement.md): 현대 [NEW]
 - [농악 — 논과 마당에서 울린 민중의 음악](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-nongak-music.md): 조선 [NEW]
@@ -212,7 +213,6 @@
 - [거제도 포로수용소 — 전선 뒤의 또 다른 전쟁](https://skandla2002ai-andy.github.io/korean-history/articles/geoje-pow-camp.md): 현대
 - [고려 불화 — 세계 최고 수준의 불교 회화](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-buddhist-painting.md): 고려
 - [고려 인삼 무역 — 천년을 이어온 최고의 수출품](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-ginseng-trade.md): 고려
-- [고려 팔관회 — 불교와 토착신앙의 국가의례](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-palgwanhoe.md): 고려
 - [경국대전 편찬 — 조선 법치의 완성](https://skandla2002ai-andy.github.io/korean-history/articles/gyeongguk-daejeon-law.md): 조선
 - [헤이그 특사 — 이준의 마지막 호소](https://skandla2002ai-andy.github.io/korean-history/articles/hague-envoy-1907.md): 대한제국
 - [한산도대첩 — 학익진으로 일본 수군을 격파](https://skandla2002ai-andy.github.io/korean-history/articles/hansan-battle-crane-wing.md): 조선
@@ -369,9 +369,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (307편)
+## 발행 예정 큐 (306편)
 
-- [330. 팔관회 — 고려의 국가 축제](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/330-goryeo-palgwanhoe.html): 고려 · 개성
 - [331. 홍경래의 난 — 서북인의 오랜 울분](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/331-joseon-hong-gyeongnae.html): 조선 · 평양
 - [332. 대한민국 헌법 제정 — 민주공화국의 출발](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/332-korea-constitution-1948.html): 현대 · 서울
 - [333. 원효의 삶 — 파계승에서 민중 불교의 선구자로](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/333-silla-wonhyo-life.html): 삼국시대 · 경주

@@ -7,10 +7,10 @@
   "language": "ko",
   "lastUpdated": "2026-09-13",
   "stats": {
-    "total": 646,
+    "total": 645,
     "published": 339,
-    "queued": 307,
-    "new": 9
+    "queued": 306,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-09-13",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "팔관회 — 고려의 국가 축제",
+      "description": "고려의 최대 국가 행사 팔관회. 불교·토속신앙·외교가 결합된 다원적 국가 의례.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-palgwanhoe.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-palgwanhoe.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "불교",
+        "문화"
+      ],
+      "related": [],
+      "region": [
+        "개성"
+      ],
       "num": null,
       "published": "2026-09-13",
       "is_new": true,
@@ -3767,25 +3788,6 @@
       "status": "published"
     },
     {
-      "title": "고려 팔관회 — 불교와 토착신앙의 국가의례",
-      "description": "고려의 최대 국가 축제 팔관회. 불교·도교·무속이 결합된 복합 국가의례.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-palgwanhoe.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-palgwanhoe.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "문화",
-        "종교"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-06-21",
-      "is_new": false,
-      "status": "published"
-    },
-    {
       "title": "경국대전 편찬 — 조선 법치의 완성",
       "description": "1485년 성종 때 완성된 경국대전. 조선 500년을 지탱한 종합 법전.",
       "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/gyeongguk-daejeon-law.html",
@@ -7209,27 +7211,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "팔관회 — 고려의 국가 축제",
-      "description": "고려의 최대 국가 행사 팔관회. 불교·토속신앙·외교가 결합된 다원적 국가 의례.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/330-goryeo-palgwanhoe.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/330-goryeo-palgwanhoe.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "불교",
-        "문화"
-      ],
-      "related": [],
-      "region": [
-        "개성"
-      ],
-      "num": 330,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "홍경래의 난 — 서북인의 오랜 울분",
       "description": "1811년 평안도에서 일어난 홍경래의 난. 지역 차별에 항거한 서북 지역 무장봉기.",
