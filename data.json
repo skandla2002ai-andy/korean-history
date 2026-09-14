@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-14",
   "stats": {
     "total": 645,
-    "published": 339,
-    "queued": 306,
-    "new": 9
+    "published": 340,
+    "queued": 305,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-09-14",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "홍경래의 난 — 서북인의 오랜 울분",
+      "description": "1811년 평안도에서 일어난 홍경래의 난. 지역 차별에 항거한 서북 지역 무장봉기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hong-gyeongnae.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hong-gyeongnae.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "농민운동",
+        "정치"
+      ],
+      "related": [],
+      "region": [
+        "평양"
+      ],
       "num": null,
       "published": "2026-09-14",
       "is_new": true,
@@ -7211,27 +7232,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "홍경래의 난 — 서북인의 오랜 울분",
-      "description": "1811년 평안도에서 일어난 홍경래의 난. 지역 차별에 항거한 서북 지역 무장봉기.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/331-joseon-hong-gyeongnae.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/331-joseon-hong-gyeongnae.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "농민운동",
-        "정치"
-      ],
-      "related": [],
-      "region": [
-        "평양"
-      ],
-      "num": 331,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "대한민국 헌법 제정 — 민주공화국의 출발",
       "description": "1948년 7월 17일 대한민국 헌법 공포. 제헌 국회와 헌법 제정의 역사적 의미.",
