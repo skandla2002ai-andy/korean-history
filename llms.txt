@@ -27,18 +27,18 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (340편 · 최신순 · 갱신 2026-09-14)
+## 발행 완료 (340편 · 최신순 · 갱신 2026-09-15)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [홍경래의 난 — 서북인의 오랜 울분](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hong-gyeongnae.md): 조선 · 평양 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [홍경래의 난 — 서북인의 오랜 울분](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hong-gyeongnae.md): 조선 · 평양 [NEW]
 - [팔관회 — 고려의 국가 축제](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-palgwanhoe.md): 고려 · 개성 [NEW]
 - [새마을운동 — 농촌 근대화의 빛과 그림자](https://skandla2002ai-andy.github.io/korean-history/articles/korea-saemaul-movement.md): 현대 [NEW]
 - [농악 — 논과 마당에서 울린 민중의 음악](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-nongak-music.md): 조선 [NEW]
 - [고려의 국가 불교 — 연등회·팔관회와 불교 정치](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-buddhism-state.md): 고려 · 개성 [NEW]
 - [정전협정 — 끝나지 않은 전쟁](https://skandla2002ai-andy.github.io/korean-history/articles/korea-armistice-1953.md): 현대 · 판문점 [NEW]
 - [춘향가 — 신분을 넘은 사랑 이야기](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-chunhyangga.md): 조선 · 전주 [NEW]
-- [주몽 설화 — 고구려 건국 신화의 역사성](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-jumong-legend.md): 고대 · 평양 [NEW]
+- [주몽 설화 — 고구려 건국 신화의 역사성](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-jumong-legend.md): 고대 · 평양
 - [조선의 해금 정책 — 바다를 닫은 왕조](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-maritime-trade.md): 조선
 - [한반도 철기문화 — 고대 국가 성립의 물질 기반](https://skandla2002ai-andy.github.io/korean-history/articles/ancient-iron-culture-korea.md): 선사시대
 - [고려 과거제 — 신분보다 실력으로](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gwageo-system.md): 고려 · 개성
