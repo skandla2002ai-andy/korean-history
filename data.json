@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-15",
   "stats": {
     "total": 645,
-    "published": 340,
-    "queued": 305,
-    "new": 9
+    "published": 341,
+    "queued": 304,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-09-15",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "대한민국 헌법 제정 — 민주공화국의 출발",
+      "description": "1948년 7월 17일 대한민국 헌법 공포. 제헌 국회와 헌법 제정의 역사적 의미.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-constitution-1948.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korea-constitution-1948.md",
+      "era": [
+        "현대"
+      ],
+      "topics": [
+        "정치",
+        "제도"
+      ],
+      "related": [],
+      "region": [
+        "서울"
+      ],
       "num": null,
       "published": "2026-09-15",
       "is_new": true,
@@ -7232,27 +7253,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "대한민국 헌법 제정 — 민주공화국의 출발",
-      "description": "1948년 7월 17일 대한민국 헌법 공포. 제헌 국회와 헌법 제정의 역사적 의미.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/332-korea-constitution-1948.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/332-korea-constitution-1948.md",
-      "era": [
-        "현대"
-      ],
-      "topics": [
-        "정치",
-        "제도"
-      ],
-      "related": [],
-      "region": [
-        "서울"
-      ],
-      "num": 332,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "원효의 삶 — 파계승에서 민중 불교의 선구자로",
       "description": "요석공주와의 사랑, 해골 물 깨달음. 원효의 생애와 불교 대중화 운동.",

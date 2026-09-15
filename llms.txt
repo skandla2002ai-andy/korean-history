@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (340편 · 최신순 · 갱신 2026-09-15)
+## 발행 완료 (341편 · 최신순 · 갱신 2026-09-15)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [대한민국 헌법 제정 — 민주공화국의 출발](https://skandla2002ai-andy.github.io/korean-history/articles/korea-constitution-1948.md): 현대 · 서울 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [홍경래의 난 — 서북인의 오랜 울분](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hong-gyeongnae.md): 조선 · 평양 [NEW]
 - [팔관회 — 고려의 국가 축제](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-palgwanhoe.md): 고려 · 개성 [NEW]
@@ -370,9 +371,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (305편)
+## 발행 예정 큐 (304편)
 
-- [332. 대한민국 헌법 제정 — 민주공화국의 출발](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/332-korea-constitution-1948.html): 현대 · 서울
 - [333. 원효의 삶 — 파계승에서 민중 불교의 선구자로](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/333-silla-wonhyo-life.html): 삼국시대 · 경주
 - [334. 기생 문화 — 예술가인가 희생자인가](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/334-joseon-gisaeng-culture.html): 조선
 - [335. 홍건적의 침입 — 원나라 말기 혼란이 고려를 덮치다](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/335-goryeo-red-turban-invasions.html): 고려 · 개성
