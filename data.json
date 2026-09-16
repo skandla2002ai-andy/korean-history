@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-16",
   "stats": {
     "total": 645,
-    "published": 341,
-    "queued": 304,
-    "new": 9
+    "published": 342,
+    "queued": 303,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -76,6 +76,27 @@
       ],
       "related": [],
       "region": [],
+      "num": null,
+      "published": "2026-09-16",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "원효의 삶 — 파계승에서 민중 불교의 선구자로",
+      "description": "요석공주와의 사랑, 해골 물 깨달음. 원효의 생애와 불교 대중화 운동.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-wonhyo-life.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-wonhyo-life.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "불교",
+        "인물"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
       "num": null,
       "published": "2026-09-16",
       "is_new": true,
@@ -7253,27 +7274,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "원효의 삶 — 파계승에서 민중 불교의 선구자로",
-      "description": "요석공주와의 사랑, 해골 물 깨달음. 원효의 생애와 불교 대중화 운동.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/333-silla-wonhyo-life.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/333-silla-wonhyo-life.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "불교",
-        "인물"
-      ],
-      "related": [],
-      "region": [
-        "경주"
-      ],
-      "num": 333,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "기생 문화 — 예술가인가 희생자인가",
       "description": "조선의 관기 제도와 기생 문화. 황진이 등 예술적 기량과 사회적 억압의 양면.",
