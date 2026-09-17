@@ -7,10 +7,10 @@
   "language": "ko",
   "lastUpdated": "2026-09-17",
   "stats": {
-    "total": 645,
+    "total": 644,
     "published": 342,
-    "queued": 303,
-    "new": 9
+    "queued": 302,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-09-17",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "기생 문화 — 예술가인가 희생자인가",
+      "description": "조선의 관기 제도와 기생 문화. 황진이 등 예술적 기량과 사회적 억압의 양면.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisaeng-culture.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisaeng-culture.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "사회"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-09-17",
@@ -2258,25 +2277,6 @@
       "topics": [
         "문화",
         "인물"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-07-11",
-      "is_new": false,
-      "status": "published"
-    },
-    {
-      "title": "조선 기생 문화 — 예술가와 착취 사이",
-      "description": "조선의 관기 제도. 황진이로 대표되는 기생의 예술성과 구조적 억압 사이.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisaeng-culture.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisaeng-culture.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "사회",
-        "문화"
       ],
       "related": [],
       "region": [],
@@ -7274,25 +7274,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "기생 문화 — 예술가인가 희생자인가",
-      "description": "조선의 관기 제도와 기생 문화. 황진이 등 예술적 기량과 사회적 억압의 양면.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/334-joseon-gisaeng-culture.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/334-joseon-gisaeng-culture.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
-      "num": 334,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "홍건적의 침입 — 원나라 말기 혼란이 고려를 덮치다",
       "description": "1359~1361년 홍건적 2차 침입. 개경 함락과 공민왕의 안동 피난.",

@@ -30,6 +30,7 @@
 ## 발행 완료 (342편 · 최신순 · 갱신 2026-09-17)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [기생 문화 — 예술가인가 희생자인가](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisaeng-culture.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [원효의 삶 — 파계승에서 민중 불교의 선구자로](https://skandla2002ai-andy.github.io/korean-history/articles/silla-wonhyo-life.md): 삼국시대 · 경주 [NEW]
 - [대한민국 헌법 제정 — 민주공화국의 출발](https://skandla2002ai-andy.github.io/korean-history/articles/korea-constitution-1948.md): 현대 · 서울 [NEW]
@@ -138,7 +139,6 @@
 - [종묘 제례 — 유네스코가 인정한 왕실 의례](https://skandla2002ai-andy.github.io/korean-history/articles/jongmyo-jikji-ritual.md): 조선 · 한양·서울
 - [조선 천문학 — 혼천의·앙부일구와 독자 역법](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-astronomy.md): 조선
 - [김홍도·신윤복 — 조선 풍속화의 두 거장](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-genre-painting.md): 조선후기
-- [조선 기생 문화 — 예술가와 착취 사이](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisaeng-culture.md): 조선
 - [조선-여진 관계 — 회유와 정벌 사이](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-jurchens-policy.md): 조선
 - [육의전과 조선 상업 — 한양 시장의 역사](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-market-yujeon.md): 조선 · 한양·서울
 - [조선 수군 전술 — 거북선 이전의 해전 전략](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-navy-tactics.md): 조선
@@ -372,9 +372,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (303편)
+## 발행 예정 큐 (302편)
 
-- [334. 기생 문화 — 예술가인가 희생자인가](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/334-joseon-gisaeng-culture.html): 조선
 - [335. 홍건적의 침입 — 원나라 말기 혼란이 고려를 덮치다](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/335-goryeo-red-turban-invasions.html): 고려 · 개성
 - [336. 동의보감의 의학 체계 — 조선이 완성한 동아시아 의학](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/336-joseon-donguibogam-medicine.html): 조선
 - [337. 해인사의 역사 — 법보종찰의 천년](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/337-goryeo-haeinsa-history.html): 고려 · 합천
