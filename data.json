@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-18",
   "stats": {
     "total": 644,
-    "published": 342,
-    "queued": 302,
-    "new": 9
+    "published": 343,
+    "queued": 301,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,28 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-09-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "홍건적의 침입 — 원나라 말기 혼란이 고려를 덮치다",
+      "description": "1359~1361년 홍건적 2차 침입. 개경 함락과 공민왕의 안동 피난.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-red-turban-invasions.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-red-turban-invasions.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "개성"
+      ],
       "num": null,
       "published": "2026-09-18",
       "is_new": true,
@@ -7274,28 +7296,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "홍건적의 침입 — 원나라 말기 혼란이 고려를 덮치다",
-      "description": "1359~1361년 홍건적 2차 침입. 개경 함락과 공민왕의 안동 피난.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/335-goryeo-red-turban-invasions.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/335-goryeo-red-turban-invasions.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "전쟁"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [
-        "개성"
-      ],
-      "num": 335,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "동의보감의 의학 체계 — 조선이 완성한 동아시아 의학",
       "description": "허준의 동의보감(1613) 속 의학 이론. 향약 중심의 자주 의학과 동아시아 의학 집대성.",
