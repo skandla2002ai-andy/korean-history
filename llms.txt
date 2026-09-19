@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (343편 · 최신순 · 갱신 2026-09-19)
+## 발행 완료 (344편 · 최신순 · 갱신 2026-09-19)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [동의보감의 의학 체계 — 조선이 완성한 동아시아 의학](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-donguibogam-medicine.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [홍건적의 침입 — 원나라 말기 혼란이 고려를 덮치다](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-red-turban-invasions.md): 고려 · 개성 [NEW]
 - [기생 문화 — 예술가인가 희생자인가](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisaeng-culture.md): 조선 [NEW]
@@ -373,9 +374,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (301편)
+## 발행 예정 큐 (300편)
 
-- [336. 동의보감의 의학 체계 — 조선이 완성한 동아시아 의학](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/336-joseon-donguibogam-medicine.html): 조선
 - [337. 해인사의 역사 — 법보종찰의 천년](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/337-goryeo-haeinsa-history.html): 고려 · 합천
 - [338. 첨성대의 구조와 과학 — 돌 362개의 비밀](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/338-silla-cheomseongdae-detail.html): 삼국시대 · 경주
 - [339. 조선 궁녀 제도 — 입궁에서 출궁까지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/339-joseon-gungnyeo-system.html): 조선 · 서울

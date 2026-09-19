@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-19",
   "stats": {
     "total": 644,
-    "published": 343,
-    "queued": 301,
-    "new": 9
+    "published": 344,
+    "queued": 300,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-09-19",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "동의보감의 의학 체계 — 조선이 완성한 동아시아 의학",
+      "description": "허준의 동의보감(1613) 속 의학 이론. 향약 중심의 자주 의학과 동아시아 의학 집대성.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-donguibogam-medicine.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-donguibogam-medicine.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "과학기술",
+        "문화"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-09-19",
@@ -7296,25 +7315,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "동의보감의 의학 체계 — 조선이 완성한 동아시아 의학",
-      "description": "허준의 동의보감(1613) 속 의학 이론. 향약 중심의 자주 의학과 동아시아 의학 집대성.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/336-joseon-donguibogam-medicine.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/336-joseon-donguibogam-medicine.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "과학기술",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": 336,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "해인사의 역사 — 법보종찰의 천년",
       "description": "802년 창건된 해인사. 팔만대장경을 품은 법보종찰의 역사와 수난.",
