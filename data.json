@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-20",
   "stats": {
     "total": 644,
-    "published": 344,
-    "queued": 300,
-    "new": 9
+    "published": 345,
+    "queued": 299,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-09-20",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "해인사의 역사 — 법보종찰의 천년",
+      "description": "802년 창건된 해인사. 팔만대장경을 품은 법보종찰의 역사와 수난.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-haeinsa-history.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-haeinsa-history.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "불교",
+        "문화"
+      ],
+      "related": [],
+      "region": [
+        "합천"
+      ],
       "num": null,
       "published": "2026-09-20",
       "is_new": true,
@@ -7315,27 +7336,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "해인사의 역사 — 법보종찰의 천년",
-      "description": "802년 창건된 해인사. 팔만대장경을 품은 법보종찰의 역사와 수난.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/337-goryeo-haeinsa-history.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/337-goryeo-haeinsa-history.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "불교",
-        "문화"
-      ],
-      "related": [],
-      "region": [
-        "합천"
-      ],
-      "num": 337,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "첨성대의 구조와 과학 — 돌 362개의 비밀",
       "description": "선덕여왕 때 세워진 첨성대. 362개 돌의 배치와 천문 관측의 실체.",
