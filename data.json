@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-21",
   "stats": {
     "total": 644,
-    "published": 345,
-    "queued": 299,
-    "new": 9
+    "published": 346,
+    "queued": 298,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -76,6 +76,26 @@
       ],
       "related": [],
       "region": [],
+      "num": null,
+      "published": "2026-09-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "첨성대의 구조와 과학 — 돌 362개의 비밀",
+      "description": "선덕여왕 때 세워진 첨성대. 362개 돌의 배치와 천문 관측의 실체.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-cheomseongdae-detail.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-cheomseongdae-detail.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "과학기술"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
       "num": null,
       "published": "2026-09-21",
       "is_new": true,
@@ -7336,26 +7356,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "첨성대의 구조와 과학 — 돌 362개의 비밀",
-      "description": "선덕여왕 때 세워진 첨성대. 362개 돌의 배치와 천문 관측의 실체.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/338-silla-cheomseongdae-detail.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/338-silla-cheomseongdae-detail.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "과학기술"
-      ],
-      "related": [],
-      "region": [
-        "경주"
-      ],
-      "num": 338,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "조선 궁녀 제도 — 입궁에서 출궁까지",
       "description": "조선 왕실의 여성 인력 궁녀. 선발·교육·역할·일상과 궁 밖 세계.",
