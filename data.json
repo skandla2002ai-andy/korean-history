@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-22",
   "stats": {
     "total": 644,
-    "published": 346,
-    "queued": 298,
-    "new": 9
+    "published": 347,
+    "queued": 297,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-09-22",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선 궁녀 제도 — 입궁에서 출궁까지",
+      "description": "조선 왕실의 여성 인력 궁녀. 선발·교육·역할·일상과 궁 밖 세계.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gungnyeo-system.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gungnyeo-system.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사회",
+        "문화"
+      ],
+      "related": [],
+      "region": [
+        "서울"
+      ],
       "num": null,
       "published": "2026-09-22",
       "is_new": true,
@@ -7356,27 +7377,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "조선 궁녀 제도 — 입궁에서 출궁까지",
-      "description": "조선 왕실의 여성 인력 궁녀. 선발·교육·역할·일상과 궁 밖 세계.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/339-joseon-gungnyeo-system.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/339-joseon-gungnyeo-system.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "사회",
-        "문화"
-      ],
-      "related": [],
-      "region": [
-        "서울"
-      ],
-      "num": 339,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "도림의 간첩 작전 — 고구려의 백제 침투 공작",
       "description": "5세기 고구려 승려 도림이 백제 개로왕을 속여 국력을 소진시킨 첩보전.",
