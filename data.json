@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-23",
   "stats": {
     "total": 644,
-    "published": 347,
-    "queued": 297,
-    "new": 9
+    "published": 348,
+    "queued": 296,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-09-23",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "도림의 간첩 작전 — 고구려의 백제 침투 공작",
+      "description": "5세기 고구려 승려 도림이 백제 개로왕을 속여 국력을 소진시킨 첩보전.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-dorim-baekje.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-dorim-baekje.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "전쟁",
+        "정치"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-09-23",
@@ -7377,25 +7396,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "도림의 간첩 작전 — 고구려의 백제 침투 공작",
-      "description": "5세기 고구려 승려 도림이 백제 개로왕을 속여 국력을 소진시킨 첩보전.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/340-goguryeo-dorim-baekje.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/340-goguryeo-dorim-baekje.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "전쟁",
-        "정치"
-      ],
-      "related": [],
-      "region": [],
-      "num": 340,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "조선 4대 사화 — 선비들의 피바람",
       "description": "무오·갑자·기묘·을사 4대 사화. 훈구파와 사림파의 권력 투쟁과 대량 처형.",
