@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-09-23",
+  "lastUpdated": "2026-09-24",
   "stats": {
     "total": 644,
     "published": 348,
     "queued": 296,
-    "new": 10
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-09-23",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "도림의 간첩 작전 — 고구려의 백제 침투 공작",
-      "description": "5세기 고구려 승려 도림이 백제 개로왕을 속여 국력을 소진시킨 첩보전.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-dorim-baekje.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-dorim-baekje.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "전쟁",
-        "정치"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-09-23",
+      "published": "2026-09-24",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-09-24",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "도림의 간첩 작전 — 고구려의 백제 침투 공작",
+      "description": "5세기 고구려 승려 도림이 백제 개로왕을 속여 국력을 소진시킨 첩보전.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-dorim-baekje.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-dorim-baekje.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "전쟁",
+        "정치"
       ],
       "related": [],
       "region": [],
@@ -240,7 +240,7 @@
       ],
       "num": null,
       "published": "2026-09-16",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
