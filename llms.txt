@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (348편 · 최신순 · 갱신 2026-09-24)
+## 발행 완료 (349편 · 최신순 · 갱신 2026-09-24)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [조선 4대 사화 — 선비들의 피바람](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-sahwa-four.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [도림의 간첩 작전 — 고구려의 백제 침투 공작](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-dorim-baekje.md): 삼국시대 [NEW]
 - [조선 궁녀 제도 — 입궁에서 출궁까지](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gungnyeo-system.md): 조선 · 서울 [NEW]
@@ -378,9 +379,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (296편)
+## 발행 예정 큐 (295편)
 
-- [341. 조선 4대 사화 — 선비들의 피바람](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/341-joseon-sahwa-four.html): 조선
 - [342. 최충헌의 집권 — 고려판 막부의 탄생](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/342-goryeo-choi-chung-heon.html): 고려 · 개성
 - [343. 근초고왕의 정복 — 백제 최전성기](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/343-baekje-geuncho-expansion.html): 삼국시대
 - [344. 조선의 권술 전략 — 사대와 교린](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/344-joseon-gwonsul-strategy.html): 조선
