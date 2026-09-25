@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-09-24",
+  "lastUpdated": "2026-09-25",
   "stats": {
     "total": 644,
     "published": 349,
     "queued": 295,
-    "new": 10
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,25 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-09-24",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "조선 4대 사화 — 선비들의 피바람",
-      "description": "무오·갑자·기묘·을사 4대 사화. 훈구파와 사림파의 권력 투쟁과 대량 처형.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-sahwa-four.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-sahwa-four.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-09-24",
+      "published": "2026-09-25",
       "is_new": true,
       "status": "published"
     },
@@ -91,6 +73,24 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-09-25",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선 4대 사화 — 선비들의 피바람",
+      "description": "무오·갑자·기묘·을사 4대 사화. 훈구파와 사림파의 권력 투쟁과 대량 처형.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-sahwa-four.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-sahwa-four.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치"
       ],
       "related": [],
       "region": [],
@@ -237,7 +237,7 @@
       "region": [],
       "num": null,
       "published": "2026-09-17",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {

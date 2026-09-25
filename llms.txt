@@ -27,18 +27,18 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (349편 · 최신순 · 갱신 2026-09-24)
+## 발행 완료 (349편 · 최신순 · 갱신 2026-09-25)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [조선 4대 사화 — 선비들의 피바람](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-sahwa-four.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [조선 4대 사화 — 선비들의 피바람](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-sahwa-four.md): 조선 [NEW]
 - [도림의 간첩 작전 — 고구려의 백제 침투 공작](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-dorim-baekje.md): 삼국시대 [NEW]
 - [조선 궁녀 제도 — 입궁에서 출궁까지](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gungnyeo-system.md): 조선 · 서울 [NEW]
 - [첨성대의 구조와 과학 — 돌 362개의 비밀](https://skandla2002ai-andy.github.io/korean-history/articles/silla-cheomseongdae-detail.md): 삼국시대 · 경주 [NEW]
 - [해인사의 역사 — 법보종찰의 천년](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-haeinsa-history.md): 고려 · 합천 [NEW]
 - [동의보감의 의학 체계 — 조선이 완성한 동아시아 의학](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-donguibogam-medicine.md): 조선 [NEW]
 - [홍건적의 침입 — 원나라 말기 혼란이 고려를 덮치다](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-red-turban-invasions.md): 고려 · 개성 [NEW]
-- [기생 문화 — 예술가인가 희생자인가](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisaeng-culture.md): 조선 [NEW]
+- [기생 문화 — 예술가인가 희생자인가](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisaeng-culture.md): 조선
 - [원효의 삶 — 파계승에서 민중 불교의 선구자로](https://skandla2002ai-andy.github.io/korean-history/articles/silla-wonhyo-life.md): 삼국시대 · 경주
 - [대한민국 헌법 제정 — 민주공화국의 출발](https://skandla2002ai-andy.github.io/korean-history/articles/korea-constitution-1948.md): 현대 · 서울
 - [홍경래의 난 — 서북인의 오랜 울분](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hong-gyeongnae.md): 조선 · 평양
