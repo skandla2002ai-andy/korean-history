@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-25",
   "stats": {
     "total": 644,
-    "published": 349,
-    "queued": 295,
-    "new": 9
+    "published": 350,
+    "queued": 294,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-09-25",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "최충헌의 집권 — 고려판 막부의 탄생",
+      "description": "1196년 최충헌이 이의민을 제거하고 권력을 장악. 60년 최씨 무신정권의 시작.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-choi-chung-heon.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-choi-chung-heon.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "정치",
+        "인물"
+      ],
+      "related": [],
+      "region": [
+        "개성"
+      ],
       "num": null,
       "published": "2026-09-25",
       "is_new": true,
@@ -7414,27 +7435,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "최충헌의 집권 — 고려판 막부의 탄생",
-      "description": "1196년 최충헌이 이의민을 제거하고 권력을 장악. 60년 최씨 무신정권의 시작.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/342-goryeo-choi-chung-heon.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/342-goryeo-choi-chung-heon.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "정치",
-        "인물"
-      ],
-      "related": [],
-      "region": [
-        "개성"
-      ],
-      "num": 342,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "근초고왕의 정복 — 백제 최전성기",
       "description": "4세기 근초고왕의 대외 팽창. 고구려 고국원왕 전사, 마한 통합, 일본 교류.",
