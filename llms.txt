@@ -27,8 +27,9 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (350편 · 최신순 · 갱신 2026-09-26)
+## 발행 완료 (351편 · 최신순 · 갱신 2026-09-26)
 
+- [근초고왕의 정복 — 백제 최전성기](https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geuncho-expansion.md): 삼국시대 [NEW]
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [최충헌의 집권 — 고려판 막부의 탄생](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-choi-chung-heon.md): 고려 · 개성 [NEW]
@@ -380,9 +381,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (294편)
+## 발행 예정 큐 (293편)
 
-- [343. 근초고왕의 정복 — 백제 최전성기](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/343-baekje-geuncho-expansion.html): 삼국시대
 - [344. 조선의 권술 전략 — 사대와 교린](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/344-joseon-gwonsul-strategy.html): 조선
 - [345. 의상과 화엄종 — 신라 불교의 꽃](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/345-goryeo-uisang-hwaeom.html): 삼국시대 · 경주
 - [346. 조선의 노비 매매 — 사람이 재산이 된 사회](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/346-joseon-slave-trade.html): 조선

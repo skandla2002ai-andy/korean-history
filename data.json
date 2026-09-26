@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-26",
   "stats": {
     "total": 644,
-    "published": 350,
-    "queued": 294,
-    "new": 9
+    "published": 351,
+    "queued": 293,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,27 @@
     }
   ],
   "articles": [
+    {
+      "title": "근초고왕의 정복 — 백제 최전성기",
+      "description": "4세기 근초고왕의 대외 팽창. 고구려 고국원왕 전사, 마한 통합, 일본 교류.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geuncho-expansion.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geuncho-expansion.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "전쟁",
+        "정치"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-09-26",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
@@ -7435,27 +7456,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "근초고왕의 정복 — 백제 최전성기",
-      "description": "4세기 근초고왕의 대외 팽창. 고구려 고국원왕 전사, 마한 통합, 일본 교류.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/343-baekje-geuncho-expansion.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/343-baekje-geuncho-expansion.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "전쟁",
-        "정치"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 343,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "조선의 권술 전략 — 사대와 교린",
       "description": "조선 외교의 양대 원칙 사대(事大)와 교린(交隣). 중국·일본·여진과의 관계 설정.",
