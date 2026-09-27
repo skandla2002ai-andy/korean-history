@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-27",
   "stats": {
     "total": 644,
-    "published": 351,
-    "queued": 293,
-    "new": 9
+    "published": 352,
+    "queued": 292,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -54,6 +54,27 @@
         "역사"
       ],
       "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-09-27",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선의 권술 전략 — 사대와 교린",
+      "description": "조선 외교의 양대 원칙 사대(事大)와 교린(交隣). 중국·일본·여진과의 관계 설정.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gwonsul-strategy.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gwonsul-strategy.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "외교"
+      ],
+      "related": [
+        "중국",
         "일본"
       ],
       "region": [],
@@ -7456,27 +7477,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "조선의 권술 전략 — 사대와 교린",
-      "description": "조선 외교의 양대 원칙 사대(事大)와 교린(交隣). 중국·일본·여진과의 관계 설정.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/344-joseon-gwonsul-strategy.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/344-joseon-gwonsul-strategy.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "외교"
-      ],
-      "related": [
-        "중국",
-        "일본"
-      ],
-      "region": [],
-      "num": 344,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "의상과 화엄종 — 신라 불교의 꽃",
       "description": "당나라 유학 후 귀국한 의상. 화엄종 개창과 부석사 창건.",
