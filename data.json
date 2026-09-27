@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-09-26",
+  "lastUpdated": "2026-09-27",
   "stats": {
     "total": 644,
     "published": 351,
     "queued": 293,
-    "new": 10
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -42,27 +42,6 @@
   ],
   "articles": [
     {
-      "title": "근초고왕의 정복 — 백제 최전성기",
-      "description": "4세기 근초고왕의 대외 팽창. 고구려 고국원왕 전사, 마한 통합, 일본 교류.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geuncho-expansion.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geuncho-expansion.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "전쟁",
-        "정치"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": null,
-      "published": "2026-09-26",
-      "is_new": true,
-      "status": "published"
-    },
-    {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
       "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.html",
@@ -79,7 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-09-26",
+      "published": "2026-09-27",
       "is_new": true,
       "status": "published"
     },
@@ -96,6 +75,27 @@
         "사회"
       ],
       "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-09-27",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "근초고왕의 정복 — 백제 최전성기",
+      "description": "4세기 근초고왕의 대외 팽창. 고구려 고국원왕 전사, 마한 통합, 일본 교류.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geuncho-expansion.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geuncho-expansion.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "전쟁",
+        "정치"
+      ],
+      "related": [
+        "일본"
+      ],
       "region": [],
       "num": null,
       "published": "2026-09-26",
@@ -238,7 +238,7 @@
       "region": [],
       "num": null,
       "published": "2026-09-19",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
