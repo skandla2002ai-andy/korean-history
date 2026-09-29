@@ -8,9 +8,9 @@
   "lastUpdated": "2026-09-29",
   "stats": {
     "total": 644,
-    "published": 352,
-    "queued": 292,
-    "new": 8
+    "published": 353,
+    "queued": 291,
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,29 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-09-29",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "의상과 화엄종 — 신라 불교의 꽃",
+      "description": "당나라 유학 후 귀국한 의상. 화엄종 개창과 부석사 창건.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-uisang-hwaeom.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-uisang-hwaeom.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "불교",
+        "인물"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "경주"
+      ],
       "num": null,
       "published": "2026-09-29",
       "is_new": true,
@@ -7477,29 +7500,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "의상과 화엄종 — 신라 불교의 꽃",
-      "description": "당나라 유학 후 귀국한 의상. 화엄종 개창과 부석사 창건.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/345-goryeo-uisang-hwaeom.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/345-goryeo-uisang-hwaeom.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "불교",
-        "인물"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [
-        "경주"
-      ],
-      "num": 345,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "조선의 노비 매매 — 사람이 재산이 된 사회",
       "description": "조선 최대 신분층 노비. 매매·세습·도망·속량의 전 과정.",
