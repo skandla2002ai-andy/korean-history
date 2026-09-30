@@ -5,11 +5,11 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-09-29",
+  "lastUpdated": "2026-09-30",
   "stats": {
     "total": 644,
-    "published": 353,
-    "queued": 291,
+    "published": 354,
+    "queued": 290,
     "new": 9
   },
   "endpoints": {
@@ -58,7 +58,45 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-09-29",
+      "published": "2026-09-30",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선의 노비 매매 — 사람이 재산이 된 사회",
+      "description": "조선 최대 신분층 노비. 매매·세습·도망·속량의 전 과정.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-slave-trade.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-slave-trade.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사회",
+        "제도"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-09-30",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
+      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-09-30",
       "is_new": true,
       "status": "published"
     },
@@ -80,25 +118,6 @@
       "region": [
         "경주"
       ],
-      "num": null,
-      "published": "2026-09-29",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
-      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
       "num": null,
       "published": "2026-09-29",
       "is_new": true,
@@ -222,7 +241,7 @@
       ],
       "num": null,
       "published": "2026-09-22",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -7500,25 +7519,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "조선의 노비 매매 — 사람이 재산이 된 사회",
-      "description": "조선 최대 신분층 노비. 매매·세습·도망·속량의 전 과정.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/346-joseon-slave-trade.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/346-joseon-slave-trade.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "사회",
-        "제도"
-      ],
-      "related": [],
-      "region": [],
-      "num": 346,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "정습명의 고려 — 문신 귀족 사회의 절정",
       "description": "11~12세기 고려 문벌 귀족 사회. 음서제·통혼권·토지 독점의 구조.",

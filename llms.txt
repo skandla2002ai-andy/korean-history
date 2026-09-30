@@ -27,17 +27,18 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (353편 · 최신순 · 갱신 2026-09-29)
+## 발행 완료 (354편 · 최신순 · 갱신 2026-09-30)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [의상과 화엄종 — 신라 불교의 꽃](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-uisang-hwaeom.md): 삼국시대 · 경주 [NEW]
+- [조선의 노비 매매 — 사람이 재산이 된 사회](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-slave-trade.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [의상과 화엄종 — 신라 불교의 꽃](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-uisang-hwaeom.md): 삼국시대 · 경주 [NEW]
 - [조선의 권술 전략 — 사대와 교린](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gwonsul-strategy.md): 조선 [NEW]
 - [근초고왕의 정복 — 백제 최전성기](https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geuncho-expansion.md): 삼국시대 [NEW]
 - [최충헌의 집권 — 고려판 막부의 탄생](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-choi-chung-heon.md): 고려 · 개성 [NEW]
 - [조선 4대 사화 — 선비들의 피바람](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-sahwa-four.md): 조선 [NEW]
 - [도림의 간첩 작전 — 고구려의 백제 침투 공작](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-dorim-baekje.md): 삼국시대 [NEW]
-- [조선 궁녀 제도 — 입궁에서 출궁까지](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gungnyeo-system.md): 조선 · 서울 [NEW]
+- [조선 궁녀 제도 — 입궁에서 출궁까지](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gungnyeo-system.md): 조선 · 서울
 - [첨성대의 구조와 과학 — 돌 362개의 비밀](https://skandla2002ai-andy.github.io/korean-history/articles/silla-cheomseongdae-detail.md): 삼국시대 · 경주
 - [해인사의 역사 — 법보종찰의 천년](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-haeinsa-history.md): 고려 · 합천
 - [동의보감의 의학 체계 — 조선이 완성한 동아시아 의학](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-donguibogam-medicine.md): 조선
@@ -383,9 +384,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (291편)
+## 발행 예정 큐 (290편)
 
-- [346. 조선의 노비 매매 — 사람이 재산이 된 사회](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/346-joseon-slave-trade.html): 조선
 - [347. 정습명의 고려 — 문신 귀족 사회의 절정](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/347-goryeo-jeong-seup.html): 고려 · 개성
 - [348. 향리의 역할 — 지방 행정의 실질적 담당자](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/348-joseon-hyang-role.html): 조선
 - [349. 신라 금관과 귀금속 공예 — 황금의 나라](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/349-silla-musok-art.html): 삼국시대 · 경주
