@@ -5,11 +5,11 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-09-30",
+  "lastUpdated": "2026-10-01",
   "stats": {
     "total": 644,
-    "published": 354,
-    "queued": 290,
+    "published": 355,
+    "queued": 289,
     "new": 9
   },
   "endpoints": {
@@ -58,26 +58,28 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-09-30",
+      "published": "2026-10-01",
       "is_new": true,
       "status": "published"
     },
     {
-      "title": "조선의 노비 매매 — 사람이 재산이 된 사회",
-      "description": "조선 최대 신분층 노비. 매매·세습·도망·속량의 전 과정.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-slave-trade.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-slave-trade.md",
+      "title": "정습명의 고려 — 문신 귀족 사회의 절정",
+      "description": "11~12세기 고려 문벌 귀족 사회. 음서제·통혼권·토지 독점의 구조.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-jeong-seup.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-jeong-seup.md",
       "era": [
-        "조선"
+        "고려"
       ],
       "topics": [
         "사회",
-        "제도"
+        "정치"
       ],
       "related": [],
-      "region": [],
+      "region": [
+        "개성"
+      ],
       "num": null,
-      "published": "2026-09-30",
+      "published": "2026-10-01",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +94,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-10-01",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선의 노비 매매 — 사람이 재산이 된 사회",
+      "description": "조선 최대 신분층 노비. 매매·세습·도망·속량의 전 과정.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-slave-trade.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-slave-trade.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사회",
+        "제도"
       ],
       "related": [],
       "region": [],
@@ -220,7 +241,7 @@
       "region": [],
       "num": null,
       "published": "2026-09-23",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -7519,27 +7540,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "정습명의 고려 — 문신 귀족 사회의 절정",
-      "description": "11~12세기 고려 문벌 귀족 사회. 음서제·통혼권·토지 독점의 구조.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/347-goryeo-jeong-seup.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/347-goryeo-jeong-seup.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "사회",
-        "정치"
-      ],
-      "related": [],
-      "region": [
-        "개성"
-      ],
-      "num": 347,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "향리의 역할 — 지방 행정의 실질적 담당자",
       "description": "중앙에서 파견된 수령을 보좌한 향리. 조선 지방 행정의 실무를 맡은 중간 계층.",
