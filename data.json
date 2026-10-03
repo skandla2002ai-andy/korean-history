@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-03",
   "stats": {
     "total": 644,
-    "published": 357,
-    "queued": 287,
-    "new": 9
+    "published": 358,
+    "queued": 286,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,24 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-10-03",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "350번 특집 — 한국사 아카이브 350편",
+      "description": "350번째 글 특집. 한국 역사 속 350가지 장면을 돌아보며.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-350th.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-350th.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "역사"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-10-03",
@@ -7580,24 +7598,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "350번 특집 — 한국사 아카이브 350편",
-      "description": "350번째 글 특집. 한국 역사 속 350가지 장면을 돌아보며.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/350-joseon-350th.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/350-joseon-350th.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 350,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "만부교 사건 — 왕건의 거란 사신 모욕",
       "description": "942년 고려 태조가 거란 사신을 유배보내고 낙타를 굶겨 죽인 사건.",
