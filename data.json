@@ -5,11 +5,11 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-10-02",
+  "lastUpdated": "2026-10-03",
   "stats": {
     "total": 644,
-    "published": 356,
-    "queued": 288,
+    "published": 357,
+    "queued": 287,
     "new": 9
   },
   "endpoints": {
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-10-02",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "향리의 역할 — 지방 행정의 실질적 담당자",
-      "description": "중앙에서 파견된 수령을 보좌한 향리. 조선 지방 행정의 실무를 맡은 중간 계층.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hyang-role.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hyang-role.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "제도",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "is_new": true,
       "status": "published"
     },
@@ -91,6 +72,46 @@
       ],
       "topics": [
         "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-10-03",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "신라 금관과 귀금속 공예 — 황금의 나라",
+      "description": "경주 고분에서 출토된 신라 금관. 북방 유목문화와 신라 고유 양식의 융합.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-musok-art.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-musok-art.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "문화",
+        "고고학"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
+      "num": null,
+      "published": "2026-10-03",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "향리의 역할 — 지방 행정의 실질적 담당자",
+      "description": "중앙에서 파견된 수령을 보좌한 향리. 조선 지방 행정의 실무를 맡은 중간 계층.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hyang-role.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hyang-role.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "제도",
         "사회"
       ],
       "related": [],
@@ -223,7 +244,7 @@
       ],
       "num": null,
       "published": "2026-09-25",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -7559,27 +7580,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "신라 금관과 귀금속 공예 — 황금의 나라",
-      "description": "경주 고분에서 출토된 신라 금관. 북방 유목문화와 신라 고유 양식의 융합.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/349-silla-musok-art.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/349-silla-musok-art.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "문화",
-        "고고학"
-      ],
-      "related": [],
-      "region": [
-        "경주"
-      ],
-      "num": 349,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "350번 특집 — 한국사 아카이브 350편",
       "description": "350번째 글 특집. 한국 역사 속 350가지 장면을 돌아보며.",
