@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-04",
   "stats": {
     "total": 644,
-    "published": 358,
-    "queued": 286,
-    "new": 9
+    "published": 359,
+    "queued": 285,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-10-04",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "만부교 사건 — 왕건의 거란 사신 모욕",
+      "description": "942년 고려 태조가 거란 사신을 유배보내고 낙타를 굶겨 죽인 사건.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-manbu-bridge.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-manbu-bridge.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "외교",
+        "정치"
+      ],
+      "related": [],
+      "region": [
+        "개성"
+      ],
       "num": null,
       "published": "2026-10-04",
       "is_new": true,
@@ -7598,27 +7619,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "만부교 사건 — 왕건의 거란 사신 모욕",
-      "description": "942년 고려 태조가 거란 사신을 유배보내고 낙타를 굶겨 죽인 사건.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/351-goryeo-manbu-bridge.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/351-goryeo-manbu-bridge.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "외교",
-        "정치"
-      ],
-      "related": [],
-      "region": [
-        "개성"
-      ],
-      "num": 351,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "인왕산과 한양 풍수 — 조선 도읍지의 비밀",
       "description": "한양 천도와 풍수지리. 북악산·인왕산·낙산·남산이 만드는 내사산의 의미.",
