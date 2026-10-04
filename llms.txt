@@ -27,18 +27,18 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (358편 · 최신순 · 갱신 2026-10-03)
+## 발행 완료 (358편 · 최신순 · 갱신 2026-10-04)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [350번 특집 — 한국사 아카이브 350편](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-350th.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [350번 특집 — 한국사 아카이브 350편](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-350th.md): 조선 [NEW]
 - [신라 금관과 귀금속 공예 — 황금의 나라](https://skandla2002ai-andy.github.io/korean-history/articles/silla-musok-art.md): 삼국시대 · 경주 [NEW]
 - [향리의 역할 — 지방 행정의 실질적 담당자](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hyang-role.md): 조선 [NEW]
 - [정습명의 고려 — 문신 귀족 사회의 절정](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-jeong-seup.md): 고려 · 개성 [NEW]
 - [조선의 노비 매매 — 사람이 재산이 된 사회](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-slave-trade.md): 조선 [NEW]
 - [의상과 화엄종 — 신라 불교의 꽃](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-uisang-hwaeom.md): 삼국시대 · 경주 [NEW]
 - [조선의 권술 전략 — 사대와 교린](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gwonsul-strategy.md): 조선 [NEW]
-- [근초고왕의 정복 — 백제 최전성기](https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geuncho-expansion.md): 삼국시대 [NEW]
+- [근초고왕의 정복 — 백제 최전성기](https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geuncho-expansion.md): 삼국시대
 - [최충헌의 집권 — 고려판 막부의 탄생](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-choi-chung-heon.md): 고려 · 개성
 - [조선 4대 사화 — 선비들의 피바람](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-sahwa-four.md): 조선
 - [도림의 간첩 작전 — 고구려의 백제 침투 공작](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-dorim-baekje.md): 삼국시대
