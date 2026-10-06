@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-06",
   "stats": {
     "total": 644,
-    "published": 359,
-    "queued": 285,
-    "new": 9
+    "published": 360,
+    "queued": 284,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-10-06",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "인왕산과 한양 풍수 — 조선 도읍지의 비밀",
+      "description": "한양 천도와 풍수지리. 북악산·인왕산·낙산·남산이 만드는 내사산의 의미.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-inwang-geumdan.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-inwang-geumdan.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "역사"
+      ],
+      "related": [],
+      "region": [
+        "서울"
+      ],
       "num": null,
       "published": "2026-10-06",
       "is_new": true,
@@ -7619,27 +7640,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "인왕산과 한양 풍수 — 조선 도읍지의 비밀",
-      "description": "한양 천도와 풍수지리. 북악산·인왕산·낙산·남산이 만드는 내사산의 의미.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/352-joseon-inwang-geumdan.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/352-joseon-inwang-geumdan.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "역사"
-      ],
-      "related": [],
-      "region": [
-        "서울"
-      ],
-      "num": 352,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "계림과 신라 국호 — 닭 울음소리의 건국 신화",
       "description": "신라 국호의 유래와 계림. 김알지 탄생 설화와 경주 계림의 역사.",

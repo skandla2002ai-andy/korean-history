@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (359편 · 최신순 · 갱신 2026-10-06)
+## 발행 완료 (360편 · 최신순 · 갱신 2026-10-06)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [인왕산과 한양 풍수 — 조선 도읍지의 비밀](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-inwang-geumdan.md): 조선 · 서울 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [만부교 사건 — 왕건의 거란 사신 모욕](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-manbu-bridge.md): 고려 · 개성 [NEW]
 - [350번 특집 — 한국사 아카이브 350편](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-350th.md): 조선 [NEW]
@@ -389,9 +390,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (285편)
+## 발행 예정 큐 (284편)
 
-- [352. 인왕산과 한양 풍수 — 조선 도읍지의 비밀](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/352-joseon-inwang-geumdan.html): 조선 · 서울
 - [353. 계림과 신라 국호 — 닭 울음소리의 건국 신화](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/353-silla-gyerim-origin.html): 삼국시대 · 경주
 - [354. 춘추관과 실록 편찬 — 왕도 볼 수 없는 기록](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/354-joseon-chunchu-exam.html): 조선 · 서울
 - [355. 고려 현종과 거란 3차 침입 — 나라의 운명을 건 전투](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/355-goryeo-hyun-deok-wang.html): 고려 · 개성
