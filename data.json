@@ -5,11 +5,11 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-10-06",
+  "lastUpdated": "2026-10-07",
   "stats": {
     "total": 644,
-    "published": 360,
-    "queued": 284,
+    "published": 361,
+    "queued": 283,
     "new": 10
   },
   "endpoints": {
@@ -58,7 +58,47 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-10-06",
+      "published": "2026-10-07",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
+      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-10-07",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "계림과 신라 국호 — 닭 울음소리의 건국 신화",
+      "description": "신라 국호의 유래와 계림. 김알지 탄생 설화와 경주 계림의 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-gyerim-origin.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-gyerim-origin.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "신화",
+        "역사"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
+      "num": null,
+      "published": "2026-10-07",
       "is_new": true,
       "status": "published"
     },
@@ -78,25 +118,6 @@
       "region": [
         "서울"
       ],
-      "num": null,
-      "published": "2026-10-06",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
-      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
       "num": null,
       "published": "2026-10-06",
       "is_new": true,
@@ -241,7 +262,7 @@
       ],
       "num": null,
       "published": "2026-09-29",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -7640,27 +7661,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "계림과 신라 국호 — 닭 울음소리의 건국 신화",
-      "description": "신라 국호의 유래와 계림. 김알지 탄생 설화와 경주 계림의 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/353-silla-gyerim-origin.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/353-silla-gyerim-origin.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "신화",
-        "역사"
-      ],
-      "related": [],
-      "region": [
-        "경주"
-      ],
-      "num": 353,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "춘추관과 실록 편찬 — 왕도 볼 수 없는 기록",
       "description": "조선왕조실록 편찬 기관 춘추관. 왕도 볼 수 없는 사관 독립의 원칙.",
