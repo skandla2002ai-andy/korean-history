@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-09",
   "stats": {
     "total": 644,
-    "published": 362,
-    "queued": 282,
-    "new": 9
+    "published": 363,
+    "queued": 281,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-10-09",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고려 현종과 거란 3차 침입 — 나라의 운명을 건 전투",
+      "description": "1018년 귀주대첩. 강감찬이 거란 10만 대군을 섬멸한 고려 최대 승전.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-hyun-deok-wang.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-hyun-deok-wang.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "전쟁",
+        "인물"
+      ],
+      "related": [],
+      "region": [
+        "개성"
+      ],
       "num": null,
       "published": "2026-10-09",
       "is_new": true,
@@ -7682,27 +7703,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "고려 현종과 거란 3차 침입 — 나라의 운명을 건 전투",
-      "description": "1018년 귀주대첩. 강감찬이 거란 10만 대군을 섬멸한 고려 최대 승전.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/355-goryeo-hyun-deok-wang.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/355-goryeo-hyun-deok-wang.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "전쟁",
-        "인물"
-      ],
-      "related": [],
-      "region": [
-        "개성"
-      ],
-      "num": 355,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "홍대용의 지전설 — 지구가 돈다는 조선 선비",
       "description": "18세기 실학자 홍대용. 지전설·무한우주론·화이관 타파의 근대적 사유.",

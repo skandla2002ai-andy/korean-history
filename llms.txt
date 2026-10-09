@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (362편 · 최신순 · 갱신 2026-10-09)
+## 발행 완료 (363편 · 최신순 · 갱신 2026-10-09)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [고려 현종과 거란 3차 침입 — 나라의 운명을 건 전투](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-hyun-deok-wang.md): 고려 · 개성 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [춘추관과 실록 편찬 — 왕도 볼 수 없는 기록](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-chunchu-exam.md): 조선 · 서울 [NEW]
 - [계림과 신라 국호 — 닭 울음소리의 건국 신화](https://skandla2002ai-andy.github.io/korean-history/articles/silla-gyerim-origin.md): 삼국시대 · 경주 [NEW]
@@ -392,9 +393,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (282편)
+## 발행 예정 큐 (281편)
 
-- [355. 고려 현종과 거란 3차 침입 — 나라의 운명을 건 전투](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/355-goryeo-hyun-deok-wang.html): 고려 · 개성
 - [356. 홍대용의 지전설 — 지구가 돈다는 조선 선비](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/356-joseon-hong-daeyong-thought.html): 조선
 - [357. 고조선의 8조법 — 동아시아 최초의 법전](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/357-ancient-gojoseon-culture.html): 고대
 - [358. 규합총서 — 조선 여성이 쓴 생활 백과사전](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/358-joseon-gyuhap-chongseo.html): 조선
