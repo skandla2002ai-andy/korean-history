@@ -27,18 +27,19 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (363편 · 최신순 · 갱신 2026-10-09)
+## 발행 완료 (364편 · 최신순 · 갱신 2026-10-10)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [고려 현종과 거란 3차 침입 — 나라의 운명을 건 전투](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-hyun-deok-wang.md): 고려 · 개성 [NEW]
+- [홍대용의 지전설 — 지구가 돈다는 조선 선비](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hong-daeyong-thought.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [고려 현종과 거란 3차 침입 — 나라의 운명을 건 전투](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-hyun-deok-wang.md): 고려 · 개성 [NEW]
 - [춘추관과 실록 편찬 — 왕도 볼 수 없는 기록](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-chunchu-exam.md): 조선 · 서울 [NEW]
 - [계림과 신라 국호 — 닭 울음소리의 건국 신화](https://skandla2002ai-andy.github.io/korean-history/articles/silla-gyerim-origin.md): 삼국시대 · 경주 [NEW]
 - [인왕산과 한양 풍수 — 조선 도읍지의 비밀](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-inwang-geumdan.md): 조선 · 서울 [NEW]
 - [만부교 사건 — 왕건의 거란 사신 모욕](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-manbu-bridge.md): 고려 · 개성 [NEW]
 - [350번 특집 — 한국사 아카이브 350편](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-350th.md): 조선 [NEW]
 - [신라 금관과 귀금속 공예 — 황금의 나라](https://skandla2002ai-andy.github.io/korean-history/articles/silla-musok-art.md): 삼국시대 · 경주 [NEW]
-- [향리의 역할 — 지방 행정의 실질적 담당자](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hyang-role.md): 조선 [NEW]
+- [향리의 역할 — 지방 행정의 실질적 담당자](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hyang-role.md): 조선
 - [정습명의 고려 — 문신 귀족 사회의 절정](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-jeong-seup.md): 고려 · 개성
 - [조선의 노비 매매 — 사람이 재산이 된 사회](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-slave-trade.md): 조선
 - [의상과 화엄종 — 신라 불교의 꽃](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-uisang-hwaeom.md): 삼국시대 · 경주
@@ -393,9 +394,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (281편)
+## 발행 예정 큐 (280편)
 
-- [356. 홍대용의 지전설 — 지구가 돈다는 조선 선비](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/356-joseon-hong-daeyong-thought.html): 조선
 - [357. 고조선의 8조법 — 동아시아 최초의 법전](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/357-ancient-gojoseon-culture.html): 고대
 - [358. 규합총서 — 조선 여성이 쓴 생활 백과사전](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/358-joseon-gyuhap-chongseo.html): 조선
 - [359. 고려 시조의 탄생 — 청산별곡과 가시리](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/359-goryeo-poetry-sicho.html): 고려
