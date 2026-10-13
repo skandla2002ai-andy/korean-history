@@ -5,7 +5,7 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-10-12",
+  "lastUpdated": "2026-10-13",
   "stats": {
     "total": 644,
     "published": 366,
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-10-12",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "규합총서 — 조선 여성이 쓴 생활 백과사전",
-      "description": "1809년 빙허각 이씨가 쓴 조선 최대 여성 생활서. 음식·의복·태교·농업 망라.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gyuhap-chongseo.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gyuhap-chongseo.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "여성"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-10-13",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "규합총서 — 조선 여성이 쓴 생활 백과사전",
+      "description": "1809년 빙허각 이씨가 쓴 조선 최대 여성 생활서. 음식·의복·태교·농업 망라.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gyuhap-chongseo.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gyuhap-chongseo.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "여성"
       ],
       "related": [],
       "region": [],

@@ -27,11 +27,11 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (366편 · 최신순 · 갱신 2026-10-12)
+## 발행 완료 (366편 · 최신순 · 갱신 2026-10-13)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [규합총서 — 조선 여성이 쓴 생활 백과사전](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gyuhap-chongseo.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [규합총서 — 조선 여성이 쓴 생활 백과사전](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gyuhap-chongseo.md): 조선 [NEW]
 - [고조선의 8조법 — 동아시아 최초의 법전](https://skandla2002ai-andy.github.io/korean-history/articles/ancient-gojoseon-culture.md): 고대 [NEW]
 - [홍대용의 지전설 — 지구가 돈다는 조선 선비](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hong-daeyong-thought.md): 조선 [NEW]
 - [고려 현종과 거란 3차 침입 — 나라의 운명을 건 전투](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-hyun-deok-wang.md): 고려 · 개성 [NEW]
