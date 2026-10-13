@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-13",
   "stats": {
     "total": 644,
-    "published": 366,
-    "queued": 278,
-    "new": 9
+    "published": 367,
+    "queued": 277,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-10-13",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고려 시조의 탄생 — 청산별곡과 가시리",
+      "description": "고려 시대 발생한 속요(俗謠). 청산별곡·가시리·동동 등 민중 문학의 정수.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-poetry-sicho.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-poetry-sicho.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "문화",
+        "문학"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-10-13",
@@ -7760,25 +7779,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "고려 시조의 탄생 — 청산별곡과 가시리",
-      "description": "고려 시대 발생한 속요(俗謠). 청산별곡·가시리·동동 등 민중 문학의 정수.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/359-goryeo-poetry-sicho.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/359-goryeo-poetry-sicho.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "문화",
-        "문학"
-      ],
-      "related": [],
-      "region": [],
-      "num": 359,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "민중의 조선 — 장시·두레·계의 공동체",
       "description": "조선 민중의 경제 공동체. 5일장 장시, 농업 협동 두레, 상호부조 계의 사회사.",

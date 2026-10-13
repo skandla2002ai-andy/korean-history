@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (366편 · 최신순 · 갱신 2026-10-13)
+## 발행 완료 (367편 · 최신순 · 갱신 2026-10-13)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [고려 시조의 탄생 — 청산별곡과 가시리](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-poetry-sicho.md): 고려 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [규합총서 — 조선 여성이 쓴 생활 백과사전](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gyuhap-chongseo.md): 조선 [NEW]
 - [고조선의 8조법 — 동아시아 최초의 법전](https://skandla2002ai-andy.github.io/korean-history/articles/ancient-gojoseon-culture.md): 고대 [NEW]
@@ -396,9 +397,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (278편)
+## 발행 예정 큐 (277편)
 
-- [359. 고려 시조의 탄생 — 청산별곡과 가시리](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/359-goryeo-poetry-sicho.html): 고려
 - [360. 민중의 조선 — 장시·두레·계의 공동체](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/360-joseon-ikseon-minjung.html): 조선
 - [361. 신라와 실크로드 — 경주에서 발견된 서역 유물](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/361-silla-trade-silk-road.html): 삼국시대 · 경주
 - [362. 척경입비 — 조선의 국경 확정](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/362-joseon-cheokgyeong-jeon.html): 조선
