@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-14",
   "stats": {
     "total": 644,
-    "published": 368,
-    "queued": 276,
-    "new": 10
+    "published": 369,
+    "queued": 275,
+    "new": 11
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -95,6 +95,27 @@
       ],
       "related": [],
       "region": [],
+      "num": null,
+      "published": "2026-10-14",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "신라와 실크로드 — 경주에서 발견된 서역 유물",
+      "description": "경주 고분에서 나온 로만글라스·황금보검. 신라와 중앙아시아 교류의 증거.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-trade-silk-road.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-trade-silk-road.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "문화",
+        "외교"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
       "num": null,
       "published": "2026-10-14",
       "is_new": true,
@@ -7798,27 +7819,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "신라와 실크로드 — 경주에서 발견된 서역 유물",
-      "description": "경주 고분에서 나온 로만글라스·황금보검. 신라와 중앙아시아 교류의 증거.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/361-silla-trade-silk-road.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/361-silla-trade-silk-road.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "문화",
-        "외교"
-      ],
-      "related": [],
-      "region": [
-        "경주"
-      ],
-      "num": 361,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "척경입비 — 조선의 국경 확정",
       "description": "세종 시대 4군 6진 개척과 국경비 건립. 두만강·압록강을 국경으로 확정한 역사.",
