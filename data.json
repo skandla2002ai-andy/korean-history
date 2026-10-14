@@ -5,11 +5,11 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-10-13",
+  "lastUpdated": "2026-10-14",
   "stats": {
     "total": 644,
-    "published": 367,
-    "queued": 277,
+    "published": 368,
+    "queued": 276,
     "new": 10
   },
   "endpoints": {
@@ -58,26 +58,26 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-10-13",
+      "published": "2026-10-14",
       "is_new": true,
       "status": "published"
     },
     {
-      "title": "고려 시조의 탄생 — 청산별곡과 가시리",
-      "description": "고려 시대 발생한 속요(俗謠). 청산별곡·가시리·동동 등 민중 문학의 정수.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-poetry-sicho.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-poetry-sicho.md",
+      "title": "민중의 조선 — 장시·두레·계의 공동체",
+      "description": "조선 민중의 경제 공동체. 5일장 장시, 농업 협동 두레, 상호부조 계의 사회사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-ikseon-minjung.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-ikseon-minjung.md",
       "era": [
-        "고려"
+        "조선"
       ],
       "topics": [
-        "문화",
-        "문학"
+        "경제",
+        "사회"
       ],
       "related": [],
       "region": [],
       "num": null,
-      "published": "2026-10-13",
+      "published": "2026-10-14",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +92,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-10-14",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고려 시조의 탄생 — 청산별곡과 가시리",
+      "description": "고려 시대 발생한 속요(俗謠). 청산별곡·가시리·동동 등 민중 문학의 정수.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-poetry-sicho.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-poetry-sicho.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "문화",
+        "문학"
       ],
       "related": [],
       "region": [],
@@ -238,7 +257,7 @@
       ],
       "num": null,
       "published": "2026-10-06",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -7779,25 +7798,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "민중의 조선 — 장시·두레·계의 공동체",
-      "description": "조선 민중의 경제 공동체. 5일장 장시, 농업 협동 두레, 상호부조 계의 사회사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/360-joseon-ikseon-minjung.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/360-joseon-ikseon-minjung.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "경제",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
-      "num": 360,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "신라와 실크로드 — 경주에서 발견된 서역 유물",
       "description": "경주 고분에서 나온 로만글라스·황금보검. 신라와 중앙아시아 교류의 증거.",
