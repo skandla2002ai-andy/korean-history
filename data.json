@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-10-14",
+  "lastUpdated": "2026-10-15",
   "stats": {
     "total": 644,
     "published": 369,
     "queued": 275,
-    "new": 11
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-10-14",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "민중의 조선 — 장시·두레·계의 공동체",
-      "description": "조선 민중의 경제 공동체. 5일장 장시, 농업 협동 두레, 상호부조 계의 사회사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-ikseon-minjung.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-ikseon-minjung.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "경제",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-10-14",
+      "published": "2026-10-15",
       "is_new": true,
       "status": "published"
     },
@@ -91,6 +72,25 @@
       ],
       "topics": [
         "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-10-15",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "민중의 조선 — 장시·두레·계의 공동체",
+      "description": "조선 민중의 경제 공동체. 5일장 장시, 농업 협동 두레, 상호부조 계의 사회사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-ikseon-minjung.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-ikseon-minjung.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "경제",
         "사회"
       ],
       "related": [],
@@ -257,7 +257,7 @@
       ],
       "num": null,
       "published": "2026-10-07",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
