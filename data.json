@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-15",
   "stats": {
     "total": 644,
-    "published": 369,
-    "queued": 275,
-    "new": 10
+    "published": 370,
+    "queued": 274,
+    "new": 11
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-10-15",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "척경입비 — 조선의 국경 확정",
+      "description": "세종 시대 4군 6진 개척과 국경비 건립. 두만강·압록강을 국경으로 확정한 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-cheokgyeong-jeon.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-cheokgyeong-jeon.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치",
+        "군사"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-10-15",
@@ -7819,25 +7838,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "척경입비 — 조선의 국경 확정",
-      "description": "세종 시대 4군 6진 개척과 국경비 건립. 두만강·압록강을 국경으로 확정한 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/362-joseon-cheokgyeong-jeon.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/362-joseon-cheokgyeong-jeon.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치",
-        "군사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 362,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "고려의 음식 문화 — 불교 영향과 육식 금기",
       "description": "불교 국가 고려의 음식 문화. 채식 중심 식생활과 특별한 날의 육식 허용.",
