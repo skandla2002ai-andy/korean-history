@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-10-15",
+  "lastUpdated": "2026-10-16",
   "stats": {
     "total": 644,
     "published": 370,
     "queued": 274,
-    "new": 11
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,26 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-10-15",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "척경입비 — 조선의 국경 확정",
-      "description": "세종 시대 4군 6진 개척과 국경비 건립. 두만강·압록강을 국경으로 확정한 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-cheokgyeong-jeon.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-cheokgyeong-jeon.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치",
-        "군사"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-10-15",
+      "published": "2026-10-16",
       "is_new": true,
       "status": "published"
     },
@@ -92,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-10-16",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "척경입비 — 조선의 국경 확정",
+      "description": "세종 시대 4군 6진 개척과 국경비 건립. 두만강·압록강을 국경으로 확정한 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-cheokgyeong-jeon.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-cheokgyeong-jeon.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치",
+        "군사"
       ],
       "related": [],
       "region": [],
@@ -255,7 +255,7 @@
       ],
       "num": null,
       "published": "2026-10-08",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
