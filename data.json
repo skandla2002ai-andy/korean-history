@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-10-16",
+  "lastUpdated": "2026-10-17",
   "stats": {
     "total": 644,
     "published": 371,
     "queued": 273,
-    "new": 11
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,25 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-10-16",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "고려의 음식 문화 — 불교 영향과 육식 금기",
-      "description": "불교 국가 고려의 음식 문화. 채식 중심 식생활과 특별한 날의 육식 허용.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gam-umsik.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gam-umsik.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-10-16",
+      "published": "2026-10-17",
       "is_new": true,
       "status": "published"
     },
@@ -91,6 +73,24 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-10-17",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고려의 음식 문화 — 불교 영향과 육식 금기",
+      "description": "불교 국가 고려의 음식 문화. 채식 중심 식생활과 특별한 날의 육식 허용.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gam-umsik.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gam-umsik.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "문화"
       ],
       "related": [],
       "region": [],
@@ -252,7 +252,7 @@
       ],
       "num": null,
       "published": "2026-10-09",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
