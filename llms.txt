@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (371편 · 최신순 · 갱신 2026-10-17)
+## 발행 완료 (372편 · 최신순 · 갱신 2026-10-17)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [봉수강과 조선 치수 — 홍수와 싸운 왕조](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-bongsugang-flood.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [고려의 음식 문화 — 불교 영향과 육식 금기](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gam-umsik.md): 고려 [NEW]
 - [척경입비 — 조선의 국경 확정](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-cheokgyeong-jeon.md): 조선 [NEW]
@@ -401,9 +402,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (273편)
+## 발행 예정 큐 (272편)
 
-- [364. 봉수강과 조선 치수 — 홍수와 싸운 왕조](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/364-joseon-bongsugang-flood.html): 조선
 - [365. 부여 — 고구려의 어머니 나라](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/365-ancient-buyeo-kingdom.html): 고대
 - [366. 조선의 초상화 — 털 하나도 틀리면 다른 사람](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/366-joseon-portrait-painting.html): 조선
 - [367. 해동용궁사 — 바다 위의 절](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/367-goryeo-haedong-yonggung.html): 고려 · 부산

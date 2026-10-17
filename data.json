@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-17",
   "stats": {
     "total": 644,
-    "published": 371,
-    "queued": 273,
-    "new": 10
+    "published": 372,
+    "queued": 272,
+    "new": 11
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-10-17",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "봉수강과 조선 치수 — 홍수와 싸운 왕조",
+      "description": "조선 시대 반복된 홍수 피해와 치수 정책. 제언(저수지)·보(洑) 축조의 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-bongsugang-flood.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-bongsugang-flood.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사회",
+        "역사"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-10-17",
@@ -7856,25 +7875,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "봉수강과 조선 치수 — 홍수와 싸운 왕조",
-      "description": "조선 시대 반복된 홍수 피해와 치수 정책. 제언(저수지)·보(洑) 축조의 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/364-joseon-bongsugang-flood.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/364-joseon-bongsugang-flood.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "사회",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 364,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "부여 — 고구려의 어머니 나라",
       "description": "고조선 붕괴 후 만주에 세워진 부여. 고구려·백제의 뿌리가 된 고대 국가.",
