@@ -27,11 +27,11 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (372편 · 최신순 · 갱신 2026-10-17)
+## 발행 완료 (372편 · 최신순 · 갱신 2026-10-18)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [봉수강과 조선 치수 — 홍수와 싸운 왕조](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-bongsugang-flood.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [봉수강과 조선 치수 — 홍수와 싸운 왕조](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-bongsugang-flood.md): 조선 [NEW]
 - [고려의 음식 문화 — 불교 영향과 육식 금기](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gam-umsik.md): 고려 [NEW]
 - [척경입비 — 조선의 국경 확정](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-cheokgyeong-jeon.md): 조선 [NEW]
 - [민중의 조선 — 장시·두레·계의 공동체](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-ikseon-minjung.md): 조선 [NEW]
@@ -39,7 +39,7 @@
 - [고려 시조의 탄생 — 청산별곡과 가시리](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-poetry-sicho.md): 고려 [NEW]
 - [규합총서 — 조선 여성이 쓴 생활 백과사전](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gyuhap-chongseo.md): 조선 [NEW]
 - [고조선의 8조법 — 동아시아 최초의 법전](https://skandla2002ai-andy.github.io/korean-history/articles/ancient-gojoseon-culture.md): 고대 [NEW]
-- [홍대용의 지전설 — 지구가 돈다는 조선 선비](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hong-daeyong-thought.md): 조선 [NEW]
+- [홍대용의 지전설 — 지구가 돈다는 조선 선비](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hong-daeyong-thought.md): 조선
 - [고려 현종과 거란 3차 침입 — 나라의 운명을 건 전투](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-hyun-deok-wang.md): 고려 · 개성
 - [춘추관과 실록 편찬 — 왕도 볼 수 없는 기록](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-chunchu-exam.md): 조선 · 서울
 - [계림과 신라 국호 — 닭 울음소리의 건국 신화](https://skandla2002ai-andy.github.io/korean-history/articles/silla-gyerim-origin.md): 삼국시대 · 경주
