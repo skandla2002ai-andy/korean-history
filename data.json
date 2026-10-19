@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-10-18",
+  "lastUpdated": "2026-10-19",
   "stats": {
     "total": 644,
     "published": 373,
     "queued": 271,
-    "new": 11
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -42,24 +42,6 @@
   ],
   "articles": [
     {
-      "title": "부여 — 고구려의 어머니 나라",
-      "description": "고조선 붕괴 후 만주에 세워진 부여. 고구려·백제의 뿌리가 된 고대 국가.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ancient-buyeo-kingdom.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ancient-buyeo-kingdom.md",
-      "era": [
-        "고대"
-      ],
-      "topics": [
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": null,
-      "published": "2026-10-18",
-      "is_new": true,
-      "status": "published"
-    },
-    {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
       "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.html",
@@ -76,7 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-10-18",
+      "published": "2026-10-19",
       "is_new": true,
       "status": "published"
     },
@@ -91,6 +73,24 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-10-19",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "부여 — 고구려의 어머니 나라",
+      "description": "고조선 붕괴 후 만주에 세워진 부여. 고구려·백제의 뿌리가 된 고대 국가.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ancient-buyeo-kingdom.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ancient-buyeo-kingdom.md",
+      "era": [
+        "고대"
+      ],
+      "topics": [
+        "역사"
       ],
       "related": [],
       "region": [],
@@ -249,7 +249,7 @@
       "region": [],
       "num": null,
       "published": "2026-10-11",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
