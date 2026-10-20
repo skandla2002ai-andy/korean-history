@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-20",
   "stats": {
     "total": 644,
-    "published": 374,
-    "queued": 270,
-    "new": 10
+    "published": 375,
+    "queued": 269,
+    "new": 11
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-10-20",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "해동용궁사 — 바다 위의 절",
+      "description": "고려 시대 창건된 부산 해동용궁사. 벼랑 끝 사찰의 역사와 기도 문화.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-haedong-yonggung.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-haedong-yonggung.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "불교",
+        "문화"
+      ],
+      "related": [],
+      "region": [
+        "부산"
+      ],
       "num": null,
       "published": "2026-10-20",
       "is_new": true,
@@ -7912,27 +7933,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "해동용궁사 — 바다 위의 절",
-      "description": "고려 시대 창건된 부산 해동용궁사. 벼랑 끝 사찰의 역사와 기도 문화.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/367-goryeo-haedong-yonggung.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/367-goryeo-haedong-yonggung.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "불교",
-        "문화"
-      ],
-      "related": [],
-      "region": [
-        "부산"
-      ],
-      "num": 367,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "한양의 인구와 도시 — 조선 최대 도시의 일상",
       "description": "조선 후기 한양의 인구 20만. 육의전·시전·청계천 주변 도시 생활사.",

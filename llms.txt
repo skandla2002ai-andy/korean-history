@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (374편 · 최신순 · 갱신 2026-10-20)
+## 발행 완료 (375편 · 최신순 · 갱신 2026-10-20)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [해동용궁사 — 바다 위의 절](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-haedong-yonggung.md): 고려 · 부산 [NEW]
 - [조선의 초상화 — 털 하나도 틀리면 다른 사람](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-portrait-painting.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [부여 — 고구려의 어머니 나라](https://skandla2002ai-andy.github.io/korean-history/articles/ancient-buyeo-kingdom.md): 고대 [NEW]
@@ -404,9 +405,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (270편)
+## 발행 예정 큐 (269편)
 
-- [367. 해동용궁사 — 바다 위의 절](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/367-goryeo-haedong-yonggung.html): 고려 · 부산
 - [368. 한양의 인구와 도시 — 조선 최대 도시의 일상](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/368-joseon-hangyang-population.html): 조선 · 서울
 - [369. 화랑의 유명 인물들 — 김유신에서 관창까지](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/369-silla-hwarang-famous.html): 삼국시대 · 경주
 - [370. 조선의 장인 — 匠人, 기술로 시대를 만들다](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/370-joseon-gisul-artisan.html): 조선
