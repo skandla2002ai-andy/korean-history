@@ -5,11 +5,11 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-10-19",
+  "lastUpdated": "2026-10-20",
   "stats": {
     "total": 644,
-    "published": 373,
-    "queued": 271,
+    "published": 374,
+    "queued": 270,
     "new": 10
   },
   "endpoints": {
@@ -58,7 +58,26 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-10-19",
+      "published": "2026-10-20",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선의 초상화 — 털 하나도 틀리면 다른 사람",
+      "description": "조선 시대 초상화의 철학과 기법. 털 하나도 다르면 다른 사람이라는 전신사조론.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-portrait-painting.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-portrait-painting.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "예술"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-10-20",
       "is_new": true,
       "status": "published"
     },
@@ -77,7 +96,7 @@
       "related": [],
       "region": [],
       "num": null,
-      "published": "2026-10-19",
+      "published": "2026-10-20",
       "is_new": true,
       "status": "published"
     },
@@ -230,7 +249,7 @@
       "region": [],
       "num": null,
       "published": "2026-10-12",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -7893,25 +7912,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "조선의 초상화 — 털 하나도 틀리면 다른 사람",
-      "description": "조선 시대 초상화의 철학과 기법. 털 하나도 다르면 다른 사람이라는 전신사조론.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/366-joseon-portrait-painting.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/366-joseon-portrait-painting.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "예술"
-      ],
-      "related": [],
-      "region": [],
-      "num": 366,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "해동용궁사 — 바다 위의 절",
       "description": "고려 시대 창건된 부산 해동용궁사. 벼랑 끝 사찰의 역사와 기도 문화.",
