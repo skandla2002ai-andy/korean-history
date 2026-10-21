@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-21",
   "stats": {
     "total": 644,
-    "published": 375,
-    "queued": 269,
-    "new": 10
+    "published": 376,
+    "queued": 268,
+    "new": 11
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-10-21",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "한양의 인구와 도시 — 조선 최대 도시의 일상",
+      "description": "조선 후기 한양의 인구 20만. 육의전·시전·청계천 주변 도시 생활사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hangyang-population.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hangyang-population.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사회",
+        "역사"
+      ],
+      "related": [],
+      "region": [
+        "서울"
+      ],
       "num": null,
       "published": "2026-10-21",
       "is_new": true,
@@ -7933,27 +7954,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "한양의 인구와 도시 — 조선 최대 도시의 일상",
-      "description": "조선 후기 한양의 인구 20만. 육의전·시전·청계천 주변 도시 생활사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/368-joseon-hangyang-population.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/368-joseon-hangyang-population.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "사회",
-        "역사"
-      ],
-      "related": [],
-      "region": [
-        "서울"
-      ],
-      "num": 368,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "화랑의 유명 인물들 — 김유신에서 관창까지",
       "description": "신라 화랑 출신 주요 인물들. 김유신·관창·사다함·죽지랑의 활약.",
