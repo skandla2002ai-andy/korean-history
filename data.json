@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-22",
   "stats": {
     "total": 644,
-    "published": 376,
-    "queued": 268,
-    "new": 9
+    "published": 377,
+    "queued": 267,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -76,6 +76,27 @@
       ],
       "related": [],
       "region": [],
+      "num": null,
+      "published": "2026-10-22",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "화랑의 유명 인물들 — 김유신에서 관창까지",
+      "description": "신라 화랑 출신 주요 인물들. 김유신·관창·사다함·죽지랑의 활약.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-hwarang-famous.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-hwarang-famous.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "인물",
+        "군사"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
       "num": null,
       "published": "2026-10-22",
       "is_new": true,
@@ -7954,27 +7975,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "화랑의 유명 인물들 — 김유신에서 관창까지",
-      "description": "신라 화랑 출신 주요 인물들. 김유신·관창·사다함·죽지랑의 활약.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/369-silla-hwarang-famous.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/369-silla-hwarang-famous.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "인물",
-        "군사"
-      ],
-      "related": [],
-      "region": [
-        "경주"
-      ],
-      "num": 369,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "조선의 장인 — 匠人, 기술로 시대를 만들다",
       "description": "조선의 관영 장인 체계. 도자기·금속·목공·직조 장인의 신분과 기술 전승.",
