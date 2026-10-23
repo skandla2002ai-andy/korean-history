@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-10-22",
+  "lastUpdated": "2026-10-23",
   "stats": {
     "total": 644,
     "published": 377,
     "queued": 267,
-    "new": 10
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -58,7 +58,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-10-22",
+      "published": "2026-10-23",
       "is_new": true,
       "status": "published"
     },
@@ -77,7 +77,7 @@
       "related": [],
       "region": [],
       "num": null,
-      "published": "2026-10-22",
+      "published": "2026-10-23",
       "is_new": true,
       "status": "published"
     },
@@ -234,7 +234,7 @@
       "region": [],
       "num": null,
       "published": "2026-10-15",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
