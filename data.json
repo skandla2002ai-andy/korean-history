@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-23",
   "stats": {
     "total": 644,
-    "published": 377,
-    "queued": 267,
-    "new": 9
+    "published": 378,
+    "queued": 266,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-10-23",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선의 장인 — 匠人, 기술로 시대를 만들다",
+      "description": "조선의 관영 장인 체계. 도자기·금속·목공·직조 장인의 신분과 기술 전승.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisul-artisan.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisul-artisan.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "사회",
+        "문화"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-10-23",
@@ -7975,25 +7994,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "조선의 장인 — 匠人, 기술로 시대를 만들다",
-      "description": "조선의 관영 장인 체계. 도자기·금속·목공·직조 장인의 신분과 기술 전승.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/370-joseon-gisul-artisan.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/370-joseon-gisul-artisan.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "사회",
-        "문화"
-      ],
-      "related": [],
-      "region": [],
-      "num": 370,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "몽골 지배하의 고려 — 원나라 문화 유입",
       "description": "원 간섭기 고려에 유입된 몽골 문화. 복식·음식·언어·풍습의 변화.",
