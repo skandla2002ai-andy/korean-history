@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-24",
   "stats": {
     "total": 644,
-    "published": 378,
-    "queued": 266,
-    "new": 9
+    "published": 379,
+    "queued": 265,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -55,6 +55,27 @@
       ],
       "related": [
         "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-10-24",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "몽골 지배하의 고려 — 원나라 문화 유입",
+      "description": "원 간섭기 고려에 유입된 몽골 문화. 복식·음식·언어·풍습의 변화.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-mongol-culture-exchange.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-mongol-culture-exchange.md",
+      "era": [
+        "고려"
+      ],
+      "topics": [
+        "문화",
+        "외교"
+      ],
+      "related": [
+        "몽골"
       ],
       "region": [],
       "num": null,
@@ -7994,27 +8015,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "몽골 지배하의 고려 — 원나라 문화 유입",
-      "description": "원 간섭기 고려에 유입된 몽골 문화. 복식·음식·언어·풍습의 변화.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/371-goryeo-mongol-culture-exchange.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/371-goryeo-mongol-culture-exchange.md",
-      "era": [
-        "고려"
-      ],
-      "topics": [
-        "문화",
-        "외교"
-      ],
-      "related": [
-        "몽골"
-      ],
-      "region": [],
-      "num": 371,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "황진이 — 기생이자 시인이자 철학자",
       "description": "조선 최고의 기생 황진이. 시조 문학의 대가로 선비들과 지적 교류를 나눈 삶.",
