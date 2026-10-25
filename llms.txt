@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (379편 · 최신순 · 갱신 2026-10-25)
+## 발행 완료 (380편 · 최신순 · 갱신 2026-10-25)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [황진이 — 기생이자 시인이자 철학자](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisaeng-hwang-jini.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [몽골 지배하의 고려 — 원나라 문화 유입](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-mongol-culture-exchange.md): 고려 [NEW]
 - [조선의 장인 — 匠人, 기술로 시대를 만들다](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisul-artisan.md): 조선 [NEW]
@@ -409,9 +410,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (265편)
+## 발행 예정 큐 (264편)
 
-- [372. 황진이 — 기생이자 시인이자 철학자](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/372-joseon-gisaeng-hwang-jini.html): 조선
 - [373. 삼한 사회의 구조 — 마한·진한·변한](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/373-ancient-samhan-society.html): 고대
 - [374. 돈화문과 창덕궁 — 자연과 조화를 이룬 궁궐](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/374-joseon-donhwamun-court.html): 조선 · 서울
 - [375. 고려 해상 무역의 실체 — 벽란도에 온 아라비아 상인](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/375-goryeo-haesang-trade.html): 고려 · 개성

@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-25",
   "stats": {
     "total": 644,
-    "published": 379,
-    "queued": 265,
-    "new": 9
+    "published": 380,
+    "queued": 264,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,26 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-10-25",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "황진이 — 기생이자 시인이자 철학자",
+      "description": "조선 최고의 기생 황진이. 시조 문학의 대가로 선비들과 지적 교류를 나눈 삶.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisaeng-hwang-jini.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisaeng-hwang-jini.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "인물",
+        "여성"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-10-25",
@@ -8015,26 +8035,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "황진이 — 기생이자 시인이자 철학자",
-      "description": "조선 최고의 기생 황진이. 시조 문학의 대가로 선비들과 지적 교류를 나눈 삶.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/372-joseon-gisaeng-hwang-jini.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/372-joseon-gisaeng-hwang-jini.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "인물",
-        "여성"
-      ],
-      "related": [],
-      "region": [],
-      "num": 372,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "삼한 사회의 구조 — 마한·진한·변한",
       "description": "기원전 1세기~3세기 한반도 남부의 삼한. 소도·천군·읍락의 사회 구조.",
