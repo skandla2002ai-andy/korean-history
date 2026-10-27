@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-10-26",
+  "lastUpdated": "2026-10-27",
   "stats": {
     "total": 644,
-    "published": 380,
-    "queued": 264,
-    "new": 9
+    "published": 381,
+    "queued": 263,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -42,6 +42,25 @@
   ],
   "articles": [
     {
+      "title": "삼한 사회의 구조 — 마한·진한·변한",
+      "description": "기원전 1세기~3세기 한반도 남부의 삼한. 소도·천군·읍락의 사회 구조.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ancient-samhan-society.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ancient-samhan-society.md",
+      "era": [
+        "고대"
+      ],
+      "topics": [
+        "역사",
+        "고고학"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-10-27",
+      "is_new": true,
+      "status": "published"
+    },
+    {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
       "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.html",
@@ -58,7 +77,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-10-26",
+      "published": "2026-10-27",
       "is_new": true,
       "status": "published"
     },
@@ -77,7 +96,7 @@
       "related": [],
       "region": [],
       "num": null,
-      "published": "2026-10-26",
+      "published": "2026-10-27",
       "is_new": true,
       "status": "published"
     },
@@ -8035,25 +8054,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "삼한 사회의 구조 — 마한·진한·변한",
-      "description": "기원전 1세기~3세기 한반도 남부의 삼한. 소도·천군·읍락의 사회 구조.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/373-ancient-samhan-society.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/373-ancient-samhan-society.md",
-      "era": [
-        "고대"
-      ],
-      "topics": [
-        "역사",
-        "고고학"
-      ],
-      "related": [],
-      "region": [],
-      "num": 373,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "돈화문과 창덕궁 — 자연과 조화를 이룬 궁궐",
       "description": "유네스코 세계문화유산 창덕궁. 후원(비원)의 아름다움과 조선 건축 미학.",
