@@ -5,11 +5,11 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-10-29",
+  "lastUpdated": "2026-10-30",
   "stats": {
     "total": 644,
-    "published": 383,
-    "queued": 261,
+    "published": 384,
+    "queued": 260,
     "new": 9
   },
   "endpoints": {
@@ -58,7 +58,47 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-10-29",
+      "published": "2026-10-30",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "육조 직계제와 의정부 서사제 — 권력 구조의 진자운동",
+      "description": "태종의 육조직계제와 세종의 의정부서사제. 왕권과 신권 사이의 균형 실험.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-yukjo-system.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-yukjo-system.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "정치",
+        "제도"
+      ],
+      "related": [],
+      "region": [
+        "서울"
+      ],
+      "num": null,
+      "published": "2026-10-30",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
+      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-10-30",
       "is_new": true,
       "status": "published"
     },
@@ -78,25 +118,6 @@
       "region": [
         "개성"
       ],
-      "num": null,
-      "published": "2026-10-29",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
-      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
       "num": null,
       "published": "2026-10-29",
       "is_new": true,
@@ -220,7 +241,7 @@
       ],
       "num": null,
       "published": "2026-10-22",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -8096,27 +8117,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "육조 직계제와 의정부 서사제 — 권력 구조의 진자운동",
-      "description": "태종의 육조직계제와 세종의 의정부서사제. 왕권과 신권 사이의 균형 실험.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/376-joseon-yukjo-system.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/376-joseon-yukjo-system.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "정치",
-        "제도"
-      ],
-      "related": [],
-      "region": [
-        "서울"
-      ],
-      "num": 376,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "신라의 향악 — 가야금과 삼현삼죽",
       "description": "신라의 전통 음악 향악. 가야금·거문고·향비파 등 삼현과 대금·중금·소금 삼죽.",

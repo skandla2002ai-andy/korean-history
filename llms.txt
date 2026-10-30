@@ -27,17 +27,18 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (383편 · 최신순 · 갱신 2026-10-29)
+## 발행 완료 (384편 · 최신순 · 갱신 2026-10-30)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [고려 해상 무역의 실체 — 벽란도에 온 아라비아 상인](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-haesang-trade.md): 고려 · 개성 [NEW]
+- [육조 직계제와 의정부 서사제 — 권력 구조의 진자운동](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-yukjo-system.md): 조선 · 서울 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [고려 해상 무역의 실체 — 벽란도에 온 아라비아 상인](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-haesang-trade.md): 고려 · 개성 [NEW]
 - [돈화문과 창덕궁 — 자연과 조화를 이룬 궁궐](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-donhwamun-court.md): 조선 · 서울 [NEW]
 - [삼한 사회의 구조 — 마한·진한·변한](https://skandla2002ai-andy.github.io/korean-history/articles/ancient-samhan-society.md): 고대 [NEW]
 - [황진이 — 기생이자 시인이자 철학자](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisaeng-hwang-jini.md): 조선 [NEW]
 - [몽골 지배하의 고려 — 원나라 문화 유입](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-mongol-culture-exchange.md): 고려 [NEW]
 - [조선의 장인 — 匠人, 기술로 시대를 만들다](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gisul-artisan.md): 조선 [NEW]
-- [화랑의 유명 인물들 — 김유신에서 관창까지](https://skandla2002ai-andy.github.io/korean-history/articles/silla-hwarang-famous.md): 삼국시대 · 경주 [NEW]
+- [화랑의 유명 인물들 — 김유신에서 관창까지](https://skandla2002ai-andy.github.io/korean-history/articles/silla-hwarang-famous.md): 삼국시대 · 경주
 - [한양의 인구와 도시 — 조선 최대 도시의 일상](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-hangyang-population.md): 조선 · 서울
 - [해동용궁사 — 바다 위의 절](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-haedong-yonggung.md): 고려 · 부산
 - [조선의 초상화 — 털 하나도 틀리면 다른 사람](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-portrait-painting.md): 조선
@@ -413,9 +414,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (261편)
+## 발행 예정 큐 (260편)
 
-- [376. 육조 직계제와 의정부 서사제 — 권력 구조의 진자운동](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/376-joseon-yukjo-system.html): 조선 · 서울
 - [377. 신라의 향악 — 가야금과 삼현삼죽](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/377-silla-godae-music.html): 삼국시대 · 경주
 - [378. 조선 천주교 박해 — 신앙을 위해 죽은 사람들](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/378-joseon-korean-catholics.html): 조선
 - [379. 고려 국자감 — 고려의 국립대학](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/379-goryeo-gukja-education.html): 고려 · 개성
