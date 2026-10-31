@@ -5,11 +5,11 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-10-30",
+  "lastUpdated": "2026-10-31",
   "stats": {
     "total": 644,
-    "published": 384,
-    "queued": 260,
+    "published": 385,
+    "queued": 259,
     "new": 9
   },
   "endpoints": {
@@ -58,7 +58,47 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-10-30",
+      "published": "2026-10-31",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
+      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-10-31",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "신라의 향악 — 가야금과 삼현삼죽",
+      "description": "신라의 전통 음악 향악. 가야금·거문고·향비파 등 삼현과 대금·중금·소금 삼죽.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-godae-music.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/silla-godae-music.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "문화",
+        "음악"
+      ],
+      "related": [],
+      "region": [
+        "경주"
+      ],
+      "num": null,
+      "published": "2026-10-31",
       "is_new": true,
       "status": "published"
     },
@@ -78,25 +118,6 @@
       "region": [
         "서울"
       ],
-      "num": null,
-      "published": "2026-10-30",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
-      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
       "num": null,
       "published": "2026-10-30",
       "is_new": true,
@@ -220,7 +241,7 @@
       "region": [],
       "num": null,
       "published": "2026-10-23",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -8117,27 +8138,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "신라의 향악 — 가야금과 삼현삼죽",
-      "description": "신라의 전통 음악 향악. 가야금·거문고·향비파 등 삼현과 대금·중금·소금 삼죽.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/377-silla-godae-music.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/377-silla-godae-music.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "문화",
-        "음악"
-      ],
-      "related": [],
-      "region": [
-        "경주"
-      ],
-      "num": 377,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "조선 천주교 박해 — 신앙을 위해 죽은 사람들",
       "description": "1801년 신유박해부터 1866년 병인박해까지. 조선 천주교 순교자 1만여 명의 이야기.",
