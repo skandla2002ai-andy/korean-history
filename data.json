@@ -8,9 +8,9 @@
   "lastUpdated": "2026-10-31",
   "stats": {
     "total": 644,
-    "published": 385,
-    "queued": 259,
-    "new": 9
+    "published": 386,
+    "queued": 258,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-10-31",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "조선 천주교 박해 — 신앙을 위해 죽은 사람들",
+      "description": "1801년 신유박해부터 1866년 병인박해까지. 조선 천주교 순교자 1만여 명의 이야기.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-korean-catholics.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-korean-catholics.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "종교",
+        "역사"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-10-31",
@@ -8138,25 +8157,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "조선 천주교 박해 — 신앙을 위해 죽은 사람들",
-      "description": "1801년 신유박해부터 1866년 병인박해까지. 조선 천주교 순교자 1만여 명의 이야기.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/378-joseon-korean-catholics.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/378-joseon-korean-catholics.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "종교",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 378,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "고려 국자감 — 고려의 국립대학",
       "description": "992년 설립된 고려 최고 교육기관 국자감. 유교 경전과 기술학 교육.",
