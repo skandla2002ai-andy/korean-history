@@ -27,11 +27,11 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (387편 · 최신순 · 갱신 2026-11-02)
+## 발행 완료 (387편 · 최신순 · 갱신 2026-11-03)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [고려 국자감 — 고려의 국립대학](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gukja-education.md): 고려 · 개성 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [고려 국자감 — 고려의 국립대학](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gukja-education.md): 고려 · 개성 [NEW]
 - [조선 천주교 박해 — 신앙을 위해 죽은 사람들](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-korean-catholics.md): 조선 [NEW]
 - [신라의 향악 — 가야금과 삼현삼죽](https://skandla2002ai-andy.github.io/korean-history/articles/silla-godae-music.md): 삼국시대 · 경주 [NEW]
 - [육조 직계제와 의정부 서사제 — 권력 구조의 진자운동](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-yukjo-system.md): 조선 · 서울 [NEW]
