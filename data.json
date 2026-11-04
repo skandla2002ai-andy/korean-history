@@ -8,9 +8,9 @@
   "lastUpdated": "2026-11-04",
   "stats": {
     "total": 644,
-    "published": 388,
-    "queued": 256,
-    "new": 9
+    "published": 389,
+    "queued": 255,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -73,6 +73,25 @@
       "topics": [
         "문화",
         "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-11-04",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "삼국시대 미술 — 고구려·백제·신라의 예술 비교",
+      "description": "삼국의 미술 양식 비교. 고구려 역동성, 백제 우아함, 신라 화려함의 차이.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/three-kingdoms-art.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/three-kingdoms-art.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "문화",
+        "고고학"
       ],
       "related": [],
       "region": [],
@@ -8197,25 +8216,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "삼국시대 미술 — 고구려·백제·신라의 예술 비교",
-      "description": "삼국의 미술 양식 비교. 고구려 역동성, 백제 우아함, 신라 화려함의 차이.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/381-three-kingdoms-art.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/381-three-kingdoms-art.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "문화",
-        "고고학"
-      ],
-      "related": [],
-      "region": [],
-      "num": 381,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "판소리 다섯 마당 — 조선 민중 오페라",
       "description": "춘향가·심청가·흥보가·수궁가·적벽가. 판소리 다섯 마당의 내용과 역사.",
