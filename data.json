@@ -8,9 +8,9 @@
   "lastUpdated": "2026-11-05",
   "stats": {
     "total": 644,
-    "published": 389,
-    "queued": 255,
-    "new": 9
+    "published": 390,
+    "queued": 254,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -56,6 +56,25 @@
       "related": [
         "일본"
       ],
+      "region": [],
+      "num": null,
+      "published": "2026-11-05",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "판소리 다섯 마당 — 조선 민중 오페라",
+      "description": "춘향가·심청가·흥보가·수궁가·적벽가. 판소리 다섯 마당의 내용과 역사.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-pansori-five.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-pansori-five.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "음악"
+      ],
+      "related": [],
       "region": [],
       "num": null,
       "published": "2026-11-05",
@@ -8216,25 +8235,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "판소리 다섯 마당 — 조선 민중 오페라",
-      "description": "춘향가·심청가·흥보가·수궁가·적벽가. 판소리 다섯 마당의 내용과 역사.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/382-joseon-pansori-five.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/382-joseon-pansori-five.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "음악"
-      ],
-      "related": [],
-      "region": [],
-      "num": 382,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "직지 인쇄의 비밀 — 금속활자는 어떻게 만들었나",
       "description": "고려 금속활자 제조 기술의 실체. 밀랍 주조법과 활자 조판 과정의 복원.",
