@@ -5,11 +5,11 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-11-06",
+  "lastUpdated": "2026-11-07",
   "stats": {
     "total": 644,
-    "published": 391,
-    "queued": 253,
+    "published": 392,
+    "queued": 252,
     "new": 10
   },
   "endpoints": {
@@ -58,7 +58,47 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-11-06",
+      "published": "2026-11-07",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "북한산성 — 한양 방어의 최후 보루",
+      "description": "1711년 숙종 때 완성된 북한산성. 한양 외곽 방어 전략과 44개 성문의 구조.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-yeongwon-castle.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/joseon-yeongwon-castle.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "군사",
+        "역사"
+      ],
+      "related": [],
+      "region": [
+        "서울"
+      ],
+      "num": null,
+      "published": "2026-11-07",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
+      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-11-07",
       "is_new": true,
       "status": "published"
     },
@@ -78,25 +118,6 @@
       "region": [
         "청주"
       ],
-      "num": null,
-      "published": "2026-11-06",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
-      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
       "num": null,
       "published": "2026-11-06",
       "is_new": true,
@@ -238,7 +259,7 @@
       ],
       "num": null,
       "published": "2026-10-30",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -8256,27 +8277,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "북한산성 — 한양 방어의 최후 보루",
-      "description": "1711년 숙종 때 완성된 북한산성. 한양 외곽 방어 전략과 44개 성문의 구조.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/384-joseon-yeongwon-castle.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/384-joseon-yeongwon-castle.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "군사",
-        "역사"
-      ],
-      "related": [],
-      "region": [
-        "서울"
-      ],
-      "num": 384,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "자도·사도 항로 — 고대 한반도의 해상 교통로",
       "description": "삼국시대 서해안과 남해안을 잇는 고대 해상 교통로. 중국·일본 교류의 물길.",
