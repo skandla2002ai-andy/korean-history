@@ -27,18 +27,19 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (392편 · 최신순 · 갱신 2026-11-07)
+## 발행 완료 (393편 · 최신순 · 갱신 2026-11-08)
 
+- [자도·사도 항로 — 고대 한반도의 해상 교통로](https://skandla2002ai-andy.github.io/korean-history/articles/ancient-jado-sado-route.md): 삼국시대 [NEW]
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [북한산성 — 한양 방어의 최후 보루](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-yeongwon-castle.md): 조선 · 서울 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [북한산성 — 한양 방어의 최후 보루](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-yeongwon-castle.md): 조선 · 서울 [NEW]
 - [직지 인쇄의 비밀 — 금속활자는 어떻게 만들었나](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-jikji-printing.md): 고려 · 청주 [NEW]
 - [판소리 다섯 마당 — 조선 민중 오페라](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-pansori-five.md): 조선 [NEW]
 - [삼국시대 미술 — 고구려·백제·신라의 예술 비교](https://skandla2002ai-andy.github.io/korean-history/articles/three-kingdoms-art.md): 삼국시대 [NEW]
 - [공노비 해방 — 순조의 6만6000명 해방령](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-gwanno-liberation.md): 조선 [NEW]
 - [고려 국자감 — 고려의 국립대학](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-gukja-education.md): 고려 · 개성 [NEW]
-- [조선 천주교 박해 — 신앙을 위해 죽은 사람들](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-korean-catholics.md): 조선 [NEW]
-- [신라의 향악 — 가야금과 삼현삼죽](https://skandla2002ai-andy.github.io/korean-history/articles/silla-godae-music.md): 삼국시대 · 경주 [NEW]
+- [조선 천주교 박해 — 신앙을 위해 죽은 사람들](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-korean-catholics.md): 조선
+- [신라의 향악 — 가야금과 삼현삼죽](https://skandla2002ai-andy.github.io/korean-history/articles/silla-godae-music.md): 삼국시대 · 경주
 - [육조 직계제와 의정부 서사제 — 권력 구조의 진자운동](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-yukjo-system.md): 조선 · 서울
 - [고려 해상 무역의 실체 — 벽란도에 온 아라비아 상인](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-haesang-trade.md): 고려 · 개성
 - [돈화문과 창덕궁 — 자연과 조화를 이룬 궁궐](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-donhwamun-court.md): 조선 · 서울
@@ -422,9 +423,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (252편)
+## 발행 예정 큐 (251편)
 
-- [385. 자도·사도 항로 — 고대 한반도의 해상 교통로](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/385-ancient-jado-sado-route.html): 삼국시대
 - [386. 대학·중용·논어·맹자 — 조선 선비의 필독서](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/386-joseon-daehak-meaning.html): 조선
 - [387. 고구려 건국 — 주몽의 탈출과 졸본 건국](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/387-goguryeo-founding-jumong.html): 삼국시대 · 평양
 - [388. 고구려 동천왕과 위나라 침공 — 환도성 함락](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/388-goguryeo-dongcheon-wang.html): 삼국시대 · 평양

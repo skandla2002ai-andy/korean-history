@@ -5,12 +5,12 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-11-07",
+  "lastUpdated": "2026-11-08",
   "stats": {
     "total": 644,
-    "published": 392,
-    "queued": 252,
-    "new": 10
+    "published": 393,
+    "queued": 251,
+    "new": 9
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -42,6 +42,25 @@
   ],
   "articles": [
     {
+      "title": "자도·사도 항로 — 고대 한반도의 해상 교통로",
+      "description": "삼국시대 서해안과 남해안을 잇는 고대 해상 교통로. 중국·일본 교류의 물길.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ancient-jado-sado-route.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/ancient-jado-sado-route.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "외교",
+        "역사"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-11-08",
+      "is_new": true,
+      "status": "published"
+    },
+    {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
       "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.html",
@@ -58,7 +77,26 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-11-07",
+      "published": "2026-11-08",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
+      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-11-08",
       "is_new": true,
       "status": "published"
     },
@@ -78,25 +116,6 @@
       "region": [
         "서울"
       ],
-      "num": null,
-      "published": "2026-11-07",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
-      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
       "num": null,
       "published": "2026-11-07",
       "is_new": true,
@@ -217,7 +236,7 @@
       "region": [],
       "num": null,
       "published": "2026-10-31",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -238,7 +257,7 @@
       ],
       "num": null,
       "published": "2026-10-31",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -8277,25 +8296,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "자도·사도 항로 — 고대 한반도의 해상 교통로",
-      "description": "삼국시대 서해안과 남해안을 잇는 고대 해상 교통로. 중국·일본 교류의 물길.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/385-ancient-jado-sado-route.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/385-ancient-jado-sado-route.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "외교",
-        "역사"
-      ],
-      "related": [],
-      "region": [],
-      "num": 385,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "대학·중용·논어·맹자 — 조선 선비의 필독서",
       "description": "조선 과거시험의 기본 텍스트 사서(四書). 성리학 이념의 핵심 경전들.",
