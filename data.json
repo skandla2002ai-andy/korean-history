@@ -8,9 +8,9 @@
   "lastUpdated": "2026-11-11",
   "stats": {
     "total": 644,
-    "published": 395,
-    "queued": 249,
-    "new": 9
+    "published": 396,
+    "queued": 248,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,28 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-11-11",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고구려 동천왕과 위나라 침공 — 환도성 함락",
+      "description": "244년 위나라 관구검의 고구려 침공. 환도성 함락과 동천왕의 피란, 밀우·유유의 활약.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-dongcheon-wang.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-dongcheon-wang.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "평양"
+      ],
       "num": null,
       "published": "2026-11-11",
       "is_new": true,
@@ -8336,28 +8358,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "고구려 동천왕과 위나라 침공 — 환도성 함락",
-      "description": "244년 위나라 관구검의 고구려 침공. 환도성 함락과 동천왕의 피란, 밀우·유유의 활약.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/388-goguryeo-dongcheon-wang.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/388-goguryeo-dongcheon-wang.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "전쟁"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [
-        "평양"
-      ],
-      "num": 388,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "소수림왕의 개혁 — 불교 공인과 태학 설립",
       "description": "372년 불교 공인, 태학 설립, 율령 반포. 고구려 전성기를 준비한 소수림왕의 제도 개혁.",
