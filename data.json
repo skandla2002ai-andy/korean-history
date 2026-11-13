@@ -8,9 +8,9 @@
   "lastUpdated": "2026-11-13",
   "stats": {
     "total": 644,
-    "published": 397,
-    "queued": 247,
-    "new": 9
+    "published": 398,
+    "queued": 246,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,29 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-11-13",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "광개토대왕의 정복 전쟁 — 64성 1400촌",
+      "description": "391~412년 광개토대왕의 정복 활동. 요동·만주·한반도 남부까지 64성 1400촌 복속.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-gwanggaeto-conquest.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-gwanggaeto-conquest.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "전쟁",
+        "인물"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "평양"
+      ],
       "num": null,
       "published": "2026-11-13",
       "is_new": true,
@@ -8379,29 +8402,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "광개토대왕의 정복 전쟁 — 64성 1400촌",
-      "description": "391~412년 광개토대왕의 정복 활동. 요동·만주·한반도 남부까지 64성 1400촌 복속.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/390-goguryeo-gwanggaeto-conquest.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/390-goguryeo-gwanggaeto-conquest.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "전쟁",
-        "인물"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [
-        "평양"
-      ],
-      "num": 390,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "장수왕의 남하 정책 — 한성 함락과 475년",
       "description": "475년 장수왕의 3만 군대가 백제 한성을 공격. 개로왕 전사와 고구려의 한강 유역 장악.",
