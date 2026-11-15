@@ -5,11 +5,11 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-11-14",
+  "lastUpdated": "2026-11-15",
   "stats": {
     "total": 644,
-    "published": 399,
-    "queued": 245,
+    "published": 400,
+    "queued": 244,
     "new": 10
   },
   "endpoints": {
@@ -58,7 +58,49 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-11-14",
+      "published": "2026-11-15",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "을지문덕과 살수대첩 — 30만 수나라 군을 물에 잠기게",
+      "description": "612년 을지문덕 장군이 살수에서 수나라 30만 대군을 격파. 세계 전쟁사의 명전투.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-eulji-salsu.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-eulji-salsu.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "전쟁",
+        "인물"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "평양"
+      ],
+      "num": null,
+      "published": "2026-11-15",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
+      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
+      "era": [
+        "조선"
+      ],
+      "topics": [
+        "문화",
+        "사회"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-11-15",
       "is_new": true,
       "status": "published"
     },
@@ -78,25 +120,6 @@
       "region": [
         "평양"
       ],
-      "num": null,
-      "published": "2026-11-14",
-      "is_new": true,
-      "status": "published"
-    },
-    {
-      "title": "민화 — 민중의 꿈과 소망을 그린 그림",
-      "description": "조선 민중이 그린 민화. 까치·호랑이·모란·책가도. 무명 화가들의 자유로운 상상.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md",
-      "era": [
-        "조선"
-      ],
-      "topics": [
-        "문화",
-        "사회"
-      ],
-      "related": [],
-      "region": [],
       "num": null,
       "published": "2026-11-14",
       "is_new": true,
@@ -245,7 +268,7 @@
       ],
       "num": null,
       "published": "2026-11-07",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -8423,29 +8446,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "을지문덕과 살수대첩 — 30만 수나라 군을 물에 잠기게",
-      "description": "612년 을지문덕 장군이 살수에서 수나라 30만 대군을 격파. 세계 전쟁사의 명전투.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/392-goguryeo-eulji-salsu.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/392-goguryeo-eulji-salsu.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "전쟁",
-        "인물"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [
-        "평양"
-      ],
-      "num": 392,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "연개소문의 쿠데타 — 영류왕 시해와 독재",
       "description": "642년 연개소문이 영류왕을 시해하고 권력을 장악. 대당 강경책과 고구려 말기의 혼란.",
