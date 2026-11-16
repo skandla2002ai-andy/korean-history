@@ -27,18 +27,19 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (400편 · 최신순 · 갱신 2026-11-15)
+## 발행 완료 (401편 · 최신순 · 갱신 2026-11-16)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
-- [을지문덕과 살수대첩 — 30만 수나라 군을 물에 잠기게](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-eulji-salsu.md): 삼국시대 · 평양 [NEW]
+- [연개소문의 쿠데타 — 영류왕 시해와 독재](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-yeon-gaesomun-coup.md): 삼국시대 · 평양 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [을지문덕과 살수대첩 — 30만 수나라 군을 물에 잠기게](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-eulji-salsu.md): 삼국시대 · 평양 [NEW]
 - [장수왕의 남하 정책 — 한성 함락과 475년](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-jangsu-southward.md): 삼국시대 · 평양 [NEW]
 - [광개토대왕의 정복 전쟁 — 64성 1400촌](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-gwanggaeto-conquest.md): 삼국시대 · 평양 [NEW]
 - [소수림왕의 개혁 — 불교 공인과 태학 설립](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-sosurim-reform.md): 삼국시대 · 평양 [NEW]
 - [고구려 동천왕과 위나라 침공 — 환도성 함락](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-dongcheon-wang.md): 삼국시대 · 평양 [NEW]
 - [고구려 건국 — 주몽의 탈출과 졸본 건국](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-founding-jumong.md): 삼국시대 · 평양 [NEW]
 - [대학·중용·논어·맹자 — 조선 선비의 필독서](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-daehak-meaning.md): 조선 [NEW]
-- [자도·사도 항로 — 고대 한반도의 해상 교통로](https://skandla2002ai-andy.github.io/korean-history/articles/ancient-jado-sado-route.md): 삼국시대 [NEW]
+- [자도·사도 항로 — 고대 한반도의 해상 교통로](https://skandla2002ai-andy.github.io/korean-history/articles/ancient-jado-sado-route.md): 삼국시대
 - [북한산성 — 한양 방어의 최후 보루](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-yeongwon-castle.md): 조선 · 서울
 - [직지 인쇄의 비밀 — 금속활자는 어떻게 만들었나](https://skandla2002ai-andy.github.io/korean-history/articles/goryeo-jikji-printing.md): 고려 · 청주
 - [판소리 다섯 마당 — 조선 민중 오페라](https://skandla2002ai-andy.github.io/korean-history/articles/joseon-pansori-five.md): 조선
@@ -430,9 +431,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (244편)
+## 발행 예정 큐 (243편)
 
-- [393. 연개소문의 쿠데타 — 영류왕 시해와 독재](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/393-goguryeo-yeon-gaesomun-coup.html): 삼국시대 · 평양
 - [394. 안시성 전투 — 당 태종을 막아낸 성주](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/394-goguryeo-ansi-fortress.html): 삼국시대 · 평양
 - [395. 고구려 멸망 — 668년 평양성 함락](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/395-goguryeo-fall-668.html): 삼국시대 · 평양
 - [396. 고구려의 일상 — 고분벽화로 본 생활문화](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/396-goguryeo-culture-life.html): 삼국시대 · 평양
