@@ -8,9 +8,9 @@
   "lastUpdated": "2026-11-17",
   "stats": {
     "total": 644,
-    "published": 401,
-    "queued": 243,
-    "new": 9
+    "published": 402,
+    "queued": 242,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,28 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-11-17",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "안시성 전투 — 당 태종을 막아낸 성주",
+      "description": "645년 당 태종 친정군 30만 명을 88일간 막아낸 안시성. 성주 이름조차 모르는 영웅의 항전.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-ansi-fortress.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-ansi-fortress.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "평양"
+      ],
       "num": null,
       "published": "2026-11-17",
       "is_new": true,
@@ -8469,28 +8491,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "안시성 전투 — 당 태종을 막아낸 성주",
-      "description": "645년 당 태종 친정군 30만 명을 88일간 막아낸 안시성. 성주 이름조차 모르는 영웅의 항전.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/394-goguryeo-ansi-fortress.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/394-goguryeo-ansi-fortress.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "전쟁"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [
-        "평양"
-      ],
-      "num": 394,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "고구려 멸망 — 668년 평양성 함락",
       "description": "668년 나당연합군의 평양성 공격. 연개소문 사후 내분과 고구려 700년 역사의 종말.",

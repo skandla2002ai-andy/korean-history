@@ -27,9 +27,10 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (401편 · 최신순 · 갱신 2026-11-17)
+## 발행 완료 (402편 · 최신순 · 갱신 2026-11-17)
 
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
+- [안시성 전투 — 당 태종을 막아낸 성주](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-ansi-fortress.md): 삼국시대 · 평양 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [연개소문의 쿠데타 — 영류왕 시해와 독재](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-yeon-gaesomun-coup.md): 삼국시대 · 평양 [NEW]
 - [을지문덕과 살수대첩 — 30만 수나라 군을 물에 잠기게](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-eulji-salsu.md): 삼국시대 · 평양 [NEW]
@@ -431,9 +432,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (243편)
+## 발행 예정 큐 (242편)
 
-- [394. 안시성 전투 — 당 태종을 막아낸 성주](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/394-goguryeo-ansi-fortress.html): 삼국시대 · 평양
 - [395. 고구려 멸망 — 668년 평양성 함락](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/395-goguryeo-fall-668.html): 삼국시대 · 평양
 - [396. 고구려의 일상 — 고분벽화로 본 생활문화](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/396-goguryeo-culture-life.html): 삼국시대 · 평양
 - [397. 위례성과 백제 건국 — 온조의 선택](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/397-baekje-wiryeseong-capital.html): 삼국시대
