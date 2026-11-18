@@ -8,9 +8,9 @@
   "lastUpdated": "2026-11-18",
   "stats": {
     "total": 644,
-    "published": 402,
-    "queued": 242,
-    "new": 9
+    "published": 403,
+    "queued": 241,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,29 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-11-18",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고구려 멸망 — 668년 평양성 함락",
+      "description": "668년 나당연합군의 평양성 공격. 연개소문 사후 내분과 고구려 700년 역사의 종말.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-fall-668.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-fall-668.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "전쟁",
+        "역사"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "평양"
+      ],
       "num": null,
       "published": "2026-11-18",
       "is_new": true,
@@ -8491,29 +8514,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "고구려 멸망 — 668년 평양성 함락",
-      "description": "668년 나당연합군의 평양성 공격. 연개소문 사후 내분과 고구려 700년 역사의 종말.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/395-goguryeo-fall-668.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/395-goguryeo-fall-668.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "전쟁",
-        "역사"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [
-        "평양"
-      ],
-      "num": 395,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "고구려의 일상 — 고분벽화로 본 생활문화",
       "description": "안악 3호분·무용총·각저총 벽화로 복원한 고구려인의 의식주·오락·제의 생활.",
