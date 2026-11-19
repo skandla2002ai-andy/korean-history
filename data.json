@@ -8,9 +8,9 @@
   "lastUpdated": "2026-11-19",
   "stats": {
     "total": 644,
-    "published": 403,
-    "queued": 241,
-    "new": 9
+    "published": 404,
+    "queued": 240,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -57,6 +57,27 @@
         "일본"
       ],
       "region": [],
+      "num": null,
+      "published": "2026-11-19",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "고구려의 일상 — 고분벽화로 본 생활문화",
+      "description": "안악 3호분·무용총·각저총 벽화로 복원한 고구려인의 의식주·오락·제의 생활.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-culture-life.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-culture-life.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "문화",
+        "고고학"
+      ],
+      "related": [],
+      "region": [
+        "평양"
+      ],
       "num": null,
       "published": "2026-11-19",
       "is_new": true,
@@ -8514,27 +8535,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "고구려의 일상 — 고분벽화로 본 생활문화",
-      "description": "안악 3호분·무용총·각저총 벽화로 복원한 고구려인의 의식주·오락·제의 생활.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/396-goguryeo-culture-life.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/396-goguryeo-culture-life.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "문화",
-        "고고학"
-      ],
-      "related": [],
-      "region": [
-        "평양"
-      ],
-      "num": 396,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "위례성과 백제 건국 — 온조의 선택",
       "description": "기원전 18년 온조왕이 위례성에 세운 백제. 마한 세력과의 공존과 초기 백제의 성장.",
