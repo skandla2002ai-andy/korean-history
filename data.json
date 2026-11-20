@@ -8,9 +8,9 @@
   "lastUpdated": "2026-11-20",
   "stats": {
     "total": 644,
-    "published": 404,
-    "queued": 240,
-    "new": 9
+    "published": 405,
+    "queued": 239,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "위례성과 백제 건국 — 온조의 선택",
+      "description": "기원전 18년 온조왕이 위례성에 세운 백제. 마한 세력과의 공존과 초기 백제의 성장.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-wiryeseong-capital.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-wiryeseong-capital.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "역사",
+        "인물"
+      ],
+      "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-11-20",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
@@ -8535,25 +8554,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "위례성과 백제 건국 — 온조의 선택",
-      "description": "기원전 18년 온조왕이 위례성에 세운 백제. 마한 세력과의 공존과 초기 백제의 성장.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/397-baekje-wiryeseong-capital.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/397-baekje-wiryeseong-capital.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "역사",
-        "인물"
-      ],
-      "related": [],
-      "region": [],
-      "num": 397,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "근구수왕 시대 — 백제 문화 전성기",
       "description": "4세기 백제의 전성기. 칠지도 제작, 왕인 박사의 일본 파견, 아직기의 학문 전수.",
