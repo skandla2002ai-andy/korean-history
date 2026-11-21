@@ -8,9 +8,9 @@
   "lastUpdated": "2026-11-21",
   "stats": {
     "total": 644,
-    "published": 405,
-    "queued": 239,
-    "new": 9
+    "published": 406,
+    "queued": 238,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,27 @@
     }
   ],
   "articles": [
+    {
+      "title": "근구수왕 시대 — 백제 문화 전성기",
+      "description": "4세기 백제의 전성기. 칠지도 제작, 왕인 박사의 일본 파견, 아직기의 학문 전수.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geungusu-culture.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geungusu-culture.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "문화",
+        "외교"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [],
+      "num": null,
+      "published": "2026-11-21",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
@@ -8554,27 +8575,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "근구수왕 시대 — 백제 문화 전성기",
-      "description": "4세기 백제의 전성기. 칠지도 제작, 왕인 박사의 일본 파견, 아직기의 학문 전수.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/398-baekje-geungusu-culture.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/398-baekje-geungusu-culture.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "문화",
-        "외교"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [],
-      "num": 398,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "문주왕의 웅진 천도 — 한성 함락 후의 재건",
       "description": "475년 고구려에 한성을 빼앗긴 백제. 문주왕의 웅진(공주) 천도와 재건 과정.",
