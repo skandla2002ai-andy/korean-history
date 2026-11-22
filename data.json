@@ -5,11 +5,11 @@
   "author": "Andy PAK",
   "license": "CC BY 4.0",
   "language": "ko",
-  "lastUpdated": "2026-11-21",
+  "lastUpdated": "2026-11-22",
   "stats": {
     "total": 644,
-    "published": 406,
-    "queued": 238,
+    "published": 407,
+    "queued": 237,
     "new": 10
   },
   "endpoints": {
@@ -42,23 +42,23 @@
   ],
   "articles": [
     {
-      "title": "근구수왕 시대 — 백제 문화 전성기",
-      "description": "4세기 백제의 전성기. 칠지도 제작, 왕인 박사의 일본 파견, 아직기의 학문 전수.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geungusu-culture.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geungusu-culture.md",
+      "title": "문주왕의 웅진 천도 — 한성 함락 후의 재건",
+      "description": "475년 고구려에 한성을 빼앗긴 백제. 문주왕의 웅진(공주) 천도와 재건 과정.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-munju-south.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-munju-south.md",
       "era": [
         "삼국시대"
       ],
       "topics": [
-        "문화",
-        "외교"
+        "정치",
+        "역사"
       ],
-      "related": [
-        "일본"
+      "related": [],
+      "region": [
+        "부여"
       ],
-      "region": [],
       "num": null,
-      "published": "2026-11-21",
+      "published": "2026-11-22",
       "is_new": true,
       "status": "published"
     },
@@ -79,7 +79,7 @@
       ],
       "region": [],
       "num": null,
-      "published": "2026-11-21",
+      "published": "2026-11-22",
       "is_new": true,
       "status": "published"
     },
@@ -96,6 +96,27 @@
         "사회"
       ],
       "related": [],
+      "region": [],
+      "num": null,
+      "published": "2026-11-22",
+      "is_new": true,
+      "status": "published"
+    },
+    {
+      "title": "근구수왕 시대 — 백제 문화 전성기",
+      "description": "4세기 백제의 전성기. 칠지도 제작, 왕인 박사의 일본 파견, 아직기의 학문 전수.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geungusu-culture.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geungusu-culture.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "문화",
+        "외교"
+      ],
+      "related": [
+        "일본"
+      ],
       "region": [],
       "num": null,
       "published": "2026-11-21",
@@ -251,7 +272,7 @@
       ],
       "num": null,
       "published": "2026-11-14",
-      "is_new": true,
+      "is_new": false,
       "status": "published"
     },
     {
@@ -8575,27 +8596,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "문주왕의 웅진 천도 — 한성 함락 후의 재건",
-      "description": "475년 고구려에 한성을 빼앗긴 백제. 문주왕의 웅진(공주) 천도와 재건 과정.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/399-baekje-munju-south.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/399-baekje-munju-south.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "정치",
-        "역사"
-      ],
-      "related": [],
-      "region": [
-        "부여"
-      ],
-      "num": 399,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "성왕의 사비 천도 — 백제의 마지막 르네상스",
       "description": "538년 성왕의 사비(부여) 천도. 국호 남부여, 불교 문화 부흥, 일본 불교 전파.",
