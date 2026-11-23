@@ -27,8 +27,9 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (407편 · 최신순 · 갱신 2026-11-23)
+## 발행 완료 (408편 · 최신순 · 갱신 2026-11-23)
 
+- [성왕의 사비 천도 — 백제의 마지막 르네상스](https://skandla2002ai-andy.github.io/korean-history/articles/baekje-seong-wang-sabi.md): 삼국시대 · 부여 [NEW]
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
 - [문주왕의 웅진 천도 — 한성 함락 후의 재건](https://skandla2002ai-andy.github.io/korean-history/articles/baekje-munju-south.md): 삼국시대 · 부여 [NEW]
@@ -437,9 +438,8 @@
 - [이의민 — 노비의 아들이 최고 권력자가 되다](https://skandla2002ai-andy.github.io/korean-history/articles/uimin.md): 고려
 - [원효의 해골 물](https://skandla2002ai-andy.github.io/korean-history/articles/wonhyo.md): 통일신라
 
-## 발행 예정 큐 (237편)
+## 발행 예정 큐 (236편)
 
-- [400. 성왕의 사비 천도 — 백제의 마지막 르네상스](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/400-baekje-seong-wang-sabi.html): 삼국시대 · 부여
 - [401. 백제의 불교 미술 — 서산마애삼존불과 미소](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/401-baekje-geumdongguan-buddha.html): 삼국시대 · 부여
 - [402. 무령왕릉 — 도굴 안 된 백제 왕릉의 기적](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/402-baekje-muryeong-tomb.html): 삼국시대 · 부여
 - [403. 의자왕과 백제 멸망 — 3000 궁녀 전설의 진실](https://skandla2002ai-andy.github.io/korean-history/_queue/articles/403-baekje-uija-wang-fall.html): 삼국시대 · 부여

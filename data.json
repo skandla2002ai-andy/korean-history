@@ -8,9 +8,9 @@
   "lastUpdated": "2026-11-23",
   "stats": {
     "total": 644,
-    "published": 407,
-    "queued": 237,
-    "new": 9
+    "published": 408,
+    "queued": 236,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,29 @@
     }
   ],
   "articles": [
+    {
+      "title": "성왕의 사비 천도 — 백제의 마지막 르네상스",
+      "description": "538년 성왕의 사비(부여) 천도. 국호 남부여, 불교 문화 부흥, 일본 불교 전파.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-seong-wang-sabi.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-seong-wang-sabi.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "정치",
+        "불교"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [
+        "부여"
+      ],
+      "num": null,
+      "published": "2026-11-23",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
@@ -8596,29 +8619,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "성왕의 사비 천도 — 백제의 마지막 르네상스",
-      "description": "538년 성왕의 사비(부여) 천도. 국호 남부여, 불교 문화 부흥, 일본 불교 전파.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/400-baekje-seong-wang-sabi.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/400-baekje-seong-wang-sabi.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "정치",
-        "불교"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [
-        "부여"
-      ],
-      "num": 400,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "백제의 불교 미술 — 서산마애삼존불과 미소",
       "description": "백제 불교 미술의 정수 서산마애삼존불. '백제의 미소'가 담긴 온화한 불교 조각 양식.",
