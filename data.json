@@ -8,9 +8,9 @@
   "lastUpdated": "2026-11-24",
   "stats": {
     "total": 644,
-    "published": 408,
-    "queued": 236,
-    "new": 9
+    "published": 409,
+    "queued": 235,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,27 @@
     }
   ],
   "articles": [
+    {
+      "title": "백제의 불교 미술 — 서산마애삼존불과 미소",
+      "description": "백제 불교 미술의 정수 서산마애삼존불. '백제의 미소'가 담긴 온화한 불교 조각 양식.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geumdongguan-buddha.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geumdongguan-buddha.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "불교",
+        "문화"
+      ],
+      "related": [],
+      "region": [
+        "부여"
+      ],
+      "num": null,
+      "published": "2026-11-24",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
@@ -8619,27 +8640,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "백제의 불교 미술 — 서산마애삼존불과 미소",
-      "description": "백제 불교 미술의 정수 서산마애삼존불. '백제의 미소'가 담긴 온화한 불교 조각 양식.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/401-baekje-geumdongguan-buddha.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/401-baekje-geumdongguan-buddha.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "불교",
-        "문화"
-      ],
-      "related": [],
-      "region": [
-        "부여"
-      ],
-      "num": 401,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "무령왕릉 — 도굴 안 된 백제 왕릉의 기적",
       "description": "1971년 발굴된 무령왕릉. 지석·금관장식·중국제 도자기가 밝힌 백제 왕실의 비밀.",
