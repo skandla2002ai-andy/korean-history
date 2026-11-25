@@ -8,9 +8,9 @@
   "lastUpdated": "2026-11-25",
   "stats": {
     "total": 644,
-    "published": 409,
-    "queued": 235,
-    "new": 9
+    "published": 410,
+    "queued": 234,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,27 @@
     }
   ],
   "articles": [
+    {
+      "title": "무령왕릉 — 도굴 안 된 백제 왕릉의 기적",
+      "description": "1971년 발굴된 무령왕릉. 지석·금관장식·중국제 도자기가 밝힌 백제 왕실의 비밀.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-muryeong-tomb.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-muryeong-tomb.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "고고학",
+        "문화"
+      ],
+      "related": [],
+      "region": [
+        "부여"
+      ],
+      "num": null,
+      "published": "2026-11-25",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
@@ -8640,27 +8661,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "무령왕릉 — 도굴 안 된 백제 왕릉의 기적",
-      "description": "1971년 발굴된 무령왕릉. 지석·금관장식·중국제 도자기가 밝힌 백제 왕실의 비밀.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/402-baekje-muryeong-tomb.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/402-baekje-muryeong-tomb.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "고고학",
-        "문화"
-      ],
-      "related": [],
-      "region": [
-        "부여"
-      ],
-      "num": 402,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "의자왕과 백제 멸망 — 3000 궁녀 전설의 진실",
       "description": "660년 나당연합군의 백제 침공. 의자왕의 항복과 낙화암 3000 궁녀 전설의 역사적 실체.",
