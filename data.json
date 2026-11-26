@@ -8,9 +8,9 @@
   "lastUpdated": "2026-11-26",
   "stats": {
     "total": 644,
-    "published": 410,
-    "queued": 234,
-    "new": 9
+    "published": 411,
+    "queued": 233,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,29 @@
     }
   ],
   "articles": [
+    {
+      "title": "의자왕과 백제 멸망 — 3000 궁녀 전설의 진실",
+      "description": "660년 나당연합군의 백제 침공. 의자왕의 항복과 낙화암 3000 궁녀 전설의 역사적 실체.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-uija-wang-fall.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-uija-wang-fall.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "전쟁",
+        "역사"
+      ],
+      "related": [
+        "중국"
+      ],
+      "region": [
+        "부여"
+      ],
+      "num": null,
+      "published": "2026-11-26",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
@@ -8661,29 +8684,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "의자왕과 백제 멸망 — 3000 궁녀 전설의 진실",
-      "description": "660년 나당연합군의 백제 침공. 의자왕의 항복과 낙화암 3000 궁녀 전설의 역사적 실체.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/403-baekje-uija-wang-fall.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/403-baekje-uija-wang-fall.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "전쟁",
-        "역사"
-      ],
-      "related": [
-        "중국"
-      ],
-      "region": [
-        "부여"
-      ],
-      "num": 403,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "계백과 황산벌 — 5만 대 5000의 마지막 싸움",
       "description": "660년 황산벌 전투. 계백 장군이 처자를 죽이고 5000 결사대로 신라 5만에 맞선 최후의 항전.",
