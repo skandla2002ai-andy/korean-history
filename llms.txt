@@ -27,18 +27,18 @@
 
 - https://skandla2002ai-andy.github.io/korean-history/_data/sources.json  (신뢰점수 1~5 · 23개 공식 기관)
 
-## 발행 완료 (410편 · 최신순 · 갱신 2026-11-25)
+## 발행 완료 (410편 · 최신순 · 갱신 2026-11-26)
 
-- [무령왕릉 — 도굴 안 된 백제 왕릉의 기적](https://skandla2002ai-andy.github.io/korean-history/articles/baekje-muryeong-tomb.md): 삼국시대 · 부여 [NEW]
 - [분청사기 — 고려청자와 조선백자 사이](https://skandla2002ai-andy.github.io/korean-history/articles/buncheong-ware.md): 조선 [NEW]
 - [민화 — 민중의 꿈과 소망을 그린 그림](https://skandla2002ai-andy.github.io/korean-history/articles/korean-minhwa.md): 조선 [NEW]
+- [무령왕릉 — 도굴 안 된 백제 왕릉의 기적](https://skandla2002ai-andy.github.io/korean-history/articles/baekje-muryeong-tomb.md): 삼국시대 · 부여 [NEW]
 - [백제의 불교 미술 — 서산마애삼존불과 미소](https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geumdongguan-buddha.md): 삼국시대 · 부여 [NEW]
 - [성왕의 사비 천도 — 백제의 마지막 르네상스](https://skandla2002ai-andy.github.io/korean-history/articles/baekje-seong-wang-sabi.md): 삼국시대 · 부여 [NEW]
 - [문주왕의 웅진 천도 — 한성 함락 후의 재건](https://skandla2002ai-andy.github.io/korean-history/articles/baekje-munju-south.md): 삼국시대 · 부여 [NEW]
 - [근구수왕 시대 — 백제 문화 전성기](https://skandla2002ai-andy.github.io/korean-history/articles/baekje-geungusu-culture.md): 삼국시대 [NEW]
 - [위례성과 백제 건국 — 온조의 선택](https://skandla2002ai-andy.github.io/korean-history/articles/baekje-wiryeseong-capital.md): 삼국시대 [NEW]
 - [고구려의 일상 — 고분벽화로 본 생활문화](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-culture-life.md): 삼국시대 · 평양 [NEW]
-- [고구려 멸망 — 668년 평양성 함락](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-fall-668.md): 삼국시대 · 평양 [NEW]
+- [고구려 멸망 — 668년 평양성 함락](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-fall-668.md): 삼국시대 · 평양
 - [안시성 전투 — 당 태종을 막아낸 성주](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-ansi-fortress.md): 삼국시대 · 평양
 - [연개소문의 쿠데타 — 영류왕 시해와 독재](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-yeon-gaesomun-coup.md): 삼국시대 · 평양
 - [을지문덕과 살수대첩 — 30만 수나라 군을 물에 잠기게](https://skandla2002ai-andy.github.io/korean-history/articles/goguryeo-eulji-salsu.md): 삼국시대 · 평양
