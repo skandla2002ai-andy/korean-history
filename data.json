@@ -8,9 +8,9 @@
   "lastUpdated": "2026-11-28",
   "stats": {
     "total": 644,
-    "published": 412,
-    "queued": 232,
-    "new": 9
+    "published": 413,
+    "queued": 231,
+    "new": 10
   },
   "endpoints": {
     "llms_txt": "https://skandla2002ai-andy.github.io/korean-history/llms.txt",
@@ -41,6 +41,28 @@
     }
   ],
   "articles": [
+    {
+      "title": "백제 부흥운동 — 주류성과 백강 전투",
+      "description": "660~663년 흑치상지·복신·도침의 백제 부흥운동. 왜(일본)의 원군과 백강구 해전.",
+      "html_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-bokheung-movement.html",
+      "md_url": "https://skandla2002ai-andy.github.io/korean-history/articles/baekje-bokheung-movement.md",
+      "era": [
+        "삼국시대"
+      ],
+      "topics": [
+        "전쟁"
+      ],
+      "related": [
+        "일본"
+      ],
+      "region": [
+        "부여"
+      ],
+      "num": null,
+      "published": "2026-11-28",
+      "is_new": true,
+      "status": "published"
+    },
     {
       "title": "분청사기 — 고려청자와 조선백자 사이",
       "description": "고려 말~조선 초 생산된 분청사기. 거칠고 자유로운 미감. 일본 도예에 미친 영향.",
@@ -8705,28 +8727,6 @@
     }
   ],
   "queue": [
-    {
-      "title": "백제 부흥운동 — 주류성과 백강 전투",
-      "description": "660~663년 흑치상지·복신·도침의 백제 부흥운동. 왜(일본)의 원군과 백강구 해전.",
-      "html_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/405-baekje-bokheung-movement.html",
-      "md_url": "https://skandla2002ai-andy.github.io/korean-history/_queue/articles/405-baekje-bokheung-movement.md",
-      "era": [
-        "삼국시대"
-      ],
-      "topics": [
-        "전쟁"
-      ],
-      "related": [
-        "일본"
-      ],
-      "region": [
-        "부여"
-      ],
-      "num": 405,
-      "published": null,
-      "is_new": false,
-      "status": "queue"
-    },
     {
       "title": "백제가 일본에 전한 것들 — 불교·한자·의학·음악",
       "description": "4~7세기 백제 문화의 일본 전파 상세. 노리사치계 불상 전달, 의박사·역박사·악인 파견.",
